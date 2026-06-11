@@ -1,0 +1,95 @@
+name: Release
+
+# Builds the distributable zip, attaches it to the release, refreshes the
+# moving `latest` manifest, and (if a token is configured) registers the
+# release with the Foundry VTT Package Release API.
+#
+# Trigger by publishing a GitHub Release, or manually via "Run workflow"
+# against an existing release tag.
+#
+# Requires repository secret FVTT_RELEASE_TOKEN (the "Package Release Token"
+# from the package's page on foundryvtt.com) for the Foundry API step.
+
+on:
+  release:
+    types: [published]
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: "Existing release tag to (re)build and register (e.g. v0.1.0)"
+        required: true
+      dry_run:
+        description: "Foundry API dry-run (validate without publishing)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    env:
+      FVTT_RELEASE_TOKEN: ${{ secrets.FVTT_RELEASE_TOKEN }}
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Resolve release metadata
+        id: meta
+        run: |
+          TAG="${{ github.event.release.tag_name || inputs.tag }}"
+          {
+            echo "tag=$TAG"
+            echo "id=$(jq -r '.id' module.json)"
+            echo "version=$(jq -r '.version' module.json)"
+            echo "minimum=$(jq -r '.compatibility.minimum // ""' module.json)"
+            echo "verified=$(jq -r '.compatibility.verified // ""' module.json)"
+            echo "maximum=$(jq -r '.compatibility.maximum // ""' module.json)"
+          } >> "$GITHUB_OUTPUT"
+
+      - name: Build module zip
+        run: |
+          ID="${{ steps.meta.outputs.id }}"
+          mkdir -p "dist/$ID/packs"
+          cp module.json "dist/$ID/"
+          [ -d assets ] && cp -r assets "dist/$ID/" || true
+          for d in packs/*/; do [ -d "$d" ] && cp -r "$d" "dist/$ID/packs/" || true; done
+          find "dist/$ID/packs" -name "*.db" -delete 2>/dev/null || true
+          find "dist/$ID/packs" -type d -name lost -exec rm -rf {} + 2>/dev/null || true
+          (cd dist && zip -qr "../$ID.zip" "$ID")
+          ls -la "$ID.zip"
+
+      - name: Attach assets to the release
+        run: gh release upload "${{ steps.meta.outputs.tag }}" module.json "${{ steps.meta.outputs.id }}.zip" --clobber --repo "${{ github.repository }}"
+
+      - name: Refresh moving 'latest' manifest
+        run: gh release upload latest module.json --clobber --repo "${{ github.repository }}"
+
+      - name: Register with Foundry Package Release API
+        if: ${{ env.FVTT_RELEASE_TOKEN != '' }}
+        run: |
+          payload=$(jq -n \
+            --arg id "${{ steps.meta.outputs.id }}" \
+            --argjson dry ${{ inputs.dry_run || false }} \
+            --arg version "${{ steps.meta.outputs.version }}" \
+            --arg manifest "https://github.com/${{ github.repository }}/releases/download/${{ steps.meta.outputs.tag }}/module.json" \
+            --arg notes "https://github.com/${{ github.repository }}/releases/tag/${{ steps.meta.outputs.tag }}" \
+            --arg min "${{ steps.meta.outputs.minimum }}" \
+            --arg verified "${{ steps.meta.outputs.verified }}" \
+            --arg max "${{ steps.meta.outputs.maximum }}" \
+            '{id:$id, "dry-run":$dry, release:{version:$version, manifest:$manifest, notes:$notes, compatibility:{minimum:$min, verified:$verified, maximum:$max}}}')
+          token=$(printf '%s' "$FVTT_RELEASE_TOKEN" | tr -d '[:space:]')
+          http=$(curl -sS -o resp.json -w '%{http_code}' -X POST "https://foundryvtt.com/_api/packages/release_version/" \
+            -H "Authorization: $token" -H "Content-Type: application/json" -d "$payload")
+          echo "HTTP $http"; echo "Response:"; cat resp.json; echo
+          if [ "$http" -ge 400 ]; then
+            if grep -q "unique_together\|already exists" resp.json; then
+              echo "::warning::This version is already registered on Foundry — nothing to do."; exit 0
+            fi
+            echo "::error::Foundry Package Release API returned HTTP $http (see response above)."; exit 1
+          fi
+
+      - name: Skip Foundry API (no token)
+        if: ${{ env.FVTT_RELEASE_TOKEN == '' }}
+        run: echo "FVTT_RELEASE_TOKEN secret not set — skipped Foundry Package Release API registration."

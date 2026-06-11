@@ -1,0 +1,67 @@
+{
+  "id": "wng-apocryphal-adversaries",
+  "title": "Wrath & Glory - An Abundance of Apocryphal Adversaries",
+  "description": "A bestiary module for Wrath & Glory: the threats of Nathan Dowdell's An Abundance of Apocryphal Adversaries (Orks, Tyranids, Necrons, Daemonic Legions, Heretic Astartes, Asuryani, Drukhari, T'au, and Malicious Miscellany).",
+  "version": "0.1.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "13",
+    "maximum": "14"
+  },
+  "authors": [
+    {
+      "name": "Felipe Lippelt",
+      "email": "lippelt.f@gmail.com",
+      "discord": "lippelt"
+    },
+    {
+      "name": "Nathan Dowdell",
+      "url": "https://twitter.com/n01h3r3"
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "wrath-and-glory",
+        "manifest": "https://github.com/moo-man/WrathAndGlory-FoundryVTT/releases/latest/download/system.json",
+        "compatibility": {
+          "minimum": "4.0.1",
+          "verified": "8.0.0"
+        },
+        "type": "system"
+      }
+    ],
+    "recommends": [
+      {
+        "id": "wng-apocrypha",
+        "type": "module"
+      }
+    ]
+  },
+  "packs": [
+    {
+      "name": "apocryphal-adversaries-threats",
+      "label": "Apocryphal Adversaries - Threats",
+      "path": "packs/apocryphal-adversaries-threats",
+      "type": "Actor",
+      "system": "wrath-and-glory",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "Apocryphal Adversaries",
+      "sorting": "m",
+      "color": "#3a1a1a",
+      "packs": [
+        "apocryphal-adversaries-threats"
+      ]
+    }
+  ],
+  "url": "https://github.com/flippelt/WnG-Apocryphal-Adversaries",
+  "manifest": "https://github.com/flippelt/WnG-Apocryphal-Adversaries/releases/download/latest/module.json",
+  "download": "https://github.com/flippelt/WnG-Apocryphal-Adversaries/releases/download/v0.1.0/wng-apocryphal-adversaries.zip"
+}

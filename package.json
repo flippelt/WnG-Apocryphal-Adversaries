@@ -1,0 +1,14 @@
+{
+  "name": "wng-apocryphal-adversaries",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Build tooling for the An Abundance of Apocryphal Adversaries Foundry VTT module: extract/compile the threats compendium pack to and from editable YAML sources.",
+  "type": "module",
+  "scripts": {
+    "unpack": "node tools/unpack.mjs",
+    "pack": "node tools/pack.mjs"
+  },
+  "devDependencies": {
+    "@foundryvtt/foundryvtt-cli": "^1.0.4"
+  }
+}
