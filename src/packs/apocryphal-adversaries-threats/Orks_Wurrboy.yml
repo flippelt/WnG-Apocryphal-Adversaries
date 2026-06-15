@@ -1,0 +1,1045 @@
+folder: fIRfbMfP3ahjbc6n
+name: Wurrboy
+type: threat
+_id: ZDVQ4o3cOsiePiis
+img: modules/wng-core/assets/tokens/orks.webp
+system:
+  attributes:
+    strength:
+      label: ATTRIBUTE.STRENGTH
+      rating: 0
+      base: 7
+      bonus: 0
+      cost: 0
+      total: 0
+    toughness:
+      label: ATTRIBUTE.TOUGHNESS
+      rating: 0
+      base: 8
+      bonus: 0
+      cost: 0
+      total: 0
+    agility:
+      label: ATTRIBUTE.AGILITY
+      rating: 0
+      base: 2
+      bonus: 0
+      cost: 0
+      total: 0
+    initiative:
+      label: ATTRIBUTE.INITIATIVE
+      rating: 0
+      base: 4
+      bonus: 0
+      cost: 0
+      total: 0
+    willpower:
+      label: ATTRIBUTE.WILLPOWER
+      rating: 0
+      base: 6
+      bonus: 0
+      cost: 0
+      total: 0
+    intellect:
+      label: ATTRIBUTE.INTELLECT
+      rating: 0
+      base: 2
+      bonus: 0
+      cost: 0
+      total: 0
+    fellowship:
+      label: ATTRIBUTE.FELLOWSHIP
+      rating: 0
+      base: 2
+      bonus: 0
+      cost: 0
+      total: 0
+  skills:
+    athletics:
+      label: SKILL.ATHLETICS
+      attribute: strength
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    awareness:
+      label: SKILL.AWARENESS
+      attribute: intellect
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    ballisticSkill:
+      label: SKILL.BALLISTIC_SKILL
+      attribute: agility
+      rating: 1
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    cunning:
+      label: SKILL.CUNNING
+      attribute: fellowship
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    deception:
+      label: SKILL.DECEPTION
+      attribute: fellowship
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    insight:
+      label: SKILL.INSIGHT
+      attribute: fellowship
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    intimidation:
+      label: SKILL.INTIMIDATION
+      attribute: willpower
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    investigation:
+      label: SKILL.INVESTIGATION
+      attribute: intellect
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    leadership:
+      label: SKILL.LEADERSHIP
+      attribute: willpower
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    medicae:
+      label: SKILL.MEDICAE
+      attribute: intellect
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    persuasion:
+      label: SKILL.PERSUASION
+      attribute: fellowship
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    pilot:
+      label: SKILL.PILOT
+      attribute: agility
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    psychicMastery:
+      label: SKILL.PSYCHIC_MASTERY
+      attribute: willpower
+      rating: 1
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    scholar:
+      label: SKILL.SCHOLAR
+      attribute: intellect
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    stealth:
+      label: SKILL.STEALTH
+      attribute: agility
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    survival:
+      label: SKILL.SURVIVAL
+      attribute: willpower
+      rating: 1
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    tech:
+      label: SKILL.TECH
+      attribute: intellect
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    weaponSkill:
+      label: SKILL.WEAPON_SKILL
+      attribute: initiative
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+  combat:
+    defense:
+      bonus: 0
+      total: 0
+    defence:
+      bonus: 0
+      total: 0
+    resilience:
+      bonus: 0
+      total: 0
+    wounds:
+      value: 0
+      bonus: 0
+      max: 14
+    determination:
+      bonus: 0
+      total: 0
+    shock:
+      value: 0
+      bonus: 0
+      max: 9
+    resolve:
+      bonus: -2
+      total: 0
+    conviction:
+      bonus: 0
+      total: 0
+    size: average
+    speed: 5
+    fly: 0
+    passiveAwareness:
+      bonus: 0
+      total: 0
+    stealth: 0
+  bio:
+    species: ""
+    faction: Orks
+    archetype: ""
+    threat:
+      first: A
+      second: A
+      third: A
+      fourth: E
+      fifth: E
+  resources:
+    ruin: 0
+  corruption:
+    current: 0
+  mob: null
+  notes: <p>Wurrboyz are unsavoury Beast Snagga Weirdboyz who channel WAAAGH! energy in its most primal, animalistic form, leaving their foes as shrivelled husks or mindless Squigs. Off the battlefield they receive visions from Gork and Mork, relaying them to their fellow Beast Snaggas as barely-coherent prophecies that spur the hunters towards the biggest prey. So vital is this role that Beast Snaggas treat Wurrboyz as divine oracles rather than the ticking time-bombs other Orks see in Weirdboyz.</p><p><em>The printed profile lists Resolve 3 (as a Weirdboy's Reluctant); reproduced here.</em></p>
+prototypeToken:
+  name: Wurrboy
+  displayName: 20
+  actorLink: false
+  appendNumber: false
+  prependAdjective: false
+  texture:
+    src: modules/wng-core/assets/tokens/orks.webp
+    scaleX: 1
+    scaleY: 1
+    offsetX: 0
+    offsetY: 0
+    rotation: 0
+  width: 1
+  height: 1
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  disposition: -1
+  displayBars: 20
+  bar1:
+    attribute: combat.wounds
+  bar2:
+    attribute: combat.shock
+  sight:
+    enabled: false
+    range: 0
+    angle: 360
+    visionMode: basic
+  detectionModes: []
+  flags: {}
+  randomImg: false
+items:
+  - name: ORK
+    type: keyword
+    _id: Mra0Jm27K6CYZ02U
+    img: modules/wng-core/assets/factions/orks.svg
+    system:
+      description: <p>A brutal xenos Species that crave violence and live only for war.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!ZDVQ4o3cOsiePiis.Mra0Jm27K6CYZ02U"
+  - name: "[CLAN]"
+    type: keyword
+    _id: skanTIUcq5ESoPXa
+    img: modules/wng-core/assets/factions/orks.svg
+    system:
+      description: <p>Replace with the Ork's clan keyword (Bad Moons, Blood Axes, Deathskulls, Evil Sunz, Freebooterz, Goffs, Snakebites&hellip;).</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!ZDVQ4o3cOsiePiis.skanTIUcq5ESoPXa"
+  - name: PSYKER
+    type: keyword
+    _id: eCityLNC3xWLbrjy
+    img: modules/wng-core/assets/factions/orks.svg
+    system:
+      description: <p>A wielder of psychic powers, channelling the energies of the Warp.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!ZDVQ4o3cOsiePiis.eCityLNC3xWLbrjy"
+  - name: WEIRDBOY
+    type: keyword
+    _id: FWbC6Ioi4yzOTevI
+    img: modules/wng-core/assets/factions/orks.svg
+    system:
+      description: <p>Ork psykers who act as living sponges for the ambient psychic energy of the WAAAGH!.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!ZDVQ4o3cOsiePiis.FWbC6Ioi4yzOTevI"
+  - name: BEAST SNAGGA
+    type: keyword
+    _id: JZzPTk6Bb0NPXMau
+    img: modules/wng-core/assets/factions/orks.svg
+    system:
+      description: <p>Ork Boyz who specialise in hunting Monstrous Creatures and Vehicles.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!ZDVQ4o3cOsiePiis.JZzPTk6Bb0NPXMau"
+  - name: Ork Flak
+    type: armour
+    _id: Sp8ecMFHNd8VaW4v
+    img: modules/wng-core/assets/icons/armour/armour.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: ""
+      value: 0
+      keywords: ""
+      equipped: true
+      rating: 2
+      base: 0
+      traits: []
+      invulnerable: false
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!ZDVQ4o3cOsiePiis.Sp8ecMFHNd8VaW4v"
+  - name: Eyez of Mork
+    type: weapon
+    _id: Sra4wOULDXmagWwP
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: <p>Designed to unleash a Wurrboy's psychic energy; increase its Salvo by +1 per 5 ORKS within 20m.</p>
+      value: 0
+      keywords: ""
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 13
+        bonus: 0
+        rank: none
+      ed:
+        base: 2
+        bonus: 0
+        rank: none
+      ap:
+        base: -3
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 6
+        medium: 12
+        long: 18
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: 2
+      traits:
+        - name: waaagh!
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!ZDVQ4o3cOsiePiis.Sra4wOULDXmagWwP"
+  - name: Beast Snagga
+    type: talent
+    _id: p2XwFJzwRIzdnuWa
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>Add +Tier bonus dice to attacks made against enemy Monstrous Creatures and Vehicles.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!ZDVQ4o3cOsiePiis.p2XwFJzwRIzdnuWa"
+  - name: Champion
+    type: talent
+    _id: LjGRLZkfllwEiYvp
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>This Threat may use Ruin Actions and has 2 Personal Ruin.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!ZDVQ4o3cOsiePiis.LjGRLZkfllwEiYvp"
+  - name: Dakka! Dakka! Dakka!
+    type: talent
+    _id: cVURI6PLnwF8X1Kt
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>When the Threat makes a ranged attack at an enemy within Short range, add bonus dice equal to the weapon's Salvo rating to the attack.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!ZDVQ4o3cOsiePiis.cVURI6PLnwF8X1Kt"
+  - name: "'Ere We Go"
+    type: talent
+    _id: e6IwjM625TCNXwvT
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>The Threat adds +1 to its Speed when it takes the Charge action. Further, if the Threat begins its turn Engaged, then it adds +2 damage to its melee attacks.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!ZDVQ4o3cOsiePiis.e6IwjM625TCNXwvT"
+  - name: WAAAGH! Energy
+    type: talent
+    _id: zzlA35EQEuEDEdYK
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>When a WEIRDBOY attempts a Psychic Mastery test, they do not choose a Power Level. Rather, they gain one additional Wrath die for every five ORK Threats within 20m. WEIRDBOYs do not suffer Perils of the Warp, but instead suffer 1 Mortal Wound for each 1 rolled on a Wrath Die when using a Psychic Power.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!ZDVQ4o3cOsiePiis.zzlA35EQEuEDEdYK"
+  - name: Power of the WAAAGH!
+    type: ability
+    _id: JH69Zl2FxP9IlLxx
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ""
+      specification: ""
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>The Wurrboy attempts to use @UUID[Compendium.wng-core.items.Item.n0bj5UJjgglDzFcB]{Smite} or one of the Beasthead psychic powers (included below), or attempts to Deny the Witch.</p>
+      display: true
+      abilityType: ""
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ""
+        wounds: ""
+        shock: ""
+      test:
+        dn: null
+        type: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!ZDVQ4o3cOsiePiis.JH69Zl2FxP9IlLxx"
+  - name: "Ruin: Psychic Vomit"
+    type: ability
+    _id: E5DOMIWdGdQLVlwc
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ""
+      specification: ""
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>Spend 1 Ruin as a Ruin Action. The Wurrboy attempts to activate a Psychic Power or Deny the Witch.</p>
+      display: true
+      abilityType: ""
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ""
+        wounds: ""
+        shock: ""
+      test:
+        dn: null
+        type: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!ZDVQ4o3cOsiePiis.E5DOMIWdGdQLVlwc"
+  - name: Determination
+    type: ability
+    _id: WRftTLq8zZCInDtU
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ""
+      specification: ""
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>Spend 1 Ruin to roll 8d6.</p>
+      display: true
+      abilityType: determination
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ""
+        wounds: ""
+        shock: ""
+      test:
+        dn: null
+        type: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!ZDVQ4o3cOsiePiis.WRftTLq8zZCInDtU"
+  - name: Smite
+    type: psychicPower
+    _id: Gb6xqenaZrxqhRHW
+    img: modules/wng-core/assets/icons/powers/smite.webp
+    system:
+      dn: "@combat.defence.total"
+      type: ""
+      specification: ""
+      description: |-
+        <p>You concentrate destructive power through the lens of your will, summoning lethal bolts of raw psychic energy that blast your enemies into ash.</p>
+        <p>Target one enemy within range and make a Psychic Master (Wil) Test against their Defence. If successful, the target suffers [[/r 1d3]] Mortal Wounds.</p>
+      effect: ""
+      cost: 0
+      activation: action
+      duration: Instant
+      range: 35 m
+      multiTarget: true
+      keywords: PSYCHIC
+      prerequisites: ""
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+        ed:
+          base: 0
+          bonus: 0
+          rank: none
+          dice: ""
+        other:
+          mortal: ""
+          wounds: ""
+          shock: ""
+        enabled: true
+        otherDamage:
+          mortal: 1d3
+        dice: ""
+      potency:
+        - description: +1 Mortal Wound
+          cost: 3
+          property: damage.bonus.mortal
+          initial: ""
+          value: 1
+          single: false
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+        die:
+          one: 0
+          two: 0
+          three: 0
+          four: 1
+          five: 1
+          six: 2
+      otherDamage:
+        mortalWounds: 1d3
+        wounds: ""
+        shock: ""
+      test:
+        dn: null
+        type: ""
+      discipline: Universal
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags:
+      core:
+        sourceId: Compendium.wng-core.items.Item.n0bj5UJjgglDzFcB
+    _key: "!actors.items!ZDVQ4o3cOsiePiis.Gb6xqenaZrxqhRHW"
+  - name: Beastscent
+    type: psychicPower
+    _id: qUnqjY3n0tEQLdWz
+    img: modules/wng-core/assets/icons/powers/power.webp
+    system:
+      dn: "4"
+      type: ""
+      specification: ""
+      description: <p>The Wurrboy turns his nose to the sky, taking exaggerated sniffs; a faint green glow emanates from nearby enemies, telling his fellow hunters where to find them. Select a group of enemies within Blast (6) that you can see. Until the start of the Wurrboy's next turn, the affected enemies gain no benefit from cover against attacks from BEAST SNAGGA Threats.</p>
+      effect: ""
+      cost: 0
+      activation: action
+      duration: 1 Round
+      range: 18m
+      multiTarget: false
+      keywords: BEAST SNAGGA, PSYCHIC
+      prerequisites: ORK, BEAST SNAGGA
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+        die:
+          one: 0
+          two: 0
+          three: 0
+          four: 0
+          five: 0
+          six: 0
+      otherDamage:
+        mortalWounds: ""
+        wounds: ""
+        shock: ""
+      potency:
+        - description: +2 to the rating of the Blast.
+          cost: 2
+          property: ""
+          initial: ""
+          value: ""
+          single: true
+      test:
+        dn: null
+        type: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!ZDVQ4o3cOsiePiis.qUnqjY3n0tEQLdWz"
+  - name: Bitin' Jaws
+    type: psychicPower
+    _id: 5ytQO6zpNCIJlHUY
+    img: modules/wng-core/assets/icons/powers/power.webp
+    system:
+      dn: "5"
+      type: ""
+      specification: ""
+      description: <p>The Wurrboy conjures a set of enormous green jaws that surge towards the enemy, gnashing at anything in their way. Draw a straight line from the Wurrboy to a single enemy within range and line of sight. Each enemy along that line suffers 1d3 Mortal Wounds.</p>
+      effect: ""
+      cost: 0
+      activation: action
+      duration: Instant
+      range: 18m
+      multiTarget: false
+      keywords: BEAST SNAGGA, PSYCHIC
+      prerequisites: ORK, BEAST SNAGGA
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+        die:
+          one: 0
+          two: 0
+          three: 0
+          four: 0
+          five: 0
+          six: 0
+      otherDamage:
+        mortalWounds: 1d3
+        wounds: ""
+        shock: ""
+      potency:
+        - description: +1 Mortal Wound inflicted by the power.
+          cost: 3
+          property: ""
+          initial: ""
+          value: ""
+          single: true
+      test:
+        dn: null
+        type: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!ZDVQ4o3cOsiePiis.5ytQO6zpNCIJlHUY"
+  - name: Frazzle
+    type: psychicPower
+    _id: uA3bfWdbNXyWWbTh
+    img: modules/wng-core/assets/icons/powers/power.webp
+    system:
+      dn: "5"
+      type: ""
+      specification: ""
+      description: "<p>A wave of crackling energy floods out, reducing nearby foes to shrivelled husks. If successful, roll 1d6 for each enemy within range: for each Icon, that enemy suffers Mortal Wounds equal to the game's Tier; for each Exalted Icon, the enemy instead suffers 1d3+Tier Mortal Wounds.</p>"
+      effect: ""
+      cost: 0
+      activation: action
+      duration: Instant
+      range: 9m
+      multiTarget: false
+      keywords: BEAST SNAGGA, PSYCHIC
+      prerequisites: ORK, BEAST SNAGGA
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+        die:
+          one: 0
+          two: 0
+          three: 0
+          four: 0
+          five: 0
+          six: 0
+      otherDamage:
+        mortalWounds: ""
+        wounds: ""
+        shock: ""
+      potency:
+        - description: Add +1 to the result of each d6 rolled.
+          cost: 3
+          property: ""
+          initial: ""
+          value: ""
+          single: true
+      test:
+        dn: null
+        type: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!ZDVQ4o3cOsiePiis.uA3bfWdbNXyWWbTh"
+  - name: Roar of Mork
+    type: psychicPower
+    _id: ZisHnXQLS0C46dkV
+    img: modules/wng-core/assets/icons/powers/power.webp
+    system:
+      dn: "5"
+      type: ""
+      specification: ""
+      description: <p>The Wurrboy gives vent to a bellowing roar that reverberates through his enemies' minds. While this power remains in effect, all enemies within 18m and visible to the Wurrboy reduce their Speed by 1 when they Run, Charge, or Sprint, and add +1 to the DN of all Resolve tests.</p>
+      effect: ""
+      cost: 0
+      activation: action
+      duration: Sustained
+      range: Self
+      multiTarget: false
+      keywords: BEAST SNAGGA, PSYCHIC
+      prerequisites: ORK, BEAST SNAGGA
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+        die:
+          one: 0
+          two: 0
+          three: 0
+          four: 0
+          five: 0
+          six: 0
+      otherDamage:
+        mortalWounds: ""
+        wounds: ""
+        shock: ""
+      potency:
+        - description: The penalty to Speed increases by 1.
+          cost: 2
+          property: ""
+          initial: ""
+          value: ""
+          single: true
+        - description: The DN increase to Resolve tests increases by +1.
+          cost: 1
+          property: ""
+          initial: ""
+          value: ""
+          single: true
+      test:
+        dn: null
+        type: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!ZDVQ4o3cOsiePiis.ZisHnXQLS0C46dkV"
+  - name: Spirit of Gork
+    type: psychicPower
+    _id: nLUO5VPqPxramRpu
+    img: modules/wng-core/assets/icons/powers/power.webp
+    system:
+      dn: "5"
+      type: ""
+      specification: ""
+      description: <p>The Wurrboy stokes the bestial fury of nearby squigs. Select a number of SQUIGS within range equal to the Wurrboy's Willpower. Until the start of the Wurrboy's next turn, the affected SQUIGS add +2 dice to all melee attacks and gain the Mortal (1) quality on their bite attack.</p>
+      effect: ""
+      cost: 0
+      activation: action
+      duration: 1 Round
+      range: 12m
+      multiTarget: false
+      keywords: BEAST SNAGGA, PSYCHIC
+      prerequisites: ORK, BEAST SNAGGA
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+        die:
+          one: 0
+          two: 0
+          three: 0
+          four: 0
+          five: 0
+          six: 0
+      otherDamage:
+        mortalWounds: ""
+        wounds: ""
+        shock: ""
+      potency:
+        - description: The bonus to melee attacks increases by +1.
+          cost: 2
+          property: ""
+          initial: ""
+          value: ""
+          single: true
+        - description: The power lasts one additional turn.
+          cost: 2
+          property: ""
+          initial: ""
+          value: ""
+          single: true
+      test:
+        dn: null
+        type: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!ZDVQ4o3cOsiePiis.nLUO5VPqPxramRpu"
+  - name: Squiggly Curse
+    type: psychicPower
+    _id: hvusQJoKibvTnhW4
+    img: modules/wng-core/assets/icons/powers/power.webp
+    system:
+      dn: ""
+      type: ""
+      specification: ""
+      description: "<p>DN: the target's Toughness. The Wurrboy transforms the foe into a herd of squigs. The target suffers 1d3+Tier Mortal Wounds. If a creature suffers more than their Maximum Wounds from this, they are immediately transformed into an Attack Squig.</p>"
+      effect: ""
+      cost: 0
+      activation: action
+      duration: Instant
+      range: 12m
+      multiTarget: true
+      keywords: BEAST SNAGGA, PSYCHIC
+      prerequisites: ORK, BEAST SNAGGA
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+        die:
+          one: 0
+          two: 0
+          three: 0
+          four: 0
+          five: 0
+          six: 0
+      otherDamage:
+        mortalWounds: 1d3+Tier
+        wounds: ""
+        shock: ""
+      potency:
+        - description: The number of Mortal Wounds inflicted increases by +1.
+          cost: 3
+          property: ""
+          initial: ""
+          value: ""
+          single: true
+      test:
+        dn: null
+        type: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!ZDVQ4o3cOsiePiis.hvusQJoKibvTnhW4"
+effects: []
+sort: 0
+ownership:
+  default: 0
+flags:
+  wrath-and-glory:
+    autoCalc:
+      defence: true
+      resilience: true
+      shock: true
+      awareness: true
+      resolve: true
+      determination: true
+      wounds: true
+      conviction: true
+    autoWounded: true
+    autoExhausted: true
+    generateMetaCurrencies: true
+_key: "!actors!ZDVQ4o3cOsiePiis"
