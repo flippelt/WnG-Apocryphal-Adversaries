@@ -1,0 +1,761 @@
+folder: fIRfbMfP3ahjbc6n
+name: Warboss in Mega-Armour
+type: threat
+_id: QYZ1aROyZQojLajM
+img: modules/wng-core/assets/tokens/orks.webp
+system:
+  attributes:
+    strength:
+      label: ATTRIBUTE.STRENGTH
+      rating: 0
+      base: 14
+      bonus: 0
+      cost: 0
+      total: 0
+    toughness:
+      label: ATTRIBUTE.TOUGHNESS
+      rating: 0
+      base: 10
+      bonus: 0
+      cost: 0
+      total: 0
+    agility:
+      label: ATTRIBUTE.AGILITY
+      rating: 0
+      base: 4
+      bonus: 0
+      cost: 0
+      total: 0
+    initiative:
+      label: ATTRIBUTE.INITIATIVE
+      rating: 0
+      base: 6
+      bonus: 0
+      cost: 0
+      total: 0
+    willpower:
+      label: ATTRIBUTE.WILLPOWER
+      rating: 0
+      base: 6
+      bonus: 0
+      cost: 0
+      total: 0
+    intellect:
+      label: ATTRIBUTE.INTELLECT
+      rating: 0
+      base: 4
+      bonus: 0
+      cost: 0
+      total: 0
+    fellowship:
+      label: ATTRIBUTE.FELLOWSHIP
+      rating: 0
+      base: 4
+      bonus: 0
+      cost: 0
+      total: 0
+  skills:
+    athletics:
+      label: SKILL.ATHLETICS
+      attribute: strength
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    awareness:
+      label: SKILL.AWARENESS
+      attribute: intellect
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    ballisticSkill:
+      label: SKILL.BALLISTIC_SKILL
+      attribute: agility
+      rating: 1
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    cunning:
+      label: SKILL.CUNNING
+      attribute: fellowship
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    deception:
+      label: SKILL.DECEPTION
+      attribute: fellowship
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    insight:
+      label: SKILL.INSIGHT
+      attribute: fellowship
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    intimidation:
+      label: SKILL.INTIMIDATION
+      attribute: willpower
+      rating: 5
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    investigation:
+      label: SKILL.INVESTIGATION
+      attribute: intellect
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    leadership:
+      label: SKILL.LEADERSHIP
+      attribute: willpower
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    medicae:
+      label: SKILL.MEDICAE
+      attribute: intellect
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    persuasion:
+      label: SKILL.PERSUASION
+      attribute: fellowship
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    pilot:
+      label: SKILL.PILOT
+      attribute: agility
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    psychicMastery:
+      label: SKILL.PSYCHIC_MASTERY
+      attribute: willpower
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    scholar:
+      label: SKILL.SCHOLAR
+      attribute: intellect
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    stealth:
+      label: SKILL.STEALTH
+      attribute: agility
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    survival:
+      label: SKILL.SURVIVAL
+      attribute: willpower
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    tech:
+      label: SKILL.TECH
+      attribute: intellect
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    weaponSkill:
+      label: SKILL.WEAPON_SKILL
+      attribute: initiative
+      rating: 6
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+  combat:
+    defense:
+      bonus: 0
+      total: 0
+    defence:
+      bonus: 0
+      total: 0
+    resilience:
+      bonus: -1
+      total: 0
+    wounds:
+      value: 0
+      bonus: 0
+      max: 18
+    determination:
+      bonus: 0
+      total: 0
+    shock:
+      value: 0
+      bonus: 0
+      max: 10
+    resolve:
+      bonus: 0
+      total: 0
+    conviction:
+      bonus: 0
+      total: 0
+    size: large
+    speed: 5
+    fly: 0
+    passiveAwareness:
+      bonus: 0
+      total: 0
+    stealth: 0
+  bio:
+    species: ''
+    faction: Orks
+    archetype: ''
+    threat:
+      first: A
+      second: A
+      third: A
+      fourth: A
+      fifth: A
+  resources:
+    ruin: 0
+  corruption:
+    current: 0
+  mob: null
+  notes: >-
+    <p>The strongest and meanest among his already brutal kin, this Warboss
+    supplements his fearsome bulk with a piston-driven suit of incredibly durable
+    Mega Armour, making a mockery of the tank-busting artillery hunters use to deal
+    with rampaging bosses from afar. He strides into battle with a boss pole
+    denoting his rank, an 'Uge Choppa that decimates his foes, and a Big Shoota
+    operated by a grot perched precariously on his armour.</p><p><em>Note: the
+    printed stat block lists Resilience 17 (a -1 vs the Mega Armour formula),
+    reproduced here as written.</em></p>
+prototypeToken:
+  name: Warboss in Mega-Armour
+  displayName: 20
+  actorLink: false
+  appendNumber: false
+  prependAdjective: false
+  texture:
+    src: modules/wng-core/assets/tokens/orks.webp
+    scaleX: 2
+    scaleY: 2
+    offsetX: 0
+    offsetY: 0
+    rotation: 0
+  width: 2
+  height: 2
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  disposition: -1
+  displayBars: 20
+  bar1:
+    attribute: combat.wounds
+  bar2:
+    attribute: combat.shock
+  sight:
+    enabled: false
+    range: 0
+    angle: 360
+    visionMode: basic
+  detectionModes: []
+  flags: {}
+  randomImg: false
+items:
+  - name: ORK
+    type: keyword
+    _id: qnAVCHeXB0PzYvVy
+    img: modules/wng-core/assets/factions/orks.svg
+    system:
+      description: >-
+        <p>A brutal xenos Species that crave violence and live only for war.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!QYZ1aROyZQojLajM.qnAVCHeXB0PzYvVy'
+  - name: '[CLAN]'
+    type: keyword
+    _id: 1mGeNVpLULChpcox
+    img: modules/wng-core/assets/factions/orks.svg
+    system:
+      description: >-
+        <p>Replace with the Ork's clan keyword (Bad Moons, Blood Axes,
+        Deathskulls, Evil Sunz, Freebooterz, Goffs, Snakebites&hellip;).</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!QYZ1aROyZQojLajM.1mGeNVpLULChpcox'
+  - name: BOSS
+    type: keyword
+    _id: EryJ2QhXRe7LpC47
+    img: modules/wng-core/assets/factions/orks.svg
+    system:
+      description: >-
+        <p>A senior Ork leader who commands other Greenskins through size,
+        strength and brutality.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!QYZ1aROyZQojLajM.EryJ2QhXRe7LpC47'
+  - name: Mega Armour
+    type: armour
+    _id: znJPile36VqDLZaD
+    img: modules/wng-core/assets/icons/armour/armour.webp
+    system:
+      quantity: 1
+      rarity: rare
+      description: ''
+      value: 0
+      keywords: ''
+      equipped: true
+      rating: 7
+      base: 0
+      traits:
+        - name: cumbersome
+      invulnerable: false
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!QYZ1aROyZQojLajM.znJPile36VqDLZaD'
+  - name: Big Shoota
+    type: weapon
+    _id: pbMRoEUZ9Iwo2SFB
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: '<p>Operated by a Gretchin Grot Gunner perched on the Warboss'' back (Ballistic Skill 6).</p>'
+      value: 0
+      keywords: ''
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 12
+        bonus: 0
+        rank: none
+      ed:
+        base: 2
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 18
+        medium: 36
+        long: 54
+        melee: 0
+        thrown: null
+      ammo: ''
+      salvo: 3
+      traits:
+        - name: assault
+        - name: 'waaagh!'
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!QYZ1aROyZQojLajM.pbMRoEUZ9Iwo2SFB'
+  - name: "'Uge Choppa"
+    type: weapon
+    _id: 7bFhd9Qh4DVGcT7l
+    img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: '<p>Reach 2.</p>'
+      value: 0
+      keywords: ''
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 22
+        bonus: 0
+        rank: none
+      ed:
+        base: 4
+        bonus: 0
+        rank: none
+      ap:
+        base: -3
+        bonus: 0
+        rank: none
+      category: melee
+      range:
+        short: 0
+        medium: 0
+        long: 0
+        melee: 2
+        thrown: null
+      ammo: ''
+      salvo: 0
+      traits:
+        - name: brutal
+        - name: 'waaagh!'
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!QYZ1aROyZQojLajM.7bFhd9Qh4DVGcT7l'
+  - name: Champion
+    type: talent
+    _id: NJxMgEUZ6afluCXm
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: >-
+        <p>This Threat may use Ruin Actions and has 5 Personal Ruin.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!QYZ1aROyZQojLajM.NJxMgEUZ6afluCXm'
+  - name: Dakka! Dakka! Dakka!
+    type: talent
+    _id: IOH00C2EQx5Skgbx
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: >-
+        <p>When the Threat makes a ranged attack at an enemy within Short range,
+        add bonus dice equal to the weapon's Salvo rating to the attack.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!QYZ1aROyZQojLajM.IOH00C2EQx5Skgbx'
+  - name: "'Ere We Go"
+    type: talent
+    _id: MZrxVD2cTwvFTKJa
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: >-
+        <p>The Threat adds +1 to its Speed when it takes the Charge action.
+        Further, if the Threat begins its turn Engaged, then it adds +2 damage to
+        its melee attacks.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!QYZ1aROyZQojLajM.MZrxVD2cTwvFTKJa'
+  - name: Mob Rule
+    type: talent
+    _id: DSdpFyOuCEqPMPzM
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: >-
+        <p>Orks gain 1 Icon on all Resolve tests for every 10 Ork Threats present
+        on the battlefield.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!QYZ1aROyZQojLajM.DSdpFyOuCEqPMPzM'
+  - name: Grot Gunner
+    type: talent
+    _id: c3Ir5oYHKIlyBCxz
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: >-
+        <p>The Warboss' Big Shoota is operated by a Gretchin assistant perched on
+        the Warboss' back. Attacks with this Big Shoota have a Ballistic Skill of
+        6.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!QYZ1aROyZQojLajM.c3Ir5oYHKIlyBCxz'
+  - name: Warboss
+    type: talent
+    _id: PNZoyChvB9LgQrLD
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: >-
+        <p>Allied [CLAN] ORKS within 6m of the Warboss add +2 dice on all melee
+        attacks.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!QYZ1aROyZQojLajM.PNZoyChvB9LgQrLD'
+  - name: 'Battlecry: WAAAGH!'
+    type: ability
+    _id: HnWkY7NKn5VWiNCq
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ''
+      specification: ''
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: >-
+        <p>The Warboss bellows. Any non-ORK who can see the Threat must pass a DN 3
+        Fear test. ORKS who can see and hear the Warboss instead add +2 to their
+        Speed and Resolve during the first round of combat.</p>
+      display: true
+      abilityType: ''
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ''
+        wounds: ''
+        shock: ''
+      test:
+        dn: null
+        type: ''
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!QYZ1aROyZQojLajM.HnWkY7NKn5VWiNCq'
+  - name: 'Reaction: Surly Glare'
+    type: ability
+    _id: Dyk64WkjZzMvzyKD
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ''
+      specification: ''
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: >-
+        <p>When an ORK Mob within 12m fails a Resolve test, this Threat may use its
+        Reflexive Action to glare disapprovingly. The Mob counts as succeeding at
+        that Resolve test.</p>
+      display: true
+      abilityType: ''
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ''
+        wounds: ''
+        shock: ''
+      test:
+        dn: null
+        type: ''
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!QYZ1aROyZQojLajM.Dyk64WkjZzMvzyKD'
+  - name: "Determination: Dead 'Ard"
+    type: ability
+    _id: dVoRwNCj3dcdSvDX
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ''
+      specification: ''
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: >-
+        <p>Dead 'Ard. Roll 10d6. The Warboss may roll Determination against Mortal
+        Wounds. The Warboss regains 1 Shock for every Exalted Icon rolled when
+        rolling Determination.</p>
+      display: true
+      abilityType: determination
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ''
+        wounds: ''
+        shock: ''
+      test:
+        dn: null
+        type: ''
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!QYZ1aROyZQojLajM.dVoRwNCj3dcdSvDX'
+  - name: 'Annihilation: Orks Iz Never Beaten'
+    type: ability
+    _id: P8G68Xn8P3jtOFuD
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ''
+      specification: ''
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: >-
+        <p>The Warboss makes an immediate melee attack if possible.</p>
+      display: true
+      abilityType: ''
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ''
+        wounds: ''
+        shock: ''
+      test:
+        dn: null
+        type: ''
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!QYZ1aROyZQojLajM.P8G68Xn8P3jtOFuD'
+effects: []
+sort: 0
+ownership:
+  default: 0
+flags:
+  wrath-and-glory:
+    autoCalc:
+      defence: true
+      resilience: true
+      shock: true
+      awareness: true
+      resolve: true
+      determination: true
+      wounds: true
+      conviction: true
+    autoWounded: true
+    autoExhausted: true
+    generateMetaCurrencies: true
+_key: '!actors!QYZ1aROyZQojLajM'
