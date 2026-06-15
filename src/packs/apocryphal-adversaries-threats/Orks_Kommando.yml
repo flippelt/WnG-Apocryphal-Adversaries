@@ -1,0 +1,1120 @@
+folder: fIRfbMfP3ahjbc6n
+name: Kommando
+type: threat
+_id: YjjErja0eMq9XHlz
+img: modules/wng-core/assets/tokens/orks.webp
+system:
+  attributes:
+    strength:
+      label: ATTRIBUTE.STRENGTH
+      rating: 0
+      base: 5
+      bonus: 0
+      cost: 0
+      total: 0
+    toughness:
+      label: ATTRIBUTE.TOUGHNESS
+      rating: 0
+      base: 7
+      bonus: 0
+      cost: 0
+      total: 0
+    agility:
+      label: ATTRIBUTE.AGILITY
+      rating: 0
+      base: 4
+      bonus: 0
+      cost: 0
+      total: 0
+    initiative:
+      label: ATTRIBUTE.INITIATIVE
+      rating: 0
+      base: 4
+      bonus: 0
+      cost: 0
+      total: 0
+    willpower:
+      label: ATTRIBUTE.WILLPOWER
+      rating: 0
+      base: 3
+      bonus: 0
+      cost: 0
+      total: 0
+    intellect:
+      label: ATTRIBUTE.INTELLECT
+      rating: 0
+      base: 2
+      bonus: 0
+      cost: 0
+      total: 0
+    fellowship:
+      label: ATTRIBUTE.FELLOWSHIP
+      rating: 0
+      base: 1
+      bonus: 0
+      cost: 0
+      total: 0
+  skills:
+    athletics:
+      label: SKILL.ATHLETICS
+      attribute: strength
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    awareness:
+      label: SKILL.AWARENESS
+      attribute: intellect
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    ballisticSkill:
+      label: SKILL.BALLISTIC_SKILL
+      attribute: agility
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    cunning:
+      label: SKILL.CUNNING
+      attribute: fellowship
+      rating: 5
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    deception:
+      label: SKILL.DECEPTION
+      attribute: fellowship
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    insight:
+      label: SKILL.INSIGHT
+      attribute: fellowship
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    intimidation:
+      label: SKILL.INTIMIDATION
+      attribute: willpower
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    investigation:
+      label: SKILL.INVESTIGATION
+      attribute: intellect
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    leadership:
+      label: SKILL.LEADERSHIP
+      attribute: willpower
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    medicae:
+      label: SKILL.MEDICAE
+      attribute: intellect
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    persuasion:
+      label: SKILL.PERSUASION
+      attribute: fellowship
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    pilot:
+      label: SKILL.PILOT
+      attribute: agility
+      rating: 1
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    psychicMastery:
+      label: SKILL.PSYCHIC_MASTERY
+      attribute: willpower
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    scholar:
+      label: SKILL.SCHOLAR
+      attribute: intellect
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    stealth:
+      label: SKILL.STEALTH
+      attribute: agility
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    survival:
+      label: SKILL.SURVIVAL
+      attribute: willpower
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    tech:
+      label: SKILL.TECH
+      attribute: intellect
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    weaponSkill:
+      label: SKILL.WEAPON_SKILL
+      attribute: initiative
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+  combat:
+    defense:
+      bonus: 0
+      total: 0
+    defence:
+      bonus: 0
+      total: 0
+    resilience:
+      bonus: 0
+      total: 0
+    wounds:
+      value: 0
+      bonus: 0
+      max: 11
+    determination:
+      bonus: 0
+      total: 0
+    shock:
+      value: 0
+      bonus: 0
+      max: 5
+    resolve:
+      bonus: 0
+      total: 0
+    conviction:
+      bonus: 0
+      total: 0
+    size: average
+    speed: 5
+    fly: 0
+    passiveAwareness:
+      bonus: 0
+      total: 0
+    stealth: 0
+  bio:
+    species: ''
+    faction: Orks
+    archetype: ''
+    threat:
+      first: E
+      second: E
+      third: T
+      fourth: T
+      fifth: T
+  resources:
+    ruin: 0
+  corruption:
+    current: 0
+  mob: null
+  notes: >-
+    <p>A Kommando is an Ork Boy specialist who relies on "kunning trikz" instead
+    of fighting head-on like most Greenskins. Kommandoz serve as the Orks'
+    infiltrators and saboteurs &mdash; experts in stealth, ambush, unconventional
+    tactics and striking from a totally unexpected quarter. Unlike most Boyz they
+    use dirty tricks like camouflage and distraction, relying on a trait lacking
+    amongst Orks: discipline. Though Kommandos exist in every clan, other Orks
+    distrust them, finding the use of stealth distinctly un-Orky.</p><p><em>Threat
+    Options &mdash; Speshul Gitz: in any group of Kommandos you may have one each
+    of the following (all gear is included unequipped below). <strong>Slasha</strong>
+    &mdash; replaces his Slugga with a second Sneaky Stabba and reduces the
+    multi-Attack penalty by 2DN as if he had the Dual Wield talent.
+    <strong>Breacha</strong> &mdash; replaces his Sneaky Stabba with a Breacha Ram
+    and adds +2d to his attack when charging. <strong>Snipa</strong> &mdash;
+    replaces all his weapons with a Scoped Big Shoota. <strong>Dakka Boy</strong>
+    &mdash; replaces all his weapons with a Dakka Shoota. <strong>Comms Boy</strong>
+    &mdash; replaces his weapons with a Vox Caster and a Shokka Pistol.
+    <strong>Burna</strong> &mdash; replaces his weapons with a Burna (and its
+    Cuttin' Flame melee profile). <strong>Rokkit Boy</strong> &mdash; replaces his
+    weapons with a Rokkit Launcha.</em></p>
+prototypeToken:
+  name: Kommando
+  displayName: 20
+  actorLink: false
+  appendNumber: false
+  prependAdjective: false
+  texture:
+    src: modules/wng-core/assets/tokens/orks.webp
+    scaleX: 1
+    scaleY: 1
+    offsetX: 0
+    offsetY: 0
+    rotation: 0
+  width: 1
+  height: 1
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  disposition: -1
+  displayBars: 20
+  bar1:
+    attribute: combat.wounds
+  bar2:
+    attribute: combat.shock
+  sight:
+    enabled: false
+    range: 0
+    angle: 360
+    visionMode: basic
+  detectionModes: []
+  flags: {}
+  randomImg: false
+items:
+  - name: ORK
+    type: keyword
+    _id: IvBchYdl952HhjRE
+    img: modules/wng-core/assets/factions/orks.svg
+    system:
+      description: >-
+        <p>A brutal xenos Species that crave violence and live only for war.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!YjjErja0eMq9XHlz.IvBchYdl952HhjRE'
+  - name: '[CLAN]'
+    type: keyword
+    _id: 1dnKKC9ewhhd1boN
+    img: modules/wng-core/assets/factions/orks.svg
+    system:
+      description: >-
+        <p>Replace with the Ork's clan keyword (Bad Moons, Blood Axes,
+        Deathskulls, Evil Sunz, Freebooterz, Goffs, Snakebites&hellip;).</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!YjjErja0eMq9XHlz.1dnKKC9ewhhd1boN'
+  - name: Ork Flak
+    type: armour
+    _id: FCwuDyCMCfCkig3g
+    img: modules/wng-core/assets/icons/armour/armour.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: ''
+      value: 0
+      keywords: ''
+      equipped: true
+      rating: 2
+      base: 0
+      traits: []
+      invulnerable: false
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!YjjErja0eMq9XHlz.FCwuDyCMCfCkig3g'
+  - name: Slugga
+    type: weapon
+    _id: no8IaPj86umht4mo
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: ''
+      value: 0
+      keywords: ''
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 10
+        bonus: 0
+        rank: none
+      ed:
+        base: 1
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 6
+        medium: 12
+        long: 18
+        melee: 0
+        thrown: null
+      ammo: ''
+      salvo: 1
+      traits:
+        - name: pistol
+        - name: 'waaagh!'
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!YjjErja0eMq9XHlz.no8IaPj86umht4mo'
+  - name: Sneaky Stabba
+    type: weapon
+    _id: a3vjSzaR6gnnGAMR
+    img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: ''
+      value: 0
+      keywords: ''
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 8
+        bonus: 0
+        rank: none
+      ed:
+        base: 3
+        bonus: 0
+        rank: none
+      ap:
+        base: -1
+        bonus: 0
+        rank: none
+      category: melee
+      range:
+        short: 0
+        medium: 0
+        long: 0
+        melee: 1
+        thrown: null
+      ammo: ''
+      salvo: 0
+      traits:
+        - name: silent
+        - name: 'waaagh!'
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!YjjErja0eMq9XHlz.a3vjSzaR6gnnGAMR'
+  - name: Stikkbomb
+    type: weapon
+    _id: gaWIc9AIjwGPRgxI
+    img: modules/wng-core/assets/icons/weapons/grenade.webp
+    system:
+      quantity: 2
+      rarity: common
+      description: ''
+      value: 0
+      keywords: ''
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 9
+        bonus: 0
+        rank: none
+      ed:
+        base: 5
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 0
+        medium: 0
+        long: 0
+        melee: 0
+        thrown: 20
+      ammo: ''
+      salvo: 0
+      traits:
+        - name: blast
+          rating: 6
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!YjjErja0eMq9XHlz.gaWIc9AIjwGPRgxI'
+  - name: Sneaky Stabba (Slasha)
+    type: weapon
+    _id: heb2yCD8Ted8sJxq
+    img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: '<p>Slasha option: a Slasha replaces his Slugga with this second Sneaky Stabba and reduces the multi-Attack penalty by 2DN, as if he had the Dual Wield talent.</p>'
+      value: 0
+      keywords: ''
+      equipped: false
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 8
+        bonus: 0
+        rank: none
+      ed:
+        base: 3
+        bonus: 0
+        rank: none
+      ap:
+        base: -1
+        bonus: 0
+        rank: none
+      category: melee
+      range:
+        short: 0
+        medium: 0
+        long: 0
+        melee: 1
+        thrown: null
+      ammo: ''
+      salvo: 0
+      traits:
+        - name: silent
+        - name: 'waaagh!'
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!YjjErja0eMq9XHlz.heb2yCD8Ted8sJxq'
+  - name: Breacha Ram
+    type: weapon
+    _id: zaxJ3q3te3G6bAoA
+    img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: '<p>Breacha option: a Breacha replaces his Sneaky Stabba with this and adds +2d to his attack when charging.</p>'
+      value: 0
+      keywords: ''
+      equipped: false
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 11
+        bonus: 0
+        rank: none
+      ed:
+        base: 5
+        bonus: 0
+        rank: none
+      ap:
+        base: -2
+        bonus: 0
+        rank: none
+      category: melee
+      range:
+        short: 0
+        medium: 0
+        long: 0
+        melee: 1
+        thrown: null
+      ammo: ''
+      salvo: 0
+      traits:
+        - name: brutal
+        - name: careful
+          custom: true
+          display: Careful
+        - name: unwieldy
+          rating: 2
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!YjjErja0eMq9XHlz.zaxJ3q3te3G6bAoA'
+  - name: Scoped Big Shoota
+    type: weapon
+    _id: CslJr9Z6jz67ZwK9
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: '<p>Snipa option: a Snipa replaces all his weapons with this.</p>'
+      value: 0
+      keywords: ''
+      equipped: false
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 12
+        bonus: 0
+        rank: none
+      ed:
+        base: 2
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 24
+        medium: 48
+        long: 72
+        melee: 0
+        thrown: null
+      ammo: ''
+      salvo: 3
+      traits:
+        - name: sniper
+          rating: 1
+        - name: 'waaagh!'
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!YjjErja0eMq9XHlz.CslJr9Z6jz67ZwK9'
+  - name: Dakka Shoota
+    type: weapon
+    _id: 3t69zKdaroVBH0ep
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: '<p>Dakka Boy option: a Dakka Boy replaces all his weapons with this.</p>'
+      value: 0
+      keywords: ''
+      equipped: false
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 10
+        bonus: 0
+        rank: none
+      ed:
+        base: 1
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 9
+        medium: 18
+        long: 27
+        melee: 0
+        thrown: null
+      ammo: ''
+      salvo: 6
+      traits:
+        - name: assault
+        - name: 'waaagh!'
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!YjjErja0eMq9XHlz.3t69zKdaroVBH0ep'
+  - name: Shokka Pistol
+    type: weapon
+    _id: EbNExY35ac6Mbuhj
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: '<p>Comms Boy option: a Comms Boy replaces his weapons with a Vox Caster and this Shokka Pistol.</p>'
+      value: 0
+      keywords: ''
+      equipped: false
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 13
+        bonus: 0
+        rank: none
+      ed:
+        base: 2
+        bonus: 0
+        rank: none
+      ap:
+        base: -1
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 3
+        medium: 6
+        long: 9
+        melee: 0
+        thrown: null
+      ammo: ''
+      salvo: 0
+      traits:
+        - name: arc
+          rating: 2
+        - name: blast
+          rating: 4
+        - name: pistol
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!YjjErja0eMq9XHlz.EbNExY35ac6Mbuhj'
+  - name: Vox Caster
+    type: gear
+    _id: R4tLwRaZ5ITwpJrn
+    img: modules/wng-core/assets/icons/gear/gear.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: '<p>Comms Boy option: a Comms Boy carries this Vox Caster (and a Shokka Pistol) in place of his usual weapons.</p>'
+      value: 0
+      keywords: ''
+      effect: ''
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!YjjErja0eMq9XHlz.R4tLwRaZ5ITwpJrn'
+  - name: Burna
+    type: weapon
+    _id: LdrnYbOfnrriXNKk
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: '<p>Burna option: a Burna replaces his weapons with this Burna (use the Cuttin'' Flame profile in melee).</p>'
+      value: 0
+      keywords: ''
+      equipped: false
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 10
+        bonus: 0
+        rank: none
+      ed:
+        base: 1
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 4
+        medium: 8
+        long: 12
+        melee: 0
+        thrown: null
+      ammo: ''
+      salvo: 1
+      traits:
+        - name: assault
+        - name: flamer
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!YjjErja0eMq9XHlz.LdrnYbOfnrriXNKk'
+  - name: Cuttin' Flame
+    type: weapon
+    _id: yFuYBDSc0ojt5l6K
+    img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: '<p>The Burna option''s melee profile, the weapon turned to a searing blowtorch point.</p>'
+      value: 0
+      keywords: ''
+      equipped: false
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 9
+        bonus: 0
+        rank: none
+      ed:
+        base: 1
+        bonus: 0
+        rank: none
+      ap:
+        base: -2
+        bonus: 0
+        rank: none
+      category: melee
+      range:
+        short: 0
+        medium: 0
+        long: 0
+        melee: 1
+        thrown: null
+      ammo: ''
+      salvo: 0
+      traits:
+        - name: inflict
+          rating: On Fire
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!YjjErja0eMq9XHlz.yFuYBDSc0ojt5l6K'
+  - name: Rokkit Launcha
+    type: weapon
+    _id: cABgyJe681mkij3V
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: '<p>Rokkit Boy option: a Rokkit Boy replaces all his weapons with this. Extra Damage is +1d3.</p>'
+      value: 0
+      keywords: ''
+      equipped: false
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 16
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: -2
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 12
+        medium: 24
+        long: 36
+        melee: 0
+        thrown: null
+      ammo: ''
+      salvo: 0
+      traits:
+        - name: blast
+          rating: 4
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!YjjErja0eMq9XHlz.cABgyJe681mkij3V'
+  - name: "'Ere We Go"
+    type: talent
+    _id: 2Pt96LXcwt6wL3hJ
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: >-
+        <p>The Threat adds +1 to its Speed when it takes the Charge action.
+        Further, if the Threat begins its turn Engaged, then it adds +2 damage to
+        its melee attacks.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!YjjErja0eMq9XHlz.2Pt96LXcwt6wL3hJ'
+  - name: Dakka! Dakka! Dakka!
+    type: talent
+    _id: jooUtWzQ2jiAMHgr
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: >-
+        <p>When the Threat makes a ranged attack at an enemy within Short range,
+        add bonus dice equal to the weapon's Salvo rating to the attack.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!YjjErja0eMq9XHlz.jooUtWzQ2jiAMHgr'
+  - name: Mob Rule
+    type: talent
+    _id: nYvIUfSpwVNFSqxw
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: >-
+        <p>Orks gain 1 Icon on all Resolve tests for every 10 Ork Threats present
+        on the battlefield.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!YjjErja0eMq9XHlz.nYvIUfSpwVNFSqxw'
+  - name: Throat Slittas
+    type: talent
+    _id: lrou3v1BgRcbOu9j
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: >-
+        <p>When making a melee Surprise Attack, the Threat's melee weapon gains
+        the Brutal weapon trait.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!YjjErja0eMq9XHlz.lrou3v1BgRcbOu9j'
+  - name: 'Battlecry: Sneaky Gitz'
+    type: ability
+    _id: F5WZqBFDVXLO28OY
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ''
+      specification: ''
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: >-
+        <p>During the first round of combat in which a Kommando ambushes their
+        opponent, they may use their Stealth dice pool of 8 for any Test.</p>
+      display: true
+      abilityType: ''
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ''
+        wounds: ''
+        shock: ''
+      test:
+        dn: null
+        type: ''
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!YjjErja0eMq9XHlz.F5WZqBFDVXLO28OY'
+  - name: Determination
+    type: ability
+    _id: O0Jw0kJ8YvhwMBUb
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ''
+      specification: ''
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: <p>Spend 1 Ruin to roll 7d6.</p>
+      display: true
+      abilityType: determination
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ''
+        wounds: ''
+        shock: ''
+      test:
+        dn: null
+        type: ''
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!YjjErja0eMq9XHlz.O0Jw0kJ8YvhwMBUb'
+  - name: "Kunnin' Infiltraterz"
+    type: ability
+    _id: AXpLS6GrWqgFwQiy
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ''
+      specification: ''
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: >-
+        <p>Mob Ability. Whenever the Mob makes a Stealth Test, add +1 Icon to the
+        result.</p>
+      display: true
+      abilityType: ''
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ''
+        wounds: ''
+        shock: ''
+      test:
+        dn: null
+        type: ''
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!YjjErja0eMq9XHlz.AXpLS6GrWqgFwQiy'
+effects: []
+sort: 0
+ownership:
+  default: 0
+flags:
+  wrath-and-glory:
+    autoCalc:
+      defence: true
+      resilience: true
+      shock: true
+      awareness: true
+      resolve: true
+      determination: true
+      wounds: true
+      conviction: true
+    autoWounded: true
+    autoExhausted: true
+    generateMetaCurrencies: true
+_key: '!actors!YjjErja0eMq9XHlz'
