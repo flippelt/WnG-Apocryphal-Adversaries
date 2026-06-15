@@ -530,7 +530,7 @@ items:
       salvo: 3
       traits:
         - name: assault
-        - name: waaagh
+        - name: 'waaagh!'
       upgrades: []
     effects: []
     folder: null
@@ -625,7 +625,7 @@ items:
       traits:
         - name: assault
         - name: supercharge
-        - name: waaagh
+        - name: 'waaagh!'
       upgrades: []
     effects: []
     folder: null

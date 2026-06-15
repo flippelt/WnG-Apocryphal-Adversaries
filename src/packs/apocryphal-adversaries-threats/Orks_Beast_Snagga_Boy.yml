@@ -394,7 +394,7 @@ items:
       salvo: 1
       traits:
         - name: pistol
-        - name: waaagh
+        - name: 'waaagh!'
       upgrades: []
     effects: []
     folder: null
@@ -441,7 +441,7 @@ items:
       salvo: 0
       traits:
         - name: brutal
-        - name: waaagh
+        - name: 'waaagh!'
       upgrades: []
     effects: []
     folder: null
@@ -489,7 +489,7 @@ items:
       traits:
         - name: blast
           rating: 4
-        - name: waaagh
+        - name: 'waaagh!'
       upgrades: []
     effects: []
     folder: null

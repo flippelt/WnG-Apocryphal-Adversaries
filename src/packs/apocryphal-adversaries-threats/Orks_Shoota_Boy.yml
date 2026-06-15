@@ -382,7 +382,7 @@ items:
       salvo: 2
       traits:
         - name: assault
-        - name: waaagh
+        - name: 'waaagh!'
       upgrades: []
     effects: []
     folder: null
@@ -521,7 +521,7 @@ items:
       salvo: 3
       traits:
         - name: assault
-        - name: waaagh
+        - name: 'waaagh!'
       upgrades: []
     effects: []
     folder: null

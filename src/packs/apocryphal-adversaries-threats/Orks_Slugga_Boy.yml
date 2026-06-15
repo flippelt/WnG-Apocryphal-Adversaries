@@ -383,7 +383,7 @@ items:
       salvo: 1
       traits:
         - name: pistol
-        - name: waaagh
+        - name: 'waaagh!'
       upgrades: []
     effects: []
     folder: null
@@ -430,7 +430,7 @@ items:
       salvo: 0
       traits:
         - name: reliable
-        - name: waaagh
+        - name: 'waaagh!'
       upgrades: []
     effects: []
     folder: null
@@ -524,7 +524,7 @@ items:
       salvo: 3
       traits:
         - name: assault
-        - name: waaagh
+        - name: 'waaagh!'
       upgrades: []
     effects: []
     folder: null
