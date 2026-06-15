@@ -10,10 +10,18 @@ here **with his permission**.
 > Companion to the [An Abundance of Apocrypha](https://github.com/flippelt/WnG-Apocrypha-FoundryVTT)
 > module (archetypes, talents, wargear, etc.).
 >
-> ⚠️ **Recommended companion — `wng-core` (optional):** the threats use `wng-core`
-> tokens and item icons. `wng-core` is **optional** — the module installs and runs
-> without it — but **without `wng-core` those icons will be missing**. Install
-> `wng-core` for the full visual experience.
+> ⚠️ **Recommended companions — `wng-core` and `wng-apocrypha` (optional but
+> strongly advised).** Both are listed as `recommends`, so this module installs
+> and runs without them, **but elements will break without them:**
+>
+> - **`wng-core`** supplies the threats' tokens and item icons, and the **Smite**
+>   psychic power some threats link to. Without it, those icons are missing and the
+>   Smite link shows as "unlinked".
+> - **`wng-apocrypha`** supplies the Ork **WAAAGH! psychic powers** (and other
+>   shared content) that the psyker threats link to via compendium references.
+>   Without it, those linked powers show as "unlinked".
+>
+> Install both for the full, linked experience.
 
 ## Status / Progress
 
