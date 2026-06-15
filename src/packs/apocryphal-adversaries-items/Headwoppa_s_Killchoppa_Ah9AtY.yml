@@ -1,0 +1,49 @@
+name: Headwoppa's Killchoppa
+type: weapon
+_id: 40zsy5MPpQtLjaCw
+img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+folder: hOdCFg9gkphPHfVr
+sort: 0
+system:
+  quantity: 1
+  rarity: rare
+  description: <p>May replace any Beastchoppa, Big Choppa, or 'Uge Choppa. Damage adds the wielder's Strength (S+8). A dark voice drives its wielder to ever greater violence.</p>
+  value: 0
+  keywords: ""
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 8
+    bonus: 0
+    rank: none
+  ed:
+    base: 6
+    bonus: 0
+    rank: none
+  ap:
+    base: -3
+    bonus: 0
+    rank: none
+  category: melee
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 1
+    thrown: null
+  ammo: ""
+  salvo: 0
+  traits:
+    - name: mortal
+      custom: true
+      display: Mortal (1)
+    - name: waaagh!
+  upgrades: []
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!40zsy5MPpQtLjaCw"

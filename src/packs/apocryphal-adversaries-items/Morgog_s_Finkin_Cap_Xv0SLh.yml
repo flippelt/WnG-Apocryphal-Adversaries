@@ -1,0 +1,18 @@
+name: Morgog's Finkin' Cap
+type: gear
+_id: ZUpz6jzOqGuG7omj
+img: modules/wng-core/assets/icons/gear/gear.webp
+folder: hOdCFg9gkphPHfVr
+sort: 0
+system:
+  quantity: 1
+  rarity: rare
+  description: <p>(Blood Axes only.) At the start of each of this Adversary's turns, add 1 to Ruin.</p>
+  value: 0
+  keywords: ""
+  effect: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!ZUpz6jzOqGuG7omj"

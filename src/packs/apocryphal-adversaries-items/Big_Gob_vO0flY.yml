@@ -1,0 +1,17 @@
+name: Big Gob
+type: talent
+_id: wXb9yenBpBJVc4G8
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: XqFjNuqJNwuRHTkR
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>Any ability this Adversary possesses which grants a bonus to nearby allies adds +3m to its range.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!wXb9yenBpBJVc4G8"

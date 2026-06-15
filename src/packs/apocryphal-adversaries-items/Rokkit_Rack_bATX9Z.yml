@@ -1,0 +1,47 @@
+name: Rokkit Rack
+type: weapon
+_id: Lz2BVsaNIl1qoRiu
+img: modules/wng-core/assets/icons/weapons/grenade.webp
+folder: hOdCFg9gkphPHfVr
+sort: 0
+system:
+  quantity: 1
+  rarity: rare
+  description: "<p>Part of Da Krushin' Armour: fired at the target of a Charge move before charging.</p>"
+  value: 0
+  keywords: ""
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 15
+    bonus: 0
+    rank: none
+  ed:
+    base: 4
+    bonus: 0
+    rank: none
+  ap:
+    base: -2
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 6
+    medium: 12
+    long: 18
+    melee: 0
+    thrown: null
+  ammo: ""
+  salvo: 0
+  traits:
+    - name: blast
+      rating: 6
+  upgrades: []
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!Lz2BVsaNIl1qoRiu"

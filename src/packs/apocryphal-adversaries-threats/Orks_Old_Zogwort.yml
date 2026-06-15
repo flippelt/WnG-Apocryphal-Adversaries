@@ -1,0 +1,1555 @@
+folder: fIRfbMfP3ahjbc6n
+name: Old Zogwort
+type: threat
+_id: cTHZvrqtVog0oc4p
+img: modules/wng-core/assets/tokens/orks.webp
+system:
+  attributes:
+    strength:
+      label: ATTRIBUTE.STRENGTH
+      rating: 0
+      base: 8
+      bonus: 0
+      cost: 0
+      total: 0
+    toughness:
+      label: ATTRIBUTE.TOUGHNESS
+      rating: 0
+      base: 9
+      bonus: 0
+      cost: 0
+      total: 0
+    agility:
+      label: ATTRIBUTE.AGILITY
+      rating: 0
+      base: 2
+      bonus: 0
+      cost: 0
+      total: 0
+    initiative:
+      label: ATTRIBUTE.INITIATIVE
+      rating: 0
+      base: 4
+      bonus: 0
+      cost: 0
+      total: 0
+    willpower:
+      label: ATTRIBUTE.WILLPOWER
+      rating: 0
+      base: 8
+      bonus: 0
+      cost: 0
+      total: 0
+    intellect:
+      label: ATTRIBUTE.INTELLECT
+      rating: 0
+      base: 2
+      bonus: 0
+      cost: 0
+      total: 0
+    fellowship:
+      label: ATTRIBUTE.FELLOWSHIP
+      rating: 0
+      base: 2
+      bonus: 0
+      cost: 0
+      total: 0
+  skills:
+    athletics:
+      label: SKILL.ATHLETICS
+      attribute: strength
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    awareness:
+      label: SKILL.AWARENESS
+      attribute: intellect
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    ballisticSkill:
+      label: SKILL.BALLISTIC_SKILL
+      attribute: agility
+      rating: 1
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    cunning:
+      label: SKILL.CUNNING
+      attribute: fellowship
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    deception:
+      label: SKILL.DECEPTION
+      attribute: fellowship
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    insight:
+      label: SKILL.INSIGHT
+      attribute: fellowship
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    intimidation:
+      label: SKILL.INTIMIDATION
+      attribute: willpower
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    investigation:
+      label: SKILL.INVESTIGATION
+      attribute: intellect
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    leadership:
+      label: SKILL.LEADERSHIP
+      attribute: willpower
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    medicae:
+      label: SKILL.MEDICAE
+      attribute: intellect
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    persuasion:
+      label: SKILL.PERSUASION
+      attribute: fellowship
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    pilot:
+      label: SKILL.PILOT
+      attribute: agility
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    psychicMastery:
+      label: SKILL.PSYCHIC_MASTERY
+      attribute: willpower
+      rating: 5
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    scholar:
+      label: SKILL.SCHOLAR
+      attribute: intellect
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    stealth:
+      label: SKILL.STEALTH
+      attribute: agility
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    survival:
+      label: SKILL.SURVIVAL
+      attribute: willpower
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    tech:
+      label: SKILL.TECH
+      attribute: intellect
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    weaponSkill:
+      label: SKILL.WEAPON_SKILL
+      attribute: initiative
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+  combat:
+    defense:
+      bonus: 0
+      total: 0
+    defence:
+      bonus: 0
+      total: 0
+    resilience:
+      bonus: 0
+      total: 0
+    wounds:
+      value: 0
+      bonus: 0
+      max: 15
+    determination:
+      bonus: -1
+      total: 0
+    shock:
+      value: 0
+      bonus: 0
+      max: 11
+    resolve:
+      bonus: 0
+      total: 0
+    conviction:
+      bonus: 0
+      total: 0
+    size: large
+    speed: 5
+    fly: 0
+    passiveAwareness:
+      bonus: 0
+      total: 0
+    stealth: 0
+  bio:
+    species: ""
+    faction: Orks
+    archetype: ""
+    threat:
+      first: A
+      second: A
+      third: A
+      fourth: E
+      fifth: E
+  resources:
+    ruin: 0
+  corruption:
+    current: 0
+  mob: null
+  notes: <p>Old Zogwort is the greatest of all Ork Weirdboyz, having lost one eye in a blast that destroyed an entire Imperial Guard company (though he claims Mork guided him). Born under a total eclipse in a nest of bloodvipers that bit him until he bit back, no snake will touch him; he left his Feral Ork tribe with his squig-snake pets to form the Weirdwaaagh!. He knows Smite, the WAAAGH! discipline and the Beasthead discipline (all included).</p>
+prototypeToken:
+  name: Old Zogwort
+  displayName: 20
+  actorLink: false
+  appendNumber: false
+  prependAdjective: false
+  texture:
+    src: modules/wng-core/assets/tokens/orks.webp
+    scaleX: 2
+    scaleY: 2
+    offsetX: 0
+    offsetY: 0
+    rotation: 0
+  width: 2
+  height: 2
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  disposition: -1
+  displayBars: 20
+  bar1:
+    attribute: combat.wounds
+  bar2:
+    attribute: combat.shock
+  sight:
+    enabled: false
+    range: 0
+    angle: 360
+    visionMode: basic
+  detectionModes: []
+  flags: {}
+  randomImg: false
+items:
+  - name: ORK
+    type: keyword
+    _id: WxQADmuYYAOp0iWR
+    img: modules/wng-core/assets/factions/orks.svg
+    system:
+      description: <p>A brutal xenos Species that crave violence and live only for war.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!cTHZvrqtVog0oc4p.WxQADmuYYAOp0iWR"
+  - name: SNAKEBITE
+    type: keyword
+    _id: qHX0yLrMFakprYup
+    img: modules/wng-core/assets/factions/orks.svg
+    system:
+      description: <p>The old-ways Ork clan of beast-hunters who shun high technology and favour squig mounts.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!cTHZvrqtVog0oc4p.qHX0yLrMFakprYup"
+  - name: PSYKER
+    type: keyword
+    _id: 8pIyceVbiduxmcD6
+    img: modules/wng-core/assets/factions/orks.svg
+    system:
+      description: <p>A wielder of psychic powers, channelling the energies of the Warp.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!cTHZvrqtVog0oc4p.8pIyceVbiduxmcD6"
+  - name: WEIRDBOY
+    type: keyword
+    _id: ncCCEb1IyTHIIhxn
+    img: modules/wng-core/assets/factions/orks.svg
+    system:
+      description: <p>Ork psykers who act as living sponges for the ambient psychic energy of the WAAAGH!.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!cTHZvrqtVog0oc4p.ncCCEb1IyTHIIhxn"
+  - name: BEAST SNAGGA
+    type: keyword
+    _id: VMw8PyoggVN8AmLI
+    img: modules/wng-core/assets/factions/orks.svg
+    system:
+      description: <p>Ork Boyz who specialise in hunting Monstrous Creatures and Vehicles.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!cTHZvrqtVog0oc4p.VMw8PyoggVN8AmLI"
+  - name: BOSS
+    type: keyword
+    _id: AslmpGvWg5gzs7t7
+    img: modules/wng-core/assets/factions/orks.svg
+    system:
+      description: <p>A senior Ork leader who commands other Greenskins through size, strength and brutality.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!cTHZvrqtVog0oc4p.AslmpGvWg5gzs7t7"
+  - name: Ork Flak
+    type: armour
+    _id: c2pBKYxP4ORxM3b6
+    img: modules/wng-core/assets/icons/armour/armour.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: ""
+      value: 0
+      keywords: ""
+      equipped: true
+      rating: 2
+      base: 0
+      traits: []
+      invulnerable: false
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!cTHZvrqtVog0oc4p.c2pBKYxP4ORxM3b6"
+  - name: Weirdboy Staff
+    type: weapon
+    _id: Apj2H1UeROSTCl76
+    img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: <p>Reach 2.</p>
+      value: 0
+      keywords: ""
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 17
+        bonus: 0
+        rank: none
+      ed:
+        base: 1
+        bonus: 0
+        rank: none
+      ap:
+        base: -1
+        bonus: 0
+        rank: none
+      category: melee
+      range:
+        short: 0
+        medium: 0
+        long: 0
+        melee: 2
+        thrown: null
+      ammo: ""
+      salvo: 0
+      traits:
+        - name: force
+        - name: waaagh!
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!cTHZvrqtVog0oc4p.Apj2H1UeROSTCl76"
+  - name: Beast Snagga
+    type: talent
+    _id: fi8cnSMZ8ZLVHSF8
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>Add +Tier bonus dice to attacks made against enemy Monstrous Creatures and Vehicles.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!cTHZvrqtVog0oc4p.fi8cnSMZ8ZLVHSF8"
+  - name: Champion
+    type: talent
+    _id: ZFWFRJhGXr5iIGJs
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>This Threat may use Ruin Actions and has 5 Personal Ruin.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!cTHZvrqtVog0oc4p.ZFWFRJhGXr5iIGJs"
+  - name: Dakka! Dakka! Dakka!
+    type: talent
+    _id: lfKnCjcyTFg29nur
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>When the Threat makes a ranged attack at an enemy within Short range, add bonus dice equal to the weapon's Salvo rating to the attack.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!cTHZvrqtVog0oc4p.lfKnCjcyTFg29nur"
+  - name: "'Ere We Go"
+    type: talent
+    _id: rxEtT7rjGcyUckuS
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>The Threat adds +1 to its Speed when it takes the Charge action. Further, if the Threat begins its turn Engaged, then it adds +2 damage to its melee attacks.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!cTHZvrqtVog0oc4p.rxEtT7rjGcyUckuS"
+  - name: Nest of Vipers
+    type: talent
+    _id: oSldkmXvCmdAw73V
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>Anyone who begins their turn engaged with Zogwort must pass a DN 4 Agility test or suffer 1 Mortal Wound and the Poisoned 4 condition.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!cTHZvrqtVog0oc4p.oSldkmXvCmdAw73V"
+  - name: Snakebite
+    type: talent
+    _id: oeEDsXW1IK9G5w5a
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>This Threat increases its Determination by +Tier dice. In addition, SQUIGS within 6m add +Tier ED to damage rolls for melee attacks after charging.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!cTHZvrqtVog0oc4p.oeEDsXW1IK9G5w5a"
+  - name: WAAAGH! Energy
+    type: talent
+    _id: XVczEgcg66SrxA9S
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>When a WEIRDBOY attempts a Psychic Mastery test, they do not choose a Power Level. Rather, they gain one additional Wrath die for every five ORK Threats within 20m. WEIRDBOYs do not suffer Perils of the Warp, but instead suffer 1 Mortal Wound for each 1 rolled on a Wrath Die when using a Psychic Power.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!cTHZvrqtVog0oc4p.XVczEgcg66SrxA9S"
+  - name: "Battlecry: Warphead"
+    type: ability
+    _id: 4uthr2RyIHbNO5Ph
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ""
+      specification: ""
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>Zogwort makes a normal move towards the enemy, and then attempts to use a Psychic Power.</p>
+      display: true
+      abilityType: ""
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ""
+        wounds: ""
+        shock: ""
+      test:
+        dn: null
+        type: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!cTHZvrqtVog0oc4p.4uthr2RyIHbNO5Ph"
+  - name: Power of the WAAAGH!
+    type: ability
+    _id: edKrpjaK9zv802iR
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ""
+      specification: ""
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>Zogwort attempts to use @UUID[Compendium.wng-core.items.Item.n0bj5UJjgglDzFcB]{Smite}, one of the WAAAGH! psychic powers, one of the Beasthead psychic powers (all included below), or attempts to Deny the Witch.</p>
+      display: true
+      abilityType: ""
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ""
+        wounds: ""
+        shock: ""
+      test:
+        dn: null
+        type: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!cTHZvrqtVog0oc4p.edKrpjaK9zv802iR"
+  - name: "Ruin: Zogwort's Curse"
+    type: ability
+    _id: jSqAU1VoDO45umm6
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ""
+      specification: ""
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>Spend 1 Ruin as a Ruin Action. Zogwort attempts to use the Squiggly Curse psychic power on as many enemies as are in range, and may ignore up to twice the game's Tier in Multi-Target DN increases.</p>
+      display: true
+      abilityType: ""
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ""
+        wounds: ""
+        shock: ""
+      test:
+        dn: null
+        type: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!cTHZvrqtVog0oc4p.jSqAU1VoDO45umm6"
+  - name: "Determination: Irrepressible Power"
+    type: ability
+    _id: fMpssXDAi1sPcZbk
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ""
+      specification: ""
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>Spend 1 Ruin to roll 8d6. After this, Zogwort immediately uses a Psychic Power against the attacker.</p>
+      display: true
+      abilityType: determination
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ""
+        wounds: ""
+        shock: ""
+      test:
+        dn: null
+        type: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!cTHZvrqtVog0oc4p.fMpssXDAi1sPcZbk"
+  - name: "Annihilation: 'Eadbang!"
+    type: ability
+    _id: 8ZDZDNIP90WWhYys
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ""
+      specification: ""
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>If Zogwort is killed as a result of Mortal Wounds from using psychic powers, he explodes, inflicting 1d3+Tier Mortal Wounds on all ORKS within 6m.</p>
+      display: true
+      abilityType: ""
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ""
+        wounds: ""
+        shock: ""
+      test:
+        dn: null
+        type: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!cTHZvrqtVog0oc4p.8ZDZDNIP90WWhYys"
+  - name: Smite
+    type: psychicPower
+    _id: 5iN0oiDyAVL84tCP
+    img: modules/wng-core/assets/icons/powers/smite.webp
+    system:
+      dn: "@combat.defence.total"
+      type: ""
+      specification: ""
+      description: |-
+        <p>You concentrate destructive power through the lens of your will, summoning lethal bolts of raw psychic energy that blast your enemies into ash.</p>
+        <p>Target one enemy within range and make a Psychic Master (Wil) Test against their Defence. If successful, the target suffers [[/r 1d3]] Mortal Wounds.</p>
+      effect: ""
+      cost: 0
+      activation: action
+      duration: Instant
+      range: 35 m
+      multiTarget: true
+      keywords: PSYCHIC
+      prerequisites: ""
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+        ed:
+          base: 0
+          bonus: 0
+          rank: none
+          dice: ""
+        other:
+          mortal: ""
+          wounds: ""
+          shock: ""
+        enabled: true
+        otherDamage:
+          mortal: 1d3
+        dice: ""
+      potency:
+        - description: +1 Mortal Wound
+          cost: 3
+          property: damage.bonus.mortal
+          initial: ""
+          value: 1
+          single: false
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+        die:
+          one: 0
+          two: 0
+          three: 0
+          four: 1
+          five: 1
+          six: 2
+      otherDamage:
+        mortalWounds: 1d3
+        wounds: ""
+        shock: ""
+      test:
+        dn: null
+        type: ""
+      discipline: Universal
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags:
+      core:
+        sourceId: Compendium.wng-core.items.Item.n0bj5UJjgglDzFcB
+    _key: "!actors.items!cTHZvrqtVog0oc4p.5iN0oiDyAVL84tCP"
+  - name: ‘Eadbanger
+    type: psychicPower
+    _id: VSlCWP1OWxqx9XGG
+    img: modules/wng-core/assets/icons/powers/power.webp
+    system:
+      dn: "7"
+      type: ""
+      specification: ""
+      description: <p>A bolt of raw power erupts from your head and rockets across the battlefield, causing the head of the first unfortunate victim caught in its path to explode in a shower of brains and gore. This power targets the closest enemy, who must pass a Toughness test (DN 3) immediately suffer enough wounds to exceed their Max Wounds by 1.</p>
+      effect: ""
+      cost: 20
+      activation: action
+      duration: Instant
+      range: 18m
+      multiTarget: false
+      keywords: ORK, PSYCHIC
+      prerequisites: ORK
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+        die:
+          one: 0
+          two: 0
+          three: 0
+          four: 1
+          five: 1
+          six: 2
+      otherDamage:
+        mortalWounds: ""
+        wounds: ""
+        shock: ""
+      potency:
+        - description: +1 DN to the target’s Toughness test.
+          cost: 1
+          property: test.dn
+          initial: ""
+          value: 1
+          single: false
+      test:
+        dn: 3
+        type: attribute
+        specification: toughness
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags:
+      core:
+        sourceId: Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.BGdbhbzD94qO4LG1
+    _key: "!actors.items!cTHZvrqtVog0oc4p.VSlCWP1OWxqx9XGG"
+  - name: Da Jump
+    type: psychicPower
+    _id: XcrUZwN1auv7XMIM
+    img: modules/wng-core/assets/icons/powers/power.webp
+    system:
+      dn: "6"
+      type: ""
+      specification: ""
+      description: <p>You close your eyes tight and, in a storm of flashing green light, you teleport a mass of confused greenskins to another part of the battlefield. Select a number of allies with the ORK keyword equal to your Willpower within range. Those allies vanish, and then reappear moments later anywhere within 100m. They must reappear more than 9m from an enemy, and they forfeit their move in their following turn.</p>
+      effect: ""
+      cost: 15
+      activation: full
+      duration: Instant
+      range: 12m
+      multiTarget: false
+      keywords: ORK, PSYCHIC
+      prerequisites: ORK
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+        die:
+          one: 0
+          two: 0
+          three: 0
+          four: 1
+          five: 1
+          six: 2
+      otherDamage:
+        mortalWounds: ""
+        wounds: ""
+        shock: ""
+      potency:
+        - description: " Affect an additional number of allies equal to your Willpower."
+          cost: 2
+          property: ""
+          initial: ""
+          value: ""
+          single: true
+        - description: Activation reduced to an Action
+          cost: 2
+          property: ""
+          initial: ""
+          value: ""
+          single: true
+      test:
+        dn: null
+        type: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags:
+      core:
+        sourceId: Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.kBmLF6JgH3BxRUM8
+    _key: "!actors.items!cTHZvrqtVog0oc4p.XcrUZwN1auv7XMIM"
+  - name: Da Krunch
+    type: psychicPower
+    _id: 3VNZf5D7qoTDzUVV
+    img: modules/wng-core/assets/icons/powers/power.webp
+    system:
+      dn: "7"
+      type: ""
+      specification: ""
+      description: "<p>Green energies erupt from your eyes, ears, nose, and mouth, and coalesce into a roiling cloud above the enemy. That cloud then solidifies into the vast green foot of Gork (or Mork) himself, which commences to stamp down upon the foe. This power affects all enemies in a Blast (6) within range. Affected enemies take 1d3 Mortal Wounds and are knocked prone. Foes who were already prone become staggered as well. Then, roll a d6: on an Exalted Icon, repeat the power’s effects (repositioning the blast as desired) as the foot stamps down again.</p>"
+      effect: ""
+      cost: 15
+      activation: action
+      duration: Instant
+      range: 18m
+      multiTarget: false
+      keywords: ORK, PSYCHIC
+      prerequisites: ORK
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+        die:
+          one: 0
+          two: 0
+          three: 0
+          four: 1
+          five: 1
+          six: 2
+      otherDamage:
+        mortalWounds: 1d3
+        wounds: ""
+        shock: ""
+      potency:
+        - description: +1 Mortal Wound.
+          cost: 2
+          property: damage.other.mortalWounds.bonus
+          initial: ""
+          value: 1
+          single: false
+        - description: +1 on the roll to repeat the effect
+          cost: 2
+          property: ""
+          initial: ""
+          value: ""
+          single: false
+        - description: Roll to repeat the power’s effects an additional time.
+          cost: 3
+          property: ""
+          initial: ""
+          value: ""
+          single: false
+      test:
+        dn: null
+        type: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags:
+      core:
+        sourceId: Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.iBR5Lybm48Ro4QIV
+    _key: "!actors.items!cTHZvrqtVog0oc4p.3VNZf5D7qoTDzUVV"
+  - name: Fists of Gork
+    type: psychicPower
+    _id: 77H67nybkQpOCc5x
+    img: modules/wng-core/assets/icons/powers/power.webp
+    system:
+      dn: "5"
+      type: ""
+      specification: ""
+      description: <p>You channel Waaagh energy into your own fists or those of another Ork, providing strength enough to punch through the armour of tanks. This power affects you or one ally with the ORK keyword within range. Until the end of your next turn, the affected character’s Strength is increased by +4 and they receive +2 bonus dice on all melee attacks.</p>
+      effect: ""
+      cost: 8
+      activation: action
+      duration: 1 Round
+      range: 12m
+      multiTarget: false
+      keywords: ORK, PSYCHIC
+      prerequisites: ORK
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+        die:
+          one: 0
+          two: 0
+          three: 0
+          four: 1
+          five: 1
+          six: 2
+      otherDamage:
+        mortalWounds: ""
+        wounds: ""
+        shock: ""
+      potency:
+        - description: +1 Strength
+          cost: 1
+          property: str
+          initial: 4
+          value: 1
+          single: false
+        - description: +1ED damage on melee attacks
+          cost: 1
+          property: melee
+          initial: 2
+          value: 1
+          single: false
+        - description: Activation reduced to a Simple Action
+          cost: 2
+          property: ""
+          initial: ""
+          value: ""
+          single: true
+      test:
+        dn: null
+        type: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags:
+      core:
+        sourceId: Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.uowv3XpccWPOUVTh
+    _key: "!actors.items!cTHZvrqtVog0oc4p.77H67nybkQpOCc5x"
+  - name: Roar of Mork
+    type: psychicPower
+    _id: 5peX14uJB7wgWYm8
+    img: modules/wng-core/assets/icons/powers/power.webp
+    system:
+      dn: "7"
+      type: ""
+      specification: ""
+      description: <p>You open your gob impossibly wide and give vent to a bellowing roar that reverberates through your enemies’ minds. Coherent thought becomes nigh-impossible, and as the roar thunders on, panic begins to spread. While this power remains in effect, all enemies within range add +2 DN to all Resolve tests.</p>
+      effect: ""
+      cost: 15
+      activation: full
+      duration: Sustained
+      range: 18m
+      multiTarget: false
+      keywords: ORK, TELEPATHY ,PSYCHIC
+      prerequisites: ORK
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+        die:
+          one: 0
+          two: 0
+          three: 0
+          four: 1
+          five: 1
+          six: 2
+      otherDamage:
+        mortalWounds: ""
+        wounds: ""
+        shock: ""
+      potency:
+        - description: +1 DN
+          cost: 1
+          property: dif
+          initial: 2
+          value: 1
+          single: false
+        - description: "Enemies within range must make a Resolve test (DN 3) or become pinned. "
+          cost: 3
+          property: ""
+          initial: ""
+          value: ""
+          single: true
+      test:
+        dn: 3
+        type: resolve
+        specification: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags:
+      core:
+        sourceId: Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.NbSNQBcWdcTpkbbz
+    _key: "!actors.items!cTHZvrqtVog0oc4p.5peX14uJB7wgWYm8"
+  - name: Warpath
+    type: psychicPower
+    _id: 2fACnji88Jr7pGbm
+    img: modules/wng-core/assets/icons/powers/power.webp
+    system:
+      dn: "6"
+      type: ""
+      specification: ""
+      description: <p>You disperse the Waaagh energy coursing through your frame into the Ork warriors around you, stoking their already bellicose nature into a roaring fever pitch. Select a number of allies with the ORK keyword equal to your Willpower within range. The affected allies add +2 bonus dice to all melee attacks they attempt until the start of your next turn, and they may ignore up to 2 points of DN increase for taking the Multi-Attack or Multi-Action options</p>
+      effect: ""
+      cost: 15
+      activation: action
+      duration: 1 Round
+      range: 18m
+      multiTarget: false
+      keywords: ORK, PSYCHIC
+      prerequisites: ORK
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+        die:
+          one: 0
+          two: 0
+          three: 0
+          four: 1
+          five: 1
+          six: 2
+      otherDamage:
+        mortalWounds: ""
+        wounds: ""
+        shock: ""
+      potency:
+        - description: Increase DN reduction by 1.
+          cost: 1
+          property: ""
+          initial: ""
+          value: ""
+          single: false
+        - description: +1 bonus dice to melee attacks.
+          cost: 1
+          property: bon
+          initial: 2
+          value: 1
+          single: false
+        - description: Affect an number of additional allies equal to your Willpower.
+          cost: 2
+          property: ""
+          initial: ""
+          value: ""
+          single: false
+      test:
+        dn: null
+        type: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags:
+      core:
+        sourceId: Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.8eaISqdfeMKtOJgi
+    _key: "!actors.items!cTHZvrqtVog0oc4p.2fACnji88Jr7pGbm"
+  - name: Beastscent
+    type: psychicPower
+    _id: uaGXJ4sjn1S9EcQJ
+    img: modules/wng-core/assets/icons/powers/power.webp
+    system:
+      dn: "4"
+      type: ""
+      specification: ""
+      description: <p>A faint green glow emanates from nearby enemies, telling the Wurrboy's fellow hunters where to find them. Select a group of enemies within Blast (6) that you can see; until the start of the Wurrboy's next turn, they gain no benefit from cover against attacks from BEAST SNAGGA Threats.</p>
+      effect: ""
+      cost: 0
+      activation: action
+      duration: 1 Round
+      range: 18m
+      multiTarget: false
+      keywords: BEAST SNAGGA, PSYCHIC
+      prerequisites: ORK, BEAST SNAGGA
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+        die:
+          one: 0
+          two: 0
+          three: 0
+          four: 0
+          five: 0
+          six: 0
+      otherDamage:
+        mortalWounds: ""
+        wounds: ""
+        shock: ""
+      potency:
+        - description: +2 to the rating of the Blast.
+          cost: 2
+          property: ""
+          initial: ""
+          value: ""
+          single: true
+      test:
+        dn: null
+        type: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!cTHZvrqtVog0oc4p.uaGXJ4sjn1S9EcQJ"
+  - name: Bitin' Jaws
+    type: psychicPower
+    _id: kExfjHsobY5kZPgT
+    img: modules/wng-core/assets/icons/powers/power.webp
+    system:
+      dn: "5"
+      type: ""
+      specification: ""
+      description: <p>Enormous green jaws surge towards the enemy. Draw a straight line from the Wurrboy to a single enemy within range and line of sight. Each enemy along that line suffers 1d3 Mortal Wounds.</p>
+      effect: ""
+      cost: 0
+      activation: action
+      duration: Instant
+      range: 18m
+      multiTarget: false
+      keywords: BEAST SNAGGA, PSYCHIC
+      prerequisites: ORK, BEAST SNAGGA
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+        die:
+          one: 0
+          two: 0
+          three: 0
+          four: 0
+          five: 0
+          six: 0
+      otherDamage:
+        mortalWounds: 1d3
+        wounds: ""
+        shock: ""
+      potency:
+        - description: +1 Mortal Wound inflicted by the power.
+          cost: 3
+          property: ""
+          initial: ""
+          value: ""
+          single: true
+      test:
+        dn: null
+        type: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!cTHZvrqtVog0oc4p.kExfjHsobY5kZPgT"
+  - name: Frazzle
+    type: psychicPower
+    _id: XdxFNdUJ8bottxYi
+    img: modules/wng-core/assets/icons/powers/power.webp
+    system:
+      dn: "5"
+      type: ""
+      specification: ""
+      description: "<p>A wave of crackling energy reduces nearby foes to husks. Roll 1d6 for each enemy within range: for each Icon, that enemy suffers Mortal Wounds equal to the game's Tier; for each Exalted Icon, the enemy instead suffers 1d3+Tier Mortal Wounds.</p>"
+      effect: ""
+      cost: 0
+      activation: action
+      duration: Instant
+      range: 9m
+      multiTarget: false
+      keywords: BEAST SNAGGA, PSYCHIC
+      prerequisites: ORK, BEAST SNAGGA
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+        die:
+          one: 0
+          two: 0
+          three: 0
+          four: 0
+          five: 0
+          six: 0
+      otherDamage:
+        mortalWounds: ""
+        wounds: ""
+        shock: ""
+      potency:
+        - description: Add +1 to the result of each d6 rolled.
+          cost: 3
+          property: ""
+          initial: ""
+          value: ""
+          single: true
+      test:
+        dn: null
+        type: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!cTHZvrqtVog0oc4p.XdxFNdUJ8bottxYi"
+  - name: Roar of Mork
+    type: psychicPower
+    _id: ugfTGtVbI1MnvZOp
+    img: modules/wng-core/assets/icons/powers/power.webp
+    system:
+      dn: "5"
+      type: ""
+      specification: ""
+      description: <p>While this power remains in effect, all enemies within 18m and visible to the Wurrboy reduce their Speed by 1 when they Run, Charge, or Sprint, and add +1 to the DN of all Resolve tests.</p>
+      effect: ""
+      cost: 0
+      activation: action
+      duration: Sustained
+      range: Self
+      multiTarget: false
+      keywords: BEAST SNAGGA, PSYCHIC
+      prerequisites: ORK, BEAST SNAGGA
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+        die:
+          one: 0
+          two: 0
+          three: 0
+          four: 0
+          five: 0
+          six: 0
+      otherDamage:
+        mortalWounds: ""
+        wounds: ""
+        shock: ""
+      potency:
+        - description: The penalty to Speed increases by 1.
+          cost: 2
+          property: ""
+          initial: ""
+          value: ""
+          single: true
+        - description: The DN increase to Resolve tests increases by +1.
+          cost: 1
+          property: ""
+          initial: ""
+          value: ""
+          single: true
+      test:
+        dn: null
+        type: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!cTHZvrqtVog0oc4p.ugfTGtVbI1MnvZOp"
+  - name: Spirit of Gork
+    type: psychicPower
+    _id: a40Q8RISPU7hTRFV
+    img: modules/wng-core/assets/icons/powers/power.webp
+    system:
+      dn: "5"
+      type: ""
+      specification: ""
+      description: <p>Select a number of SQUIGS within range equal to the Wurrboy's Willpower. Until the start of the Wurrboy's next turn, they add +2 dice to all melee attacks and gain the Mortal (1) quality on their bite attack.</p>
+      effect: ""
+      cost: 0
+      activation: action
+      duration: 1 Round
+      range: 12m
+      multiTarget: false
+      keywords: BEAST SNAGGA, PSYCHIC
+      prerequisites: ORK, BEAST SNAGGA
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+        die:
+          one: 0
+          two: 0
+          three: 0
+          four: 0
+          five: 0
+          six: 0
+      otherDamage:
+        mortalWounds: ""
+        wounds: ""
+        shock: ""
+      potency:
+        - description: The bonus to melee attacks increases by +1.
+          cost: 2
+          property: ""
+          initial: ""
+          value: ""
+          single: true
+        - description: The power lasts one additional turn.
+          cost: 2
+          property: ""
+          initial: ""
+          value: ""
+          single: true
+      test:
+        dn: null
+        type: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!cTHZvrqtVog0oc4p.a40Q8RISPU7hTRFV"
+  - name: Squiggly Curse
+    type: psychicPower
+    _id: 8N6vY93nCj2LYoPC
+    img: modules/wng-core/assets/icons/powers/power.webp
+    system:
+      dn: ""
+      type: ""
+      specification: ""
+      description: "<p>DN: the target's Toughness. The target suffers 1d3+Tier Mortal Wounds; if a creature suffers more than their Maximum Wounds from this, they are immediately transformed into an Attack Squig.</p>"
+      effect: ""
+      cost: 0
+      activation: action
+      duration: Instant
+      range: 12m
+      multiTarget: true
+      keywords: BEAST SNAGGA, PSYCHIC
+      prerequisites: ORK, BEAST SNAGGA
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+        die:
+          one: 0
+          two: 0
+          three: 0
+          four: 0
+          five: 0
+          six: 0
+      otherDamage:
+        mortalWounds: 1d3+Tier
+        wounds: ""
+        shock: ""
+      potency:
+        - description: The number of Mortal Wounds inflicted increases by +1.
+          cost: 3
+          property: ""
+          initial: ""
+          value: ""
+          single: true
+      test:
+        dn: null
+        type: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!cTHZvrqtVog0oc4p.8N6vY93nCj2LYoPC"
+effects: []
+sort: 0
+ownership:
+  default: 0
+flags:
+  wrath-and-glory:
+    autoCalc:
+      defence: true
+      resilience: true
+      shock: true
+      awareness: true
+      resolve: true
+      determination: true
+      wounds: true
+      conviction: true
+    autoWounded: true
+    autoExhausted: true
+    generateMetaCurrencies: true
+_key: "!actors!cTHZvrqtVog0oc4p"

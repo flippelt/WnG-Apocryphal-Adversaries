@@ -1,0 +1,18 @@
+name: Da Irongob
+type: gear
+_id: IHph7v6YDeyEboOR
+img: modules/wng-core/assets/icons/gear/gear.webp
+folder: hOdCFg9gkphPHfVr
+sort: 0
+system:
+  quantity: 1
+  rarity: rare
+  description: "<p>(Goffs only.) The Adversary gains +1 Resilience and +1 to Intimidation. In addition, at the end of a round, select one enemy the Adversary is engaged with: that enemy suffers 1d3 Mortal Wounds and is Staggered.</p>"
+  value: 0
+  keywords: ""
+  effect: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!IHph7v6YDeyEboOR"

@@ -1,0 +1,17 @@
+name: Roadkilla
+type: talent
+_id: jwO1uIkdvOh3kzrg
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: XqFjNuqJNwuRHTkR
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>(Speed Freeks.) When this Adversary moves within 1m of an enemy while they are the PILOT or CREW of a vehicle, spend 1 Ruin to have that enemy suffer 1d3 Mortal Wounds and be knocked Prone.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!jwO1uIkdvOh3kzrg"

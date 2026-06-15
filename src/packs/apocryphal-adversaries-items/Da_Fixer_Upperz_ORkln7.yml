@@ -1,0 +1,18 @@
+name: Da Fixer Upperz
+type: gear
+_id: Z6i7CesO9B1RY7Fq
+img: modules/wng-core/assets/icons/gear/gear.webp
+folder: hOdCFg9gkphPHfVr
+sort: 0
+system:
+  quantity: 1
+  rarity: rare
+  description: <p>(Deathskulls Mek only.) Each time the Adversary uses their Mekaniak ability and there is an enemy Vehicle within 12m, a successful test restores 1d3 additional Wounds to the vehicle or KAN being repaired and inflicts the same number of Mortal Wounds on the enemy vehicle.</p>
+  value: 0
+  keywords: ""
+  effect: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!Z6i7CesO9B1RY7Fq"

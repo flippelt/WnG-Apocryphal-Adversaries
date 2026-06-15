@@ -1,0 +1,17 @@
+name: Faster Than Yooz
+type: talent
+_id: QYl5oG9LZjkNtKOa
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: XqFjNuqJNwuRHTkR
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>(Evil Sunz.) As a Simple Action, this Adversary may select an allied EVIL SUNZ ORK mob, or up to 5 EVIL SUNZ ORK Elites within 6m. Until the start of the Adversary's next turn, the selected Threat(s) may Fall Back as a Simple Action and triple their Speed when they Charge, rather than doubling it.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!QYl5oG9LZjkNtKOa"

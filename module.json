@@ -53,6 +53,17 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
+    },
+    {
+      "name": "apocryphal-adversaries-items",
+      "label": "Apocryphal Adversaries - Items",
+      "path": "packs/apocryphal-adversaries-items",
+      "type": "Item",
+      "system": "wrath-and-glory",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     }
   ],
   "packFolders": [
@@ -61,7 +72,8 @@
       "sorting": "m",
       "color": "#3a1a1a",
       "packs": [
-        "apocryphal-adversaries-threats"
+        "apocryphal-adversaries-threats",
+        "apocryphal-adversaries-items"
       ]
     }
   ],

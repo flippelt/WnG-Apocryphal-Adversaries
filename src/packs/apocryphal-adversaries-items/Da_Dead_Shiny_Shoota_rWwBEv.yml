@@ -1,0 +1,48 @@
+name: Da Dead Shiny Shoota
+type: weapon
+_id: xPIzaVedDEpr5JVK
+img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+folder: hOdCFg9gkphPHfVr
+sort: 0
+system:
+  quantity: 1
+  rarity: rare
+  description: <p>May replace any Kustom Shoota. A double-barrelled brute packed full of dakka.</p>
+  value: 0
+  keywords: ""
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 12
+    bonus: 0
+    rank: none
+  ed:
+    base: 2
+    bonus: 0
+    rank: none
+  ap:
+    base: -1
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 9
+    medium: 18
+    long: 27
+    melee: 0
+    thrown: null
+  ammo: ""
+  salvo: 10
+  traits:
+    - name: rapidFire
+      rating: 5
+    - name: waaagh!
+  upgrades: []
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!xPIzaVedDEpr5JVK"

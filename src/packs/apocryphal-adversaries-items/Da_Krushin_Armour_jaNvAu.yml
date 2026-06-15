@@ -1,0 +1,23 @@
+name: Da Krushin' Armour
+type: armour
+_id: k3PDqrVTrB1FMDBf
+img: modules/wng-core/assets/icons/armour/armour.webp
+folder: hOdCFg9gkphPHfVr
+sort: 0
+system:
+  quantity: 1
+  rarity: rare
+  description: <p>Replaces the wearer's Mega Armour. The AP of an attack cannot reduce the wearer's AR below 4. Further, when the Adversary makes a Charge move, he may fire off a barrage of rokkits (the Rokkit Rack profile) at the target before making the Charge move.</p>
+  value: 0
+  keywords: ""
+  equipped: false
+  rating: 9
+  base: 0
+  traits:
+    - name: cumbersome
+  invulnerable: false
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!k3PDqrVTrB1FMDBf"

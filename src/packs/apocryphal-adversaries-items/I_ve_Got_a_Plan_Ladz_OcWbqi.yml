@@ -1,0 +1,17 @@
+name: I've Got a Plan Ladz!
+type: talent
+_id: 6tZ9wW0k7wpfbq5j
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: XqFjNuqJNwuRHTkR
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>(Blood Axes.) At the start of a scene, the Adversary chooses a number of BLOOD AXE ORK Threats or Mobs on the battlefield equal to his Intellect. Each one may move up to their Speed.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!6tZ9wW0k7wpfbq5j"

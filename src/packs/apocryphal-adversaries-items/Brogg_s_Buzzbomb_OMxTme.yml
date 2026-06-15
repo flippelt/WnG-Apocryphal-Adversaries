@@ -1,0 +1,53 @@
+name: Brogg's Buzzbomb
+type: weapon
+_id: LJFAvijbV2bsiJ6C
+img: modules/wng-core/assets/icons/weapons/grenade.webp
+folder: hOdCFg9gkphPHfVr
+sort: 0
+system:
+  quantity: 1
+  rarity: rare
+  description: <p>(Snakebites only.) A single grenade. Thrown range Strength x4. Sends enraged buzzer squigs through the enemy lines.</p>
+  value: 0
+  keywords: ""
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 12
+    bonus: 0
+    rank: none
+  ed:
+    base: 3
+    bonus: 0
+    rank: none
+  ap:
+    base: -1
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 0
+    thrown: null
+  ammo: ""
+  salvo: 0
+  traits:
+    - name: blast
+      rating: 10
+    - name: indirect
+      custom: true
+      display: Indirect
+    - name: mortal
+      custom: true
+      display: Mortal (1)
+  upgrades: []
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!LJFAvijbV2bsiJ6C"

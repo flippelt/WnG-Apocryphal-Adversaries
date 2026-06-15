@@ -1,0 +1,41 @@
+name: Kunnin' but Brutal
+type: ability
+_id: e4U08JSarTS7wpnE
+img: modules/wng-core/assets/icons/abilities/ability.webp
+folder: XqFjNuqJNwuRHTkR
+sort: 0
+system:
+  dn: 0
+  type: ""
+  specification: ""
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>Reaction. When this Adversary is charged, he may spend 1 Ruin as a Reflexive Action to immediately make a melee attack against the charging enemy, before the charging enemy's attack is resolved.</p>
+  display: true
+  abilityType: ""
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ""
+    wounds: ""
+    shock: ""
+  test:
+    dn: null
+    type: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!e4U08JSarTS7wpnE"

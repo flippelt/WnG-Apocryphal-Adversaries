@@ -1,0 +1,17 @@
+name: Half-Chewed
+type: talent
+_id: KayMsBlArz4yBO9O
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: XqFjNuqJNwuRHTkR
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>(Beast Snagga.) When this Adversary rolls Determination, it no longer suffers Shock for each Wound cancelled.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!KayMsBlArz4yBO9O"

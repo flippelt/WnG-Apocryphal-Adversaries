@@ -1,0 +1,47 @@
+name: Da Killa Klaw
+type: weapon
+_id: vS16dWGo9yGlo6Gz
+img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+folder: hOdCFg9gkphPHfVr
+sort: 0
+system:
+  quantity: 1
+  rarity: rare
+  description: <p>May replace any Power Klaw. Damage adds the wielder's Strength (S+6).</p>
+  value: 0
+  keywords: ""
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 6
+    bonus: 0
+    rank: none
+  ed:
+    base: 7
+    bonus: 0
+    rank: none
+  ap:
+    base: -4
+    bonus: 0
+    rank: none
+  category: melee
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 1
+    thrown: null
+  ammo: ""
+  salvo: 0
+  traits:
+    - name: brutal
+    - name: waaagh!
+  upgrades: []
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!vS16dWGo9yGlo6Gz"

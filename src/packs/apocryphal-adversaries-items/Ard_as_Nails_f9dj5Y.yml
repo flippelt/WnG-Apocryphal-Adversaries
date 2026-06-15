@@ -1,0 +1,17 @@
+name: "'Ard as Nails"
+type: talent
+_id: 5P15K69SwEn6W6WS
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: XqFjNuqJNwuRHTkR
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>Each time an attack is made that targets this Adversary, reduce the number of ED rolled for that attack's damage, to a minimum of 1ED.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!5P15K69SwEn6W6WS"

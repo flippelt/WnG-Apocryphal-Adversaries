@@ -1,0 +1,17 @@
+name: Proper Killy
+type: talent
+_id: gUyJevWZlqO31pss
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: XqFjNuqJNwuRHTkR
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>(Goffs.) The melee weapons this Adversary wields have their AP improved by 1 (e.g. from AP -2 to AP -3). In addition, when the Adversary makes a multi-Attack, they reduce the DN penalty by an amount equal to the game's Tier.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!gUyJevWZlqO31pss"
