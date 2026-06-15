@@ -1,0 +1,790 @@
+folder: fIRfbMfP3ahjbc6n
+name: Mad Dok Grotsnik
+type: threat
+_id: well3ozbjt4VRwwB
+img: modules/wng-core/assets/tokens/orks.webp
+system:
+  attributes:
+    strength:
+      label: ATTRIBUTE.STRENGTH
+      rating: 0
+      base: 9
+      bonus: 0
+      cost: 0
+      total: 0
+    toughness:
+      label: ATTRIBUTE.TOUGHNESS
+      rating: 0
+      base: 9
+      bonus: 0
+      cost: 0
+      total: 0
+    agility:
+      label: ATTRIBUTE.AGILITY
+      rating: 0
+      base: 3
+      bonus: 0
+      cost: 0
+      total: 0
+    initiative:
+      label: ATTRIBUTE.INITIATIVE
+      rating: 0
+      base: 4
+      bonus: 0
+      cost: 0
+      total: 0
+    willpower:
+      label: ATTRIBUTE.WILLPOWER
+      rating: 0
+      base: 4
+      bonus: 0
+      cost: 0
+      total: 0
+    intellect:
+      label: ATTRIBUTE.INTELLECT
+      rating: 0
+      base: 5
+      bonus: 0
+      cost: 0
+      total: 0
+    fellowship:
+      label: ATTRIBUTE.FELLOWSHIP
+      rating: 0
+      base: 2
+      bonus: 0
+      cost: 0
+      total: 0
+  skills:
+    athletics:
+      label: SKILL.ATHLETICS
+      attribute: strength
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    awareness:
+      label: SKILL.AWARENESS
+      attribute: intellect
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    ballisticSkill:
+      label: SKILL.BALLISTIC_SKILL
+      attribute: agility
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    cunning:
+      label: SKILL.CUNNING
+      attribute: fellowship
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    deception:
+      label: SKILL.DECEPTION
+      attribute: fellowship
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    insight:
+      label: SKILL.INSIGHT
+      attribute: fellowship
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    intimidation:
+      label: SKILL.INTIMIDATION
+      attribute: willpower
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    investigation:
+      label: SKILL.INVESTIGATION
+      attribute: intellect
+      rating: 1
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    leadership:
+      label: SKILL.LEADERSHIP
+      attribute: willpower
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    medicae:
+      label: SKILL.MEDICAE
+      attribute: intellect
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    persuasion:
+      label: SKILL.PERSUASION
+      attribute: fellowship
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    pilot:
+      label: SKILL.PILOT
+      attribute: agility
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    psychicMastery:
+      label: SKILL.PSYCHIC_MASTERY
+      attribute: willpower
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    scholar:
+      label: SKILL.SCHOLAR
+      attribute: intellect
+      rating: 1
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    stealth:
+      label: SKILL.STEALTH
+      attribute: agility
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    survival:
+      label: SKILL.SURVIVAL
+      attribute: willpower
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    tech:
+      label: SKILL.TECH
+      attribute: intellect
+      rating: 1
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    weaponSkill:
+      label: SKILL.WEAPON_SKILL
+      attribute: initiative
+      rating: 6
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+  combat:
+    defense:
+      bonus: 0
+      total: 0
+    defence:
+      bonus: 0
+      total: 0
+    resilience:
+      bonus: 1
+      total: 0
+    wounds:
+      value: 0
+      bonus: 0
+      max: 12
+    determination:
+      bonus: 1
+      total: 0
+    shock:
+      value: 0
+      bonus: 0
+      max: 6
+    resolve:
+      bonus: 0
+      total: 0
+    conviction:
+      bonus: 0
+      total: 0
+    size: average
+    speed: 5
+    fly: 0
+    passiveAwareness:
+      bonus: -1
+      total: 0
+    stealth: 0
+  bio:
+    species: ''
+    faction: Orks
+    archetype: ''
+    threat:
+      first: A
+      second: A
+      third: A
+      fourth: E
+      fifth: E
+  resources:
+    ruin: 0
+  corruption:
+    current: 0
+  mob: null
+  notes: >-
+    <p>Grotsnik, also known as Mad Dok Grotsnik, was once a Painboy of some skill,
+    now all but berserk with the desire to do harm to others &mdash; the most
+    bloodthirsty and deranged of an unhinged breed. He rose to prominence as the
+    personal Dok of Ghazghkull Thraka, credited with opening up the future
+    Warlord's mind to the messages of Gork and Mork. Raving and screaming, he
+    leads the charge at an all-out sprint, desperate to sink needles and blades
+    into unwilling flesh; his chief value these days is as a frenzied
+    whirlwind in the press of battle, though he can still rein himself in to save
+    Ghazghkull's life.</p>
+prototypeToken:
+  name: Mad Dok Grotsnik
+  displayName: 20
+  actorLink: false
+  appendNumber: false
+  prependAdjective: false
+  texture:
+    src: modules/wng-core/assets/tokens/orks.webp
+    scaleX: 1
+    scaleY: 1
+    offsetX: 0
+    offsetY: 0
+    rotation: 0
+  width: 1
+  height: 1
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  disposition: -1
+  displayBars: 20
+  bar1:
+    attribute: combat.wounds
+  bar2:
+    attribute: combat.shock
+  sight:
+    enabled: false
+    range: 0
+    angle: 360
+    visionMode: basic
+  detectionModes: []
+  flags: {}
+  randomImg: false
+items:
+  - name: ORK
+    type: keyword
+    _id: GoU0c3xTbfq6hZlj
+    img: modules/wng-core/assets/factions/orks.svg
+    system:
+      description: >-
+        <p>A brutal xenos Species that crave violence and live only for war.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!well3ozbjt4VRwwB.GoU0c3xTbfq6hZlj'
+  - name: DEATHSKULLZ
+    type: keyword
+    _id: rQmJvzZpJFXyzNyb
+    img: modules/wng-core/assets/factions/orks.svg
+    system:
+      description: >-
+        <p>The looting, superstitious Ork clan who daub themselves blue for luck
+        and scavenge the best gear from the battlefield.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!well3ozbjt4VRwwB.rQmJvzZpJFXyzNyb'
+  - name: DOK
+    type: keyword
+    _id: xqw8JA1pxKPcTUTL
+    img: modules/wng-core/assets/factions/orks.svg
+    system:
+      description: >-
+        <p>Ork Oddboyz who practise the crude, brutal Greenskin arts of surgery
+        and bionik-fitting.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!well3ozbjt4VRwwB.xqw8JA1pxKPcTUTL'
+  - name: Bioniks
+    type: armour
+    _id: iLu9O7CAGHFFbkLq
+    img: modules/wng-core/assets/icons/armour/armour.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: '<p>Crude cybernetic implants and plating grafted on by the Dok himself.</p>'
+      value: 0
+      keywords: ''
+      equipped: true
+      rating: 4
+      base: 0
+      traits: []
+      invulnerable: false
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!well3ozbjt4VRwwB.iLu9O7CAGHFFbkLq'
+  - name: Power Klaw
+    type: weapon
+    _id: qRKhsVW37O6iXMtn
+    img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: ''
+      value: 0
+      keywords: ''
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 15
+        bonus: 0
+        rank: none
+      ed:
+        base: 5
+        bonus: 0
+        rank: none
+      ap:
+        base: -3
+        bonus: 0
+        rank: none
+      category: melee
+      range:
+        short: 0
+        medium: 0
+        long: 0
+        melee: 1
+        thrown: null
+      ammo: ''
+      salvo: 0
+      traits:
+        - name: brutal
+        - name: unwieldy
+          rating: 3
+        - name: 'waaagh!'
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!well3ozbjt4VRwwB.qRKhsVW37O6iXMtn'
+  - name: "'Urty Syringe"
+    type: weapon
+    _id: aIK4rT84rRKOKadj
+    img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: ''
+      value: 0
+      keywords: ''
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 13
+        bonus: 0
+        rank: none
+      ed:
+        base: 4
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      category: melee
+      range:
+        short: 0
+        medium: 0
+        long: 0
+        melee: 1
+        thrown: null
+      ammo: ''
+      salvo: 0
+      traits:
+        - name: careful
+          custom: true
+          display: Careful
+        - name: inflict
+          rating: Poisoned 4
+        - name: 'waaagh!'
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!well3ozbjt4VRwwB.aIK4rT84rRKOKadj'
+  - name: Slugga
+    type: weapon
+    _id: hpNWjpCgQJEKoUJX
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: ''
+      value: 0
+      keywords: ''
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 10
+        bonus: 0
+        rank: none
+      ed:
+        base: 6
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 6
+        medium: 12
+        long: 18
+        melee: 0
+        thrown: null
+      ammo: ''
+      salvo: 1
+      traits:
+        - name: pistol
+        - name: 'waaagh!'
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!well3ozbjt4VRwwB.hpNWjpCgQJEKoUJX'
+  - name: Bad Influence
+    type: talent
+    _id: aBEgKUlnuWNbqtvF
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: >-
+        <p>ORKS within 6m of Grotsnik may become Frenzied as a Simple Action.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!well3ozbjt4VRwwB.aBEgKUlnuWNbqtvF'
+  - name: Champion
+    type: talent
+    _id: MEHEDdp8jIhr4XFc
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: >-
+        <p>This Threat may use Ruin Actions and has 4 Personal Ruin.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!well3ozbjt4VRwwB.MEHEDdp8jIhr4XFc'
+  - name: Dakka! Dakka! Dakka!
+    type: talent
+    _id: YlNSDjvsqKjPplki
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: >-
+        <p>When the Threat makes a ranged attack at an enemy within Short range,
+        add bonus dice equal to the weapon's Salvo rating to the attack.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!well3ozbjt4VRwwB.YlNSDjvsqKjPplki'
+  - name: Deathskullz
+    type: talent
+    _id: 9rQz2NUvPiLc1OmM
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: >-
+        <p>Grotsnik's Resilience is increased by +1, and he rolls +1 die for
+        Determination (both included). Further, the Threat may re-roll a single die
+        on any attack, skill test, or damage roll.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!well3ozbjt4VRwwB.9rQz2NUvPiLc1OmM'
+  - name: "'Ere We Go"
+    type: talent
+    _id: getlpkwQsB0pjR2V
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: >-
+        <p>The Threat adds +1 to its Speed when it takes the Charge action.
+        Further, if the Threat begins its turn Engaged, then it adds +2 damage to
+        its melee attacks.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!well3ozbjt4VRwwB.getlpkwQsB0pjR2V'
+  - name: Mob Rule
+    type: talent
+    _id: 51p9Wc8vGR2WPuk4
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: >-
+        <p>Orks gain 1 Icon on all Resolve tests for every 10 Ork Threats present
+        on the battlefield.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!well3ozbjt4VRwwB.51p9Wc8vGR2WPuk4'
+  - name: One Scalpel Short of a Medpack
+    type: talent
+    _id: Ls10QP6oKsyQprr7
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: >-
+        <p>At the beginning of each of Grotsnik's turns, roll a d6. On a 1, 2, or 3,
+        Grotsnik is Frenzied that turn.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!well3ozbjt4VRwwB.Ls10QP6oKsyQprr7'
+  - name: Sawbones
+    type: ability
+    _id: 2mfLeOfx5thPsciQ
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ''
+      specification: ''
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: >-
+        <p>Grotsnik attempts a DN 3 Medicae test to heal an ORK within 1m. If
+        successful, the patient regains 1d3+Tier Wounds, +1 per Exalted Icon
+        rolled. If the test is failed, the patient suffers 1d3 Mortal Wounds
+        instead.</p>
+      display: true
+      abilityType: ''
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ''
+        wounds: ''
+        shock: ''
+      test:
+        dn: null
+        type: ''
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!well3ozbjt4VRwwB.2mfLeOfx5thPsciQ'
+  - name: 'Ruin: On Yer Feet!'
+    type: ability
+    _id: HtvJkxj68aKmdSsw
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ''
+      specification: ''
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: >-
+        <p>When Grotsnik uses the Sawbones action, he may heal an ORK who died
+        during the previous turn.</p>
+      display: true
+      abilityType: ''
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ''
+        wounds: ''
+        shock: ''
+      test:
+        dn: null
+        type: ''
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!well3ozbjt4VRwwB.HtvJkxj68aKmdSsw'
+  - name: 'Determination: Cybork Body'
+    type: ability
+    _id: VLSJxsra1Va5ci9e
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ''
+      specification: ''
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: >-
+        <p>Cybork Body. Roll 10d6. Grotsnik may roll Determination against Mortal
+        Wounds. He does not suffer Shock when rolling Determination; Wounds are
+        simply ignored.</p>
+      display: true
+      abilityType: determination
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ''
+        wounds: ''
+        shock: ''
+      test:
+        dn: null
+        type: ''
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!well3ozbjt4VRwwB.VLSJxsra1Va5ci9e'
+effects: []
+sort: 0
+ownership:
+  default: 0
+flags:
+  wrath-and-glory:
+    autoCalc:
+      defence: true
+      resilience: true
+      shock: true
+      awareness: true
+      resolve: true
+      determination: true
+      wounds: true
+      conviction: true
+    autoWounded: true
+    autoExhausted: true
+    generateMetaCurrencies: true
+_key: '!actors!well3ozbjt4VRwwB'

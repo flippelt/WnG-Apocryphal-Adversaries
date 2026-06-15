@@ -1,0 +1,823 @@
+folder: fIRfbMfP3ahjbc6n
+name: Killa Kan
+type: threat
+_id: eqCitA1bcRAYQYKS
+img: modules/wng-core/assets/tokens/orks.webp
+system:
+  attributes:
+    strength:
+      label: ATTRIBUTE.STRENGTH
+      rating: 0
+      base: 7
+      bonus: 0
+      cost: 0
+      total: 0
+    toughness:
+      label: ATTRIBUTE.TOUGHNESS
+      rating: 0
+      base: 8
+      bonus: 0
+      cost: 0
+      total: 0
+    agility:
+      label: ATTRIBUTE.AGILITY
+      rating: 0
+      base: 3
+      bonus: 0
+      cost: 0
+      total: 0
+    initiative:
+      label: ATTRIBUTE.INITIATIVE
+      rating: 0
+      base: 4
+      bonus: 0
+      cost: 0
+      total: 0
+    willpower:
+      label: ATTRIBUTE.WILLPOWER
+      rating: 0
+      base: 3
+      bonus: 0
+      cost: 0
+      total: 0
+    intellect:
+      label: ATTRIBUTE.INTELLECT
+      rating: 0
+      base: 2
+      bonus: 0
+      cost: 0
+      total: 0
+    fellowship:
+      label: ATTRIBUTE.FELLOWSHIP
+      rating: 0
+      base: 1
+      bonus: 0
+      cost: 0
+      total: 0
+  skills:
+    athletics:
+      label: SKILL.ATHLETICS
+      attribute: strength
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    awareness:
+      label: SKILL.AWARENESS
+      attribute: intellect
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    ballisticSkill:
+      label: SKILL.BALLISTIC_SKILL
+      attribute: agility
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    cunning:
+      label: SKILL.CUNNING
+      attribute: fellowship
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    deception:
+      label: SKILL.DECEPTION
+      attribute: fellowship
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    insight:
+      label: SKILL.INSIGHT
+      attribute: fellowship
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    intimidation:
+      label: SKILL.INTIMIDATION
+      attribute: willpower
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    investigation:
+      label: SKILL.INVESTIGATION
+      attribute: intellect
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    leadership:
+      label: SKILL.LEADERSHIP
+      attribute: willpower
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    medicae:
+      label: SKILL.MEDICAE
+      attribute: intellect
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    persuasion:
+      label: SKILL.PERSUASION
+      attribute: fellowship
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    pilot:
+      label: SKILL.PILOT
+      attribute: agility
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    psychicMastery:
+      label: SKILL.PSYCHIC_MASTERY
+      attribute: willpower
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    scholar:
+      label: SKILL.SCHOLAR
+      attribute: intellect
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    stealth:
+      label: SKILL.STEALTH
+      attribute: agility
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    survival:
+      label: SKILL.SURVIVAL
+      attribute: willpower
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    tech:
+      label: SKILL.TECH
+      attribute: intellect
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    weaponSkill:
+      label: SKILL.WEAPON_SKILL
+      attribute: initiative
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+  combat:
+    defense:
+      bonus: 0
+      total: 0
+    defence:
+      bonus: 0
+      total: 0
+    resilience:
+      bonus: 0
+      total: 0
+    wounds:
+      value: 0
+      bonus: 0
+      max: 12
+    determination:
+      bonus: 0
+      total: 0
+    shock:
+      value: 0
+      bonus: 0
+      max: 4
+    resolve:
+      bonus: 0
+      total: 0
+    conviction:
+      bonus: 0
+      total: 0
+    size: large
+    speed: 6
+    fly: 0
+    passiveAwareness:
+      bonus: 0
+      total: 0
+    stealth: 0
+  bio:
+    species: ''
+    faction: Orks
+    archetype: ''
+    threat:
+      first: E
+      second: E
+      third: E
+      fourth: T
+      fifth: T
+  resources:
+    ruin: 0
+  corruption:
+    current: 0
+  mob: null
+  notes: >-
+    <p>Killa Kans are smallish, bipedal walkers &mdash; a rickety, lightly
+    armoured "kan" on piston-driven legs, armed with ranged and close-combat
+    weapons. Primitive and weak by Ork standards but fast and incredibly dangerous
+    for their size, one or two are more than a match for a Sentinel. A Killa Kan is
+    not so much piloted as inhabited by an ill-tempered Gretchin hard-wired into
+    the control systems &mdash; a process that increases the creature's aggression
+    enormously, though the pilot retains a good degree of Gretchin
+    cowardice.</p><p><em>Treated as a Vehicle (KAN). Threat Options &mdash; Killy
+    Bitz: the Big Shoota may be swapped for a Rokkit Launcha, Skorcha or Grotzooka
+    (all included unequipped).</em></p>
+prototypeToken:
+  name: Killa Kan
+  displayName: 20
+  actorLink: false
+  appendNumber: false
+  prependAdjective: false
+  texture:
+    src: modules/wng-core/assets/tokens/orks.webp
+    scaleX: 2
+    scaleY: 2
+    offsetX: 0
+    offsetY: 0
+    rotation: 0
+  width: 2
+  height: 2
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  disposition: -1
+  displayBars: 20
+  bar1:
+    attribute: combat.wounds
+  bar2:
+    attribute: combat.shock
+  sight:
+    enabled: false
+    range: 0
+    angle: 360
+    visionMode: basic
+  detectionModes: []
+  flags: {}
+  randomImg: false
+items:
+  - name: GRETCHIN
+    type: keyword
+    _id: tAf646V4o3geuoql
+    img: modules/wng-core/assets/factions/orks.svg
+    system:
+      description: >-
+        <p>A small, cowardly Orkoid subspecies of the Orks, used as menials,
+        living shields and ammo runts.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!eqCitA1bcRAYQYKS.tAf646V4o3geuoql'
+  - name: KAN
+    type: keyword
+    _id: fOHXoyQxF51JlK2Z
+    img: modules/wng-core/assets/factions/orks.svg
+    system:
+      description: >-
+        <p>Ork combat walkers piloted by an Ork or Gretchin hardwired into the
+        machine; treated as Vehicles.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!eqCitA1bcRAYQYKS.fOHXoyQxF51JlK2Z'
+  - name: Kan Armour
+    type: armour
+    _id: wsUMpg8EYclXDAoR
+    img: modules/wng-core/assets/icons/armour/armour.webp
+    system:
+      quantity: 1
+      rarity: rare
+      description: ''
+      value: 0
+      keywords: ''
+      equipped: true
+      rating: 5
+      base: 0
+      traits: []
+      invulnerable: false
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!eqCitA1bcRAYQYKS.wsUMpg8EYclXDAoR'
+  - name: Big Shoota
+    type: weapon
+    _id: dOQN9PDiVQELVzER
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: ''
+      value: 0
+      keywords: ''
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 12
+        bonus: 0
+        rank: none
+      ed:
+        base: 2
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 18
+        medium: 36
+        long: 54
+        melee: 0
+        thrown: null
+      ammo: ''
+      salvo: 3
+      traits:
+        - name: assault
+        - name: 'waaagh!'
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!eqCitA1bcRAYQYKS.dOQN9PDiVQELVzER'
+  - name: Klan Klaw
+    type: weapon
+    _id: 2kK57CvdymtKQWnc
+    img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: ''
+      value: 0
+      keywords: ''
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 13
+        bonus: 0
+        rank: none
+      ed:
+        base: 5
+        bonus: 0
+        rank: none
+      ap:
+        base: -3
+        bonus: 0
+        rank: none
+      category: melee
+      range:
+        short: 0
+        medium: 0
+        long: 0
+        melee: 1
+        thrown: null
+      ammo: ''
+      salvo: 0
+      traits:
+        - name: brutal
+        - name: 'waaagh!'
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!eqCitA1bcRAYQYKS.2kK57CvdymtKQWnc'
+  - name: Killa Kan Explosion
+    type: weapon
+    _id: GdWa8VVq8HpHLa7u
+    img: modules/wng-core/assets/icons/weapons/grenade.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: '<p>Kaboom! On its death (a roll of 1 on a d6), the Killa Kan explodes with this profile.</p>'
+      value: 0
+      keywords: ''
+      equipped: false
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 15
+        bonus: 0
+        rank: none
+      ed:
+        base: 6
+        bonus: 0
+        rank: none
+      ap:
+        base: -1
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 0
+        medium: 0
+        long: 0
+        melee: 0
+        thrown: null
+      ammo: ''
+      salvo: 0
+      traits:
+        - name: blast
+          rating: 12
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!eqCitA1bcRAYQYKS.GdWa8VVq8HpHLa7u'
+  - name: Rokkit Launcha
+    type: weapon
+    _id: WmFv4AcF6kRkIJKg
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: '<p>Killy Bitz option. Extra Damage is +1d3.</p>'
+      value: 0
+      keywords: ''
+      equipped: false
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 16
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: -2
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 12
+        medium: 24
+        long: 36
+        melee: 0
+        thrown: null
+      ammo: ''
+      salvo: 0
+      traits:
+        - name: blast
+          rating: 4
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!eqCitA1bcRAYQYKS.WmFv4AcF6kRkIJKg'
+  - name: Skorcha
+    type: weapon
+    _id: LwG3vsQTvHIicClD
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: '<p>Killy Bitz option.</p>'
+      value: 0
+      keywords: ''
+      equipped: false
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 12
+        bonus: 0
+        rank: none
+      ed:
+        base: 2
+        bonus: 0
+        rank: none
+      ap:
+        base: -1
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 6
+        medium: 12
+        long: 18
+        melee: 0
+        thrown: null
+      ammo: ''
+      salvo: 2
+      traits:
+        - name: assault
+        - name: flamer
+        - name: heavy
+          rating: 6
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!eqCitA1bcRAYQYKS.LwG3vsQTvHIicClD'
+  - name: Grotzooka
+    type: weapon
+    _id: PzzcxhmQmqBGsL59
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: '<p>Killy Bitz option.</p>'
+      value: 0
+      keywords: ''
+      equipped: false
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 13
+        bonus: 0
+        rank: none
+      ed:
+        base: 1
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 9
+        medium: 18
+        long: 27
+        melee: 0
+        thrown: null
+      ammo: ''
+      salvo: 2
+      traits:
+        - name: barrage
+          custom: true
+          display: Barrage
+        - name: blast
+          rating: 2d3
+        - name: heavy
+          rating: 6
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!eqCitA1bcRAYQYKS.PzzcxhmQmqBGsL59'
+  - name: Kan
+    type: talent
+    _id: OpXw2bPzTNRamq07
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: >-
+        <p>This Threat is immune to the Bleeding, Exhausted, and Poisoned
+        conditions, and cannot Suffocate. It is treated as a Vehicle.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!eqCitA1bcRAYQYKS.OpXw2bPzTNRamq07'
+  - name: Cowardly
+    type: talent
+    _id: SSCiSRStkaO9RdSg
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: >-
+        <p>When a Killa Kan makes a Resolve test, it adds +1d to its test for each
+        other Killa Kan within 12m. However, if the Wrath die of this test is a 1,
+        2, or 3, the Killa Kan counts the entire test as having failed, regardless
+        of the result.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!eqCitA1bcRAYQYKS.SSCiSRStkaO9RdSg'
+  - name: 'Reaction: Kanned Rage'
+    type: ability
+    _id: wDAuJzE09ECOQsjV
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ''
+      specification: ''
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: >-
+        <p>When a Killa Kan is Exhausted or fails a Resolve test, roll 1d6; on an
+        Icon, the Killa Kan becomes Frenzied instead.</p>
+      display: true
+      abilityType: ''
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ''
+        wounds: ''
+        shock: ''
+      test:
+        dn: null
+        type: ''
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!eqCitA1bcRAYQYKS.wDAuJzE09ECOQsjV'
+  - name: 'Determination: Ramshackle'
+    type: ability
+    _id: oFRmr4akrjuCbj4W
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ''
+      specification: ''
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: >-
+        <p>Ramshackle. Spend 1 Ruin to roll 8d6. Any dice which roll 1 may be
+        re-rolled.</p>
+      display: true
+      abilityType: determination
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ''
+        wounds: ''
+        shock: ''
+      test:
+        dn: null
+        type: ''
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!eqCitA1bcRAYQYKS.oFRmr4akrjuCbj4W'
+  - name: 'Annihilation: Kaboom!'
+    type: ability
+    _id: Z9YBqtpGf1KufUyT
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ''
+      specification: ''
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: >-
+        <p>When the Killa Kan dies, roll a d6. If you roll a 1, the Killa Kan
+        explodes (the Killa Kan Explosion profile, included unequipped).</p>
+      display: true
+      abilityType: ''
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ''
+        wounds: ''
+        shock: ''
+      test:
+        dn: null
+        type: ''
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!eqCitA1bcRAYQYKS.Z9YBqtpGf1KufUyT'
+effects: []
+sort: 0
+ownership:
+  default: 0
+flags:
+  wrath-and-glory:
+    autoCalc:
+      defence: true
+      resilience: true
+      shock: true
+      awareness: true
+      resolve: true
+      determination: true
+      wounds: true
+      conviction: true
+    autoWounded: true
+    autoExhausted: true
+    generateMetaCurrencies: true
+_key: '!actors!eqCitA1bcRAYQYKS'

@@ -1,0 +1,18 @@
+name: Rezmekka's Redder Paint
+type: gear
+_id: QNLhnewwIovABZRl
+img: modules/wng-core/assets/icons/gear/gear.webp
+folder: hOdCFg9gkphPHfVr
+sort: 0
+system:
+  quantity: 1
+  rarity: rare
+  description: <p>(Evil Sunz only.) The Adversary's Speed is increased by +2; if PILOT or CREW of a vehicle, the vehicle's Speed also increases by +2. Any enemies engaged with the Adversary at the start of the round are not allowed to take a turn until after all other characters have acted that round.</p>
+  value: 0
+  keywords: ""
+  effect: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!QNLhnewwIovABZRl"

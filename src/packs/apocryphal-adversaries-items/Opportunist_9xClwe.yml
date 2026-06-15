@@ -1,0 +1,17 @@
+name: Opportunist
+type: talent
+_id: TL9otFNFDEyfYrsr
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: XqFjNuqJNwuRHTkR
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>(Deathskulls.) This Adversary adds 1 to Ruin each time an enemy PC, Adversary NPC, or Vehicle is killed/destroyed.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!TL9otFNFDEyfYrsr"

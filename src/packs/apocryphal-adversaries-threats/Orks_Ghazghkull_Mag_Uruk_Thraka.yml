@@ -1,0 +1,868 @@
+folder: fIRfbMfP3ahjbc6n
+name: Ghazghkull Mag Uruk Thraka
+type: threat
+_id: FtStK4S0ejZC5X5j
+img: modules/wng-core/assets/tokens/orks.webp
+system:
+  attributes:
+    strength:
+      label: ATTRIBUTE.STRENGTH
+      rating: 0
+      base: 17
+      bonus: 0
+      cost: 0
+      total: 0
+    toughness:
+      label: ATTRIBUTE.TOUGHNESS
+      rating: 0
+      base: 12
+      bonus: 0
+      cost: 0
+      total: 0
+    agility:
+      label: ATTRIBUTE.AGILITY
+      rating: 0
+      base: 4
+      bonus: 0
+      cost: 0
+      total: 0
+    initiative:
+      label: ATTRIBUTE.INITIATIVE
+      rating: 0
+      base: 6
+      bonus: 0
+      cost: 0
+      total: 0
+    willpower:
+      label: ATTRIBUTE.WILLPOWER
+      rating: 0
+      base: 9
+      bonus: 0
+      cost: 0
+      total: 0
+    intellect:
+      label: ATTRIBUTE.INTELLECT
+      rating: 0
+      base: 5
+      bonus: 0
+      cost: 0
+      total: 0
+    fellowship:
+      label: ATTRIBUTE.FELLOWSHIP
+      rating: 0
+      base: 7
+      bonus: 0
+      cost: 0
+      total: 0
+  skills:
+    athletics:
+      label: SKILL.ATHLETICS
+      attribute: strength
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    awareness:
+      label: SKILL.AWARENESS
+      attribute: intellect
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    ballisticSkill:
+      label: SKILL.BALLISTIC_SKILL
+      attribute: agility
+      rating: 1
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    cunning:
+      label: SKILL.CUNNING
+      attribute: fellowship
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    deception:
+      label: SKILL.DECEPTION
+      attribute: fellowship
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    insight:
+      label: SKILL.INSIGHT
+      attribute: fellowship
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    intimidation:
+      label: SKILL.INTIMIDATION
+      attribute: willpower
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    investigation:
+      label: SKILL.INVESTIGATION
+      attribute: intellect
+      rating: 5
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    leadership:
+      label: SKILL.LEADERSHIP
+      attribute: willpower
+      rating: 5
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    medicae:
+      label: SKILL.MEDICAE
+      attribute: intellect
+      rating: 5
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    persuasion:
+      label: SKILL.PERSUASION
+      attribute: fellowship
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    pilot:
+      label: SKILL.PILOT
+      attribute: agility
+      rating: 6
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    psychicMastery:
+      label: SKILL.PSYCHIC_MASTERY
+      attribute: willpower
+      rating: 1
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    scholar:
+      label: SKILL.SCHOLAR
+      attribute: intellect
+      rating: 5
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    stealth:
+      label: SKILL.STEALTH
+      attribute: agility
+      rating: 6
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    survival:
+      label: SKILL.SURVIVAL
+      attribute: willpower
+      rating: 1
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    tech:
+      label: SKILL.TECH
+      attribute: intellect
+      rating: 5
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    weaponSkill:
+      label: SKILL.WEAPON_SKILL
+      attribute: initiative
+      rating: 9
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+  combat:
+    defense:
+      bonus: 0
+      total: 0
+    defence:
+      bonus: 0
+      total: 0
+    resilience:
+      bonus: -1
+      total: 0
+    wounds:
+      value: 0
+      bonus: 0
+      max: 22
+    determination:
+      bonus: 0
+      total: 0
+    shock:
+      value: 0
+      bonus: 0
+      max: 0
+    resolve:
+      bonus: 0
+      total: 0
+    conviction:
+      bonus: 0
+      total: 0
+    size: huge
+    speed: 7
+    fly: 0
+    passiveAwareness:
+      bonus: 0
+      total: 0
+    stealth: 0
+  bio:
+    species: ''
+    faction: Orks
+    archetype: ''
+    threat:
+      first: A
+      second: A
+      third: A
+      fourth: A
+      fifth: A
+  resources:
+    ruin: 0
+  corruption:
+    current: 0
+  mob: null
+  notes: >-
+    <p>Ghazghkull Mag Uruk Thraka is an Ork Warlord of the Goff clan and a mighty
+    prophet of the WAAAGH! &mdash; the single most influential Ork in the galaxy
+    in the late 41st Millennium, with billions of Greenskins marching to war in
+    his name. He has crushed Aeldari war hosts, banished tides of daemons and
+    reduced the Hive World of Armageddon to a never-ending cauldron of battle, yet
+    is not satisfied: at the behest of Gork and Mork he is gathering the Great
+    WAAAGH! that will drown the galaxy in green fire.</p><p><em>Prophet of Gork and
+    Mork caps his Wounds per Round at 7 and grants immunity to Shock (this profile
+    has no Shock track).</em></p>
+prototypeToken:
+  name: Ghazghkull Mag Uruk Thraka
+  displayName: 20
+  actorLink: false
+  appendNumber: false
+  prependAdjective: false
+  texture:
+    src: modules/wng-core/assets/tokens/orks.webp
+    scaleX: 3
+    scaleY: 3
+    offsetX: 0
+    offsetY: 0
+    rotation: 0
+  width: 3
+  height: 3
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  disposition: -1
+  displayBars: 20
+  bar1:
+    attribute: combat.wounds
+  bar2:
+    attribute: combat.shock
+  sight:
+    enabled: false
+    range: 0
+    angle: 360
+    visionMode: basic
+  detectionModes: []
+  flags: {}
+  randomImg: false
+items:
+  - name: ORK
+    type: keyword
+    _id: unxVWasvldtlTHaa
+    img: modules/wng-core/assets/factions/orks.svg
+    system:
+      description: >-
+        <p>A brutal xenos Species that crave violence and live only for war.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!FtStK4S0ejZC5X5j.unxVWasvldtlTHaa'
+  - name: GOFF
+    type: keyword
+    _id: 6nStWYNZj1nXisZz
+    img: modules/wng-core/assets/factions/orks.svg
+    system:
+      description: >-
+        <p>The most warlike and traditional Ork clan, who favour brutal melee and
+        getting stuck in.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!FtStK4S0ejZC5X5j.6nStWYNZj1nXisZz'
+  - name: BOSS
+    type: keyword
+    _id: lEYP19D6FxXqIuZr
+    img: modules/wng-core/assets/factions/orks.svg
+    system:
+      description: >-
+        <p>A senior Ork leader who commands other Greenskins through size,
+        strength and brutality.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!FtStK4S0ejZC5X5j.lEYP19D6FxXqIuZr'
+  - name: Mega Armour
+    type: armour
+    _id: s5MiEjEzJxXwNSVD
+    img: modules/wng-core/assets/icons/armour/armour.webp
+    system:
+      quantity: 1
+      rarity: rare
+      description: ''
+      value: 0
+      keywords: ''
+      equipped: true
+      rating: 7
+      base: 0
+      traits:
+        - name: cumbersome
+      invulnerable: false
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!FtStK4S0ejZC5X5j.s5MiEjEzJxXwNSVD'
+  - name: "Mork's Roar"
+    type: weapon
+    _id: G27LeHvxI8udc97z
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: ''
+      value: 0
+      keywords: ''
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 12
+        bonus: 0
+        rank: none
+      ed:
+        base: 2
+        bonus: 0
+        rank: none
+      ap:
+        base: -1
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 18
+        medium: 36
+        long: 54
+        melee: 0
+        thrown: null
+      ammo: ''
+      salvo: 12
+      traits:
+        - name: assault
+        - name: rapidFire
+          rating: 6
+        - name: 'waaagh!'
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!FtStK4S0ejZC5X5j.G27LeHvxI8udc97z'
+  - name: "Gork's Klaw"
+    type: weapon
+    _id: MDQtowAin5Y2ylpR
+    img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: '<p>Reach 2.</p>'
+      value: 0
+      keywords: ''
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 25
+        bonus: 0
+        rank: none
+      ed:
+        base: 6
+        bonus: 0
+        rank: none
+      ap:
+        base: -5
+        bonus: 0
+        rank: none
+      category: melee
+      range:
+        short: 0
+        medium: 0
+        long: 0
+        melee: 2
+        thrown: null
+      ammo: ''
+      salvo: 0
+      traits:
+        - name: brutal
+        - name: 'waaagh!'
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!FtStK4S0ejZC5X5j.MDQtowAin5Y2ylpR'
+  - name: Stikkbomb
+    type: weapon
+    _id: SROJ2NeSO2FuQjNv
+    img: modules/wng-core/assets/icons/weapons/grenade.webp
+    system:
+      quantity: 5
+      rarity: common
+      description: ''
+      value: 0
+      keywords: ''
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 9
+        bonus: 0
+        rank: none
+      ed:
+        base: 5
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 0
+        medium: 0
+        long: 0
+        melee: 0
+        thrown: 68
+      ammo: ''
+      salvo: 0
+      traits:
+        - name: blast
+          rating: 6
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!FtStK4S0ejZC5X5j.SROJ2NeSO2FuQjNv'
+  - name: "'Ere We Go"
+    type: talent
+    _id: rToU7fMCqJ1aMjDE
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: >-
+        <p>The Threat adds +1 to its Speed when it takes the Charge action.
+        Further, if the Threat begins its turn Engaged, then it adds +2 damage to
+        its melee attacks.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!FtStK4S0ejZC5X5j.rToU7fMCqJ1aMjDE'
+  - name: Champion
+    type: talent
+    _id: ZYFoRMzfOKzFr0VB
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: >-
+        <p>This Threat may use Ruin Actions and has 7 Personal Ruin.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!FtStK4S0ejZC5X5j.ZYFoRMzfOKzFr0VB'
+  - name: Dakka! Dakka! Dakka!
+    type: talent
+    _id: 03jbyfslsF8XKeK1
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: >-
+        <p>When the Threat makes a ranged attack at an enemy within Short range,
+        add bonus dice equal to the weapon's Salvo rating to the attack.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!FtStK4S0ejZC5X5j.03jbyfslsF8XKeK1'
+  - name: Goff
+    type: talent
+    _id: T4I17SULo4lCXKNg
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: >-
+        <p>When Ghazghkull makes a melee attack and rolls 1 or more Exalted Icons
+        on the test, roll an additional die for each Exalted Icon rolled. These
+        extra dice cannot themselves generate more dice.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!FtStK4S0ejZC5X5j.T4I17SULo4lCXKNg'
+  - name: Goffs Iz Da Best
+    type: talent
+    _id: 9xqUt6R8Kjc3pNrL
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: >-
+        <p>While an allied GOFF ORK is within 6m of Ghazghkull, they may re-roll
+        any failures when making melee attacks.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!FtStK4S0ejZC5X5j.9xqUt6R8Kjc3pNrL'
+  - name: Grand Warlord
+    type: talent
+    _id: K3aCDs6B6SwA7FkE
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: >-
+        <p>Allied ORKS within 6m of Ghazghkull add +2 dice on all melee
+        attacks.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!FtStK4S0ejZC5X5j.K3aCDs6B6SwA7FkE'
+  - name: Mob Rule
+    type: talent
+    _id: gqCA6X3QMwE589HU
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: >-
+        <p>Orks gain 1 Icon on all Resolve tests for every 10 Ork Threats present
+        on the battlefield.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!FtStK4S0ejZC5X5j.gqCA6X3QMwE589HU'
+  - name: Prophet of Gork and Mork
+    type: talent
+    _id: 5qgZeo72Cxbshda7
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: >-
+        <p>Ghazghkull can suffer a maximum of 7 Wounds in any single Round of
+        combat and does not suffer Shock damage.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!FtStK4S0ejZC5X5j.5qgZeo72Cxbshda7'
+  - name: The Beast of Armageddon
+    type: talent
+    _id: tYXeHccxcRwoHE8U
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: >-
+        <p>At the start of each of Ghazghkull's turns, add 1 to Ruin. The DN of all
+        Resolve tests made by IMPERIAL characters is increased by +2.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!FtStK4S0ejZC5X5j.tYXeHccxcRwoHE8U'
+  - name: 'Battlecry: WAAAGH!'
+    type: ability
+    _id: mZBujYDqEv5LEDO7
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ''
+      specification: ''
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: >-
+        <p>Ghazghkull bellows. Any non-ORK who can see the Threat must pass a DN 3
+        Fear test. ORKS who can see and hear him instead add +2 to their Speed and
+        Resolve during the first round of combat.</p>
+      display: true
+      abilityType: ''
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ''
+        wounds: ''
+        shock: ''
+      test:
+        dn: null
+        type: ''
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!FtStK4S0ejZC5X5j.mZBujYDqEv5LEDO7'
+  - name: "Reaction: Da Boss Iz Watchin'"
+    type: ability
+    _id: 88KOXPqbyHeiRiOc
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ''
+      specification: ''
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: >-
+        <p>When an ORK Mob within 25m fails a Resolve test, Ghazghkull may use his
+        Reflexive Action to glare disapprovingly. The Mob counts as succeeding at
+        that Resolve test.</p>
+      display: true
+      abilityType: ''
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ''
+        wounds: ''
+        shock: ''
+      test:
+        dn: null
+        type: ''
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!FtStK4S0ejZC5X5j.88KOXPqbyHeiRiOc'
+  - name: 'Determination: Cybork Body'
+    type: ability
+    _id: KJX48p3arYcDjNYT
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ''
+      specification: ''
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: >-
+        <p>Cybork Body. Roll 12d6. Ghazghkull may roll Determination against Mortal
+        Wounds. He does not suffer Shock when rolling Determination; Wounds are
+        simply ignored.</p>
+      display: true
+      abilityType: determination
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ''
+        wounds: ''
+        shock: ''
+      test:
+        dn: null
+        type: ''
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!FtStK4S0ejZC5X5j.KJX48p3arYcDjNYT'
+  - name: 'Annihilation: Orks Iz Never Beaten'
+    type: ability
+    _id: p7MnFwT52xBGpCFO
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ''
+      specification: ''
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: >-
+        <p>Ghazghkull makes an immediate melee attack if possible.</p>
+      display: true
+      abilityType: ''
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ''
+        wounds: ''
+        shock: ''
+      test:
+        dn: null
+        type: ''
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!FtStK4S0ejZC5X5j.p7MnFwT52xBGpCFO'
+effects: []
+sort: 0
+ownership:
+  default: 0
+flags:
+  wrath-and-glory:
+    autoCalc:
+      defence: true
+      resilience: true
+      shock: false
+      awareness: true
+      resolve: true
+      determination: true
+      wounds: true
+      conviction: true
+    autoWounded: true
+    autoExhausted: true
+    generateMetaCurrencies: true
+_key: '!actors!FtStK4S0ejZC5X5j'

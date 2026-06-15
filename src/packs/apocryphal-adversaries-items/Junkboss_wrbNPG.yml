@@ -1,0 +1,17 @@
+name: Junkboss
+type: talent
+_id: OW7daLpDhxB0KkqS
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: XqFjNuqJNwuRHTkR
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: "<p>(Speed Freeks.) When this Adversary is a PILOT or CREW in a vehicle, the vehicle may roll Determination: roll a number of dice equal to twice the game's Tier and cancel a number of wounds equal to the Icons rolled.</p>"
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!OW7daLpDhxB0KkqS"

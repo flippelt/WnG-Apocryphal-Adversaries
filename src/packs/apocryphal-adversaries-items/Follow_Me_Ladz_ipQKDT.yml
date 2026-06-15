@@ -1,0 +1,17 @@
+name: Follow Me Ladz
+type: talent
+_id: nUU0Rs6sYJarxMYZ
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: XqFjNuqJNwuRHTkR
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>When this Adversary makes a Charge move, any allied [CLAN] ORK charging an enemy within 6m of the Adversary adds +Tier to their Speed.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!nUU0Rs6sYJarxMYZ"

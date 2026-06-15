@@ -1,0 +1,51 @@
+name: Da Gobshot Thunderbuss
+type: weapon
+_id: 2MF4ws3PHXr289Gc
+img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+folder: hOdCFg9gkphPHfVr
+sort: 0
+system:
+  quantity: 1
+  rarity: rare
+  description: <p>(Bad Moons only.) May replace any Kustom Shoota. Fires a fortune in gold-plated teef with every shot.</p>
+  value: 0
+  keywords: ""
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 12
+    bonus: 0
+    rank: none
+  ed:
+    base: 2
+    bonus: 0
+    rank: none
+  ap:
+    base: -1
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 6
+    medium: 12
+    long: 18
+    melee: 0
+    thrown: null
+  ammo: ""
+  salvo: 2
+  traits:
+    - name: heavy
+      rating: 6
+    - name: rapidFire
+      rating: 1
+    - name: spread
+    - name: waaagh!
+  upgrades: []
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!2MF4ws3PHXr289Gc"

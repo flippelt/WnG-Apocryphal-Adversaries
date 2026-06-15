@@ -1,0 +1,41 @@
+name: Brutal but Kunnin'
+type: ability
+_id: 7B2Yj232oGVWjGZs
+img: modules/wng-core/assets/icons/abilities/ability.webp
+folder: XqFjNuqJNwuRHTkR
+sort: 0
+system:
+  dn: 0
+  type: ""
+  specification: ""
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>Reaction. When this Adversary fails a melee attack against a single enemy (i.e. not a Multi-Attack), he immediately gains 1 Ruin, which must be used before his next Turn to make an attack as a Ruin Action.</p>
+  display: true
+  abilityType: ""
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ""
+    wounds: ""
+    shock: ""
+  test:
+    dn: null
+    type: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!7B2Yj232oGVWjGZs"

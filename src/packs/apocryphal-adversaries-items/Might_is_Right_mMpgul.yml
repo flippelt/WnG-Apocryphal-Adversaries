@@ -1,0 +1,17 @@
+name: Might is Right
+type: talent
+_id: LdR9nedtBSqRIn4T
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: XqFjNuqJNwuRHTkR
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>Increase the Adversary's Strength by +2. This will in turn increase the damage of the Adversary's melee attacks.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!LdR9nedtBSqRIn4T"

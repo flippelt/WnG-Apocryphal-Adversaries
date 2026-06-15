@@ -1,0 +1,17 @@
+name: Beastgob
+type: talent
+_id: VIhmhRwAzg5Kk3US
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: XqFjNuqJNwuRHTkR
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>(Beast Snagga.) While a friendly SQUIG is within 6m of this Adversary, each time it makes a melee attack the weapon inflicts additional ED equal to the game's Tier.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!VIhmhRwAzg5Kk3US"

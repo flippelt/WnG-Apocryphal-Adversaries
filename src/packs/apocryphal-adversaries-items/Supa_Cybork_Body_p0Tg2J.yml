@@ -1,0 +1,18 @@
+name: Supa-Cybork Body
+type: gear
+_id: wPjAyRQk0TkyVxrw
+img: modules/wng-core/assets/icons/gear/gear.webp
+folder: hOdCFg9gkphPHfVr
+sort: 0
+system:
+  quantity: 1
+  rarity: rare
+  description: <p>The Adversary has 4 AR from their Bioniks (does not stack with other armour). In addition, the Adversary may roll Determination against Mortal Wounds; the Adversary does not suffer Shock when rolling Determination; Wounds are simply ignored.</p>
+  value: 0
+  keywords: ""
+  effect: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!wPjAyRQk0TkyVxrw"

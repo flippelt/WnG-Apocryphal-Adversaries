@@ -1,0 +1,17 @@
+name: Killa Reputation
+type: talent
+_id: tAunCJue69BwWQ54
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: XqFjNuqJNwuRHTkR
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>(Freebooterz.) Enemies within 3m of this Adversary add +1 to the DN to all Resolve tests. FREEBOOTER ORKS within 6m of the Adversary add +1 to their Resolve.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!tAunCJue69BwWQ54"

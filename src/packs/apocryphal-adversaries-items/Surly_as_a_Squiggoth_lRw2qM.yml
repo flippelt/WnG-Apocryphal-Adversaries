@@ -1,0 +1,41 @@
+name: Surly as a Squiggoth
+type: ability
+_id: Ks4A5Z6HiZ8IjiYw
+img: modules/wng-core/assets/icons/abilities/ability.webp
+folder: XqFjNuqJNwuRHTkR
+sort: 0
+system:
+  dn: 0
+  type: ""
+  specification: ""
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>(Snakebites.) Annihilation. The first time this Adversary is killed, roll 1d6. If an Icon is rolled, the Adversary heals 1d3+Tier Wounds and remains alive.</p>
+  display: true
+  abilityType: ""
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ""
+    wounds: ""
+    shock: ""
+  test:
+    dn: null
+    type: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!Ks4A5Z6HiZ8IjiYw"

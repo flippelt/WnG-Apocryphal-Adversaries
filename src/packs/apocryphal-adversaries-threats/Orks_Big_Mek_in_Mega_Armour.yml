@@ -1,0 +1,898 @@
+folder: fIRfbMfP3ahjbc6n
+name: Big Mek in Mega Armour
+type: threat
+_id: iAQ5YeE1WH5344xQ
+img: modules/wng-core/assets/tokens/orks.webp
+system:
+  attributes:
+    strength:
+      label: ATTRIBUTE.STRENGTH
+      rating: 0
+      base: 12
+      bonus: 0
+      cost: 0
+      total: 0
+    toughness:
+      label: ATTRIBUTE.TOUGHNESS
+      rating: 0
+      base: 8
+      bonus: 0
+      cost: 0
+      total: 0
+    agility:
+      label: ATTRIBUTE.AGILITY
+      rating: 0
+      base: 3
+      bonus: 0
+      cost: 0
+      total: 0
+    initiative:
+      label: ATTRIBUTE.INITIATIVE
+      rating: 0
+      base: 5
+      bonus: 0
+      cost: 0
+      total: 0
+    willpower:
+      label: ATTRIBUTE.WILLPOWER
+      rating: 0
+      base: 5
+      bonus: 0
+      cost: 0
+      total: 0
+    intellect:
+      label: ATTRIBUTE.INTELLECT
+      rating: 0
+      base: 5
+      bonus: 0
+      cost: 0
+      total: 0
+    fellowship:
+      label: ATTRIBUTE.FELLOWSHIP
+      rating: 0
+      base: 3
+      bonus: 0
+      cost: 0
+      total: 0
+  skills:
+    athletics:
+      label: SKILL.ATHLETICS
+      attribute: strength
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    awareness:
+      label: SKILL.AWARENESS
+      attribute: intellect
+      rating: 1
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    ballisticSkill:
+      label: SKILL.BALLISTIC_SKILL
+      attribute: agility
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    cunning:
+      label: SKILL.CUNNING
+      attribute: fellowship
+      rating: 5
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    deception:
+      label: SKILL.DECEPTION
+      attribute: fellowship
+      rating: 5
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    insight:
+      label: SKILL.INSIGHT
+      attribute: fellowship
+      rating: 5
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    intimidation:
+      label: SKILL.INTIMIDATION
+      attribute: willpower
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    investigation:
+      label: SKILL.INVESTIGATION
+      attribute: intellect
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    leadership:
+      label: SKILL.LEADERSHIP
+      attribute: willpower
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    medicae:
+      label: SKILL.MEDICAE
+      attribute: intellect
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    persuasion:
+      label: SKILL.PERSUASION
+      attribute: fellowship
+      rating: 5
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    pilot:
+      label: SKILL.PILOT
+      attribute: agility
+      rating: 5
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    psychicMastery:
+      label: SKILL.PSYCHIC_MASTERY
+      attribute: willpower
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    scholar:
+      label: SKILL.SCHOLAR
+      attribute: intellect
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    stealth:
+      label: SKILL.STEALTH
+      attribute: agility
+      rating: 5
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    survival:
+      label: SKILL.SURVIVAL
+      attribute: willpower
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    tech:
+      label: SKILL.TECH
+      attribute: intellect
+      rating: 5
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    weaponSkill:
+      label: SKILL.WEAPON_SKILL
+      attribute: initiative
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+  combat:
+    defense:
+      bonus: 0
+      total: 0
+    defence:
+      bonus: 0
+      total: 0
+    resilience:
+      bonus: 0
+      total: 0
+    wounds:
+      value: 0
+      bonus: 0
+      max: 14
+    determination:
+      bonus: 0
+      total: 0
+    shock:
+      value: 0
+      bonus: 0
+      max: 8
+    resolve:
+      bonus: 0
+      total: 0
+    conviction:
+      bonus: 0
+      total: 0
+    size: large
+    speed: 5
+    fly: 0
+    passiveAwareness:
+      bonus: 0
+      total: 0
+    stealth: 0
+  bio:
+    species: ''
+    faction: Orks
+    archetype: ''
+    threat:
+      first: A
+      second: A
+      third: A
+      fourth: A
+      fifth: A
+  resources:
+    ruin: 0
+  corruption:
+    current: 0
+  mob: null
+  notes: >-
+    <p>As Mekboyz grow in size and experience, many become Big Meks &mdash;
+    commanding squads of lesser Meks and countless Gretchin and devising the more
+    potent Ork wargear, such as Mega Armour and Kustom-Blastas. The most powerful,
+    sometimes called "Mek Bosses," lead whole warbands and tribes; their forces
+    run tech-heavy, with a higher-than-normal concentration of kustom gear and
+    Kombi-weapons. This one strides to war encased in a piston-driven suit of Mega
+    Armour.</p><p><em>Threat Options &mdash; Kontrapshunz: carries exactly ONE of
+    a Kustom Force Field, a Tellyport Blasta or a Tellyporta (all included
+    unequipped). Kustom Gubbinz: may swap the Power Klaw for a Killsaw, and the
+    Kustom Mega-Blasta for a Kustom Shoota.</em></p>
+prototypeToken:
+  name: Big Mek in Mega Armour
+  displayName: 20
+  actorLink: false
+  appendNumber: false
+  prependAdjective: false
+  texture:
+    src: modules/wng-core/assets/tokens/orks.webp
+    scaleX: 2
+    scaleY: 2
+    offsetX: 0
+    offsetY: 0
+    rotation: 0
+  width: 2
+  height: 2
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  disposition: -1
+  displayBars: 20
+  bar1:
+    attribute: combat.wounds
+  bar2:
+    attribute: combat.shock
+  sight:
+    enabled: false
+    range: 0
+    angle: 360
+    visionMode: basic
+  detectionModes: []
+  flags: {}
+  randomImg: false
+items:
+  - name: ORK
+    type: keyword
+    _id: xYEUjTp7uZcbQPQP
+    img: modules/wng-core/assets/factions/orks.svg
+    system:
+      description: >-
+        <p>A brutal xenos Species that crave violence and live only for war.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!iAQ5YeE1WH5344xQ.xYEUjTp7uZcbQPQP'
+  - name: '[CLAN]'
+    type: keyword
+    _id: hB8JkrOtJ4tofBT9
+    img: modules/wng-core/assets/factions/orks.svg
+    system:
+      description: >-
+        <p>Replace with the Ork's clan keyword (Bad Moons, Blood Axes,
+        Deathskulls, Evil Sunz, Freebooterz, Goffs, Snakebites&hellip;).</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!iAQ5YeE1WH5344xQ.hB8JkrOtJ4tofBT9'
+  - name: MEK
+    type: keyword
+    _id: NXdTuSX8LfhLmOM0
+    img: modules/wng-core/assets/factions/orks.svg
+    system:
+      description: >-
+        <p>Ork Oddboyz with the instinctive knack for building and repairing
+        machines.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!iAQ5YeE1WH5344xQ.NXdTuSX8LfhLmOM0'
+  - name: Mega Armour
+    type: armour
+    _id: ghYePZalY491jDZM
+    img: modules/wng-core/assets/icons/armour/armour.webp
+    system:
+      quantity: 1
+      rarity: rare
+      description: ''
+      value: 0
+      keywords: ''
+      equipped: true
+      rating: 7
+      base: 0
+      traits:
+        - name: cumbersome
+      invulnerable: false
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!iAQ5YeE1WH5344xQ.ghYePZalY491jDZM'
+  - name: Kustom Mega-Blasta
+    type: weapon
+    _id: HbrnspVa67MhC7DW
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: '<p>Supercharge is already applied to this profile.</p>'
+      value: 0
+      keywords: ''
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 16
+        bonus: 0
+        rank: none
+      ed:
+        base: 5
+        bonus: 0
+        rank: none
+      ap:
+        base: -3
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 12
+        medium: 24
+        long: 36
+        melee: 0
+        thrown: null
+      ammo: ''
+      salvo: 1
+      traits:
+        - name: assault
+        - name: blast
+          rating: 4
+        - name: supercharge
+        - name: 'waaagh!'
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!iAQ5YeE1WH5344xQ.HbrnspVa67MhC7DW'
+  - name: Power Klaw
+    type: weapon
+    _id: HLLbY7I3GPRYyWlB
+    img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: ''
+      value: 0
+      keywords: ''
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 18
+        bonus: 0
+        rank: none
+      ed:
+        base: 3
+        bonus: 0
+        rank: none
+      ap:
+        base: -1
+        bonus: 0
+        rank: none
+      category: melee
+      range:
+        short: 0
+        medium: 0
+        long: 0
+        melee: 1
+        thrown: null
+      ammo: ''
+      salvo: 0
+      traits:
+        - name: reliable
+        - name: 'waaagh!'
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!iAQ5YeE1WH5344xQ.HLLbY7I3GPRYyWlB'
+  - name: Killsaw
+    type: weapon
+    _id: iAnuijFUo2GZt03h
+    img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: '<p>Kustom Gubbinz option: replaces the Power Klaw.</p>'
+      value: 0
+      keywords: ''
+      equipped: false
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 19
+        bonus: 0
+        rank: none
+      ed:
+        base: 6
+        bonus: 0
+        rank: none
+      ap:
+        base: -4
+        bonus: 0
+        rank: none
+      category: melee
+      range:
+        short: 0
+        medium: 0
+        long: 0
+        melee: 1
+        thrown: null
+      ammo: ''
+      salvo: 0
+      traits:
+        - name: brutal
+        - name: unwieldy
+          rating: 3
+        - name: 'waaagh!'
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!iAQ5YeE1WH5344xQ.iAnuijFUo2GZt03h'
+  - name: Kustom Shoota
+    type: weapon
+    _id: kfnQ1vFL0KBUMkhc
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: '<p>Kustom Gubbinz option: replaces the Kustom Mega-Blasta.</p>'
+      value: 0
+      keywords: ''
+      equipped: false
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 10
+        bonus: 0
+        rank: none
+      ed:
+        base: 1
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 9
+        medium: 18
+        long: 27
+        melee: 0
+        thrown: null
+      ammo: ''
+      salvo: 4
+      traits:
+        - name: assault
+        - name: 'waaagh!'
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!iAQ5YeE1WH5344xQ.kfnQ1vFL0KBUMkhc'
+  - name: Tellyport Blasta
+    type: weapon
+    _id: nE3nJSe39eYQsoR4
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: rare
+      description: >-
+        <p>Kontrapshunz option (one only). Only a Big Mek in Mega Armour may carry
+        a Tellyport Blasta; it folds its target into a Warpspace bubble and
+        displaces it at random.</p>
+      value: 0
+      keywords: ''
+      equipped: false
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 16
+        bonus: 0
+        rank: none
+      ed:
+        base: 3
+        bonus: 0
+        rank: none
+      ap:
+        base: -2
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 6
+        medium: 12
+        long: 18
+        melee: 0
+        thrown: null
+      ammo: ''
+      salvo: 0
+      traits:
+        - name: blast
+          rating: 2d3
+        - name: mortal
+          custom: true
+          display: Mortal (1)
+        - name: warpWeapons
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!iAQ5YeE1WH5344xQ.nE3nJSe39eYQsoR4'
+  - name: Kustom Force Field
+    type: gear
+    _id: rBQ6iXs0VQkBgPou
+    img: modules/wng-core/assets/icons/gear/gear.webp
+    system:
+      quantity: 1
+      rarity: rare
+      description: >-
+        <p>Kontrapshunz option (one only). The generator produces a bubble
+        covering everything within 6m of the MEK. Any ORK within the bubble
+        receives +2 Defence and +2 Resilience against any attack from outside the
+        bubble.</p>
+      value: 0
+      keywords: ''
+      effect: ''
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!iAQ5YeE1WH5344xQ.rBQ6iXs0VQkBgPou'
+  - name: Tellyporta
+    type: gear
+    _id: gWvkeDRrMwY6CUZd
+    img: modules/wng-core/assets/icons/gear/gear.webp
+    system:
+      quantity: 1
+      rarity: rare
+      description: >-
+        <p>Kontrapshunz option (one only). The MEK may activate a Personal
+        Tellyporta instead of moving: attempt a Tech test at DN 3; on a success
+        the MEK vanishes and reappears anywhere within 100m. The DN increases by
+        +1 each time it is used in a scene. On a Complication the MEK scatters Xd6
+        metres in a random direction (X = the test's DN).</p>
+      value: 0
+      keywords: ''
+      effect: ''
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!iAQ5YeE1WH5344xQ.gWvkeDRrMwY6CUZd'
+  - name: "'Ere We Go"
+    type: talent
+    _id: AxRdfqSLLCuwTk4y
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: >-
+        <p>The Threat adds +1 to its Speed when it takes the Charge action.
+        Further, if the Threat begins its turn Engaged, then it adds +2 damage to
+        its melee attacks.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!iAQ5YeE1WH5344xQ.AxRdfqSLLCuwTk4y'
+  - name: Champion
+    type: talent
+    _id: r5lfajBAswr8ltoh
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: >-
+        <p>This Threat may use Ruin Actions and has 5 Personal Ruin.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!iAQ5YeE1WH5344xQ.r5lfajBAswr8ltoh'
+  - name: Dakka! Dakka! Dakka!
+    type: talent
+    _id: TyqRxSZ1vRZcbSOE
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: >-
+        <p>When the Threat makes a ranged attack at an enemy within Short range,
+        add bonus dice equal to the weapon's Salvo rating to the attack.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!iAQ5YeE1WH5344xQ.TyqRxSZ1vRZcbSOE'
+  - name: 'Kontrapshunz!'
+    type: talent
+    _id: UDlvYdb2DlTNapcT
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: >-
+        <p>A Big Mek is equipped with exactly one of the following: a Kustom Force
+        Field, a Tellyport Blasta, or a Tellyporta (each included unequipped
+        &mdash; equip the one you want). They are too big and bulky to carry more
+        than one.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!iAQ5YeE1WH5344xQ.UDlvYdb2DlTNapcT'
+  - name: Mob Rule
+    type: talent
+    _id: GsBL63y9qXVb31k1
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: >-
+        <p>Orks gain 1 Icon on all Resolve tests for every 10 Ork Threats present
+        on the battlefield.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!iAQ5YeE1WH5344xQ.GsBL63y9qXVb31k1'
+  - name: Mekaniak
+    type: ability
+    _id: JomZRb0ji5p3uuYq
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ''
+      specification: ''
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: >-
+        <p>The Mek attempts a DN 3 Tech test to repair an ORK KAN or Vehicle within
+        1m. If successful, the target regains 1d3+Tier Wounds, +1 per Exalted Icon
+        rolled.</p>
+      display: true
+      abilityType: ''
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ''
+        wounds: ''
+        shock: ''
+      test:
+        dn: null
+        type: ''
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!iAQ5YeE1WH5344xQ.JomZRb0ji5p3uuYq'
+  - name: 'Wrath: Made It Betterer!'
+    type: ability
+    _id: GgQR2DUFGGeiq26m
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ''
+      specification: ''
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: >-
+        <p>When the Mek uses the Mekaniak action and rolls a Wrath critical, the
+        ORK KAN or Vehicle also gains +1 Speed or +2 Resilience, at the Mek's
+        choice.</p>
+      display: true
+      abilityType: ''
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ''
+        wounds: ''
+        shock: ''
+      test:
+        dn: null
+        type: ''
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!iAQ5YeE1WH5344xQ.GgQR2DUFGGeiq26m'
+  - name: 'Determination'
+    type: ability
+    _id: h9TllYrfhzeYh48J
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ''
+      specification: ''
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: <p>Spend 1 Ruin to roll 8d6.</p>
+      display: true
+      abilityType: determination
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ''
+        wounds: ''
+        shock: ''
+      test:
+        dn: null
+        type: ''
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!iAQ5YeE1WH5344xQ.h9TllYrfhzeYh48J'
+effects: []
+sort: 0
+ownership:
+  default: 0
+flags:
+  wrath-and-glory:
+    autoCalc:
+      defence: true
+      resilience: true
+      shock: true
+      awareness: true
+      resolve: true
+      determination: true
+      wounds: true
+      conviction: true
+    autoWounded: true
+    autoExhausted: true
+    generateMetaCurrencies: true
+_key: '!actors!iAQ5YeE1WH5344xQ'

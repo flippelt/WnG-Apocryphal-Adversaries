@@ -9,15 +9,32 @@ here **with his permission**.
 >
 > Companion to the [An Abundance of Apocrypha](https://github.com/flippelt/WnG-Apocrypha-FoundryVTT)
 > module (archetypes, talents, wargear, etc.).
+>
+> ⚠️ **Recommended companions — `wng-core` and `wng-apocrypha` (optional but
+> strongly advised).** Both are listed as `recommends`, so this module installs
+> and runs without them, **but elements will break without them:**
+>
+> - **`wng-core`** supplies the threats' tokens and item icons, and the **Smite**
+>   psychic power some threats link to. Without it, those icons are missing and the
+>   Smite link shows as "unlinked".
+> - **`wng-apocrypha`** supplies the Ork **WAAAGH! psychic powers** (and other
+>   shared content) that the psyker threats link to via compendium references.
+>   Without it, those linked powers show as "unlinked".
+>
+> Install both for the full, linked experience.
 
 ## Status / Progress
 
-🚧 **Early scaffold.** The build pipeline and manifest are in place; threat
-stat blocks are converted faction by faction from the source PDFs. See
+Converted faction by faction from the source PDFs. See
 [CONVERSION-STATUS.md](CONVERSION-STATUS.md).
 
-Source factions (9): Orks · Tyranids · Necrons · Daemonic Legions · Heretic
-Astartes · Asuryani · Drukhari · T'au Empire · Malicious Miscellany.
+- ✅ **Orks — complete (v0.2.0):** all 41 threats (Boyz, Nobz, walkers, psykers
+  and every named Warlord up to Ghazghkull) plus a companion items compendium of
+  19 Adversary Traits and 15 Shiny Gubbinz relics.
+- ⏳ **To do:** Tyranids · Necrons · Daemonic Legions · Heretic Astartes ·
+  Asuryani · Drukhari · T'au Empire · Malicious Miscellany.
+
+**v1.0.0 will be tagged once all nine faction PDFs are converted.**
 
 ## Development
 
@@ -37,13 +54,10 @@ Reload the module in Foundry after editing to confirm the compendium loads.
 
 ### Releasing
 
-`module.json` keeps a **fixed** `manifest` URL pointing at the moving `latest`
-release — never change it, or Foundry installs stop seeing updates. The
-`download` URL points at a versioned release tag (`vX.Y.Z`). Create a GitHub
-Release on that tag and the [release workflow](.github/workflows/release.yml)
-builds the zip, attaches it, refreshes the `latest` manifest, and (if the
-`FVTT_RELEASE_TOKEN` secret is set) registers with the Foundry Package Release
-API.
+Create a GitHub Release on a `vX.Y.Z` tag and the
+[release workflow](.github/workflows/release.yml) builds the zip, attaches it,
+refreshes the `latest` manifest, and (if the `FVTT_RELEASE_TOKEN` secret is set)
+registers with the Foundry Package Release API.
 
 ## Authors
 

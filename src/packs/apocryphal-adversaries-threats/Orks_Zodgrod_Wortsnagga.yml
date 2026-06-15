@@ -1,0 +1,687 @@
+folder: fIRfbMfP3ahjbc6n
+name: Zodgrod Wortsnagga
+type: threat
+_id: NdiJjE3HWfdqGDH2
+img: modules/wng-core/assets/tokens/orks.webp
+system:
+  attributes:
+    strength:
+      label: ATTRIBUTE.STRENGTH
+      rating: 0
+      base: 7
+      bonus: 0
+      cost: 0
+      total: 0
+    toughness:
+      label: ATTRIBUTE.TOUGHNESS
+      rating: 0
+      base: 7
+      bonus: 0
+      cost: 0
+      total: 0
+    agility:
+      label: ATTRIBUTE.AGILITY
+      rating: 0
+      base: 3
+      bonus: 0
+      cost: 0
+      total: 0
+    initiative:
+      label: ATTRIBUTE.INITIATIVE
+      rating: 0
+      base: 5
+      bonus: 0
+      cost: 0
+      total: 0
+    willpower:
+      label: ATTRIBUTE.WILLPOWER
+      rating: 0
+      base: 5
+      bonus: 0
+      cost: 0
+      total: 0
+    intellect:
+      label: ATTRIBUTE.INTELLECT
+      rating: 0
+      base: 4
+      bonus: 0
+      cost: 0
+      total: 0
+    fellowship:
+      label: ATTRIBUTE.FELLOWSHIP
+      rating: 0
+      base: 4
+      bonus: 0
+      cost: 0
+      total: 0
+  skills:
+    athletics:
+      label: SKILL.ATHLETICS
+      attribute: strength
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    awareness:
+      label: SKILL.AWARENESS
+      attribute: intellect
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    ballisticSkill:
+      label: SKILL.BALLISTIC_SKILL
+      attribute: agility
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    cunning:
+      label: SKILL.CUNNING
+      attribute: fellowship
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    deception:
+      label: SKILL.DECEPTION
+      attribute: fellowship
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    insight:
+      label: SKILL.INSIGHT
+      attribute: fellowship
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    intimidation:
+      label: SKILL.INTIMIDATION
+      attribute: willpower
+      rating: 6
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    investigation:
+      label: SKILL.INVESTIGATION
+      attribute: intellect
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    leadership:
+      label: SKILL.LEADERSHIP
+      attribute: willpower
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    medicae:
+      label: SKILL.MEDICAE
+      attribute: intellect
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    persuasion:
+      label: SKILL.PERSUASION
+      attribute: fellowship
+      rating: 5
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    pilot:
+      label: SKILL.PILOT
+      attribute: agility
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    psychicMastery:
+      label: SKILL.PSYCHIC_MASTERY
+      attribute: willpower
+      rating: 1
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    scholar:
+      label: SKILL.SCHOLAR
+      attribute: intellect
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    stealth:
+      label: SKILL.STEALTH
+      attribute: agility
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    survival:
+      label: SKILL.SURVIVAL
+      attribute: willpower
+      rating: 1
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    tech:
+      label: SKILL.TECH
+      attribute: intellect
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    weaponSkill:
+      label: SKILL.WEAPON_SKILL
+      attribute: initiative
+      rating: 5
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+  combat:
+    defense:
+      bonus: 0
+      total: 0
+    defence:
+      bonus: -1
+      total: 0
+    resilience:
+      bonus: 0
+      total: 0
+    wounds:
+      value: 0
+      bonus: 0
+      max: 11
+    determination:
+      bonus: 0
+      total: 0
+    shock:
+      value: 0
+      bonus: 0
+      max: 6
+    resolve:
+      bonus: -1
+      total: 0
+    conviction:
+      bonus: -1
+      total: 0
+    size: average
+    speed: 5
+    fly: 0
+    passiveAwareness:
+      bonus: 0
+      total: 0
+    stealth: 0
+  bio:
+    species: ""
+    faction: Orks
+    archetype: ""
+    threat:
+      first: A
+      second: A
+      third: E
+      fourth: E
+      fifth: E
+  resources:
+    ruin: 0
+  corruption:
+    current: 0
+  mob: null
+  notes: <p>Zodgrod started as the Runtherd of the Snakebites "Chargerz", unusually effective at training his Gretchin ("Kommando Runtz") to follow orders and act aggressively &mdash; and fanatically protective of them, to the point he once fired a Mek through his own Shokk Attack Gun for mistreating them. Banished for the recklessness, he took to the spacelanes as a Freebooter Runtherd, breeding his own "Super-Runtz" via Pavlovian conditioning and hiring them out to any Warboss who can pay.</p><p><em>Printed Defence 3 / Conviction 4 / Resolve 3 reproduced as written (minor book inconsistency vs the attribute row).</em></p>
+prototypeToken:
+  name: Zodgrod Wortsnagga
+  displayName: 20
+  actorLink: false
+  appendNumber: false
+  prependAdjective: false
+  texture:
+    src: modules/wng-core/assets/tokens/orks.webp
+    scaleX: 1
+    scaleY: 1
+    offsetX: 0
+    offsetY: 0
+    rotation: 0
+  width: 1
+  height: 1
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  disposition: -1
+  displayBars: 20
+  bar1:
+    attribute: combat.wounds
+  bar2:
+    attribute: combat.shock
+  sight:
+    enabled: false
+    range: 0
+    angle: 360
+    visionMode: basic
+  detectionModes: []
+  flags: {}
+  randomImg: false
+items:
+  - name: ORK
+    type: keyword
+    _id: QaMMX9rClIBozKe2
+    img: modules/wng-core/assets/factions/orks.svg
+    system:
+      description: <p>A brutal xenos Species that crave violence and live only for war.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!NdiJjE3HWfdqGDH2.QaMMX9rClIBozKe2"
+  - name: SNAKEBITE
+    type: keyword
+    _id: jE8Z1BRHEIWYL8wy
+    img: modules/wng-core/assets/factions/orks.svg
+    system:
+      description: <p>The old-ways Ork clan of beast-hunters who shun high technology and favour squig mounts.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!NdiJjE3HWfdqGDH2.jE8Z1BRHEIWYL8wy"
+  - name: RUNTHERD
+    type: keyword
+    _id: 0waEHO646kEuWQBF
+    img: modules/wng-core/assets/factions/orks.svg
+    system:
+      description: <p>Ork Oddboyz with the rare patience to train and drive the smaller Orkoids (Gretchin and Snotlings).</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!NdiJjE3HWfdqGDH2.0waEHO646kEuWQBF"
+  - name: BEAST SNAGGA
+    type: keyword
+    _id: ZkCYKtHQtS6q1VVT
+    img: modules/wng-core/assets/factions/orks.svg
+    system:
+      description: <p>Ork Boyz who specialise in hunting Monstrous Creatures and Vehicles.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!NdiJjE3HWfdqGDH2.ZkCYKtHQtS6q1VVT"
+  - name: BOSS
+    type: keyword
+    _id: RB62lnnRC5gUHVHR
+    img: modules/wng-core/assets/factions/orks.svg
+    system:
+      description: <p>A senior Ork leader who commands other Greenskins through size, strength and brutality.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!NdiJjE3HWfdqGDH2.RB62lnnRC5gUHVHR"
+  - name: Ork Flak
+    type: armour
+    _id: h01BO2OsKrKSFyqx
+    img: modules/wng-core/assets/icons/armour/armour.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: ""
+      value: 0
+      keywords: ""
+      equipped: true
+      rating: 2
+      base: 0
+      traits: []
+      invulnerable: false
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!NdiJjE3HWfdqGDH2.h01BO2OsKrKSFyqx"
+  - name: Slugga
+    type: weapon
+    _id: MwUd9G0f8DuE72xq
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: ""
+      value: 0
+      keywords: ""
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 10
+        bonus: 0
+        rank: none
+      ed:
+        base: 1
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 6
+        medium: 12
+        long: 18
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: 1
+      traits:
+        - name: pistol
+        - name: waaagh!
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!NdiJjE3HWfdqGDH2.MwUd9G0f8DuE72xq"
+  - name: Da Grabzappa
+    type: weapon
+    _id: Zwl9eGTNtujvVnnw
+    img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: <p>Reach 2.</p>
+      value: 0
+      keywords: ""
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 13
+        bonus: 0
+        rank: none
+      ed:
+        base: 5
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      category: melee
+      range:
+        short: 0
+        medium: 0
+        long: 0
+        melee: 2
+        thrown: null
+      ammo: ""
+      salvo: 0
+      traits:
+        - name: agonising
+        - name: inflict
+          rating: Restrained
+        - name: waaagh!
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!NdiJjE3HWfdqGDH2.Zwl9eGTNtujvVnnw"
+  - name: Beast Snagga
+    type: talent
+    _id: JBscsuY3aWS8lSYj
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>Add +Tier bonus dice to attacks made against enemy Monstrous Creatures and Vehicles.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!NdiJjE3HWfdqGDH2.JBscsuY3aWS8lSYj"
+  - name: Champion
+    type: talent
+    _id: wb2z2Lb7MjBRZY7Z
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>This Threat may use Ruin Actions and has 4 Personal Ruin.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!NdiJjE3HWfdqGDH2.wb2z2Lb7MjBRZY7Z"
+  - name: Dakka! Dakka! Dakka!
+    type: talent
+    _id: mGowTes6Wzc4Q4Ls
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>When the Threat makes a ranged attack at an enemy within Short range, add bonus dice equal to the weapon's Salvo rating to the attack.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!NdiJjE3HWfdqGDH2.mGowTes6Wzc4Q4Ls"
+  - name: "'Ere We Go"
+    type: talent
+    _id: m6xvSTOYqWZ6QlTU
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>The Threat adds +1 to its Speed when it takes the Charge action. Further, if the Threat begins its turn Engaged, then it adds +2 damage to its melee attacks.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!NdiJjE3HWfdqGDH2.m6xvSTOYqWZ6QlTU"
+  - name: Runtboss
+    type: talent
+    _id: pPMSeSX7VnXfsIKP
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>Zodgrod adds +1 Speed to any RUNTS or SQUIGS within 3m, and they may use his Resolve instead of their own.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!NdiJjE3HWfdqGDH2.pPMSeSX7VnXfsIKP"
+  - name: Mob Rule
+    type: talent
+    _id: u0X1XuQROMVmCBo0
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>Orks gain 1 Icon on all Resolve tests for every 10 Ork Threats present on the battlefield.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!NdiJjE3HWfdqGDH2.u0X1XuQROMVmCBo0"
+  - name: Snakebite
+    type: talent
+    _id: LV2Dp6Ngn0fstL8E
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>This Threat increases its Determination by +Tier dice. In addition, SQUIGS within 6m add +Tier ED to damage rolls for melee attacks after charging.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!NdiJjE3HWfdqGDH2.LV2Dp6Ngn0fstL8E"
+  - name: "Battlecry: Super Runts"
+    type: ability
+    _id: fmkUaQJ1fJNUUY7w
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ""
+      specification: ""
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>Zodgrod selects one mob of GRETCHIN within 6m. This mob adds +Tier to all of their Skill ratings.</p>
+      display: true
+      abilityType: ""
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ""
+        wounds: ""
+        shock: ""
+      test:
+        dn: null
+        type: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!NdiJjE3HWfdqGDH2.fmkUaQJ1fJNUUY7w"
+  - name: Determination
+    type: ability
+    _id: Z8okrc8ybZz4JHco
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ""
+      specification: ""
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>Spend 1 Ruin to roll 7d6.</p>
+      display: true
+      abilityType: determination
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ""
+        wounds: ""
+        shock: ""
+      test:
+        dn: null
+        type: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!NdiJjE3HWfdqGDH2.Z8okrc8ybZz4JHco"
+effects: []
+sort: 0
+ownership:
+  default: 0
+flags:
+  wrath-and-glory:
+    autoCalc:
+      defence: true
+      resilience: true
+      shock: true
+      awareness: true
+      resolve: true
+      determination: true
+      wounds: true
+      conviction: true
+    autoWounded: true
+    autoExhausted: true
+    generateMetaCurrencies: true
+_key: "!actors!NdiJjE3HWfdqGDH2"

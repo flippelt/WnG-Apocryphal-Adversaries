@@ -1,0 +1,17 @@
+name: Da Best Armour Teef Can Buy
+type: talent
+_id: IBidEiRVBrbHYAvg
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: XqFjNuqJNwuRHTkR
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>(Bad Moons.) The Armour Rating of the Adversary's armour is increased by an amount equal to the game's Tier.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!IBidEiRVBrbHYAvg"

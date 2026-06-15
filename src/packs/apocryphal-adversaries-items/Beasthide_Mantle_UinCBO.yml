@@ -1,0 +1,18 @@
+name: Beasthide Mantle
+type: gear
+_id: ZtXs7EWJftKsmmzd
+img: modules/wng-core/assets/icons/gear/gear.webp
+folder: hOdCFg9gkphPHfVr
+sort: 0
+system:
+  quantity: 1
+  rarity: rare
+  description: <p>(Beast Snaggas only.) The wearer adds +Tier to his Weapon Skill and may re-roll any dice which result in a failure when rolling Determination.</p>
+  value: 0
+  keywords: ""
+  effect: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!ZtXs7EWJftKsmmzd"

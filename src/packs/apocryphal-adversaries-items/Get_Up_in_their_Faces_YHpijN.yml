@@ -1,0 +1,17 @@
+name: Get Up in their Faces
+type: talent
+_id: Pxq90NOgvVurd4bw
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: XqFjNuqJNwuRHTkR
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>(Speed Freeks.) When this Adversary moves after taking the Fall Back action, he may make a single ranged attack at the end of the move as a free action.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!Pxq90NOgvVurd4bw"

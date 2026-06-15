@@ -1,0 +1,794 @@
+folder: fIRfbMfP3ahjbc6n
+name: Speedboss on Deffkilla Wartrike
+type: threat
+_id: gdeI9HN4dL4ag11m
+img: modules/wng-core/assets/tokens/orks.webp
+system:
+  attributes:
+    strength:
+      label: ATTRIBUTE.STRENGTH
+      rating: 0
+      base: 10
+      bonus: 0
+      cost: 0
+      total: 0
+    toughness:
+      label: ATTRIBUTE.TOUGHNESS
+      rating: 0
+      base: 10
+      bonus: 0
+      cost: 0
+      total: 0
+    agility:
+      label: ATTRIBUTE.AGILITY
+      rating: 0
+      base: 5
+      bonus: 0
+      cost: 0
+      total: 0
+    initiative:
+      label: ATTRIBUTE.INITIATIVE
+      rating: 0
+      base: 6
+      bonus: 0
+      cost: 0
+      total: 0
+    willpower:
+      label: ATTRIBUTE.WILLPOWER
+      rating: 0
+      base: 6
+      bonus: 0
+      cost: 0
+      total: 0
+    intellect:
+      label: ATTRIBUTE.INTELLECT
+      rating: 0
+      base: 4
+      bonus: 0
+      cost: 0
+      total: 0
+    fellowship:
+      label: ATTRIBUTE.FELLOWSHIP
+      rating: 0
+      base: 4
+      bonus: 0
+      cost: 0
+      total: 0
+  skills:
+    athletics:
+      label: SKILL.ATHLETICS
+      attribute: strength
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    awareness:
+      label: SKILL.AWARENESS
+      attribute: intellect
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    ballisticSkill:
+      label: SKILL.BALLISTIC_SKILL
+      attribute: agility
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    cunning:
+      label: SKILL.CUNNING
+      attribute: fellowship
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    deception:
+      label: SKILL.DECEPTION
+      attribute: fellowship
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    insight:
+      label: SKILL.INSIGHT
+      attribute: fellowship
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    intimidation:
+      label: SKILL.INTIMIDATION
+      attribute: willpower
+      rating: 5
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    investigation:
+      label: SKILL.INVESTIGATION
+      attribute: intellect
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    leadership:
+      label: SKILL.LEADERSHIP
+      attribute: willpower
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    medicae:
+      label: SKILL.MEDICAE
+      attribute: intellect
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    persuasion:
+      label: SKILL.PERSUASION
+      attribute: fellowship
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    pilot:
+      label: SKILL.PILOT
+      attribute: agility
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    psychicMastery:
+      label: SKILL.PSYCHIC_MASTERY
+      attribute: willpower
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    scholar:
+      label: SKILL.SCHOLAR
+      attribute: intellect
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    stealth:
+      label: SKILL.STEALTH
+      attribute: agility
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    survival:
+      label: SKILL.SURVIVAL
+      attribute: willpower
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    tech:
+      label: SKILL.TECH
+      attribute: intellect
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    weaponSkill:
+      label: SKILL.WEAPON_SKILL
+      attribute: initiative
+      rating: 6
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+  combat:
+    defense:
+      bonus: 0
+      total: 0
+    defence:
+      bonus: 0
+      total: 0
+    resilience:
+      bonus: 0
+      total: 0
+    wounds:
+      value: 0
+      bonus: 0
+      max: 18
+    determination:
+      bonus: 0
+      total: 0
+    shock:
+      value: 0
+      bonus: 0
+      max: 10
+    resolve:
+      bonus: 0
+      total: 0
+    conviction:
+      bonus: 0
+      total: 0
+    size: large
+    speed: 5
+    fly: 0
+    passiveAwareness:
+      bonus: 0
+      total: 0
+    stealth: 0
+  bio:
+    species: ""
+    faction: Orks
+    archetype: ""
+    threat:
+      first: A
+      second: A
+      third: A
+      fourth: A
+      fifth: A
+  resources:
+    ruin: 0
+  corruption:
+    current: 0
+  mob: null
+  notes: "<p>Fast-moving fighting platforms favoured by some Speed Freek Warbosses, Deffkilla Wartrikes make little concession to armour: scythe-wheeled, with an enormous rokkit-engine afterburner, they move at a vulgar pace and pack enough firepower to be extra killy. The Speedboss and driver alike are completely exposed, but happy to prove their toughness by ploughing headlong into the biggest enemy formation they can find.</p><p><em>The Speedboss is mounted on a Deffkilla Wartrike (Church of Steel, p.104 &mdash; use that vehicle, e.g. from the wng-cos module, if available).</em></p>"
+prototypeToken:
+  name: Speedboss on Deffkilla Wartrike
+  displayName: 20
+  actorLink: false
+  appendNumber: false
+  prependAdjective: false
+  texture:
+    src: modules/wng-core/assets/tokens/orks.webp
+    scaleX: 2
+    scaleY: 2
+    offsetX: 0
+    offsetY: 0
+    rotation: 0
+  width: 2
+  height: 2
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  disposition: -1
+  displayBars: 20
+  bar1:
+    attribute: combat.wounds
+  bar2:
+    attribute: combat.shock
+  sight:
+    enabled: false
+    range: 0
+    angle: 360
+    visionMode: basic
+  detectionModes: []
+  flags: {}
+  randomImg: false
+items:
+  - name: ORK
+    type: keyword
+    _id: ZtbES6su131J68wS
+    img: modules/wng-core/assets/factions/orks.svg
+    system:
+      description: <p>A brutal xenos Species that crave violence and live only for war.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!gdeI9HN4dL4ag11m.ZtbES6su131J68wS"
+  - name: "[CLAN]"
+    type: keyword
+    _id: vlVegxduAA04b5hK
+    img: modules/wng-core/assets/factions/orks.svg
+    system:
+      description: <p>Replace with the Ork's clan keyword (Bad Moons, Blood Axes, Deathskulls, Evil Sunz, Freebooterz, Goffs, Snakebites&hellip;).</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!gdeI9HN4dL4ag11m.vlVegxduAA04b5hK"
+  - name: BOSS
+    type: keyword
+    _id: THCKBWOeodVRPNaE
+    img: modules/wng-core/assets/factions/orks.svg
+    system:
+      description: <p>A senior Ork leader who commands other Greenskins through size, strength and brutality.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!gdeI9HN4dL4ag11m.THCKBWOeodVRPNaE"
+  - name: SPEED FREEK
+    type: keyword
+    _id: BtGNcIj6FJFmeFNY
+    img: modules/wng-core/assets/factions/orks.svg
+    system:
+      description: <p>Orks obsessed with speed who fight from bikes, buggies and other fast vehicles.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!gdeI9HN4dL4ag11m.BtGNcIj6FJFmeFNY"
+  - name: "'Eavy Armour"
+    type: armour
+    _id: GxmQcgaKvsbDv0Xe
+    img: modules/wng-core/assets/icons/armour/armour.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: ""
+      value: 0
+      keywords: ""
+      equipped: true
+      rating: 4
+      base: 0
+      traits: []
+      invulnerable: false
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!gdeI9HN4dL4ag11m.GxmQcgaKvsbDv0Xe"
+  - name: Snagga Klaw
+    type: weapon
+    _id: 6hlrJB5X6VpBTAIR
+    img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: ""
+      value: 0
+      keywords: ""
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 15
+        bonus: 0
+        rank: none
+      ed:
+        base: 5
+        bonus: 0
+        rank: none
+      ap:
+        base: -1
+        bonus: 0
+        rank: none
+      category: melee
+      range:
+        short: 0
+        medium: 0
+        long: 0
+        melee: 1
+        thrown: null
+      ammo: ""
+      salvo: 0
+      traits:
+        - name: waaagh!
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!gdeI9HN4dL4ag11m.6hlrJB5X6VpBTAIR"
+  - name: Twin Boomstikks
+    type: weapon
+    _id: EQfgAfI5VoyXE8Do
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: <p>Wartrike weapon (the pilot carries an additional twin Boomstikk).</p>
+      value: 0
+      keywords: ""
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 12
+        bonus: 0
+        rank: none
+      ed:
+        base: 1
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 6
+        medium: 12
+        long: 18
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: 2
+      traits:
+        - name: assault
+        - name: spread
+        - name: waaagh!
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!gdeI9HN4dL4ag11m.EQfgAfI5VoyXE8Do"
+  - name: Killa Jet (Burna)
+    type: weapon
+    _id: aBmmILd26Rzdzj6G
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: <p>Wartrike weapon.</p>
+      value: 0
+      keywords: ""
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 12
+        bonus: 0
+        rank: none
+      ed:
+        base: 2
+        bonus: 0
+        rank: none
+      ap:
+        base: -1
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 4
+        medium: 8
+        long: 12
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: 0
+      traits:
+        - name: flamer
+        - name: mounted
+          custom: true
+          display: Mounted (Large)
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!gdeI9HN4dL4ag11m.aBmmILd26Rzdzj6G"
+  - name: Killa Jet (Cutta)
+    type: weapon
+    _id: IHyx85cBrnz6NZuj
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: <p>Wartrike weapon (Cutta setting).</p>
+      value: 0
+      keywords: ""
+      equipped: false
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 16
+        bonus: 0
+        rank: none
+      ed:
+        base: 5
+        bonus: 0
+        rank: none
+      ap:
+        base: -4
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 6
+        medium: 12
+        long: 18
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: 0
+      traits:
+        - name: melta
+        - name: mounted
+          custom: true
+          display: Mounted (Large)
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!gdeI9HN4dL4ag11m.IHyx85cBrnz6NZuj"
+  - name: Champion
+    type: talent
+    _id: 6z9L8OusKyGRIF9l
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>This Threat may use Ruin Actions and has 5 Personal Ruin.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!gdeI9HN4dL4ag11m.6z9L8OusKyGRIF9l"
+  - name: Dakka! Dakka! Dakka!
+    type: talent
+    _id: CdD67lcnYii8HbYr
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>When the Threat makes a ranged attack at an enemy within Short range, add bonus dice equal to the weapon's Salvo rating to the attack.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!gdeI9HN4dL4ag11m.CdD67lcnYii8HbYr"
+  - name: "'Ere We Go"
+    type: talent
+    _id: rUWtjk2AjIDLn0w3
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>The Threat adds +1 to its Speed when it takes the Charge action. Further, if the Threat begins its turn Engaged, then it adds +2 damage to its melee attacks.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!gdeI9HN4dL4ag11m.rUWtjk2AjIDLn0w3"
+  - name: Mob Rule
+    type: talent
+    _id: j2y113441PNBYunJ
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>Orks gain 1 Icon on all Resolve tests for every 10 Ork Threats present on the battlefield.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!gdeI9HN4dL4ag11m.j2y113441PNBYunJ"
+  - name: Speed Freek
+    type: talent
+    _id: Q1v8GPqQurlRG7aL
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>The Boss adds +2 to their Conviction and Resolve while mounted on his Deffkilla Wartrike. This increases to +3 on any turn in which he travels at Breakneck Speed.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!gdeI9HN4dL4ag11m.Q1v8GPqQurlRG7aL"
+  - name: Speedboss
+    type: talent
+    _id: jpi9McexS5OkqEBN
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>Allied [CLAN] SPEED FREEKS within 6m of the Speedboss add +2 dice on all ranged attacks and Pilot tests.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!gdeI9HN4dL4ag11m.jpi9McexS5OkqEBN"
+  - name: "Battlecry: VROOM!"
+    type: ability
+    _id: Gf12sBRpr4GdEyhl
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ""
+      specification: ""
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>The Speedboss drives their Deffkilla Wartrike towards the enemy. If not on their Wartrike, they move up to twice their Speed towards it, mounting the vehicle if possible.</p>
+      display: true
+      abilityType: ""
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ""
+        wounds: ""
+        shock: ""
+      test:
+        dn: null
+        type: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!gdeI9HN4dL4ag11m.Gf12sBRpr4GdEyhl"
+  - name: "Ruin: Crashin' Through"
+    type: ability
+    _id: KFupDHQtkramDn0A
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ""
+      specification: ""
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>When the Speedboss makes a melee attack from their Wartrike, they may spend 1 Ruin to add +3ED to the attack's damage and increase the AP by 1. If they take the Ram action at Breakneck Speed against an enemy smaller than their Wartrike, they may spend 1 Ruin to knock the enemy out of the way, inflicting 1 Mortal Wound and allowing the Wartrike to continue its move.</p>
+      display: true
+      abilityType: ""
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ""
+        wounds: ""
+        shock: ""
+      test:
+        dn: null
+        type: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!gdeI9HN4dL4ag11m.KFupDHQtkramDn0A"
+  - name: "Determination: Dead 'Ard"
+    type: ability
+    _id: Nd0hFFBSgi4lyNr0
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ""
+      specification: ""
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>Dead 'Ard. Roll 10d6. The Warboss may roll Determination against Mortal Wounds, regaining 1 Shock for every Exalted Icon rolled.</p>
+      display: true
+      abilityType: determination
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ""
+        wounds: ""
+        shock: ""
+      test:
+        dn: null
+        type: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!gdeI9HN4dL4ag11m.Nd0hFFBSgi4lyNr0"
+effects: []
+sort: 0
+ownership:
+  default: 0
+flags:
+  wrath-and-glory:
+    autoCalc:
+      defence: true
+      resilience: true
+      shock: true
+      awareness: true
+      resolve: true
+      determination: true
+      wounds: true
+      conviction: true
+    autoWounded: true
+    autoExhausted: true
+    generateMetaCurrencies: true
+_key: "!actors!gdeI9HN4dL4ag11m"

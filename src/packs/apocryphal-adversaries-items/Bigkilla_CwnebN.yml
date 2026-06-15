@@ -1,0 +1,17 @@
+name: Bigkilla
+type: talent
+_id: nIhTbFCwAsXSeAvC
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: XqFjNuqJNwuRHTkR
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>(Beast Snagga.) Each time this Adversary is engaged with an enemy Monstrous Creature or Vehicle, add +Tier to his Weapon Skill. In addition, the Adversary's attacks against a Monstrous Creature or Vehicle increase their damage by +Tier ED.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!nIhTbFCwAsXSeAvC"
