@@ -9,6 +9,11 @@ here **with his permission**.
 >
 > Companion to the [An Abundance of Apocrypha](https://github.com/flippelt/WnG-Apocrypha-FoundryVTT)
 > module (archetypes, talents, wargear, etc.).
+>
+> ⚠️ **Recommended companion — `wng-core` (optional):** the threats use `wng-core`
+> tokens and item icons. `wng-core` is **optional** — the module installs and runs
+> without it — but **without `wng-core` those icons will be missing**. Install
+> `wng-core` for the full visual experience.
 
 ## Status / Progress
 

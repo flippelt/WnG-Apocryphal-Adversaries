@@ -33,6 +33,10 @@
     ],
     "recommends": [
       {
+        "id": "wng-core",
+        "type": "module"
+      },
+      {
         "id": "wng-apocrypha",
         "type": "module"
       }
