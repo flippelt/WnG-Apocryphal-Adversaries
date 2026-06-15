@@ -25,12 +25,16 @@ here **with his permission**.
 
 ## Status / Progress
 
-🚧 **Early scaffold.** The build pipeline and manifest are in place; threat
-stat blocks are converted faction by faction from the source PDFs. See
+Converted faction by faction from the source PDFs. See
 [CONVERSION-STATUS.md](CONVERSION-STATUS.md).
 
-Source factions (9): Orks · Tyranids · Necrons · Daemonic Legions · Heretic
-Astartes · Asuryani · Drukhari · T'au Empire · Malicious Miscellany.
+- ✅ **Orks — complete (v0.2.0):** all 41 threats (Boyz, Nobz, walkers, psykers
+  and every named Warlord up to Ghazghkull) plus a companion items compendium of
+  19 Adversary Traits and 15 Shiny Gubbinz relics.
+- ⏳ **To do:** Tyranids · Necrons · Daemonic Legions · Heretic Astartes ·
+  Asuryani · Drukhari · T'au Empire · Malicious Miscellany.
+
+**v1.0.0 will be tagged once all nine faction PDFs are converted.**
 
 ## Development
 
