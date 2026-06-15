@@ -37,13 +37,10 @@ Reload the module in Foundry after editing to confirm the compendium loads.
 
 ### Releasing
 
-`module.json` keeps a **fixed** `manifest` URL pointing at the moving `latest`
-release — never change it, or Foundry installs stop seeing updates. The
-`download` URL points at a versioned release tag (`vX.Y.Z`). Create a GitHub
-Release on that tag and the [release workflow](.github/workflows/release.yml)
-builds the zip, attaches it, refreshes the `latest` manifest, and (if the
-`FVTT_RELEASE_TOKEN` secret is set) registers with the Foundry Package Release
-API.
+Create a GitHub Release on a `vX.Y.Z` tag and the
+[release workflow](.github/workflows/release.yml) builds the zip, attaches it,
+refreshes the `latest` manifest, and (if the `FVTT_RELEASE_TOKEN` secret is set)
+registers with the Foundry Package Release API.
 
 ## Authors
 
