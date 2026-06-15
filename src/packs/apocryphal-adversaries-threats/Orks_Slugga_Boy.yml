@@ -2,7 +2,7 @@ folder: fIRfbMfP3ahjbc6n
 name: Slugga Boy
 type: threat
 _id: v912zZDe8h0FtcDH
-img: icons/svg/mystery-man.svg
+img: modules/wng-core/assets/tokens/orks.webp
 system:
   attributes:
     strength:
@@ -268,7 +268,7 @@ prototypeToken:
   appendNumber: false
   prependAdjective: false
   texture:
-    src: icons/svg/mystery-man.svg
+    src: modules/wng-core/assets/tokens/orks.webp
     scaleX: 1
     scaleY: 1
     offsetX: 0
@@ -297,7 +297,7 @@ items:
   - name: ORK
     type: keyword
     _id: TowXgQzP3SNPvBKv
-    img: icons/svg/aura.svg
+    img: modules/wng-core/assets/factions/orks.svg
     system:
       description: >-
         <p>A brutal xenos Species that crave violence and live only for war.</p>
@@ -311,7 +311,7 @@ items:
   - name: '[CLAN]'
     type: keyword
     _id: jgmY6HcrjUiad4yL
-    img: icons/svg/aura.svg
+    img: modules/wng-core/assets/factions/orks.svg
     system:
       description: >-
         <p>Replace with the Ork's clan keyword (Bad Moons, Blood Axes,
@@ -326,7 +326,7 @@ items:
   - name: Ork Flak
     type: armour
     _id: OT3c3Y1nieoxX7tM
-    img: icons/svg/mage-shield.svg
+    img: modules/wng-core/assets/icons/armour/armour.webp
     system:
       quantity: 1
       rarity: common
@@ -348,7 +348,7 @@ items:
   - name: Slugga
     type: weapon
     _id: vozTKNNFrZoyDjkO
-    img: icons/svg/target.svg
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
     system:
       quantity: 1
       rarity: common
@@ -395,7 +395,7 @@ items:
   - name: Choppa
     type: weapon
     _id: i4wVrhWPGL8rAMEm
-    img: icons/svg/sword.svg
+    img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
     system:
       quantity: 1
       rarity: common
@@ -442,7 +442,7 @@ items:
   - name: Stikkbomb
     type: weapon
     _id: 4nNUIEhH8CUzG219
-    img: icons/svg/explosion.svg
+    img: modules/wng-core/assets/icons/weapons/grenade.webp
     system:
       quantity: 2
       rarity: common
@@ -489,7 +489,7 @@ items:
   - name: Big Shoota
     type: weapon
     _id: pWwpajFkcVVPtXOE
-    img: icons/svg/target.svg
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
     system:
       quantity: 1
       rarity: common
@@ -536,7 +536,7 @@ items:
   - name: Rokkit Launcha
     type: weapon
     _id: zgP77TH1t2D2dyT7
-    img: icons/svg/target.svg
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
     system:
       quantity: 1
       rarity: common
@@ -583,7 +583,7 @@ items:
   - name: "'Ere We Go"
     type: talent
     _id: gFAVdkP9Z4NNZ3fr
-    img: icons/svg/upgrade.svg
+    img: modules/wng-core/assets/icons/talents/talent.webp
     system:
       effect: ''
       cost: 0
@@ -603,7 +603,7 @@ items:
   - name: Dakka! Dakka! Dakka!
     type: talent
     _id: 8EvLpEvc456U1AWQ
-    img: icons/svg/upgrade.svg
+    img: modules/wng-core/assets/icons/talents/talent.webp
     system:
       effect: ''
       cost: 0
@@ -622,7 +622,7 @@ items:
   - name: Mob Rule
     type: talent
     _id: bQfBcbEA7sj5Z6q3
-    img: icons/svg/upgrade.svg
+    img: modules/wng-core/assets/icons/talents/talent.webp
     system:
       effect: ''
       cost: 0
@@ -641,7 +641,7 @@ items:
   - name: 'Battlecry: Get Stuck In!'
     type: ability
     _id: DLzcM3N7CkWRXJCz
-    img: icons/svg/aura.svg
+    img: modules/wng-core/assets/icons/abilities/ability.webp
     system:
       dn: 0
       type: ''
@@ -686,7 +686,7 @@ items:
   - name: Determination
     type: ability
     _id: I3PP1Oc8475MIbnb
-    img: icons/svg/aura.svg
+    img: modules/wng-core/assets/icons/abilities/ability.webp
     system:
       dn: 0
       type: ''
@@ -727,7 +727,7 @@ items:
   - name: 'Complication: Animosity'
     type: ability
     _id: QzIs78sjRGITltOS
-    img: icons/svg/aura.svg
+    img: modules/wng-core/assets/icons/abilities/ability.webp
     system:
       dn: 0
       type: ''
