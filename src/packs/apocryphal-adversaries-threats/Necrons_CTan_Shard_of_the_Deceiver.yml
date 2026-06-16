@@ -1,0 +1,722 @@
+folder: M4ohwGvkG5xWAG0f
+name: C’Tan Shard of the Deceiver
+type: threat
+_id: TGPqTPvZFAs60Dav
+img: modules/wng-xenos/assets/tokens/c-tan-shard-of-the-deceiver.webp
+system:
+  attributes:
+    strength:
+      label: ATTRIBUTE.STRENGTH
+      rating: 0
+      base: 9
+      bonus: 0
+      cost: 0
+      total: 0
+    toughness:
+      label: ATTRIBUTE.TOUGHNESS
+      rating: 0
+      base: 11
+      bonus: 0
+      cost: 0
+      total: 0
+    agility:
+      label: ATTRIBUTE.AGILITY
+      rating: 0
+      base: 8
+      bonus: 0
+      cost: 0
+      total: 0
+    initiative:
+      label: ATTRIBUTE.INITIATIVE
+      rating: 0
+      base: 8
+      bonus: 0
+      cost: 0
+      total: 0
+    willpower:
+      label: ATTRIBUTE.WILLPOWER
+      rating: 0
+      base: 8
+      bonus: 0
+      cost: 0
+      total: 0
+    intellect:
+      label: ATTRIBUTE.INTELLECT
+      rating: 0
+      base: 8
+      bonus: 0
+      cost: 0
+      total: 0
+    fellowship:
+      label: ATTRIBUTE.FELLOWSHIP
+      rating: 0
+      base: 8
+      bonus: 0
+      cost: 0
+      total: 0
+  skills:
+    athletics:
+      label: SKILL.ATHLETICS
+      attribute: strength
+      rating: 1
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    awareness:
+      label: SKILL.AWARENESS
+      attribute: intellect
+      rating: 6
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    ballisticSkill:
+      label: SKILL.BALLISTIC_SKILL
+      attribute: agility
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    cunning:
+      label: SKILL.CUNNING
+      attribute: fellowship
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    deception:
+      label: SKILL.DECEPTION
+      attribute: fellowship
+      rating: 8
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    insight:
+      label: SKILL.INSIGHT
+      attribute: fellowship
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    intimidation:
+      label: SKILL.INTIMIDATION
+      attribute: willpower
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    investigation:
+      label: SKILL.INVESTIGATION
+      attribute: intellect
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    leadership:
+      label: SKILL.LEADERSHIP
+      attribute: willpower
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    medicae:
+      label: SKILL.MEDICAE
+      attribute: intellect
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    persuasion:
+      label: SKILL.PERSUASION
+      attribute: fellowship
+      rating: 8
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    pilot:
+      label: SKILL.PILOT
+      attribute: agility
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    psychicMastery:
+      label: SKILL.PSYCHIC_MASTERY
+      attribute: willpower
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    scholar:
+      label: SKILL.SCHOLAR
+      attribute: intellect
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    stealth:
+      label: SKILL.STEALTH
+      attribute: agility
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    survival:
+      label: SKILL.SURVIVAL
+      attribute: willpower
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    tech:
+      label: SKILL.TECH
+      attribute: intellect
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    weaponSkill:
+      label: SKILL.WEAPON_SKILL
+      attribute: initiative
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+  combat:
+    defense:
+      bonus: 2
+      total: 0
+    defence:
+      bonus: 2
+      total: 0
+    resilience:
+      bonus: 4
+      total: 0
+    wounds:
+      value: 0
+      bonus: 0
+      max: 21
+    determination:
+      bonus: 0
+      total: 0
+    shock:
+      value: 0
+      bonus: 0
+      max: 0
+    resolve:
+      bonus: 0
+      total: 0
+    conviction:
+      bonus: 0
+      total: 0
+    size: gargantuan
+    speed: 8
+    fly: 8
+    passiveAwareness:
+      bonus: 0
+      total: 0
+    stealth: 0
+  bio:
+    species: ""
+    faction: Necrons
+    archetype: ""
+    threat:
+      first: "-"
+      second: "-"
+      third: "-"
+      fourth: "-"
+      fifth: MC
+  resources:
+    ruin: 0
+  corruption:
+    current: 0
+  mob: null
+  notes: "<p>The Deceiver — Mephet’ran — is the C’Tan Star God of trickery, lies, and manipulation: the one who tricked the Necrontyr into biotransference, only to be shattered and enslaved like his kin.</p>"
+prototypeToken:
+  name: C’Tan Shard of the Deceiver
+  displayName: 20
+  actorLink: false
+  appendNumber: false
+  prependAdjective: false
+  texture:
+    src: modules/wng-xenos/assets/tokens/c-tan-shard-of-the-deceiver.webp
+    scaleX: 4
+    scaleY: 4
+    offsetX: 0
+    offsetY: 0
+    rotation: 0
+  width: 4
+  height: 4
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  disposition: -1
+  displayBars: 20
+  bar1:
+    attribute: combat.wounds
+  bar2:
+    attribute: combat.shock
+  sight:
+    enabled: false
+    range: 0
+    angle: 360
+    visionMode: basic
+  detectionModes: []
+  flags: {}
+  randomImg: false
+items:
+  - name: C’TAN
+    type: keyword
+    _id: MS0m7h5jTRzFmCrN
+    img: modules/wng-xenos/assets/tokens/popout/necron-dynasties.webp
+    system:
+      description: <p>A shard of one of the ancient Star Gods of Necron antiquity, an enslaved fragment of cosmic power.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!TGPqTPvZFAs60Dav.MS0m7h5jTRzFmCrN"
+  - name: MONSTER
+    type: keyword
+    _id: 8OLtjrpNm9YDptOi
+    img: modules/wng-xenos/assets/tokens/popout/necron-dynasties.webp
+    system:
+      description: <p>A creature of such size and ferocity that it is a battlefield threat all by itself.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!TGPqTPvZFAs60Dav.8OLtjrpNm9YDptOi"
+  - name: Golden Fists
+    type: weapon
+    _id: 4ONGxv8U1kT5LLDM
+    img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: <p>Reach 2.</p>
+      value: 0
+      keywords: ""
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 12
+        bonus: 0
+        rank: none
+      ed:
+        base: 3
+        bonus: 0
+        rank: none
+      ap:
+        base: -3
+        bonus: 0
+        rank: none
+      category: melee
+      range:
+        short: 0
+        medium: 0
+        long: 0
+        melee: 2
+        thrown: null
+      ammo: ""
+      salvo: 0
+      traits: []
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!TGPqTPvZFAs60Dav.4ONGxv8U1kT5LLDM"
+  - name: Bending Reality
+    type: talent
+    _id: 2RcY81gUi8CUwKBm
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: "<p>Bending Reality: A C’Tan Shard adds 1 to Ruin at the start of each of its turns.</p>"
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!TGPqTPvZFAs60Dav.2RcY81gUi8CUwKBm"
+  - name: Caged God
+    type: talent
+    _id: ijkr3HQFqByYSAhA
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: "<p>Caged God: This Threat's Resilience can never be reduced by an attack's AP.</p>"
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!TGPqTPvZFAs60Dav.ijkr3HQFqByYSAhA"
+  - name: Champion
+    type: talent
+    _id: VNLIiG4Z8Vk9JX2c
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: "<p>Champion: This Threat may use Ruin Actions and has 6 personal Ruin.</p>"
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!TGPqTPvZFAs60Dav.VNLIiG4Z8Vk9JX2c"
+  - name: Monstrous Creature
+    type: talent
+    _id: MdmEPuhGWVZifVB7
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: "<p>Monstrous Creature: This Threat is immune to the Fear, Pinned, and Staggered conditions.</p>"
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!TGPqTPvZFAs60Dav.MdmEPuhGWVZifVB7"
+  - name: Living Metal
+    type: talent
+    _id: E9qP87wHzzdAKrU8
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: "<p>Living Metal: when rolling Determination, if this Threat rolls more Icons than needed to negate the damage, it heals one previously lost Wound for each surplus Icon, up to its maximum Wounds.</p>"
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!TGPqTPvZFAs60Dav.E9qP87wHzzdAKrU8"
+  - name: Misdirection
+    type: talent
+    _id: rNZsZu730b21KFc5
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>This Threat is always considered to be in cover. This effect is already included in its Defence.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!TGPqTPvZFAs60Dav.rNZsZu730b21KFc5"
+  - name: "Battlecry: Grand Illusion"
+    type: ability
+    _id: IwoDxN7Vh2aKpQLI
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ""
+      specification: ""
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: "<p>Anyone able to see the C’Tan Shard must pass a DN5 Terror test. The C’Tan Shard then conjures illusions: select three NECRON Threats or Mobs on the battlefield; the first time a selected Threat or Mob is attacked, the C’Tan Shard may spend 1 Ruin to reveal that it was an illusion — that Threat or Mob is removed from the battle and reappears somewhere else.</p>"
+      display: true
+      abilityType: battlecry
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ""
+        wounds: ""
+        shock: ""
+      test:
+        dn: null
+        type: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!TGPqTPvZFAs60Dav.IwoDxN7Vh2aKpQLI"
+  - name: "Action: The Deceiver"
+    type: ability
+    _id: qWyyh99Jz3M6nVnr
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ""
+      specification: ""
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>The C’Tan Shard makes a Deception interaction attack, which may affect multiple targets as per a Multi-Attack. The targets do not have to be able to see or hear the C’Tan Shard directly, as it conjures illusions to affect them.</p>
+      display: true
+      abilityType: ""
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ""
+        wounds: ""
+        shock: ""
+      test:
+        dn: null
+        type: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!TGPqTPvZFAs60Dav.qWyyh99Jz3M6nVnr"
+  - name: Determination
+    type: ability
+    _id: xfI8nHcPLxT9hhmP
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ""
+      specification: ""
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: "<p>Spend 1 Ruin to roll 11d6. C’Tan Shards may roll Determination against Mortal Wounds, and any Wounds negated by Determination are ignored instead of being converted to Shock (the Shard suffers no Shock). Living Metal: excess Icons heal previously suffered Wounds. (page 5)</p>"
+      display: true
+      abilityType: determination
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ""
+        wounds: ""
+        shock: ""
+      test:
+        dn: null
+        type: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!TGPqTPvZFAs60Dav.xfI8nHcPLxT9hhmP"
+  - name: "Annihilation: Reality Unravels"
+    type: ability
+    _id: TLPDxTzr3NNCsRTy
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ""
+      specification: ""
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: "<p>Reality Unravels: When this Threat is destroyed, roll 1d6. On a roll of an Icon, each creature within 6m suffers 1d3+3 Mortal Wounds.</p>"
+      display: true
+      abilityType: ""
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ""
+        wounds: ""
+        shock: ""
+      test:
+        dn: null
+        type: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!TGPqTPvZFAs60Dav.TLPDxTzr3NNCsRTy"
+  - name: Cosmic Insanity (unique power)
+    type: ability
+    _id: Vc5MZvH5g9ikr0lq
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ""
+      specification: ""
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: "<p>The C’Tan Shard of the Deceiver floods its victims’ minds with vast and terrible cosmic truths, driving them irrevocably insane. As an Action, spend 1 Ruin: make a Deception Interaction Attack against a single enemy. That enemy suffers 1 Mortal Wound, +1 for each Exalted Icon shifted on the attack.</p>"
+      display: true
+      abilityType: ""
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ""
+        wounds: ""
+        shock: ""
+      test:
+        dn: null
+        type: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!TGPqTPvZFAs60Dav.Vc5MZvH5g9ikr0lq"
+  - name: Powers of the C’Tan
+    type: ability
+    _id: h5lbdyUOBbaR9GZA
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ""
+      specification: ""
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: "<p><p><strong>Cosmic Power.</strong> Each C’Tan Shard knows its own unique power (above) <em>and</em> one additional power, chosen or randomly selected from the six below. As an Action, spend 1 Ruin to use a power.</p><p><strong>1: Antimatter Meteor</strong> &mdash; affects the closest enemies within a Blast (20) within 24m. Each enemy in the blast suffers d3+Tier Mortal Wounds.</p><p><strong>2: Cosmic Fire</strong> &mdash; all enemies within 9m suffer 1d3+3 Mortal Wounds and are <em>burning</em>.</p><p><strong>3: Seismic Assault</strong> &mdash; Blast (10) within 18m. All within suffer 1d3+2 Mortal Wounds and are knocked prone and restrained until the end of their next turn.</p><p><strong>4: Sky of Falling Stars</strong> &mdash; place three Blast (6) within 18m. Each enemy within one of the blasts suffers 1d3+2 Mortal Wounds and is blinded until the end of their next turn.</p><p><strong>5: Time’s Arrow</strong> &mdash; select a single enemy within 18m and roll 1d6, adding twice the Tier. If the total exceeds the target’s maximum Wounds, the target ceases to exist (a PC may spend 1 Wrath to instead suffer 1d3+5 Mortal Wounds).</p><p><strong>6: Transdimensional Thunderbolt</strong> &mdash; a single enemy within 24m suffers 1d3+5 Mortal Wounds. Then roll 1d6 for every other target within 5m of it; on a 4+ they suffer 1 Mortal Wound.</p></p>"
+      display: true
+      abilityType: ""
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ""
+        wounds: ""
+        shock: ""
+      test:
+        dn: null
+        type: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!TGPqTPvZFAs60Dav.h5lbdyUOBbaR9GZA"
+effects: []
+sort: 0
+ownership:
+  default: 0
+flags:
+  wrath-and-glory:
+    autoCalc:
+      defence: true
+      resilience: true
+      shock: false
+      awareness: true
+      resolve: true
+      determination: true
+      wounds: true
+      conviction: true
+    autoWounded: true
+    autoExhausted: true
+    generateMetaCurrencies: true
+_key: "!actors!TGPqTPvZFAs60Dav"
