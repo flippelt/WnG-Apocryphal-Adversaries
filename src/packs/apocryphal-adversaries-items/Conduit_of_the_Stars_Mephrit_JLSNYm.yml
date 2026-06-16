@@ -1,0 +1,47 @@
+name: Conduit of the Stars (Mephrit)
+type: weapon
+_id: JLSNYmXjGFAuTSWP
+img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+folder: dPaNxiGF0CwjQeIZ
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p>Replaces a Relic Gauss Blaster the Threat is already carrying.</p>
+  value: 0
+  keywords: ""
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 13
+    bonus: 0
+    rank: none
+  ed:
+    base: 3
+    bonus: 0
+    rank: none
+  ap:
+    base: -2
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 18
+    medium: 36
+    long: 54
+    melee: 0
+    thrown: null
+  ammo: ""
+  salvo: 3
+  traits:
+    - name: rapidFire
+      rating: 3
+  upgrades: []
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!JLSNYmXjGFAuTSWP"

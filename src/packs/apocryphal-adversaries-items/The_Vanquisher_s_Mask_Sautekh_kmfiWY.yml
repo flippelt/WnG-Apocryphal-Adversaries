@@ -1,0 +1,18 @@
+name: The Vanquisher’s Mask (Sautekh)
+type: gear
+_id: kmfiWY1fGYMfLw4s
+img: modules/wng-core/assets/icons/gear/gear.webp
+folder: dPaNxiGF0CwjQeIZ
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p>At the start of this Necron’s turn, select one enemy engaged with them. If that enemy has not already acted this round, they may not act until after all other characters have acted this round.</p>
+  value: 0
+  keywords: ""
+  effect: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!kmfiWY1fGYMfLw4s"

@@ -1,0 +1,18 @@
+name: Photonic Transubjector
+type: gear
+_id: KIzp9UgQUq8cH822
+img: modules/wng-core/assets/icons/gear/gear.webp
+folder: dqkhQfcNf9cH3ACC
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p>The first time each round that this Cryptek attempts to roll Determination, do not roll — instead the attack’s damage is immediately and completely negated.</p>
+  value: 0
+  keywords: ""
+  effect: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!KIzp9UgQUq8cH822"

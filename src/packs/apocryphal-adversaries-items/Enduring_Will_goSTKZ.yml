@@ -1,0 +1,17 @@
+name: Enduring Will
+type: talent
+_id: goSTKZAWayacOa1Q
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: C5urKVB8RQHO8uAk
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>When this Necron Adversary rolls Determination, he may re-roll a number of dice up to the game’s Tier.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!goSTKZAWayacOa1Q"

@@ -1,0 +1,227 @@
+folder: M4ohwGvkG5xWAG0f
+name: Night Scythe
+type: vehicle
+_id: DRDhBPh64u3e4Gqb
+img: modules/wng-xenos/assets/tokens/necron-night-scythe.webp
+system:
+  complement:
+    pilot: 1
+    crew: 0
+    passenger: 20
+    list: []
+  mnvr: 6
+  rarity: unique
+  value: 0
+  traits:
+    list:
+      - name: flyer
+        rating: ""
+        type: ""
+        custom: "true"
+        display: Flyer
+        description: ""
+      - name: gyrostabilised
+        rating: ""
+        type: ""
+        custom: "true"
+        display: Gyro-Stabilised
+        description: ""
+      - name: hover
+        rating: ""
+        type: ""
+        custom: "true"
+        display: Hover
+        description: ""
+      - name: opentopped
+        rating: ""
+        type: ""
+        custom: "true"
+        display: Open Topped
+        description: ""
+      - name: turboboost16
+        rating: ""
+        type: ""
+        custom: "true"
+        display: Turbo-Boost (16)
+        description: ""
+  combat:
+    defence:
+      bonus: 0
+    resilience:
+      bonus: 0
+      total: 15
+    wounds:
+      value: 0
+      bonus: 0
+      max: 15
+    size: huge
+    speed: 115
+    fly: 115
+  notes: <p>Night Scythe — a troop-transport variant of the Doom Scythe, a formidable fighter craft whose passenger capacity is a wormhole linked to a distant Tomb World.</p>
+  settings:
+    hidePassengers: false
+prototypeToken:
+  name: Night Scythe
+  displayName: 20
+  actorLink: false
+  appendNumber: false
+  prependAdjective: false
+  texture:
+    src: modules/wng-xenos/assets/tokens/necron-night-scythe.webp
+    scaleX: 3
+    scaleY: 3
+    offsetX: 0
+    offsetY: 0
+    rotation: 0
+  width: 3
+  height: 3
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  disposition: -1
+  displayBars: 20
+  bar1:
+    attribute: combat.wounds
+  bar2:
+    attribute: ""
+  sight:
+    enabled: false
+    range: 0
+    angle: 360
+    visionMode: basic
+  detectionModes: []
+  flags: {}
+  randomImg: false
+items:
+  - name: NECRON
+    type: keyword
+    _id: 1a9INeOqhkQwC2zw
+    img: modules/wng-xenos/assets/tokens/popout/necron-dynasties.webp
+    system:
+      description: <p>The soulless, undying robotic legions of the Necron dynasties, their consciousnesses bound into living-metal bodies.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!DRDhBPh64u3e4Gqb.1a9INeOqhkQwC2zw"
+  - name: FLYER
+    type: keyword
+    _id: MkV8wjgXYxvOfQRG
+    img: modules/wng-xenos/assets/tokens/popout/necron-dynasties.webp
+    system:
+      description: <p>An aircraft that operates from the skies; it must keep moving and cannot be engaged in melee by ground units.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!DRDhBPh64u3e4Gqb.MkV8wjgXYxvOfQRG"
+  - name: RAIDER
+    type: keyword
+    _id: UZeB521Hcu5BbjAN
+    img: modules/wng-xenos/assets/tokens/popout/necron-dynasties.webp
+    system:
+      description: <p>A fast, lightly-built attack craft used for raids and skirmishing.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!DRDhBPh64u3e4Gqb.UZeB521Hcu5BbjAN"
+  - name: Twin Tesla Destructor
+    type: weapon
+    _id: CphoihpDvuFWeT8u
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: <p>Twin-linked.</p>
+      value: 0
+      keywords: ""
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 15
+        bonus: 0
+        rank: none
+      ed:
+        base: 3
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 18
+        medium: 36
+        long: 54
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: 5
+      traits:
+        - name: mounted
+          custom: true
+          display: Mounted (Huge)
+        - name: tesla
+          custom: true
+          display: Tesla
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!DRDhBPh64u3e4Gqb.CphoihpDvuFWeT8u"
+  - name: Living Metal
+    type: gear
+    _id: jcKASD48LXL1PixS
+    img: modules/wng-core/assets/icons/gear/gear.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: "<p>Living Metal: at the start of each of the vehicle’s turns, it regains 1 lost Wound. Wounds suffered are tracked, but the vehicle slowly self-repairs.</p>"
+      value: 0
+      keywords: ""
+      effect: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!DRDhBPh64u3e4Gqb.jcKASD48LXL1PixS"
+  - name: Wormhole Projector
+    type: gear
+    _id: 4X6ELrVgKo0yNEFM
+    img: modules/wng-core/assets/icons/gear/gear.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: "<p>Wormhole Projector: the transport capacity is a wormhole to a distant Tomb World, not space within the craft. CREW or the PILOT may embark or disembark all passengers with a single Simple Action regardless of the vehicle’s speed, to any stable surface directly below the Night Scythe up to 100m below. If the Night Scythe is destroyed, the passengers are unharmed.</p>"
+      value: 0
+      keywords: ""
+      effect: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!DRDhBPh64u3e4Gqb.4X6ELrVgKo0yNEFM"
+effects: []
+sort: 0
+ownership:
+  default: 0
+flags: {}
+_key: "!actors!DRDhBPh64u3e4Gqb"

@@ -1,0 +1,18 @@
+name: Sempiternal Weave
+type: gear
+_id: urWvfKlE12mle0oK
+img: modules/wng-core/assets/icons/gear/gear.webp
+folder: dPaNxiGF0CwjQeIZ
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p>(NECRON NOBLE only.) The Necron’s Toughness is increased by 2. This also increases the Necron’s Resilience and Wounds by 2 each and adds +2d when the Necron rolls Determination.</p>
+  value: 0
+  keywords: ""
+  effect: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!urWvfKlE12mle0oK"

@@ -1,0 +1,17 @@
+name: Honourable Combatant
+type: talent
+_id: w11GRH4nXccfoBmF
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: C5urKVB8RQHO8uAk
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>When this Necron Adversary is engaged in combat, he may issue a challenge as a Free Action. If accepted, the Necron adds +Tier bonus dice to all melee attacks it makes, but it may only attack the enemy it challenged until either he is victorious or defeated.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!w11GRH4nXccfoBmF"

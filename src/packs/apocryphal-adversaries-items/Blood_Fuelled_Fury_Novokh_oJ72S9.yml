@@ -1,0 +1,17 @@
+name: Blood-Fuelled Fury (Novokh)
+type: talent
+_id: oJ72S99DMXTYIYrn
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: C5urKVB8RQHO8uAk
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>This Necron Adversary adds the Mortal (1) trait to any melee weapon it wields. If the weapon already has the Mortal (1) trait, add +1 to the trait’s rating.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!oJ72S99DMXTYIYrn"

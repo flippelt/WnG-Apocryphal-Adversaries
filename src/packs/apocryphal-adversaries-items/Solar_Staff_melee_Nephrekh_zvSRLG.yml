@@ -1,0 +1,48 @@
+name: Solar Staff — melee (Nephrekh)
+type: weapon
+_id: zvSRLGQWNCiP8e0M
+img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+folder: dPaNxiGF0CwjQeIZ
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p>Melee profile of the Solar Staff. Damage adds the wielder’s Strength (S+3).</p>
+  value: 0
+  keywords: ""
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 3
+    bonus: 0
+    rank: none
+  ed:
+    base: 3
+    bonus: 0
+    rank: none
+  ap:
+    base: -2
+    bonus: 0
+    rank: none
+  category: melee
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 2
+    thrown: null
+  ammo: ""
+  salvo: 0
+  traits:
+    - name: inflict
+      custom: true
+      display: Inflict (Blinded)
+  upgrades: []
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!zvSRLGQWNCiP8e0M"

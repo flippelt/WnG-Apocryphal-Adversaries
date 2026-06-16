@@ -1,0 +1,49 @@
+name: Gauntlet of the Conflagrator
+type: weapon
+_id: pR1JLZuIHuQpMVGY
+img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+folder: dPaNxiGF0CwjQeIZ
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p>Salvo —. Crafted by the Cryptek Harriapt the Conflagrator.</p>
+  value: 0
+  keywords: ""
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 12
+    bonus: 0
+    rank: none
+  ed:
+    base: 2
+    bonus: 0
+    rank: none
+  ap:
+    base: -1
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 6
+    medium: 12
+    long: 18
+    melee: 0
+    thrown: null
+  ammo: ""
+  salvo: 0
+  traits:
+    - name: flamer
+    - name: mortal
+      custom: true
+      display: Mortal (1)
+  upgrades: []
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!pR1JLZuIHuQpMVGY"

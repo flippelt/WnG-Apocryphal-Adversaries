@@ -1,0 +1,50 @@
+name: Voltaic Staff — ranged
+type: weapon
+_id: AISCpXrd0Wreed8V
+img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+folder: dPaNxiGF0CwjQeIZ
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p>Replaces a Staff of Light the Threat is already carrying.</p>
+  value: 0
+  keywords: ""
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 13
+    bonus: 0
+    rank: none
+  ed:
+    base: 2
+    bonus: 0
+    rank: none
+  ap:
+    base: -2
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 18
+    medium: 36
+    long: 54
+    melee: 0
+    thrown: null
+  ammo: ""
+  salvo: 4
+  traits:
+    - name: agonising
+    - name: assault
+    - name: tesla
+      custom: true
+      display: Tesla
+  upgrades: []
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!AISCpXrd0Wreed8V"

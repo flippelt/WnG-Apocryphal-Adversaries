@@ -10,18 +10,22 @@ here **with his permission**.
 > Companion to the [An Abundance of Apocrypha](https://github.com/flippelt/WnG-Apocrypha-FoundryVTT)
 > module (archetypes, talents, wargear, etc.).
 >
-> ⚠️ **Recommended companions — `wng-core` and `wng-apocrypha` (optional but
-> strongly advised).** Both are listed as `recommends`, so this module installs
-> and runs without them, **but elements will break without them:**
+> ⚠️ **Recommended companions (optional but strongly advised).** These are listed
+> as `recommends`, so this module installs and runs without them, **but elements
+> will break without them:**
 >
-> - **`wng-core`** supplies the threats' tokens and item icons, and the **Smite**
->   psychic power some threats link to. Without it, those icons are missing and the
->   Smite link shows as "unlinked".
+> - **`wng-core`** supplies item icons and the **Smite** psychic power some threats
+>   link to. Without it, those icons are missing and the Smite link shows as
+>   "unlinked".
 > - **`wng-apocrypha`** supplies the Ork **WAAAGH! psychic powers** (and other
->   shared content) that the psyker threats link to via compendium references.
->   Without it, those linked powers show as "unlinked".
+>   shared content) that the psyker threats link to. Without it, those linked
+>   powers show as "unlinked".
+> - **`wng-xenos`** supplies the **Necron tokens**. Without it, Necron threats fall
+>   back to a default token image.
+> - Some mounted Ork bosses reference **Church of Steel (`wng-cos`)** for their
+>   vehicles.
 >
-> Install both for the full, linked experience.
+> Install them for the full, linked experience.
 
 ## Status / Progress
 
@@ -31,8 +35,13 @@ Converted faction by faction from the source PDFs. See
 - ✅ **Orks — complete (v0.2.0):** all 41 threats (Boyz, Nobz, walkers, psykers
   and every named Warlord up to Ghazghkull) plus a companion items compendium of
   19 Adversary Traits and 15 Shiny Gubbinz relics.
-- ⏳ **To do:** Tyranids · Necrons · Daemonic Legions · Heretic Astartes ·
-  Asuryani · Drukhari · T'au Empire · Malicious Miscellany.
+- ✅ **Necrons — complete (v0.3.0):** 39 actors (Warriors, Immortals, Flayed Ones,
+  Destroyers, Crypteks, Canoptek constructs, the three C'Tan Shards, every named
+  Overlord and Lord from Imotekh the Stormlord to Trazyn the Infinite, and the
+  Annihilation Barge, Night Scythe and Monolith war machines) plus 38 *Lords of
+  the Necrontyr* items: Adversary Traits, Cryptek Arcana and Relics of the Aeons.
+- ⏳ **To do:** Tyranids · Daemonic Legions · Heretic Astartes · Asuryani ·
+  Drukhari · T'au Empire · Malicious Miscellany.
 
 **v1.0.0 will be tagged once all nine faction PDFs are converted.**
 

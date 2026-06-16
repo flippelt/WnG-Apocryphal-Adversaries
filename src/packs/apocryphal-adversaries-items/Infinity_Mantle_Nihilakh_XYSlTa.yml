@@ -1,0 +1,22 @@
+name: Infinity Mantle (Nihilakh)
+type: armour
+_id: XYSlTaKyh1Yl8kUl
+img: modules/wng-core/assets/icons/armour/armour.webp
+folder: dPaNxiGF0CwjQeIZ
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p>The Necron’s Armour Rating and Resilience are increased by 3. In addition, when the Necron rolls Determination, re-roll a number of dice equal to the game’s Tier.</p>
+  value: 0
+  keywords: ""
+  equipped: false
+  rating: 3
+  base: 0
+  traits: []
+  invulnerable: false
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!XYSlTaKyh1Yl8kUl"
