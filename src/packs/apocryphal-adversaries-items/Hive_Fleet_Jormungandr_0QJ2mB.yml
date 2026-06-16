@@ -1,0 +1,17 @@
+name: "Hive Fleet: Jormungandr"
+type: talent
+_id: 0QJ2mBK1w5JMiut2
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: L8VT3PIch54KhUPr
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>Replace the [HIVE FLEET] keyword with JORMUNGANDR. Tyranids of JORMUNGANDR, other than those able to fly, receive a bonus to their Defence equal to the game’s Tier. They lose this bonus until the start of their next turn if they run, sprint, or charge.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!0QJ2mBK1w5JMiut2"

@@ -1,0 +1,48 @@
+name: Scything Talons
+type: weapon
+_id: E0l3BH4bG0isH7bk
+img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+folder: XXD6l2k4wuYB70r6
+sort: 0
+system:
+  quantity: 1
+  rarity: common
+  description: <p>Damage S+3. A Tyranid with more than one pair reduces the Multi-Attack DN penalty by 2 for each pair after the first.</p>
+  value: 0
+  keywords: BIO-WEAPON, TYRANID
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 3
+    bonus: 0
+    rank: none
+  ed:
+    base: 3
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  category: melee
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 1
+    thrown: null
+  ammo: ""
+  salvo: 0
+  traits:
+    - name: paired
+      custom: true
+      display: Paired
+  upgrades: []
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!E0l3BH4bG0isH7bk"

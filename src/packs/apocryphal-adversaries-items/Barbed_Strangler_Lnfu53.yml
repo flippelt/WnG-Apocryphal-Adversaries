@@ -1,0 +1,54 @@
+name: Barbed Strangler
+type: weapon
+_id: Lnfu53uOtY2k9iAB
+img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+folder: XXD6l2k4wuYB70r6
+sort: 0
+system:
+  quantity: 1
+  rarity: common
+  description: ""
+  value: 0
+  keywords: BIO-WEAPON, TYRANID
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 12
+    bonus: 0
+    rank: none
+  ed:
+    base: 2
+    bonus: 0
+    rank: none
+  ap:
+    base: -1
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 18
+    medium: 36
+    long: 54
+    melee: 0
+    thrown: null
+  ammo: ""
+  salvo: 0
+  traits:
+    - name: assault
+    - name: blast
+      rating: "10"
+    - name: inflict
+      custom: true
+      display: Inflict (Restrained)
+    - name: inflictpinned
+      custom: true
+      display: Inflict (Pinned)
+  upgrades: []
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!Lnfu53uOtY2k9iAB"

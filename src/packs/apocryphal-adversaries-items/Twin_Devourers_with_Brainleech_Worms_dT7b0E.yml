@@ -1,0 +1,47 @@
+name: Twin Devourers with Brainleech Worms
+type: weapon
+_id: dT7b0ElMfHD0R72t
+img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+folder: XXD6l2k4wuYB70r6
+sort: 0
+system:
+  quantity: 1
+  rarity: common
+  description: ""
+  value: 0
+  keywords: BIO-WEAPON, TYRANID
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 14
+    bonus: 0
+    rank: none
+  ed:
+    base: 1
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 9
+    medium: 18
+    long: 27
+    melee: 0
+    thrown: null
+  ammo: ""
+  salvo: 12
+  traits:
+    - name: agonising
+    - name: assault
+  upgrades: []
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!dT7b0ElMfHD0R72t"

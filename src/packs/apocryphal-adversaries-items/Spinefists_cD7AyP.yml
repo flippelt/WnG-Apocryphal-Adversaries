@@ -1,0 +1,49 @@
+name: Spinefists
+type: weapon
+_id: cD7AyPAi3kTn1Zpp
+img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+folder: XXD6l2k4wuYB70r6
+sort: 0
+system:
+  quantity: 1
+  rarity: common
+  description: <p>Salvo equals half the wielder’s Toughness, rounded up. Typically carried in pairs.</p>
+  value: 0
+  keywords: BIO-WEAPON, TYRANID
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 8
+    bonus: 0
+    rank: none
+  ed:
+    base: 1
+    bonus: 0
+    rank: none
+  ap:
+    base: -1
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 6
+    medium: 12
+    long: 18
+    melee: 0
+    thrown: null
+  ammo: ""
+  salvo: null
+  traits:
+    - name: paired
+      custom: true
+      display: Paired
+    - name: pistol
+  upgrades: []
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!cD7AyPAi3kTn1Zpp"

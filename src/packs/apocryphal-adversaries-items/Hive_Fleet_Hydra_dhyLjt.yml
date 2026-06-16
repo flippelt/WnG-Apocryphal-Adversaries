@@ -1,0 +1,17 @@
+name: "Hive Fleet: Hydra"
+type: talent
+_id: dhyLjtPqt3V7SsD0
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: L8VT3PIch54KhUPr
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>Replace the [HIVE FLEET] keyword with HYDRA. Mobs of Tyranids of HYDRA add bonus dice equal to the game’s Tier to all melee attacks they make.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!dhyLjtPqt3V7SsD0"
