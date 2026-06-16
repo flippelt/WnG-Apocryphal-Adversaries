@@ -1,0 +1,47 @@
+name: Death Shriek
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+folder: VKw9fdEg23XLNrIV
+sort: 0
+system:
+  dn: "4"
+  type: ""
+  specification: ""
+  description: <p>The Hive Mind amplifies the psychic death-cry of Hydra’s progeny. This power affects all Tyranids within range. Until the start of the psyker’s next turn, any affected Tyranid inflicts 1d3+1 Shock on the nearest enemy within 6m when it is slain.</p>
+  effect: ""
+  cost: 0
+  activation: action
+  duration: 1 Round
+  range: 6m
+  multiTarget: false
+  keywords: TYRANID, PSYCHIC
+  prerequisites: HYDRA
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 0
+      five: 0
+      six: 0
+  otherDamage:
+    mortalWounds: ""
+    wounds: ""
+    shock: ""
+  potency: []
+  test:
+    dn: null
+    type: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_id: NIFYAJfLvPBtN5kI
+_key: "!items!NIFYAJfLvPBtN5kI"

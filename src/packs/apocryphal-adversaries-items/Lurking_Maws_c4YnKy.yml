@@ -1,0 +1,47 @@
+name: Lurking Maws
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+folder: VKw9fdEg23XLNrIV
+sort: 0
+system:
+  dn: "5"
+  type: ""
+  specification: ""
+  description: <p>The Hive Mind calls upon Jormungandr’s embedded broods, which converge via synaptic imperative. This power affects an enemy visible to the psyker. Until the start of the psyker’s next turn, all Tyranids which make surprise attacks against the affected enemies may re-roll any failures on their attack.</p>
+  effect: ""
+  cost: 0
+  activation: action
+  duration: 1 Round
+  range: 100m
+  multiTarget: true
+  keywords: TYRANID, PSYCHIC
+  prerequisites: JORMUNGANDR
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 0
+      five: 0
+      six: 0
+  otherDamage:
+    mortalWounds: ""
+    wounds: ""
+    shock: ""
+  potency: []
+  test:
+    dn: null
+    type: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_id: c4YnKyIONA8heTdf
+_key: "!items!c4YnKyIONA8heTdf"

@@ -1,0 +1,47 @@
+name: Paroxysm
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+folder: VKw9fdEg23XLNrIV
+sort: 0
+system:
+  dn: "5"
+  type: ""
+  specification: ""
+  description: <p>The Hive Mind triggers every nerve and pain receptor in its enemies’ bodies. The power affects all enemies in a Blast (6) within range. Affected enemies all suffer 1d3+2 Shock, and they may not Keep the Initiative until the start of the psyker’s next turn.</p>
+  effect: ""
+  cost: 0
+  activation: action
+  duration: Instant
+  range: 35m
+  multiTarget: false
+  keywords: TYRANID, PSYCHIC
+  prerequisites: TYRANID
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 0
+      five: 0
+      six: 0
+  otherDamage:
+    mortalWounds: ""
+    wounds: ""
+    shock: 1d3+2
+  potency: []
+  test:
+    dn: null
+    type: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_id: cvmfUrGrN8PbObLd
+_key: "!items!cvmfUrGrN8PbObLd"

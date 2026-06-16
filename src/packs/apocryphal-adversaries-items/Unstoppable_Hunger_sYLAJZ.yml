@@ -1,0 +1,47 @@
+name: Unstoppable Hunger
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+folder: VKw9fdEg23XLNrIV
+sort: 0
+system:
+  dn: "6"
+  type: ""
+  specification: ""
+  description: <p>The Hive Mind siphons a portion of Behemoth’s insatiable hunger into its organisms. The power affects one allied Tyranid mob or a number of individual Tyranids equal to twice the Psyker’s Willpower within range. Affected creatures add +2ED to all melee attacks until the start of the psyker’s next turn.</p>
+  effect: ""
+  cost: 0
+  activation: action
+  duration: 1 Round
+  range: 9m
+  multiTarget: false
+  keywords: TYRANID, PSYCHIC
+  prerequisites: BEHEMOTH
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 0
+      five: 0
+      six: 0
+  otherDamage:
+    mortalWounds: ""
+    wounds: ""
+    shock: ""
+  potency: []
+  test:
+    dn: null
+    type: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_id: sYLAJZ6znAvJ0opg
+_key: "!items!sYLAJZ6znAvJ0opg"

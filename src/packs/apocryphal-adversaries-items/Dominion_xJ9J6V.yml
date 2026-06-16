@@ -1,0 +1,47 @@
+name: Dominion
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+folder: VKw9fdEg23XLNrIV
+sort: 0
+system:
+  dn: "5"
+  type: ""
+  specification: ""
+  description: <p>The Tyranid channels and amplifies the will of the Hive Mind. The power affects one allied Tyranid mob or a number of individual Tyranids equal to twice the Psyker’s Willpower within range. Affected creatures ignore their Instinctive Behaviour rule and automatically succeed at Resolve tests until the start of the psyker’s next turn.</p>
+  effect: ""
+  cost: 0
+  activation: action
+  duration: 1 Round
+  range: 75m
+  multiTarget: false
+  keywords: TYRANID, PSYCHIC
+  prerequisites: TYRANID
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 0
+      five: 0
+      six: 0
+  otherDamage:
+    mortalWounds: ""
+    wounds: ""
+    shock: ""
+  potency: []
+  test:
+    dn: null
+    type: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_id: xJ9J6VLUM3ZkX8LF
+_key: "!items!xJ9J6VLUM3ZkX8LF"
