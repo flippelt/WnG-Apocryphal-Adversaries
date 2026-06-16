@@ -1,0 +1,333 @@
+folder: M4ohwGvkG5xWAG0f
+name: Monolith
+type: vehicle
+_id: 9OJaaZWIai9ekm19
+img: modules/wng-xenos/assets/tokens/necron-monolith.webp
+system:
+  complement:
+    pilot: 1
+    crew: 4
+    passenger: 0
+    list: []
+  mnvr: 2
+  rarity: unique
+  value: 0
+  traits:
+    list:
+      - name: gyrostabilised
+        rating: ""
+        type: ""
+        custom: "true"
+        display: Gyro-Stabilised
+        description: ""
+      - name: hover
+        rating: ""
+        type: ""
+        custom: "true"
+        display: Hover
+        description: ""
+      - name: sealed
+        rating: ""
+        type: ""
+        custom: "true"
+        display: Sealed
+        description: ""
+  combat:
+    defence:
+      bonus: 0
+    resilience:
+      bonus: 0
+      total: 20
+    wounds:
+      value: 0
+      bonus: 0
+      max: 30
+    size: gargantuan
+    speed: 10
+    fly: 0
+  notes: <p>Monolith — a massive mobile fortress and primary Necron planetary assault craft, floating on anti-gravitic engines, laying waste with Gauss lightning and its Particle Whip. It may replace all its Gauss Flux Arcs with Death Rays.</p>
+  settings:
+    hidePassengers: false
+prototypeToken:
+  name: Monolith
+  displayName: 20
+  actorLink: false
+  appendNumber: false
+  prependAdjective: false
+  texture:
+    src: modules/wng-xenos/assets/tokens/necron-monolith.webp
+    scaleX: 4
+    scaleY: 4
+    offsetX: 0
+    offsetY: 0
+    rotation: 0
+  width: 4
+  height: 4
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  disposition: -1
+  displayBars: 20
+  bar1:
+    attribute: combat.wounds
+  bar2:
+    attribute: ""
+  sight:
+    enabled: false
+    range: 0
+    angle: 360
+    visionMode: basic
+  detectionModes: []
+  flags: {}
+  randomImg: false
+items:
+  - name: NECRON
+    type: keyword
+    _id: Bm8lDE07GYZsGpjz
+    img: modules/wng-xenos/assets/tokens/popout/necron-dynasties.webp
+    system:
+      description: <p>The soulless, undying robotic legions of the Necron dynasties, their consciousnesses bound into living-metal bodies.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!9OJaaZWIai9ekm19.Bm8lDE07GYZsGpjz"
+  - name: TANK
+    type: keyword
+    _id: owx81WYn4FPhmfEG
+    img: modules/wng-xenos/assets/tokens/popout/necron-dynasties.webp
+    system:
+      description: <p>A heavily-armoured fighting vehicle.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!9OJaaZWIai9ekm19.owx81WYn4FPhmfEG"
+  - name: TITANIC
+    type: keyword
+    _id: bTylP7RAxcqbrOsh
+    img: modules/wng-xenos/assets/tokens/popout/necron-dynasties.webp
+    system:
+      description: <p>A vehicle of colossal size, a walking (or floating) fortress in its own right.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!9OJaaZWIai9ekm19.bTylP7RAxcqbrOsh"
+  - name: Particle Whip
+    type: weapon
+    _id: d791UqkoKZZtDI2H
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: ""
+      value: 0
+      keywords: ""
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 26
+        bonus: 0
+        rank: none
+      ed:
+        base: 3
+        bonus: 0
+        rank: none
+      ap:
+        base: -3
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 18
+        medium: 36
+        long: 54
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: 0
+      traits:
+        - name: blast
+          rating: "10"
+        - &ref_0
+          name: mounted
+          custom: true
+          display: Mounted (Gargantuan)
+        - name: reliable
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!9OJaaZWIai9ekm19.d791UqkoKZZtDI2H"
+  - name: Gauss Flux Arc
+    type: weapon
+    _id: fMjE7BCdbExPZSa8
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: <p>The Monolith mounts four Gauss Flux Arcs. They may all be replaced by Death Rays.</p>
+      value: 0
+      keywords: ""
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 12
+        bonus: 0
+        rank: none
+      ed:
+        base: 2
+        bonus: 0
+        rank: none
+      ap:
+        base: -2
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 15
+        medium: 30
+        long: 45
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: 6
+      traits:
+        - name: gauss
+          custom: true
+          display: Gauss
+        - name: rapidFire
+          rating: 3
+        - *ref_0
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!9OJaaZWIai9ekm19.fMjE7BCdbExPZSa8"
+  - name: Death Ray
+    type: weapon
+    _id: RF0Bfe8zwQw8rpwT
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: "<p>Option: replaces the Monolith’s Gauss Flux Arcs.</p>"
+      value: 0
+      keywords: ""
+      equipped: false
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 18
+        bonus: 0
+        rank: none
+      ed:
+        base: 4
+        bonus: 0
+        rank: none
+      ap:
+        base: -3
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 12
+        medium: 24
+        long: 36
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: 0
+      traits:
+        - name: mounted
+          custom: true
+          display: Mounted (Huge)
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!9OJaaZWIai9ekm19.RF0Bfe8zwQw8rpwT"
+  - name: Living Metal
+    type: gear
+    _id: xkUkjZSC0fKpnlLZ
+    img: modules/wng-core/assets/icons/gear/gear.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: "<p>Living Metal: at the start of each of the vehicle’s turns, it regains 1 lost Wound. Wounds suffered are tracked, but the vehicle slowly self-repairs.</p>"
+      value: 0
+      keywords: ""
+      effect: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!9OJaaZWIai9ekm19.xkUkjZSC0fKpnlLZ"
+  - name: Quantum Shielding
+    type: gear
+    _id: GhA9v7bcBvLpxKHS
+    img: modules/wng-core/assets/icons/gear/gear.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: "<p>Quantum Shielding: the first time each round the vehicle would suffer Wounds from an attack, reduce that damage. The shielding collapses once the vehicle has suffered Wounds, then reasserts at the start of the vehicle’s next turn.</p>"
+      value: 0
+      keywords: ""
+      effect: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!9OJaaZWIai9ekm19.GhA9v7bcBvLpxKHS"
+  - name: Eternity Gate
+    type: gear
+    _id: QYaqzSB9ICdmN5dO
+    img: modules/wng-core/assets/icons/gear/gear.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: "<p>Eternity Gate: a gateway linking to other Eternity Gates on Necron starships or distant Tomb Worlds. Necrons may embark into one Eternity Gate and emerge from any other instantaneously; any Average-sized NECRON on the battlefield may, instead of a normal move, teleport to a Monolith and emerge from its Gate. Portal of Exile: if an enemy is within 3m of the Gate, instead select an enemy within range; they must pass a DN5 Strength test or suffer Restrained and be dragged 1m closer to the Gate for each Icon less than the DN they scored. If dragged into the Gate, they are transported to an interdimensional prison and may never be seen again.</p>"
+      value: 0
+      keywords: ""
+      effect: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!9OJaaZWIai9ekm19.QYaqzSB9ICdmN5dO"
+effects: []
+sort: 0
+ownership:
+  default: 0
+flags: {}
+_key: "!actors!9OJaaZWIai9ekm19"

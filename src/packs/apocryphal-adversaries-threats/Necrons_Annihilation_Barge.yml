@@ -1,0 +1,301 @@
+folder: M4ohwGvkG5xWAG0f
+name: Annihilation Barge
+type: vehicle
+_id: TMiP2epw0VFhrRiq
+img: modules/wng-xenos/assets/tokens/necron-annihilation-barge.webp
+system:
+  complement:
+    pilot: 1
+    crew: 1
+    passenger: 0
+    list: []
+  mnvr: 5
+  rarity: unique
+  value: 0
+  traits:
+    list:
+      - name: gyrostabilised
+        rating: ""
+        type: ""
+        custom: "true"
+        display: Gyro-Stabilised
+        description: ""
+      - name: hover
+        rating: ""
+        type: ""
+        custom: "true"
+        display: Hover
+        description: ""
+      - name: opentopped
+        rating: ""
+        type: ""
+        custom: "true"
+        display: Open Topped
+        description: ""
+  combat:
+    defence:
+      bonus: 0
+    resilience:
+      bonus: 0
+      total: 16
+    wounds:
+      value: 0
+      bonus: 0
+      max: 15
+    size: huge
+    speed: 37
+    fly: 0
+  notes: "<p>Annihilation Barge — a crescent-shaped Necron gun platform, slow but devastating: its Tesla lightning can eradicate whole formations of infantry. Its Gauss Cannon may be exchanged for a Tesla Cannon.</p>"
+  settings:
+    hidePassengers: false
+prototypeToken:
+  name: Annihilation Barge
+  displayName: 20
+  actorLink: false
+  appendNumber: false
+  prependAdjective: false
+  texture:
+    src: modules/wng-xenos/assets/tokens/necron-annihilation-barge.webp
+    scaleX: 3
+    scaleY: 3
+    offsetX: 0
+    offsetY: 0
+    rotation: 0
+  width: 3
+  height: 3
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  disposition: -1
+  displayBars: 20
+  bar1:
+    attribute: combat.wounds
+  bar2:
+    attribute: ""
+  sight:
+    enabled: false
+    range: 0
+    angle: 360
+    visionMode: basic
+  detectionModes: []
+  flags: {}
+  randomImg: false
+items:
+  - name: NECRON
+    type: keyword
+    _id: 7RjFPQVgVSJFSU6U
+    img: modules/wng-xenos/assets/tokens/popout/necron-dynasties.webp
+    system:
+      description: <p>The soulless, undying robotic legions of the Necron dynasties, their consciousnesses bound into living-metal bodies.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!TMiP2epw0VFhrRiq.7RjFPQVgVSJFSU6U"
+  - name: RAIDER
+    type: keyword
+    _id: 03ZK3nI22Vmw52ti
+    img: modules/wng-xenos/assets/tokens/popout/necron-dynasties.webp
+    system:
+      description: <p>A fast, lightly-built attack craft used for raids and skirmishing.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!TMiP2epw0VFhrRiq.03ZK3nI22Vmw52ti"
+  - name: Twin Tesla Destructor
+    type: weapon
+    _id: pk7u7WpCx2j5DNvK
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: <p>Twin-linked.</p>
+      value: 0
+      keywords: ""
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 15
+        bonus: 0
+        rank: none
+      ed:
+        base: 3
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 18
+        medium: 36
+        long: 54
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: 5
+      traits:
+        - &ref_0
+          name: mounted
+          custom: true
+          display: Mounted (Huge)
+        - &ref_1
+          name: tesla
+          custom: true
+          display: Tesla
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!TMiP2epw0VFhrRiq.pk7u7WpCx2j5DNvK"
+  - name: Gauss Cannon
+    type: weapon
+    _id: ZDyCcFsdx60z3u2H
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: ""
+      value: 0
+      keywords: ""
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 14
+        bonus: 0
+        rank: none
+      ed:
+        base: 2
+        bonus: 0
+        rank: none
+      ap:
+        base: -3
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 12
+        medium: 24
+        long: 36
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: 3
+      traits:
+        - name: gauss
+          custom: true
+          display: Gauss
+        - name: heavy
+          rating: 5
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!TMiP2epw0VFhrRiq.ZDyCcFsdx60z3u2H"
+  - name: Tesla Cannon
+    type: weapon
+    _id: pGpVA81BL6bTA9ft
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: ""
+      value: 0
+      keywords: ""
+      equipped: false
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 14
+        bonus: 0
+        rank: none
+      ed:
+        base: 2
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 15
+        medium: 30
+        long: 45
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: 3
+      traits:
+        - *ref_0
+        - *ref_1
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!TMiP2epw0VFhrRiq.pGpVA81BL6bTA9ft"
+  - name: Living Metal
+    type: gear
+    _id: yrIXF6VtDiGJ2rGj
+    img: modules/wng-core/assets/icons/gear/gear.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: "<p>Living Metal: at the start of each of the vehicle’s turns, it regains 1 lost Wound. Wounds suffered are tracked, but the vehicle slowly self-repairs.</p>"
+      value: 0
+      keywords: ""
+      effect: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!TMiP2epw0VFhrRiq.yrIXF6VtDiGJ2rGj"
+  - name: Quantum Shielding
+    type: gear
+    _id: XyLZ0fjTDT2bpiMI
+    img: modules/wng-core/assets/icons/gear/gear.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: "<p>Quantum Shielding: the first time each round the vehicle would suffer Wounds from an attack, reduce that damage. The shielding collapses once the vehicle has suffered Wounds, then reasserts at the start of the vehicle’s next turn.</p>"
+      value: 0
+      keywords: ""
+      effect: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!TMiP2epw0VFhrRiq.XyLZ0fjTDT2bpiMI"
+effects: []
+sort: 0
+ownership:
+  default: 0
+flags: {}
+_key: "!actors!TMiP2epw0VFhrRiq"
