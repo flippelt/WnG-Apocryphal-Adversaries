@@ -17,7 +17,7 @@ abilities, wounds/resilience/defence). Converted faction by faction.
 | Faction | Source version | Converted at | Status |
 | --- | --- | --- | --- |
 | Orks | An Abundance of Apocryphal Adversaries: Orks — **v1** (10/9/2022) | v0.2.0 | ✅ done — 41 threats + 34 items (Adversary Traits + Shiny Gubbinz) |
-| Tyranids | The Tyranids — **v1** | — | ⬜ to do |
+| Tyranids | The Tyranids — **v1** | — | 🔧 in progress (branch `feat/tyranids-threats`, targets v0.4.0) |
 | Necrons | The Necrons — **v2** (25/2/2021) | v0.3.0 | ✅ done — 39 actors (36 threats + 3 vehicles) + 38 items (Adversary Traits, Cryptek Arcana, Relics of the Aeons) |
 | Daemonic Legions | Daemonic Legions — **v1** | — | ⬜ to do |
 | Heretic Astartes | Heretic Astartes — **v1** | — | ⬜ to do |
