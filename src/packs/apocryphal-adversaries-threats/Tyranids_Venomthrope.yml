@@ -1,0 +1,609 @@
+folder: nQVhetqMxjYCSgb2
+name: Venomthrope
+type: threat
+_id: sYdem7RkVmjxOcSG
+img: icons/creatures/eyes/slime-stalk-green.webp
+system:
+  attributes:
+    strength:
+      label: ATTRIBUTE.STRENGTH
+      rating: 0
+      base: 6
+      bonus: 0
+      cost: 0
+      total: 0
+    toughness:
+      label: ATTRIBUTE.TOUGHNESS
+      rating: 0
+      base: 6
+      bonus: 0
+      cost: 0
+      total: 0
+    agility:
+      label: ATTRIBUTE.AGILITY
+      rating: 0
+      base: 4
+      bonus: 0
+      cost: 0
+      total: 0
+    initiative:
+      label: ATTRIBUTE.INITIATIVE
+      rating: 0
+      base: 4
+      bonus: 0
+      cost: 0
+      total: 0
+    willpower:
+      label: ATTRIBUTE.WILLPOWER
+      rating: 0
+      base: 5
+      bonus: 0
+      cost: 0
+      total: 0
+    intellect:
+      label: ATTRIBUTE.INTELLECT
+      rating: 0
+      base: 3
+      bonus: 0
+      cost: 0
+      total: 0
+    fellowship:
+      label: ATTRIBUTE.FELLOWSHIP
+      rating: 0
+      base: 1
+      bonus: 0
+      cost: 0
+      total: 0
+  skills:
+    athletics:
+      label: SKILL.ATHLETICS
+      attribute: strength
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    awareness:
+      label: SKILL.AWARENESS
+      attribute: intellect
+      rating: 6
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    ballisticSkill:
+      label: SKILL.BALLISTIC_SKILL
+      attribute: agility
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    cunning:
+      label: SKILL.CUNNING
+      attribute: fellowship
+      rating: 7
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    deception:
+      label: SKILL.DECEPTION
+      attribute: fellowship
+      rating: 7
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    insight:
+      label: SKILL.INSIGHT
+      attribute: fellowship
+      rating: 7
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    intimidation:
+      label: SKILL.INTIMIDATION
+      attribute: willpower
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    investigation:
+      label: SKILL.INVESTIGATION
+      attribute: intellect
+      rating: 5
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    leadership:
+      label: SKILL.LEADERSHIP
+      attribute: willpower
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    medicae:
+      label: SKILL.MEDICAE
+      attribute: intellect
+      rating: 5
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    persuasion:
+      label: SKILL.PERSUASION
+      attribute: fellowship
+      rating: 7
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    pilot:
+      label: SKILL.PILOT
+      attribute: agility
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    psychicMastery:
+      label: SKILL.PSYCHIC_MASTERY
+      attribute: willpower
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    scholar:
+      label: SKILL.SCHOLAR
+      attribute: intellect
+      rating: 5
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    stealth:
+      label: SKILL.STEALTH
+      attribute: agility
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    survival:
+      label: SKILL.SURVIVAL
+      attribute: willpower
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    tech:
+      label: SKILL.TECH
+      attribute: intellect
+      rating: 5
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    weaponSkill:
+      label: SKILL.WEAPON_SKILL
+      attribute: initiative
+      rating: 6
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+  combat:
+    defense:
+      bonus: 0
+      total: 0
+    defence:
+      bonus: 0
+      total: 0
+    resilience:
+      bonus: 0
+      total: 0
+    wounds:
+      value: 0
+      bonus: 0
+      max: 17
+    determination:
+      bonus: 0
+      total: 0
+    shock:
+      value: 0
+      bonus: 0
+      max: 9
+    resolve:
+      bonus: 0
+      total: 0
+    conviction:
+      bonus: 0
+      total: 0
+    size: large
+    speed: 5
+    fly: 5
+    passiveAwareness:
+      bonus: 0
+      total: 0
+    stealth: 0
+  bio:
+    species: ""
+    faction: Tyranids
+    archetype: ""
+    threat:
+      first: "-"
+      second: A
+      third: A
+      fourth: E
+      fifth: E
+  resources:
+    ruin: 0
+  corruption:
+    current: 0
+  mob: null
+  notes: <p>Venomthrope — a floating chemical-weapon dispenser whose whip-tendrils drip lethal toxins and whose shrouding spore cloud grants nearby Tyranids cover; deadliest in enclosed spaces.</p>
+prototypeToken:
+  name: Venomthrope
+  displayName: 20
+  actorLink: false
+  appendNumber: false
+  prependAdjective: false
+  texture:
+    src: icons/creatures/eyes/slime-stalk-green.webp
+    scaleX: 2
+    scaleY: 2
+    offsetX: 0
+    offsetY: 0
+    rotation: 0
+  width: 2
+  height: 2
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  disposition: -1
+  displayBars: 20
+  bar1:
+    attribute: combat.wounds
+  bar2:
+    attribute: combat.shock
+  sight:
+    enabled: false
+    range: 0
+    angle: 360
+    visionMode: basic
+  detectionModes: []
+  flags: {}
+  randomImg: false
+items:
+  - name: TYRANID
+    type: keyword
+    _id: iX2EDd6xoXoni50V
+    img: icons/svg/biohazard.svg
+    system:
+      description: <p>A bioform of the Tyranid Hive Fleets, a galaxy-devouring superorganism bound to the gestalt Hive Mind.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!sYdem7RkVmjxOcSG.iX2EDd6xoXoni50V"
+  - name: "[HIVE FLEET]"
+    type: keyword
+    _id: hIJSl2Jj9azwHJkw
+    img: icons/svg/biohazard.svg
+    system:
+      description: <p>Replace with the Hive Fleet keyword (Behemoth, Gorgon, Hydra, Jormungandr, Kraken, Kronos, Leviathan&hellip;).</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!sYdem7RkVmjxOcSG.hIJSl2Jj9azwHJkw"
+  - name: PSYKER
+    type: keyword
+    _id: nlhB3GWVAbOTrU7T
+    img: icons/svg/biohazard.svg
+    system:
+      description: <p>A Tyranid psyker-beast channelling a fragment of the Hive Mind’s gestalt will.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!sYdem7RkVmjxOcSG.nlhB3GWVAbOTrU7T"
+  - name: SYNAPSE
+    type: keyword
+    _id: gCYKqhcEVZFd8YlM
+    img: icons/svg/biohazard.svg
+    system:
+      description: "<p>A synaptic conduit of the Hive Mind: nearby Tyranids auto-pass Resolve tests and ignore Shock while in range.</p>"
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!sYdem7RkVmjxOcSG.gCYKqhcEVZFd8YlM"
+  - name: Reinforced Chitin
+    type: armour
+    _id: kG6oXaUfjkDyAmxt
+    img: modules/wng-core/assets/icons/armour/armour.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: <p>3 AR.</p>
+      value: 0
+      keywords: ""
+      equipped: true
+      rating: 3
+      base: 0
+      traits: []
+      invulnerable: false
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!sYdem7RkVmjxOcSG.kG6oXaUfjkDyAmxt"
+  - name: Toxic Lashes
+    type: weapon
+    _id: lPfquYL0FWNDo4PZ
+    img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: <p>Range 6m (tentacle reach).</p>
+      value: 0
+      keywords: ""
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 10
+        bonus: 0
+        rank: none
+      ed:
+        base: 2
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      category: melee
+      range:
+        short: 0
+        medium: 0
+        long: 0
+        melee: 6
+        thrown: null
+      ammo: ""
+      salvo: 0
+      traits:
+        - name: inflict
+          custom: true
+          display: Inflict (Poisoned 5)
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!sYdem7RkVmjxOcSG.lPfquYL0FWNDo4PZ"
+  - name: Instinctive Behaviour (Feed)
+    type: talent
+    _id: 2PcG3TXMQY8uV2LU
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: "<p>Instinctive Behaviour (Feed): unless within range of a Synapse Creature, at the start of its turn the creature must pass a DN3 Resolve test or become Frenzied and rampage toward the nearest prey. See page 5.</p>"
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!sYdem7RkVmjxOcSG.2PcG3TXMQY8uV2LU"
+  - name: Monstrous Creature
+    type: talent
+    _id: 3E7opRhW3nN6c2gF
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: "<p>Monstrous Creature: This Threat is immune to the Fear, Terror, Pinned, and Staggered conditions.</p>"
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!sYdem7RkVmjxOcSG.3E7opRhW3nN6c2gF"
+  - name: Synapse Creature
+    type: talent
+    _id: NraWkCEFof3DmFJq
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: "<p>Synapse Creature: Tyranids within 25m auto-pass Resolve tests and cannot suffer Shock; when they roll Determination, negated Wounds are ignored rather than converted to Shock. See page 5.</p>"
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!sYdem7RkVmjxOcSG.NraWkCEFof3DmFJq"
+  - name: Shrouding Spores
+    type: talent
+    _id: UT64ECoYLYd587Pb
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>The Venomthrope, and all Tyranids within 15m, add +2 to their Defence as if in cover. Each additional Venomthrope within 15m increases the range by +5m.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!sYdem7RkVmjxOcSG.UT64ECoYLYd587Pb"
+  - name: Toxic Miasma
+    type: talent
+    _id: F4bXpRMJhB9E1IEB
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>Every creature lacking the TYRANID keyword within 3m of a Venomthrope must, at the start of its turn, pass a Toughness Test (TN 5) or suffer the Poisoned condition. Objects/abilities that resist poisons and gases help this test.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!sYdem7RkVmjxOcSG.F4bXpRMJhB9E1IEB"
+  - name: Deadly Toxin
+    type: talent
+    _id: wkxvH8z8M8X0QiKH
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>Any creature that gains the Poisoned condition from a Venomthrope suffers 1 Mortal Wound at the start of each of its turns while so Poisoned.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!sYdem7RkVmjxOcSG.wkxvH8z8M8X0QiKH"
+  - name: "Battlecry: Fearsome Presence"
+    type: ability
+    _id: SJUEqfToeYXVmJJM
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ""
+      specification: ""
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>Enemies who can see the Venomthrope must make a DN3 Fear test.</p>
+      display: true
+      abilityType: battlecry
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ""
+        wounds: ""
+        shock: ""
+      test:
+        dn: null
+        type: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!sYdem7RkVmjxOcSG.SJUEqfToeYXVmJJM"
+  - name: Determination
+    type: ability
+    _id: sPy6hl0ajoT7JgvX
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ""
+      specification: ""
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>Spend 1 Ruin to roll 6d6.</p>
+      display: true
+      abilityType: determination
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ""
+        wounds: ""
+        shock: ""
+      test:
+        dn: null
+        type: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!sYdem7RkVmjxOcSG.sPy6hl0ajoT7JgvX"
+effects: []
+sort: 0
+ownership:
+  default: 0
+flags:
+  wrath-and-glory:
+    autoCalc:
+      defence: true
+      resilience: true
+      shock: true
+      awareness: true
+      resolve: true
+      determination: true
+      wounds: true
+      conviction: true
+    autoWounded: true
+    autoExhausted: true
+    generateMetaCurrencies: true
+_key: "!actors!sYdem7RkVmjxOcSG"
