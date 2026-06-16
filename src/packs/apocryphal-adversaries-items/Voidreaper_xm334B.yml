@@ -1,0 +1,45 @@
+name: Voidreaper
+type: weapon
+_id: xm334BHDXl9ROlQz
+img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+folder: dPaNxiGF0CwjQeIZ
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p>Replaces a Voidscythe or Warscythe the Threat is already carrying. Damage adds the wielder’s Strength (S+5). Enemies may not roll Determination against damage inflicted by this weapon.</p>
+  value: 0
+  keywords: ""
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 5
+    bonus: 0
+    rank: none
+  ed:
+    base: 6
+    bonus: 0
+    rank: none
+  ap:
+    base: -4
+    bonus: 0
+    rank: none
+  category: melee
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 2
+    thrown: null
+  ammo: ""
+  salvo: 0
+  traits: []
+  upgrades: []
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!xm334BHDXl9ROlQz"

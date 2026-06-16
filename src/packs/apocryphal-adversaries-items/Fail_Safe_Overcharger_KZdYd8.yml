@@ -1,0 +1,18 @@
+name: Fail-Safe Overcharger
+type: gear
+_id: KZdYd8Q1dx9nvCrA
+img: modules/wng-core/assets/icons/gear/gear.webp
+folder: dqkhQfcNf9cH3ACC
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p>(Technomancer only.) As a Simple Action, select a single [DYNASTY] CANOPTEK mob, a number of [DYNASTY] CANOPTEK Troops or Elites equal to the Cryptek’s Intellect, or a single [DYNASTY] CANOPTEK monstrous creature. Until the start of the Cryptek’s next turn, the selected CANOPTEK threats are Frenzied.</p>
+  value: 0
+  keywords: ""
+  effect: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!KZdYd8Q1dx9nvCrA"

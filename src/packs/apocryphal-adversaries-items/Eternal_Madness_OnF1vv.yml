@@ -1,0 +1,17 @@
+name: Eternal Madness
+type: talent
+_id: OnF1vvLVUoHZwDWO
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: C5urKVB8RQHO8uAk
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>Each time this Necron Adversary makes a melee attack, he may re-roll any ED on the damage roll.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!OnF1vvLVUoHZwDWO"

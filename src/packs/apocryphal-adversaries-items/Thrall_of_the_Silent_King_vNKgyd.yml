@@ -1,0 +1,17 @@
+name: Thrall of the Silent King
+type: talent
+_id: vNKgydHPlaKjVs9H
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: C5urKVB8RQHO8uAk
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: "<p>The Necron Adversary adds +6m to the range of any of the following abilities: Relentless March, Adaptive Strategy, The Lord’s Will, My Will Be Done, United in Destruction, Canoptek Control Node, Nightmare Shroud, Implacable Conqueror.</p>"
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!vNKgydHPlaKjVs9H"

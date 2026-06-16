@@ -1,0 +1,18 @@
+name: Nanoscarab Casket
+type: gear
+_id: vVSN9mniSEzuX3bH
+img: modules/wng-core/assets/icons/gear/gear.webp
+folder: dPaNxiGF0CwjQeIZ
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p>Each time the Necron rolls Determination, it scores one additional Icon.</p>
+  value: 0
+  keywords: ""
+  effect: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!vVSN9mniSEzuX3bH"

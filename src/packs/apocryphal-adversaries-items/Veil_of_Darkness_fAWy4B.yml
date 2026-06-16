@@ -1,0 +1,18 @@
+name: Veil of Darkness
+type: gear
+_id: fAWy4BuSAql8FqQp
+img: modules/wng-core/assets/icons/gear/gear.webp
+folder: dPaNxiGF0CwjQeIZ
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p>Once per scene, as a Move Action, the bearer and any number of Necrons of Average or smaller size within 6m disappear. They may reappear anywhere on the battlefield instantly (as a single group), though nowhere within 18m of an enemy, or they may leave the battlefield entirely.</p>
+  value: 0
+  keywords: ""
+  effect: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!fAWy4BuSAql8FqQp"

@@ -1,0 +1,48 @@
+name: The Arrow of Infinity
+type: weapon
+_id: 7eoDtTBRIojWuiuX
+img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+folder: dPaNxiGF0CwjQeIZ
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p>Replaces a Tachyon Arrow the Threat is already carrying. Range Infinite. One Shot Only.</p>
+  value: 0
+  keywords: ""
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 26
+    bonus: 0
+    rank: none
+  ed:
+    base: 6
+    bonus: 0
+    rank: none
+  ap:
+    base: -5
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 100
+    medium: 200
+    long: 300
+    melee: 0
+    thrown: null
+  ammo: ""
+  salvo: 0
+  traits:
+    - name: oneShot
+      custom: true
+      display: One Shot Only
+  upgrades: []
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!7eoDtTBRIojWuiuX"

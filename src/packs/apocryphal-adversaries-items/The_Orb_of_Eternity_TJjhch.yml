@@ -1,0 +1,18 @@
+name: The Orb of Eternity
+type: gear
+_id: TJjhchxqN70anraw
+img: modules/wng-core/assets/icons/gear/gear.webp
+folder: dPaNxiGF0CwjQeIZ
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p>Replaces a Resurrection Orb the Threat is carrying. Once per scene, as a Simple Action, all [DYNASTY] NECRONS within 12m may immediately make a Reanimation Protocols roll if they have that rule. Affected Necrons may re-roll any failures on this roll.</p>
+  value: 0
+  keywords: ""
+  effect: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!TJjhchxqN70anraw"

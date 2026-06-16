@@ -1,0 +1,17 @@
+name: Implacable Conqueror
+type: talent
+_id: YT3pldgd8xEtLUBt
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: C5urKVB8RQHO8uAk
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>When a friendly [DYNASTY] NECRON Troop or Elite begins their turn within 12m of this Necron Adversary, they add the game’s Tier to their Speed if they take the Charge action.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!YT3pldgd8xEtLUBt"

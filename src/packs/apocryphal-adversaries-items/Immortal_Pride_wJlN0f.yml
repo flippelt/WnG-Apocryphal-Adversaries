@@ -1,0 +1,17 @@
+name: Immortal Pride
+type: talent
+_id: wJlN0fQkrDwrrRwm
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: C5urKVB8RQHO8uAk
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>Psychic powers which target this Adversary increase in Difficulty by +Tier. In addition, all [DYNASTY] NECRONS within 12m may re-roll their dice on Resolve tests.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!wJlN0fQkrDwrrRwm"

@@ -1,0 +1,17 @@
+name: Precognitive Strike (Nihilakh)
+type: talent
+_id: gBN9LtSQcxzUnoIr
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: C5urKVB8RQHO8uAk
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>During any round of combat, this Necron Adversary may choose to take the first turn, instead of one of the Player Characters. If it does not take the first turn that round, it may instead Seize the Initiative once during that round without spending any Ruin.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!gBN9LtSQcxzUnoIr"

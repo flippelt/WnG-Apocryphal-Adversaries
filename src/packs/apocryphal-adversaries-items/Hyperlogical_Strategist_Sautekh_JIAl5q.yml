@@ -1,0 +1,17 @@
+name: Hyperlogical Strategist (Sautekh)
+type: talent
+_id: JIAl5qMKU85Ws597
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: C5urKVB8RQHO8uAk
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: "<p>While this Necron Adversary is on the battlefield, each time you spend a point of Ruin you can roll one d6: on a 5+, that point of Ruin is refunded.</p>"
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!JIAl5qMKU85Ws597"
