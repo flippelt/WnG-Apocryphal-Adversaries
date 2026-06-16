@@ -35,8 +35,13 @@ Converted faction by faction from the source PDFs. See
 - ✅ **Orks — complete (v0.2.0):** all 41 threats (Boyz, Nobz, walkers, psykers
   and every named Warlord up to Ghazghkull) plus a companion items compendium of
   19 Adversary Traits and 15 Shiny Gubbinz relics.
-- ⏳ **To do:** Tyranids · Necrons · Daemonic Legions · Heretic Astartes ·
-  Asuryani · Drukhari · T'au Empire · Malicious Miscellany.
+- ✅ **Necrons — complete (v0.3.0):** 39 actors (Warriors, Immortals, Flayed Ones,
+  Destroyers, Crypteks, Canoptek constructs, the three C'Tan Shards, every named
+  Overlord and Lord from Imotekh the Stormlord to Trazyn the Infinite, and the
+  Annihilation Barge, Night Scythe and Monolith war machines) plus 38 *Lords of
+  the Necrontyr* items: Adversary Traits, Cryptek Arcana and Relics of the Aeons.
+- ⏳ **To do:** Tyranids · Daemonic Legions · Heretic Astartes · Asuryani ·
+  Drukhari · T'au Empire · Malicious Miscellany.
 
 **v1.0.0 will be tagged once all nine faction PDFs are converted.**
 
