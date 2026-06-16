@@ -39,6 +39,10 @@
       {
         "id": "wng-apocrypha",
         "type": "module"
+      },
+      {
+        "id": "wng-xenos",
+        "type": "module"
       }
     ]
   },

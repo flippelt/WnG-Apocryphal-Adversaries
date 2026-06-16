@@ -10,18 +10,22 @@ here **with his permission**.
 > Companion to the [An Abundance of Apocrypha](https://github.com/flippelt/WnG-Apocrypha-FoundryVTT)
 > module (archetypes, talents, wargear, etc.).
 >
-> ⚠️ **Recommended companions — `wng-core` and `wng-apocrypha` (optional but
-> strongly advised).** Both are listed as `recommends`, so this module installs
-> and runs without them, **but elements will break without them:**
+> ⚠️ **Recommended companions (optional but strongly advised).** These are listed
+> as `recommends`, so this module installs and runs without them, **but elements
+> will break without them:**
 >
-> - **`wng-core`** supplies the threats' tokens and item icons, and the **Smite**
->   psychic power some threats link to. Without it, those icons are missing and the
->   Smite link shows as "unlinked".
+> - **`wng-core`** supplies item icons and the **Smite** psychic power some threats
+>   link to. Without it, those icons are missing and the Smite link shows as
+>   "unlinked".
 > - **`wng-apocrypha`** supplies the Ork **WAAAGH! psychic powers** (and other
->   shared content) that the psyker threats link to via compendium references.
->   Without it, those linked powers show as "unlinked".
+>   shared content) that the psyker threats link to. Without it, those linked
+>   powers show as "unlinked".
+> - **`wng-xenos`** supplies the **Necron tokens**. Without it, Necron threats fall
+>   back to a default token image.
+> - Some mounted Ork bosses reference **Church of Steel (`wng-cos`)** for their
+>   vehicles.
 >
-> Install both for the full, linked experience.
+> Install them for the full, linked experience.
 
 ## Status / Progress
 
