@@ -1,0 +1,17 @@
+name: "Hive Fleet: Kronos"
+type: talent
+_id: Us5SVXQ1uhlAimpE
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: L8VT3PIch54KhUPr
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>Replace the [HIVE FLEET] keyword with KRONOS. Tyranids of KRONOS which Aim before making a ranged attack may add bonus dice equal to the game’s Tier to their attack.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!Us5SVXQ1uhlAimpE"

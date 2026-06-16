@@ -1,0 +1,47 @@
+name: Poisonous Influence
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+folder: VKw9fdEg23XLNrIV
+sort: 0
+system:
+  dn: "5"
+  type: ""
+  specification: ""
+  description: <p>The synapse creature triggers the venom-spores of Gorgon’s bio-horrors. Until the start of the psyker’s next turn, all Tyranids within range improve their AP by 1 (e.g. AP 0 becomes AP −1).</p>
+  effect: ""
+  cost: 0
+  activation: action
+  duration: 1 Round
+  range: 9m
+  multiTarget: false
+  keywords: TYRANID, PSYCHIC
+  prerequisites: GORGON
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 0
+      five: 0
+      six: 0
+  otherDamage:
+    mortalWounds: ""
+    wounds: ""
+    shock: ""
+  potency: []
+  test:
+    dn: null
+    type: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_id: KrPD9S8XvEeCVrW6
+_key: "!items!KrPD9S8XvEeCVrW6"

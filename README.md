@@ -40,8 +40,14 @@ Converted faction by faction from the source PDFs. See
   Overlord and Lord from Imotekh the Stormlord to Trazyn the Infinite, and the
   Annihilation Barge, Night Scythe and Monolith war machines) plus 38 *Lords of
   the Necrontyr* items: Adversary Traits, Cryptek Arcana and Relics of the Aeons.
-- ⏳ **To do:** Tyranids · Daemonic Legions · Heretic Astartes · Asuryani ·
-  Drukhari · T'au Empire · Malicious Miscellany.
+- ✅ **Tyranids — complete (v0.4.0):** all 28 threats (Hormagaunts and Termagants
+  through Genestealers, Lictor, Carnifex, the synapse psykers — Broodlord, Hive
+  Tyrant, Tervigon, Zoanthrope, Neurothrope, Maleceptor — and the big monsters
+  Tyrannofex, Haruspex, Exocrine, Toxicrene, Trygon and Mawloc) plus the 13
+  Powers of the Hive Mind, a full Bio-Weapons armoury and the seven Hive Fleet
+  adaptations.
+- ⏳ **To do:** Daemonic Legions · Heretic Astartes · Asuryani · Drukhari ·
+  T'au Empire · Malicious Miscellany.
 
 **v1.0.0 will be tagged once all nine faction PDFs are converted.**
 

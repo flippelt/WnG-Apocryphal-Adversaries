@@ -1,0 +1,53 @@
+name: Heavy Venom Cannon
+type: weapon
+_id: qXTzhrPpN6ScNkLX
+img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+folder: XXD6l2k4wuYB70r6
+sort: 0
+system:
+  quantity: 1
+  rarity: common
+  description: <p>A Tyranid may only have a single Stranglethorn Cannon or Heavy Venom Cannon.</p>
+  value: 0
+  keywords: BIO-WEAPON, TYRANID
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 18
+    bonus: 0
+    rank: none
+  ed:
+    base: 3
+    bonus: 0
+    rank: none
+  ap:
+    base: -2
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 18
+    medium: 36
+    long: 54
+    melee: 0
+    thrown: null
+  ammo: ""
+  salvo: 2
+  traits:
+    - name: arc
+      rating: 2
+    - name: assault
+    - name: blast
+      rating: "2"
+    - name: inflict
+      custom: true
+      display: Inflict (Poisoned 5)
+  upgrades: []
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!qXTzhrPpN6ScNkLX"

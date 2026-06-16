@@ -1,0 +1,47 @@
+name: Single Monstrous Bonesword
+type: weapon
+_id: EVcu9Bz2al5fY6Gz
+img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+folder: XXD6l2k4wuYB70r6
+sort: 0
+system:
+  quantity: 1
+  rarity: common
+  description: <p>Damage adds the wielder’s Strength.</p>
+  value: 0
+  keywords: BIO-WEAPON, TYRANID
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 5
+    bonus: 0
+    rank: none
+  ed:
+    base: 5
+    bonus: 0
+    rank: none
+  ap:
+    base: -2
+    bonus: 0
+    rank: none
+  category: melee
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 1
+    thrown: null
+  ammo: ""
+  salvo: 0
+  traits:
+    - name: force
+    - name: parry
+  upgrades: []
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!EVcu9Bz2al5fY6Gz"

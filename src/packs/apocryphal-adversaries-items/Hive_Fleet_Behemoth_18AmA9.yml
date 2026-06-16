@@ -1,0 +1,17 @@
+name: "Hive Fleet: Behemoth"
+type: talent
+_id: 18AmA9HZUjM8oGQm
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: L8VT3PIch54KhUPr
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>Replace the [HIVE FLEET] keyword with BEHEMOTH. Tyranids of BEHEMOTH add the game’s Tier as a bonus to their Speed when they Charge.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!18AmA9HZUjM8oGQm"

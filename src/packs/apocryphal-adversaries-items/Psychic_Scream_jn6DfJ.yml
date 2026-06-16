@@ -1,0 +1,47 @@
+name: Psychic Scream
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+folder: VKw9fdEg23XLNrIV
+sort: 0
+system:
+  dn: "5"
+  type: ""
+  specification: ""
+  description: <p>The Hive Mind unleashes a piercing shriek of undiluted psychic energy. The nearest enemy within range immediately suffers 1d3 Wounds. In addition, if the target is a Psyker, they must pass a DN3 Willpower test; if they fail, randomly choose one of their psychic powers — they cannot use that power until they have regrouped.</p>
+  effect: ""
+  cost: 0
+  activation: action
+  duration: Instant
+  range: 35m
+  multiTarget: true
+  keywords: TYRANID, PSYCHIC
+  prerequisites: TYRANID
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 0
+      five: 0
+      six: 0
+  otherDamage:
+    mortalWounds: ""
+    wounds: 1d3
+    shock: ""
+  potency: []
+  test:
+    dn: null
+    type: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_id: jn6DfJ7OaQMesB25
+_key: "!items!jn6DfJ7OaQMesB25"

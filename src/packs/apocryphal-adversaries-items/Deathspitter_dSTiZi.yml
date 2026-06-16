@@ -1,0 +1,46 @@
+name: Deathspitter
+type: weapon
+_id: dSTiZifHwvDQcxnR
+img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+folder: XXD6l2k4wuYB70r6
+sort: 0
+system:
+  quantity: 1
+  rarity: common
+  description: ""
+  value: 0
+  keywords: BIO-WEAPON, TYRANID
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 12
+    bonus: 0
+    rank: none
+  ed:
+    base: 1
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 12
+    medium: 24
+    long: 36
+    melee: 0
+    thrown: null
+  ammo: ""
+  salvo: 3
+  traits:
+    - name: assault
+  upgrades: []
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!dSTiZifHwvDQcxnR"

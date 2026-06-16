@@ -1,0 +1,17 @@
+name: "Hive Fleet: Leviathan"
+type: talent
+_id: M265Ni9TkFA6wsqE
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: L8VT3PIch54KhUPr
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: "<p>Replace the [HIVE FLEET] keyword with LEVIATHAN. Tyranids of LEVIATHAN add the game’s Tier as bonus dice when rolling to Soak, and may Soak Mortal Wounds while within range of a Synapse creature. Mobs of Tyranids within range of a Synapse creature instead roll a d6 for each creature slain by an attack: each roll of a 6 returns one dead creature to the mob.</p>"
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!M265Ni9TkFA6wsqE"

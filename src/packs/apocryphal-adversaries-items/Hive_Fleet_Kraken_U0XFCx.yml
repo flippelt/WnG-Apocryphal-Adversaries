@@ -1,0 +1,17 @@
+name: "Hive Fleet: Kraken"
+type: talent
+_id: U0XFCxYp2kngYx8U
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: L8VT3PIch54KhUPr
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>Replace the [HIVE FLEET] keyword with KRAKEN. Tyranids of KRAKEN add the game’s Tier to their Speed when they run or sprint. Further, a Tyranid from this Hive Fleet may Fall Back from combat at the start of its turn as a free action.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!U0XFCxYp2kngYx8U"

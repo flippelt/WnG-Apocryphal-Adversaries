@@ -1,0 +1,1168 @@
+folder: nQVhetqMxjYCSgb2
+name: Tervigon
+type: threat
+_id: mNaBnd3U7epE0Lp8
+img: icons/creatures/reptiles/dragon-winged-blue.webp
+system:
+  attributes:
+    strength:
+      label: ATTRIBUTE.STRENGTH
+      rating: 0
+      base: 14
+      bonus: 0
+      cost: 0
+      total: 0
+    toughness:
+      label: ATTRIBUTE.TOUGHNESS
+      rating: 0
+      base: 16
+      bonus: 0
+      cost: 0
+      total: 0
+    agility:
+      label: ATTRIBUTE.AGILITY
+      rating: 0
+      base: 4
+      bonus: 0
+      cost: 0
+      total: 0
+    initiative:
+      label: ATTRIBUTE.INITIATIVE
+      rating: 0
+      base: 4
+      bonus: 0
+      cost: 0
+      total: 0
+    willpower:
+      label: ATTRIBUTE.WILLPOWER
+      rating: 0
+      base: 9
+      bonus: 0
+      cost: 0
+      total: 0
+    intellect:
+      label: ATTRIBUTE.INTELLECT
+      rating: 0
+      base: 5
+      bonus: 0
+      cost: 0
+      total: 0
+    fellowship:
+      label: ATTRIBUTE.FELLOWSHIP
+      rating: 0
+      base: 2
+      bonus: 0
+      cost: 0
+      total: 0
+  skills:
+    athletics:
+      label: SKILL.ATHLETICS
+      attribute: strength
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    awareness:
+      label: SKILL.AWARENESS
+      attribute: intellect
+      rating: 7
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    ballisticSkill:
+      label: SKILL.BALLISTIC_SKILL
+      attribute: agility
+      rating: 6
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    cunning:
+      label: SKILL.CUNNING
+      attribute: fellowship
+      rating: 8
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    deception:
+      label: SKILL.DECEPTION
+      attribute: fellowship
+      rating: 8
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    insight:
+      label: SKILL.INSIGHT
+      attribute: fellowship
+      rating: 8
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    intimidation:
+      label: SKILL.INTIMIDATION
+      attribute: willpower
+      rating: 1
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    investigation:
+      label: SKILL.INVESTIGATION
+      attribute: intellect
+      rating: 5
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    leadership:
+      label: SKILL.LEADERSHIP
+      attribute: willpower
+      rating: 1
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    medicae:
+      label: SKILL.MEDICAE
+      attribute: intellect
+      rating: 5
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    persuasion:
+      label: SKILL.PERSUASION
+      attribute: fellowship
+      rating: 8
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    pilot:
+      label: SKILL.PILOT
+      attribute: agility
+      rating: 6
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    psychicMastery:
+      label: SKILL.PSYCHIC_MASTERY
+      attribute: willpower
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    scholar:
+      label: SKILL.SCHOLAR
+      attribute: intellect
+      rating: 5
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    stealth:
+      label: SKILL.STEALTH
+      attribute: agility
+      rating: 6
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    survival:
+      label: SKILL.SURVIVAL
+      attribute: willpower
+      rating: 1
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    tech:
+      label: SKILL.TECH
+      attribute: intellect
+      rating: 5
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    weaponSkill:
+      label: SKILL.WEAPON_SKILL
+      attribute: initiative
+      rating: 8
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+  combat:
+    defense:
+      bonus: 0
+      total: 0
+    defence:
+      bonus: 0
+      total: 0
+    resilience:
+      bonus: 0
+      total: 0
+    wounds:
+      value: 0
+      bonus: 0
+      max: 46
+    determination:
+      bonus: 0
+      total: 0
+    shock:
+      value: 0
+      bonus: 0
+      max: 0
+    resolve:
+      bonus: 0
+      total: 0
+    conviction:
+      bonus: 0
+      total: 0
+    size: gargantuan
+    speed: 8
+    fly: 0
+    passiveAwareness:
+      bonus: 0
+      total: 0
+    stealth: 0
+  bio:
+    species: ""
+    faction: Tyranids
+    archetype: ""
+    threat:
+      first: "-"
+      second: "-"
+      third: A
+      fourth: A
+      fifth: A
+  resources:
+    ruin: 0
+  corruption:
+    current: 0
+  mob: null
+  notes: <p>Tervigon — a gargantuan living incubator that spawns broods of Termagants at will; its death sends a synaptic backlash that kills its nearby spawn.</p>
+prototypeToken:
+  name: Tervigon
+  displayName: 20
+  actorLink: false
+  appendNumber: false
+  prependAdjective: false
+  texture:
+    src: icons/creatures/reptiles/dragon-winged-blue.webp
+    scaleX: 4
+    scaleY: 4
+    offsetX: 0
+    offsetY: 0
+    rotation: 0
+  width: 4
+  height: 4
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  disposition: -1
+  displayBars: 20
+  bar1:
+    attribute: combat.wounds
+  bar2:
+    attribute: ""
+  sight:
+    enabled: false
+    range: 0
+    angle: 360
+    visionMode: basic
+  detectionModes: []
+  flags: {}
+  randomImg: false
+items:
+  - name: TYRANID
+    type: keyword
+    _id: 48mqYGAJEHTu87lq
+    img: icons/svg/biohazard.svg
+    system:
+      description: <p>A bioform of the Tyranid Hive Fleets, a galaxy-devouring superorganism bound to the gestalt Hive Mind.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!mNaBnd3U7epE0Lp8.48mqYGAJEHTu87lq"
+  - name: PSYKER
+    type: keyword
+    _id: BgnCpfXHmF6gSOmG
+    img: icons/svg/biohazard.svg
+    system:
+      description: <p>A Tyranid psyker-beast channelling a fragment of the Hive Mind’s gestalt will.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!mNaBnd3U7epE0Lp8.BgnCpfXHmF6gSOmG"
+  - name: SYNAPSE
+    type: keyword
+    _id: EpbhFX2GS4xuUGlE
+    img: icons/svg/biohazard.svg
+    system:
+      description: "<p>A synaptic conduit of the Hive Mind: nearby Tyranids auto-pass Resolve tests and ignore Shock while in range.</p>"
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!mNaBnd3U7epE0Lp8.EpbhFX2GS4xuUGlE"
+  - name: "[HIVE FLEET]"
+    type: keyword
+    _id: TgaVOfmkmlGDDwPA
+    img: icons/svg/biohazard.svg
+    system:
+      description: <p>Replace with the Hive Fleet keyword (Behemoth, Gorgon, Hydra, Jormungandr, Kraken, Kronos, Leviathan&hellip;).</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!mNaBnd3U7epE0Lp8.TgaVOfmkmlGDDwPA"
+  - name: MONSTER
+    type: keyword
+    _id: 7DDUCOEQDYMN9hig
+    img: icons/svg/biohazard.svg
+    system:
+      description: <p>A creature of such size and ferocity that it is a battlefield threat all by itself.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!mNaBnd3U7epE0Lp8.7DDUCOEQDYMN9hig"
+  - name: Bonded Exoskeleton
+    type: armour
+    _id: H8WrJ1CLFeAxtbBe
+    img: modules/wng-core/assets/icons/armour/armour.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: <p>5 AR.</p>
+      value: 0
+      keywords: ""
+      equipped: true
+      rating: 5
+      base: 0
+      traits: []
+      invulnerable: false
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!mNaBnd3U7epE0Lp8.H8WrJ1CLFeAxtbBe"
+  - name: Monstrous Scything Talons
+    type: weapon
+    _id: axFFu7lU1w6kIH5w
+    img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: <p>Range 2.</p>
+      value: 0
+      keywords: ""
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 18
+        bonus: 0
+        rank: none
+      ed:
+        base: 3
+        bonus: 0
+        rank: none
+      ap:
+        base: -2
+        bonus: 0
+        rank: none
+      category: melee
+      range:
+        short: 0
+        medium: 0
+        long: 0
+        melee: 2
+        thrown: null
+      ammo: ""
+      salvo: 0
+      traits:
+        - name: paired
+          custom: true
+          display: Paired
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!mNaBnd3U7epE0Lp8.axFFu7lU1w6kIH5w"
+  - name: Crushing Claws
+    type: weapon
+    _id: kvCmHz60IWZnhQbA
+    img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: <p>Range 2.</p>
+      value: 0
+      keywords: ""
+      equipped: false
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 21
+        bonus: 0
+        rank: none
+      ed:
+        base: 6
+        bonus: 0
+        rank: none
+      ap:
+        base: -3
+        bonus: 0
+        rank: none
+      category: melee
+      range:
+        short: 0
+        medium: 0
+        long: 0
+        melee: 2
+        thrown: null
+      ammo: ""
+      salvo: 0
+      traits:
+        - name: brutal
+        - name: unwieldy
+          rating: 2
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!mNaBnd3U7epE0Lp8.kvCmHz60IWZnhQbA"
+  - name: Stinger Salvo
+    type: weapon
+    _id: eOMJJRp8w5IDgLqI
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: ""
+      value: 0
+      keywords: ""
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 12
+        bonus: 0
+        rank: none
+      ed:
+        base: 2
+        bonus: 0
+        rank: none
+      ap:
+        base: -1
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 12
+        medium: 24
+        long: 36
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: 4
+      traits:
+        - name: assault
+        - name: spread
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!mNaBnd3U7epE0Lp8.eOMJJRp8w5IDgLqI"
+  - name: Brood Progenitor
+    type: talent
+    _id: 5E69DuksSwwk7cci
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>Termagants within 15m of a Tervigon may re-roll 1s on their shooting attacks.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!mNaBnd3U7epE0Lp8.5E69DuksSwwk7cci"
+  - name: Champion
+    type: talent
+    _id: b2NRmSGOnoo30zVs
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>A Tervigon may take Ruin Actions and has 6 Personal Ruin.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!mNaBnd3U7epE0Lp8.b2NRmSGOnoo30zVs"
+  - name: Shadow in the Warp
+    type: talent
+    _id: kr73rxptYnYlma73
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: "<p>Shadow in the Warp: whenever a Psyker uses a psychic power within 35m of this Threat, they must count all 6s on their Wrath dice as 1s. Psykers with the TYRANID keyword are unaffected. See page 5.</p>"
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!mNaBnd3U7epE0Lp8.kr73rxptYnYlma73"
+  - name: Synapse Creature
+    type: talent
+    _id: uenohb5Dund8RQrJ
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: "<p>Synapse Creature: Tyranids within 25m auto-pass Resolve tests and cannot suffer Shock; when they roll Determination, negated Wounds are ignored rather than converted to Shock. The Synapse Creature itself counts as in range. See page 5.</p>"
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!mNaBnd3U7epE0Lp8.uenohb5Dund8RQrJ"
+  - name: Monstrous Creature
+    type: talent
+    _id: zKGylttjmYekeE7F
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: "<p>Monstrous Creature: This Threat is immune to the Fear, Terror, Pinned, and Staggered conditions.</p>"
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!mNaBnd3U7epE0Lp8.zKGylttjmYekeE7F"
+  - name: Second Strike
+    type: talent
+    _id: bqBX1JECJCg95UkH
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: "<p>Second Strike: this Threat reduces the Multi-Attack penalty by 2 DN, as though it had the Dual Wield Talent.</p>"
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!mNaBnd3U7epE0Lp8.bqBX1JECJCg95UkH"
+  - name: "Biomorph: Adrenal Glands"
+    type: talent
+    _id: fY4YfCf2OlNxyxLU
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: "<p>Optional biomorph: +1 Speed.</p>"
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!mNaBnd3U7epE0Lp8.fY4YfCf2OlNxyxLU"
+  - name: "Biomorph: Toxin Sacs"
+    type: talent
+    _id: ug6gh8qZZR7IoVbK
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: "<p>Optional biomorph: add +1ED and Inflict (Poisoned 3) to melee attacks.</p>"
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!mNaBnd3U7epE0Lp8.ug6gh8qZZR7IoVbK"
+  - name: "Battlecry: Monstrous Being"
+    type: ability
+    _id: qAUFWdQ6SogUcS7c
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ""
+      specification: ""
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>Anyone that can see this Threat must make a DN5 Terror test.</p>
+      display: true
+      abilityType: battlecry
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ""
+        wounds: ""
+        shock: ""
+      test:
+        dn: null
+        type: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!mNaBnd3U7epE0Lp8.qAUFWdQ6SogUcS7c"
+  - name: Monstrous Psyker
+    type: ability
+    _id: 3BKI3V2znovPS7tU
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ""
+      specification: ""
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: "<p>The Tervigon may use this action and make a melee or ranged attack without the +2 DN Multi-Action penalty: it may attempt to activate @UUID[Compendium.wng-core.items.Item.n0bj5UJjgglDzFcB]{Smite}, Psyniscience, Deny the Witch, or any one power from the Hive Mind psychic discipline. The six core Hive-Mind powers are included below (@UUID[Compendium.wng-apocryphal-adversaries.apocryphal-adversaries-items.Item.xJ9J6VLUM3ZkX8LF]{Dominion}, @UUID[Compendium.wng-apocryphal-adversaries.apocryphal-adversaries-items.Item.JG7Kcu5rCvGG9Jt8]{Catalyst}, @UUID[Compendium.wng-apocryphal-adversaries.apocryphal-adversaries-items.Item.lOM7b70UPVBgrKHs]{The Horror}, @UUID[Compendium.wng-apocryphal-adversaries.apocryphal-adversaries-items.Item.Nbudcw1MaAeiAYdX]{Onslaught}, @UUID[Compendium.wng-apocryphal-adversaries.apocryphal-adversaries-items.Item.cvmfUrGrN8PbObLd]{Paroxysm}, @UUID[Compendium.wng-apocryphal-adversaries.apocryphal-adversaries-items.Item.jn6DfJ7OaQMesB25]{Psychic Scream}); fleet-specific powers (Unstoppable Hunger, Poisonous Influence, Death Shriek, Lurking Maws, Synaptic Lure, Symbiostorm, Hive Nexus) may be used if the Threat has the matching [HIVE FLEET] keyword.</p>"
+      display: true
+      abilityType: action
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ""
+        wounds: ""
+        shock: ""
+      test:
+        dn: null
+        type: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!mNaBnd3U7epE0Lp8.3BKI3V2znovPS7tU"
+  - name: "Ruin: Spawning"
+    type: ability
+    _id: thVz8j2i7F3NEJDb
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ""
+      specification: ""
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>Spend 1 Ruin and take a Full-Round Action. The Tervigon spawns a mob of 2d6+6 Termagants armed with Fleshborers within 10m, or adds that number to a mob of Termagants within 10m.</p>
+      display: true
+      abilityType: ruin
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ""
+        wounds: ""
+        shock: ""
+      test:
+        dn: null
+        type: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!mNaBnd3U7epE0Lp8.thVz8j2i7F3NEJDb"
+  - name: Determination
+    type: ability
+    _id: r4D7ogY0UnMBDeaZ
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ""
+      specification: ""
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>You do not need to spend Ruin to roll Determination. Roll 16d6. Any Wounds negated by Determination are ignored instead of being converted to Shock.</p>
+      display: true
+      abilityType: determination
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ""
+        wounds: ""
+        shock: ""
+      test:
+        dn: null
+        type: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!mNaBnd3U7epE0Lp8.r4D7ogY0UnMBDeaZ"
+  - name: "Annihilation: Synaptic Backlash"
+    type: ability
+    _id: Zl1d2o1QNzJEmUw7
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ""
+      specification: ""
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>If a Tervigon is slain, all individual Termagants within 15m suffer 1d3 Mortal Wounds, while mobs of Termagants within that distance suffer 1d6 casualties immediately.</p>
+      display: true
+      abilityType: annihilation
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ""
+        wounds: ""
+        shock: ""
+      test:
+        dn: null
+        type: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!mNaBnd3U7epE0Lp8.Zl1d2o1QNzJEmUw7"
+  - name: Dominion
+    type: psychicPower
+    img: modules/wng-core/assets/icons/powers/power.webp
+    system:
+      dn: "5"
+      type: ""
+      specification: ""
+      description: <p>The Tyranid channels and amplifies the will of the Hive Mind. The power affects one allied Tyranid mob or a number of individual Tyranids equal to twice the Psyker’s Willpower within range. Affected creatures ignore their Instinctive Behaviour rule and automatically succeed at Resolve tests until the start of the psyker’s next turn.</p>
+      effect: ""
+      cost: 0
+      activation: action
+      duration: 1 Round
+      range: 75m
+      multiTarget: false
+      keywords: TYRANID, PSYCHIC
+      prerequisites: TYRANID
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+        die:
+          one: 0
+          two: 0
+          three: 0
+          four: 0
+          five: 0
+          six: 0
+      otherDamage:
+        mortalWounds: ""
+        wounds: ""
+        shock: ""
+      potency: []
+      test:
+        dn: null
+        type: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags:
+      core:
+        sourceId: Compendium.wng-apocryphal-adversaries.apocryphal-adversaries-items.Item.xJ9J6VLUM3ZkX8LF
+    _id: BEAg1K975SUGLref
+    _key: "!actors.items!mNaBnd3U7epE0Lp8.BEAg1K975SUGLref"
+  - name: Catalyst
+    type: psychicPower
+    img: modules/wng-core/assets/icons/powers/power.webp
+    system:
+      dn: "6"
+      type: ""
+      specification: ""
+      description: <p>The Hive Mind invigorates its organisms with unnatural vitality. The power affects one allied Tyranid mob or a number of individual Tyranids equal to twice the Psyker’s Willpower within range. Affected creatures do not have to spend Ruin to roll Determination, and they may roll Determination to negate Mortal Wounds, until the psyker’s next turn.</p>
+      effect: ""
+      cost: 0
+      activation: action
+      duration: 1 Round
+      range: 35m
+      multiTarget: false
+      keywords: TYRANID, PSYCHIC
+      prerequisites: TYRANID
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+        die:
+          one: 0
+          two: 0
+          three: 0
+          four: 0
+          five: 0
+          six: 0
+      otherDamage:
+        mortalWounds: ""
+        wounds: ""
+        shock: ""
+      potency: []
+      test:
+        dn: null
+        type: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags:
+      core:
+        sourceId: Compendium.wng-apocryphal-adversaries.apocryphal-adversaries-items.Item.JG7Kcu5rCvGG9Jt8
+    _id: 49GOjHflasGNN35f
+    _key: "!actors.items!mNaBnd3U7epE0Lp8.49GOjHflasGNN35f"
+  - name: The Horror
+    type: psychicPower
+    img: modules/wng-core/assets/icons/powers/power.webp
+    system:
+      dn: "6"
+      type: ""
+      specification: ""
+      description: <p>The terrifying psychic presence of the Hive Mind floods the minds of the Tyranids’ enemies. The power affects all enemies in a Blast (10) within range. Until the start of the psyker’s next turn, the target unit must add +2 to the DN of all Resolve tests they attempt.</p>
+      effect: ""
+      cost: 0
+      activation: action
+      duration: 1 Round
+      range: 50m
+      multiTarget: false
+      keywords: TYRANID, PSYCHIC
+      prerequisites: TYRANID
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+        die:
+          one: 0
+          two: 0
+          three: 0
+          four: 0
+          five: 0
+          six: 0
+      otherDamage:
+        mortalWounds: ""
+        wounds: ""
+        shock: ""
+      potency: []
+      test:
+        dn: null
+        type: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags:
+      core:
+        sourceId: Compendium.wng-apocryphal-adversaries.apocryphal-adversaries-items.Item.lOM7b70UPVBgrKHs
+    _id: knWESK4hsFcZWkgD
+    _key: "!actors.items!mNaBnd3U7epE0Lp8.knWESK4hsFcZWkgD"
+  - name: Onslaught
+    type: psychicPower
+    img: modules/wng-core/assets/icons/powers/power.webp
+    system:
+      dn: "6"
+      type: ""
+      specification: ""
+      description: <p>The synapse creature seizes control of the lesser creatures’ weapon symbiotes, guiding their fire while driving them onward. The power affects one allied Tyranid mob or a number of individual Tyranids equal to twice the Psyker’s Willpower within range. Until the start of the psyker’s next turn, the affected creatures treat all their weapons as if they had the Assault trait, and may ignore the +2 DN for running and shooting with an assault weapon.</p>
+      effect: ""
+      cost: 0
+      activation: action
+      duration: 1 Round
+      range: 35m
+      multiTarget: false
+      keywords: TYRANID, PSYCHIC
+      prerequisites: TYRANID
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+        die:
+          one: 0
+          two: 0
+          three: 0
+          four: 0
+          five: 0
+          six: 0
+      otherDamage:
+        mortalWounds: ""
+        wounds: ""
+        shock: ""
+      potency: []
+      test:
+        dn: null
+        type: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags:
+      core:
+        sourceId: Compendium.wng-apocryphal-adversaries.apocryphal-adversaries-items.Item.Nbudcw1MaAeiAYdX
+    _id: 9mYgd8NORifejORG
+    _key: "!actors.items!mNaBnd3U7epE0Lp8.9mYgd8NORifejORG"
+  - name: Paroxysm
+    type: psychicPower
+    img: modules/wng-core/assets/icons/powers/power.webp
+    system:
+      dn: "5"
+      type: ""
+      specification: ""
+      description: <p>The Hive Mind triggers every nerve and pain receptor in its enemies’ bodies. The power affects all enemies in a Blast (6) within range. Affected enemies all suffer 1d3+2 Shock, and they may not Keep the Initiative until the start of the psyker’s next turn.</p>
+      effect: ""
+      cost: 0
+      activation: action
+      duration: Instant
+      range: 35m
+      multiTarget: false
+      keywords: TYRANID, PSYCHIC
+      prerequisites: TYRANID
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+        die:
+          one: 0
+          two: 0
+          three: 0
+          four: 0
+          five: 0
+          six: 0
+      otherDamage:
+        mortalWounds: ""
+        wounds: ""
+        shock: 1d3+2
+      potency: []
+      test:
+        dn: null
+        type: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags:
+      core:
+        sourceId: Compendium.wng-apocryphal-adversaries.apocryphal-adversaries-items.Item.cvmfUrGrN8PbObLd
+    _id: RAfkqR2tZ3Z9Dl3H
+    _key: "!actors.items!mNaBnd3U7epE0Lp8.RAfkqR2tZ3Z9Dl3H"
+  - name: Psychic Scream
+    type: psychicPower
+    img: modules/wng-core/assets/icons/powers/power.webp
+    system:
+      dn: "5"
+      type: ""
+      specification: ""
+      description: <p>The Hive Mind unleashes a piercing shriek of undiluted psychic energy. The nearest enemy within range immediately suffers 1d3 Wounds. In addition, if the target is a Psyker, they must pass a DN3 Willpower test; if they fail, randomly choose one of their psychic powers — they cannot use that power until they have regrouped.</p>
+      effect: ""
+      cost: 0
+      activation: action
+      duration: Instant
+      range: 35m
+      multiTarget: true
+      keywords: TYRANID, PSYCHIC
+      prerequisites: TYRANID
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+        die:
+          one: 0
+          two: 0
+          three: 0
+          four: 0
+          five: 0
+          six: 0
+      otherDamage:
+        mortalWounds: ""
+        wounds: 1d3
+        shock: ""
+      potency: []
+      test:
+        dn: null
+        type: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags:
+      core:
+        sourceId: Compendium.wng-apocryphal-adversaries.apocryphal-adversaries-items.Item.jn6DfJ7OaQMesB25
+    _id: 48Q7k0TzlkAX8liR
+    _key: "!actors.items!mNaBnd3U7epE0Lp8.48Q7k0TzlkAX8liR"
+effects: []
+sort: 0
+ownership:
+  default: 0
+flags:
+  wrath-and-glory:
+    autoCalc:
+      defence: true
+      resilience: true
+      shock: false
+      awareness: true
+      resolve: true
+      determination: true
+      wounds: true
+      conviction: true
+    autoWounded: true
+    autoExhausted: true
+    generateMetaCurrencies: true
+_key: "!actors!mNaBnd3U7epE0Lp8"

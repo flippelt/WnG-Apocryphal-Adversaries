@@ -1,0 +1,17 @@
+name: "Hive Fleet: Gorgon"
+type: talent
+_id: iDHT7UZK7RH6nZDq
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: L8VT3PIch54KhUPr
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>Replace the [HIVE FLEET] keyword with GORGON. Tyranids of GORGON add Inflict (Poisoned X), where X is the game’s Tier, to all their melee attacks. If their melee attacks already have Inflict (Poisoned X), increase the rating of the trait by the game’s Tier.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!iDHT7UZK7RH6nZDq"
