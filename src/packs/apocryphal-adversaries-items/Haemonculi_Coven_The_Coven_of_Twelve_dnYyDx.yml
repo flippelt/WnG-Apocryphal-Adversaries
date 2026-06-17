@@ -1,0 +1,17 @@
+name: "Haemonculi Coven: The Coven of Twelve"
+type: talent
+_id: dnYyDxPXvM9d2qld
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: Y4LhokjKz8DEE1YP
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>Replace [COVEN] with COVEN OF TWELVE. When making a melee attack, the character improves the AP of their weapon by 1 (e.g. −1 to −2). They also reduce the penalty of a Multi-Action by Tier.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!dnYyDxPXvM9d2qld"

@@ -1,0 +1,18 @@
+name: The Vexator Mask [Prophets of Flesh]
+type: gear
+_id: oKqdoTd8miks1DQ3
+img: modules/wng-core/assets/icons/gear/gear.webp
+folder: ifTVer9A2YRwUVUn
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p>Haemonculus from the Prophets of Flesh only. Enemies may not use a Reflexive Action while within 12m of the wearer. Further, an enemy engaged with the wearer may not be selected to take a turn unless all other characters on that side have acted.</p>
+  value: 0
+  keywords: ""
+  effect: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!oKqdoTd8miks1DQ3"

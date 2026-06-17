@@ -1,0 +1,17 @@
+name: "Kabal: The Flayed Skull"
+type: talent
+_id: or3FiZsASShjQbPr
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: Y4LhokjKz8DEE1YP
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>Replace [KABAL] with FLAYED SKULL. The character adds +Tier to all ranged attacks, or to melee attacks made when above their target.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!or3FiZsASShjQbPr"

@@ -46,8 +46,14 @@ Converted faction by faction from the source PDFs. See
   Tyrannofex, Haruspex, Exocrine, Toxicrene, Trygon and Mawloc) plus the 13
   Powers of the Hive Mind, a full Bio-Weapons armoury and the seven Hive Fleet
   adaptations.
-- ⏳ **To do:** Daemonic Legions · Heretic Astartes · Asuryani · Drukhari ·
-  T'au Empire · Malicious Miscellany.
+- ✅ **Drukhari — complete (v0.5.0):** 29 threats across the Kabals (Kabalite
+  Warrior, Archon and court), Wych Cults (Wyches, Hekatrix Bloodbrides, Hellions,
+  Beastmasters and their beasts, Succubus) and Haemonculi Covens (Wracks,
+  Grotesques, Cronos and Talos Pain Engines, Haemonculus), plus Incubi/Klaivex,
+  Mandrakes and Scourges — with 50 *Lords of the Dark City* items (Kabal/Cult/Coven
+  adaptations, Adversary Traits and Artefacts of Cruelty).
+- ⏳ **To do:** Daemonic Legions · Heretic Astartes · Asuryani · T'au Empire ·
+  Malicious Miscellany.
 
 **v1.0.0 will be tagged once all nine faction PDFs are converted.**
 

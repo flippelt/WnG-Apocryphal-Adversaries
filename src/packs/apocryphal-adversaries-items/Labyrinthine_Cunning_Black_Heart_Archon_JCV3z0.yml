@@ -1,0 +1,17 @@
+name: Labyrinthine Cunning [Black Heart] (Archon)
+type: talent
+_id: JCV3z0VJHfL1bUsf
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: CXtQhaS7x2hEIQAN
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>While this Archon is present in a scene, each time you spend Ruin, or the PCs spend Wrath, roll 1d6. On a 6, gain 1 Ruin.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!JCV3z0VJHfL1bUsf"

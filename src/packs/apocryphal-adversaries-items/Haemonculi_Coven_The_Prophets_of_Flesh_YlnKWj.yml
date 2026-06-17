@@ -1,0 +1,17 @@
+name: "Haemonculi Coven: The Prophets of Flesh"
+type: talent
+_id: YlnKWjFndx1QTZz6
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: Y4LhokjKz8DEE1YP
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>Replace [COVEN] with PROPHETS OF FLESH. The character adds +Tier to their Determination, and each Exalted Icon rolled when rolling Determination restores a single lost Wound after the attack is resolved.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!YlnKWjFndx1QTZz6"

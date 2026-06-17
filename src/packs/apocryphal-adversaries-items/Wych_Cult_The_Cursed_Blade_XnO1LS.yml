@@ -1,0 +1,17 @@
+name: "Wych Cult: The Cursed Blade"
+type: talent
+_id: XnO1LSddiKRVDSDr
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: Y4LhokjKz8DEE1YP
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>Replace [CULT] with CURSED BLADE. When the character rolls Determination against damage inflicted in melee, each Exalted Icon rolled inflicts a single Mortal Wound upon the attacker.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!XnO1LSddiKRVDSDr"

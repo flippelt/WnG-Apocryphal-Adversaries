@@ -1,0 +1,52 @@
+name: The Triptych Whip
+type: weapon
+_id: EPNywNvERVaug76V
+img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+folder: ifTVer9A2YRwUVUn
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: "<p>Succubus. Damage S+3, Range 2.</p><p>Damage adds the wielder’s Strength.</p><p>Poisonous: base damage is increased by the target’s Toughness (no effect vs VEHICLES).</p>"
+  value: 0
+  keywords: ""
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 3
+    bonus: 0
+    rank: none
+  ed:
+    base: 6
+    bonus: 0
+    rank: none
+  ap:
+    base: -3
+    bonus: 0
+    rank: none
+  category: melee
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 2
+    thrown: null
+  ammo: ""
+  salvo: 0
+  traits:
+    - name: agonising
+    - name: poisonous
+      custom: true
+      display: Poisonous
+    - name: reaping
+      custom: true
+      display: Reaping
+  upgrades: []
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!EPNywNvERVaug76V"

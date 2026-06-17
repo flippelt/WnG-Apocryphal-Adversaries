@@ -1,0 +1,17 @@
+name: Master Regenesist (Haemonculus)
+type: talent
+_id: TySQI5SHLBjRziBe
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: CXtQhaS7x2hEIQAN
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>Each time the Haemonculus uses their Fleshcraft ability, the number of Wounds healed is doubled (2d3, +2 per Icon shifted).</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!TySQI5SHLBjRziBe"

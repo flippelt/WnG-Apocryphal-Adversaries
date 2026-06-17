@@ -1,0 +1,52 @@
+name: Spirit-Sting [Dark Creed]
+type: weapon
+_id: TudnoA3BtlQpYNH6
+img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+folder: ifTVer9A2YRwUVUn
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: "<p>Haemonculus from the Dark Creed only. Replaces the bearer’s Stinger Pistol. Targets of attacks from this weapon may not roll Determination.</p><p>Poisonous: base damage is increased by the target’s Toughness (no effect vs VEHICLES).</p>"
+  value: 0
+  keywords: ""
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 5
+    bonus: 0
+    rank: none
+  ed:
+    base: 4
+    bonus: 0
+    rank: none
+  ap:
+    base: -3
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 6
+    medium: 12
+    long: 18
+    melee: 0
+    thrown: null
+  ammo: ""
+  salvo: 3
+  traits:
+    - name: pistol
+    - name: poisonous
+      custom: true
+      display: Poisonous
+    - name: tearing
+      custom: true
+      display: Tearing
+  upgrades: []
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!TudnoA3BtlQpYNH6"

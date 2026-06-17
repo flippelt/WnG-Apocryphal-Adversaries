@@ -1,0 +1,17 @@
+name: Aura of Terror (Archon)
+type: talent
+_id: dp765WKKSYAEv4c9
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: CXtQhaS7x2hEIQAN
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>Enemies which begin their turn engaged with the Archon must pass a DN3 Fear test. This Fear effect lasts only while the creature is engaged with the Archon.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!dp765WKKSYAEv4c9"

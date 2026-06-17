@@ -1,0 +1,49 @@
+name: The Flensing Blade [Coven of Twelve]
+type: weapon
+_id: 1vYg7QkyUhiLhvYJ
+img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+folder: ifTVer9A2YRwUVUn
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: "<p>Haemonculus from the Coven of Twelve only. Replaces the bearer’s Haemonculus Tools. The weapon adds +1ED for each point of Wrath the target possesses.</p><p>Poisonous: base damage is increased by the target’s Toughness (no effect vs VEHICLES).</p>"
+  value: 0
+  keywords: ""
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 7
+    bonus: 0
+    rank: none
+  ed:
+    base: 6
+    bonus: 0
+    rank: none
+  ap:
+    base: -2
+    bonus: 0
+    rank: none
+  category: melee
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 1
+    thrown: null
+  ammo: ""
+  salvo: 0
+  traits:
+    - name: brutal
+    - name: poisonous
+      custom: true
+      display: Poisonous
+  upgrades: []
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!1vYg7QkyUhiLhvYJ"

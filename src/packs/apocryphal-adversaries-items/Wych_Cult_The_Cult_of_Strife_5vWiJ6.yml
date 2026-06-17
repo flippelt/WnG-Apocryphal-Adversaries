@@ -1,0 +1,17 @@
+name: "Wych Cult: The Cult of Strife"
+type: talent
+_id: 5vWiJ6lyksLDDTN4
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: Y4LhokjKz8DEE1YP
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>Replace [CULT] with CULT OF STRIFE. The character may Seize the Initiative without spending Ruin, a number of times per scene equal to Tier.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!5vWiJ6lyksLDDTN4"

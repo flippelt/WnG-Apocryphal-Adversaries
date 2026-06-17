@@ -1,0 +1,17 @@
+name: Consummate Weaponmaster (Archon)
+type: talent
+_id: ZqtW0RhFWSNjKjYB
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: CXtQhaS7x2hEIQAN
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>When this Archon makes a melee attack, each Exalted Icon shifted to damage adds +2ED rather than +1ED.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!ZqtW0RhFWSNjKjYB"

@@ -1,0 +1,17 @@
+name: "Kabal: The Black Heart"
+type: talent
+_id: zxMfn4WrTEH1V7dZ
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: Y4LhokjKz8DEE1YP
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>Replace [KABAL] with BLACK HEART. Increase the character’s Resolve and Determination by +Tier.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!zxMfn4WrTEH1V7dZ"

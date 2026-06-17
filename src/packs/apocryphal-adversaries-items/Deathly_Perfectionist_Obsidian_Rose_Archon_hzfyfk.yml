@@ -1,0 +1,17 @@
+name: Deathly Perfectionist [Obsidian Rose] (Archon)
+type: talent
+_id: hzfyfk7TEsS8WE6U
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: CXtQhaS7x2hEIQAN
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>The Archon’s weapons are improved, adding +1 to base damage and +1ED.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!hzfyfk7TEsS8WE6U"

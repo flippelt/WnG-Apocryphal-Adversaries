@@ -1,0 +1,17 @@
+name: Precision Blows (Succubus)
+type: talent
+_id: UIx7BlcM9ZyoPj8T
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: CXtQhaS7x2hEIQAN
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>Each time the Succubus scores a Critical Hit on a melee attack, increase the severity of the Critical Hit as if 1d3 Glory had been spent for that purpose (roll 1d3 each time).</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!UIx7BlcM9ZyoPj8T"

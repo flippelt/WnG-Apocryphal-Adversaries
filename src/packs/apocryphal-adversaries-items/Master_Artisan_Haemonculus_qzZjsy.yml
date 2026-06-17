@@ -1,0 +1,17 @@
+name: Master Artisan (Haemonculus)
+type: talent
+_id: qzZjsyscWa0yV1fu
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: CXtQhaS7x2hEIQAN
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>Increase the Haemonculus’ Toughness by +2. This also adds +2 to their Resilience and Wounds, and +2d to their Determination.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!qzZjsyscWa0yV1fu"

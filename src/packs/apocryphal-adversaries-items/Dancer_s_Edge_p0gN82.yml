@@ -1,0 +1,46 @@
+name: Dancer’s Edge
+type: weapon
+_id: p0gN82JmmWFyHyrT
+img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+folder: ifTVer9A2YRwUVUn
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p>Succubus. Replaces an archite glaive. Damage S+8, Range 2. If any Exalted Icons are rolled on the weapon’s ED, targets hit may not roll Determination.</p><p>Damage adds the wielder’s Strength.</p>
+  value: 0
+  keywords: ""
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 8
+    bonus: 0
+    rank: none
+  ed:
+    base: 6
+    bonus: 0
+    rank: none
+  ap:
+    base: -4
+    bonus: 0
+    rank: none
+  category: melee
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 2
+    thrown: null
+  ammo: ""
+  salvo: 0
+  traits:
+    - name: parry
+  upgrades: []
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!p0gN82JmmWFyHyrT"

@@ -1,0 +1,17 @@
+name: Fear Incarnate [Dark Creed] (Haemonculus)
+type: talent
+_id: mBAxhAdS1LbbFDkL
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: CXtQhaS7x2hEIQAN
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: "<p>BATTLECRY: enemies who see the Haemonculus during the first round of combat, or when it first appears, must pass a DN3 Terror test.</p>"
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!mBAxhAdS1LbbFDkL"

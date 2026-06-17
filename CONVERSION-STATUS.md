@@ -22,7 +22,7 @@ abilities, wounds/resilience/defence). Converted faction by faction.
 | Daemonic Legions | Daemonic Legions — **v1** | — | ⬜ to do |
 | Heretic Astartes | Heretic Astartes — **v1** | — | ⬜ to do |
 | Asuryani (Aeldari) | The Asuryani — **v2** | — | ⬜ to do |
-| Drukhari | The Drukhari — **v1** | — | 🔧 in progress (branch `feat/drukhari-threats`, targets v0.5.0) |
+| Drukhari | The Drukhari — **v1** | v0.5.0 | ✅ done — 29 threats + 50 items (Kabal/Cult/Coven adaptations, Adversary Traits, Artefacts of Cruelty) |
 | T'au Empire | The T'au Empire — **v1** | — | ⬜ to do |
 | Malicious Miscellany | Malicious Miscellany — **v1** | — | ⬜ to do |
 

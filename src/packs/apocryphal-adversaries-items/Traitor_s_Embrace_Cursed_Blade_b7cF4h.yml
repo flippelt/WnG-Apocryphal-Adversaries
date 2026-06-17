@@ -1,0 +1,18 @@
+name: Traitor’s Embrace [Cursed Blade]
+type: gear
+_id: b7cF4hHFNLTOTJbe
+img: modules/wng-core/assets/icons/gear/gear.webp
+folder: ifTVer9A2YRwUVUn
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p>Succubus from the Cult of the Cursed Blade only. If the bearer is slain by a melee attack, the attacker suffers 1d3+3 Mortal Wounds.</p>
+  value: 0
+  keywords: ""
+  effect: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!b7cF4hHFNLTOTJbe"

@@ -1,0 +1,17 @@
+name: Quicksilver Fighter (Succubus)
+type: talent
+_id: Kiu0GOZRyDx3FhcC
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: CXtQhaS7x2hEIQAN
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>The Succubus adds +4 dice to any melee attacks she makes.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!Kiu0GOZRyDx3FhcC"
