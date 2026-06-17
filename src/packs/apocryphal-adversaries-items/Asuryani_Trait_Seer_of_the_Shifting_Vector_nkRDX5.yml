@@ -1,0 +1,17 @@
+name: Seer of the Shifting Vector
+type: talent
+_id: nkRDX5NWgn0zGtO5
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: UsLXf8voXTkdS4XN
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>The Adversary may shift an Exalted Icon from a successful Skill Test to generate a point of Ruin.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!nkRDX5NWgn0zGtO5"

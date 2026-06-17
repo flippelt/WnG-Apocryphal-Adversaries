@@ -1,0 +1,17 @@
+name: "Craftworld: Iyanden"
+type: talent
+_id: zX5cq185pPpGYFfy
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: laUSabaldfrpZM3j
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>Replace [CRAFTWORLD] with IYANDEN. This Threat adds +1 to its Resolve. In addition, if an attack made against the Threat has an AP of -1 or -2, count the AP as one lower (-1 instead of -2, or 0 instead of -1).</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!zX5cq185pPpGYFfy"

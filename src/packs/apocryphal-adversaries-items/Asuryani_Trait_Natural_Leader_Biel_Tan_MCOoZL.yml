@@ -1,0 +1,17 @@
+name: Natural Leader [Biel-Tan]
+type: talent
+_id: MCOoZLPzURq6kc27
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: UsLXf8voXTkdS4XN
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>At the start of the Adversary’s turn, select a single BIEL-TAN mob or Threat within 6m. The selected mob or Threat may re-roll all failures on their attacks until the start of the Adversary’s next turn.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!MCOoZLPzURq6kc27"

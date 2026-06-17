@@ -1,0 +1,18 @@
+name: Faolche’s Wing
+type: gear
+_id: WfBOqdMX0oKguJJX
+img: modules/wng-core/assets/icons/gear/gear.webp
+folder: EXOpq6Dc5BATbNXp
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p>The bearer of this item can Fly with a Flight Speed of 12.</p>
+  value: 0
+  keywords: ""
+  effect: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!WfBOqdMX0oKguJJX"

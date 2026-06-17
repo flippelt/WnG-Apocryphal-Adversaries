@@ -1,0 +1,17 @@
+name: "Craftworld: Biel-Tan"
+type: talent
+_id: ozoh4BFkXim6d5Ox
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: laUSabaldfrpZM3j
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>Replace [CRAFTWORLD] with BIEL-TAN. When this Threat makes a Run or Sprint move, it adds +1 Speed. When this Threat makes an attack, it may re-roll a number of dice equal to the game’s Tier.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!ozoh4BFkXim6d5Ox"

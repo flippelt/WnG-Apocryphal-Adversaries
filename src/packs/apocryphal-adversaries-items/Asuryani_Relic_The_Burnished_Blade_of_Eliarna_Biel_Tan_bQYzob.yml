@@ -1,0 +1,46 @@
+name: The Burnished Blade of Eliarna [Biel-Tan]
+type: weapon
+_id: bQYzobky6LG4BSNP
+img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+folder: EXOpq6Dc5BATbNXp
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p>Replaces a power sword carried by a BIEL-TAN Threat. Damage S+5. The weapon’s Damage and ED are both increased by +2 whenever an attack is made against an ORK. Damage adds the wielder’s Strength.</p>
+  value: 0
+  keywords: ""
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 5
+    bonus: 0
+    rank: none
+  ed:
+    base: 5
+    bonus: 0
+    rank: none
+  ap:
+    base: -3
+    bonus: 0
+    rank: none
+  category: melee
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 1
+    thrown: null
+  ammo: ""
+  salvo: 0
+  traits:
+    - name: parry
+  upgrades: []
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!bQYzobky6LG4BSNP"

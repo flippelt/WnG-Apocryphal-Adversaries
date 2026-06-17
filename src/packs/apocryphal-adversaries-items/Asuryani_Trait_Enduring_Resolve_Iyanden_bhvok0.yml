@@ -1,0 +1,17 @@
+name: Enduring Resolve [Iyanden]
+type: talent
+_id: bhvok0fbj7bcj0Or
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: UsLXf8voXTkdS4XN
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>The Adversary’s Willpower is increased by +2 (also increasing Maximum Shock, Conviction, Resolve, and any Intimidation/Leadership/Psychic Mastery/Survival ratings). In addition, the Adversary’s Determination is now based on their Willpower rather than their Toughness.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!bhvok0fbj7bcj0Or"

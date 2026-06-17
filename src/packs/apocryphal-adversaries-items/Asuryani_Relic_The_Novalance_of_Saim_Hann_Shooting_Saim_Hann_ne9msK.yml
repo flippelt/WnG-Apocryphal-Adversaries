@@ -1,0 +1,46 @@
+name: The Novalance of Saim-Hann (Shooting) [Saim-Hann]
+type: weapon
+_id: ne9msKBsDoj9sB1J
+img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+folder: EXOpq6Dc5BATbNXp
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p>Saim-Hann. To bear the Novalance, a warrior must win the clan challenge Tionchar.</p>
+  value: 0
+  keywords: ""
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 14
+    bonus: 0
+    rank: none
+  ed:
+    base: 2
+    bonus: 0
+    rank: none
+  ap:
+    base: -4
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 3
+    medium: 6
+    long: 9
+    melee: 0
+    thrown: null
+  ammo: ""
+  salvo: 0
+  traits:
+    - name: assault
+  upgrades: []
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!ne9msKBsDoj9sB1J"

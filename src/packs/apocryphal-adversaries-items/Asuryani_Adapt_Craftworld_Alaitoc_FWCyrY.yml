@@ -1,0 +1,17 @@
+name: "Craftworld: Alaitoc"
+type: talent
+_id: FWCyrY7bWEM7UbOy
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: laUSabaldfrpZM3j
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>Replace [CRAFTWORLD] with ALAITOC. This Threat counts as in Full Cover (+2 Defence) against any ranged attack made from 12 metres or more away.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!FWCyrY7bWEM7UbOy"

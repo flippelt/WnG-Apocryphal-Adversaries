@@ -1,0 +1,17 @@
+name: "Craftworld: Saim-Hann"
+type: talent
+_id: aa1cLKDxiJHIOSHC
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: laUSabaldfrpZM3j
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>Replace [CRAFTWORLD] with SAIM-HANN. This Threat adds +1 to its Speed when it Charges. In addition, the speed of all AELDARI vehicles with the Hover trait is increased by +Tier.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!aa1cLKDxiJHIOSHC"

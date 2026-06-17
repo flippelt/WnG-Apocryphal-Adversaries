@@ -1,0 +1,18 @@
+name: Psytronome of Iyanden [Iyanden]
+type: gear
+_id: qBZYzBoR6JE8g1dX
+img: modules/wng-core/assets/icons/gear/gear.webp
+folder: EXOpq6Dc5BATbNXp
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p>IYANDEN PSYKER only. As a Simple Action, select an allied IYANDEN Wraithlord, or up to 5 Wraithguard or Wraithblades, within 12m. Until the end of their next turn they add +Tier to their melee attacks; affected Wraithguard also gain the Battle Focus ability.</p>
+  value: 0
+  keywords: ""
+  effect: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!qBZYzBoR6JE8g1dX"

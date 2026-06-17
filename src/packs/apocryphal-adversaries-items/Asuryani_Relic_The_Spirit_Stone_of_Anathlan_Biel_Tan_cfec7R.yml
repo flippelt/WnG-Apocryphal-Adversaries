@@ -1,0 +1,18 @@
+name: The Spirit Stone of Anath’lan [Biel-Tan]
+type: gear
+_id: cfec7Rm3iKs2bzqh
+img: modules/wng-core/assets/icons/gear/gear.webp
+folder: EXOpq6Dc5BATbNXp
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p>BIEL-TAN PSYKER only. The bearer knows one additional psychic power from any discipline they already know. In addition, the PSYKER may re-roll any failures on a Psychic Mastery test.</p>
+  value: 0
+  keywords: ""
+  effect: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!cfec7Rm3iKs2bzqh"

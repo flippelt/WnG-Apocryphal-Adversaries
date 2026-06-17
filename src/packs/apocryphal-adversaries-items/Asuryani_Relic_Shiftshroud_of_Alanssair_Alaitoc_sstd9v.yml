@@ -1,0 +1,18 @@
+name: Shiftshroud of Alanssair [Alaitoc]
+type: gear
+_id: sstd9vIS2xYllc8Z
+img: modules/wng-core/assets/icons/gear/gear.webp
+folder: EXOpq6Dc5BATbNXp
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p>ALAITOC Adversary only. While the Adversary is benefitting from cover, ranged attacks against them automatically miss unless they are the closest target to the shooter and within 12m. In addition, the bearer may move up to twice their Speed when Moving Stealthily.</p>
+  value: 0
+  keywords: ""
+  effect: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!sstd9vIS2xYllc8Z"

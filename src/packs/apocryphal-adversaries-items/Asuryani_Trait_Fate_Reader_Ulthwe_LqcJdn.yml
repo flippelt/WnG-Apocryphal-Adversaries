@@ -1,0 +1,17 @@
+name: Fate Reader [Ulthwe]
+type: talent
+_id: LqcJdnNft2s38Kv4
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: UsLXf8voXTkdS4XN
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>Roll 1d6 at the start of the Adversary’s turn; on a 6, gain 1 Ruin.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!LqcJdnNft2s38Kv4"
