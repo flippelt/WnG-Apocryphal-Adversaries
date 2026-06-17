@@ -59,8 +59,17 @@ Converted faction by faction from the source PDFs. See
   Darkstrider, Longstrike — and the seven grav-tanks/aircraft as vehicles) plus
   50 items (Sept adaptations, Battlesuit Support Systems, Adversary Traits and
   Prototype & Signature Systems).
-- ⏳ **To do:** Daemonic Legions · Heretic Astartes · Asuryani · Malicious
-  Miscellany.
+- ✅ **Asuryani (Craftworld Aeldari) — complete (v0.7.0):** 45 actors (Guardians,
+  Warlocks and Rangers; the full Aspect Warrior shrines — Dire Avengers, Fire
+  Dragons, Striking Scorpions, Howling Banshees, Swooping Hawks, Warp Spiders,
+  Dark Reapers, Shining Spears and the Crimson Hunter — with their Exarchs; the
+  Autarch, Farseer and Spiritseer; the Wraith constructs — Wraithguard,
+  Wraithblades, Wraithlord; the Avatar of Kaela Mensha Khaine; eleven named
+  heroes — Eldrad Ulthran, the six Phoenix Lords, Illic Nightspear, Iyanna
+  Arienal, Nuadhu Fireheart and Prince Yriel — and the Engines of Vaul aircraft
+  as vehicles) plus 33 items (Craftworld adaptations, Adversary Traits and
+  Remnants of Glory).
+- ⏳ **To do:** Daemonic Legions · Heretic Astartes · Malicious Miscellany.
 
 **v1.0.0 will be tagged once all nine faction PDFs are converted.**
 
