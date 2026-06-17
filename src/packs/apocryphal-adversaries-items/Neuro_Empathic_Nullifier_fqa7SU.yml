@@ -1,0 +1,18 @@
+name: Neuro-Empathic Nullifier
+type: gear
+_id: fqa7SUGflvyuaqPa
+img: modules/wng-core/assets/icons/gear/gear.webp
+folder: jOyozM4BVnnWLqqn
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p>Signature System. ETHEREAL CASTE Adversaries only. Once per scene, when this Adversary makes a Persuasion interaction attack, it may target multiple enemies (+2 DN per enemy after the first); affected targets are Pinned and suffer 1d3 Shock, +1 per Exalted Icon shifted.</p>
+  value: 0
+  keywords: ""
+  effect: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!fqa7SUGflvyuaqPa"

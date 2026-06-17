@@ -1,0 +1,17 @@
+name: Master of the Killing Blow (Farsight Enclaves)
+type: talent
+_id: hNofHZFHA14d7KxM
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: HxfzEdK1rHF6QWhj
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>Each time this Adversary makes an attack, the weapon’s AP is improved by 3 (e.g. −2 to −5) if one or more Exalted Icons are rolled, and the target cannot roll Determination against the damage inflicted.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!hNofHZFHA14d7KxM"

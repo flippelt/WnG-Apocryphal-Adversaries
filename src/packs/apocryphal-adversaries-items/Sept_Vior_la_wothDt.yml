@@ -1,0 +1,17 @@
+name: "Sept: Vior’la"
+type: talent
+_id: wothDtfsGankDmNL
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: 1FjOPUWMazy8NNAR
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: "<p>Replace [SEPT] with VIOR’LA. Air caste: ignore the extra Wrath dice for piloting a vehicle at Breakneck speed. Earth caste: add a second Wrath die to Tech tests. Fire caste: +1 Speed during the first round of combat, and +1 Speed when they Run or Sprint. Water caste: add a second Wrath die to Persuasion tests.</p>"
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!wothDtfsGankDmNL"

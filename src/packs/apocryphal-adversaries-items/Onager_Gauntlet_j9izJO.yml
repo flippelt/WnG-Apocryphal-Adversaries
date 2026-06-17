@@ -1,0 +1,46 @@
+name: Onager Gauntlet
+type: weapon
+_id: j9izJORR78WzFRBH
+img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+folder: jOyozM4BVnnWLqqn
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p>Signature System. BATTLESUIT only. An anti-tank power fist (per the section note, melee damage adds the wielder’s Strength).</p>
+  value: 0
+  keywords: ""
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 20
+    bonus: 0
+    rank: none
+  ed:
+    base: 6
+    bonus: 0
+    rank: none
+  ap:
+    base: -4
+    bonus: 0
+    rank: none
+  category: melee
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 1
+    thrown: null
+  ammo: ""
+  salvo: 0
+  traits:
+    - name: brutal
+  upgrades: []
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!j9izJORR78WzFRBH"

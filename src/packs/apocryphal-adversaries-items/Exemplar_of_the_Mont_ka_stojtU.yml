@@ -1,0 +1,17 @@
+name: Exemplar of the Mont’ka
+type: talent
+_id: stojtULgeSnvAXtx
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: HxfzEdK1rHF6QWhj
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>As a Simple Action, select a [SEPT] FIRE CASTE mob, or a number of [SEPT] FIRE CASTE Threats equal to the Adversary’s Intellect. Until the Adversary’s next turn, when they make a ranged attack at an enemy within short range, they may re-roll any ED which roll a failure.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!stojtULgeSnvAXtx"

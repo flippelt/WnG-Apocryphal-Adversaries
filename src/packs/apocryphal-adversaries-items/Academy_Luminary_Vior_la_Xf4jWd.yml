@@ -1,0 +1,17 @@
+name: Academy Luminary (Vior’la)
+type: talent
+_id: Xf4jWdgACQJvnsrc
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: HxfzEdK1rHF6QWhj
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>While this Adversary is present, each time you spend a point of Ruin on an ability in a Threat’s stat block, roll 1d6. On an Icon, that point of Ruin is refunded.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!Xf4jWdgACQJvnsrc"

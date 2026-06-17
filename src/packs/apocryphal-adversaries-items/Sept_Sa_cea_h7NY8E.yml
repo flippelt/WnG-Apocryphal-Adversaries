@@ -1,0 +1,17 @@
+name: "Sept: Sa’cea"
+type: talent
+_id: h7NY8EdOLHeCgXEn
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: 1FjOPUWMazy8NNAR
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: "<p>Replace [SEPT] with SA’CEA. All T’au: +1 Resolve. Air caste: re-roll any 1s (even on the Wrath die) for Pilot tests. Earth caste: +2d Awareness. Fire caste: may re-roll one die on any Ballistic Skill test.</p>"
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!h7NY8EdOLHeCgXEn"

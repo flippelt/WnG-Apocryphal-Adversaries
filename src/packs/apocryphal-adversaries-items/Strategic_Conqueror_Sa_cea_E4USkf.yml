@@ -1,0 +1,17 @@
+name: Strategic Conqueror (Sa’cea)
+type: talent
+_id: E4USkfS7kxzLsEIb
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: HxfzEdK1rHF6QWhj
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>As a Simple Action, select a SA’CEA FIRE CASTE mob, or a number of SA’CEA FIRE CASTE Threats equal to the Adversary’s Intellect. Until the Adversary’s next turn, they add the game’s Tier to their Defence and Resolve.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!E4USkfS7kxzLsEIb"

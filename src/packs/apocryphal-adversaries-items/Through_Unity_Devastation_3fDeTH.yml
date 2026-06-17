@@ -1,0 +1,17 @@
+name: Through Unity, Devastation
+type: talent
+_id: 3fDeTHwzFAO90vLN
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: HxfzEdK1rHF6QWhj
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>While an allied [SEPT] FIRE CASTE threat is within 6m, if any of the ED roll an Exalted Icon, the AP of that attack improves by 1 (e.g. −1 to −2).</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!3fDeTHwzFAO90vLN"

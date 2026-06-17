@@ -1,0 +1,17 @@
+name: "Sept: The Farsight Enclaves"
+type: talent
+_id: zNQkcR1wLBsSkUQm
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: 1FjOPUWMazy8NNAR
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: "<p>Replace [SEPT] with FARSIGHT ENCLAVES. All T’au: rebels free of the Ethereals — +2 Conviction. Fire caste: +2 to all attacks made against enemies within 9m.</p>"
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!zNQkcR1wLBsSkUQm"

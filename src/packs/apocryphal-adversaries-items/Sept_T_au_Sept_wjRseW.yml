@@ -1,0 +1,17 @@
+name: "Sept: T’au Sept"
+type: talent
+_id: wjRseWiZ5aygivMQ
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: 1FjOPUWMazy8NNAR
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: "<p>Replace [SEPT] with T’AU SEPT. All T’au: +1 additional die when assisting an ally; and whenever they use an ability that affects a number of allied T’au, it affects up to 2 more and its range is increased by +3m.</p>"
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!wjRseWiZ5aygivMQ"

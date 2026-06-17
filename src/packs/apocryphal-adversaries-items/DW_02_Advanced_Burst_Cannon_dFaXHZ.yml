@@ -1,0 +1,50 @@
+name: DW-02 Advanced Burst Cannon
+type: weapon
+_id: dFaXHZChIwYzGmMp
+img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+folder: jOyozM4BVnnWLqqn
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p>Prototype. Crisis Shas’vre or COMMANDER only; replaces a single burst cannon. Enemies who suffer damage from this weapon may not roll Determination.</p>
+  value: 0
+  keywords: ""
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 13
+    bonus: 0
+    rank: none
+  ed:
+    base: 1
+    bonus: 0
+    rank: none
+  ap:
+    base: -1
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 9
+    medium: 18
+    long: 27
+    melee: 0
+    thrown: null
+  ammo: ""
+  salvo: 8
+  traits:
+    - name: assault
+    - name: rapidFire
+      rating: 4
+    - name: heavy
+      rating: 4
+  upgrades: []
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!dFaXHZChIwYzGmMp"

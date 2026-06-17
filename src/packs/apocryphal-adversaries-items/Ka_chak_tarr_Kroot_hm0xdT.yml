@@ -1,0 +1,52 @@
+name: Ka’chak’tarr (Kroot)
+type: weapon
+_id: hm0xdT5RLo0FqjaV
+img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+folder: jOyozM4BVnnWLqqn
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p>Signature System. Replaces a Shaper Kroot Rifle.</p>
+  value: 0
+  keywords: ""
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 12
+    bonus: 0
+    rank: none
+  ed:
+    base: 2
+    bonus: 0
+    rank: none
+  ap:
+    base: -2
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 12
+    medium: 24
+    long: 36
+    melee: 0
+    thrown: null
+  ammo: ""
+  salvo: 2
+  traits:
+    - name: mortal
+      custom: true
+      display: Mortal (1)
+    - name: rapidFire
+      rating: 2
+    - name: sniper
+      rating: 2
+  upgrades: []
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!hm0xdT5RLo0FqjaV"

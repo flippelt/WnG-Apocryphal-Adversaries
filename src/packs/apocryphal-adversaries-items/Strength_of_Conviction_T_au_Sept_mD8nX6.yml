@@ -1,0 +1,17 @@
+name: Strength of Conviction (T’au Sept)
+type: talent
+_id: mD8nX6ETYOAv2oPA
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: HxfzEdK1rHF6QWhj
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>When this Adversary rolls Determination, it may re-roll a number of dice equal to the game’s Tier.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!mD8nX6ETYOAv2oPA"

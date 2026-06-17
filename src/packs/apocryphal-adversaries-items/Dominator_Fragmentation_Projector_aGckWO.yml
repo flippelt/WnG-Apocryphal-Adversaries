@@ -1,0 +1,55 @@
+name: Dominator Fragmentation Projector
+type: weapon
+_id: aGckWO31vEfivCQZ
+img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+folder: jOyozM4BVnnWLqqn
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p>Prototype. Crisis Shas’vre or COMMANDER only; replaces a single airbursting fragmentation projector.</p>
+  value: 0
+  keywords: ""
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 12
+    bonus: 0
+    rank: none
+  ed:
+    base: 4
+    bonus: 0
+    rank: none
+  ap:
+    base: -2
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 9
+    medium: 18
+    long: 27
+    melee: 0
+    thrown: null
+  ammo: ""
+  salvo: 0
+  traits:
+    - name: blast
+      rating: "6"
+    - name: indirect
+      custom: true
+      display: Indirect
+    - name: inflict
+      custom: true
+      display: Inflict (Terror)
+    - name: heavy
+      rating: 6
+  upgrades: []
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!aGckWO31vEfivCQZ"

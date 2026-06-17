@@ -1,0 +1,17 @@
+name: Master of the Hunt (Kroot)
+type: talent
+_id: yumXrwwsCe0bptAd
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: HxfzEdK1rHF6QWhj
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>When an allied KROOT within 6m makes a ranged attack against an enemy within 12m, the enemy does not benefit from Cover.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!yumXrwwsCe0bptAd"

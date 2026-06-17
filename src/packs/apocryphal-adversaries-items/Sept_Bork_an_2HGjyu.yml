@@ -1,0 +1,17 @@
+name: "Sept: Bork’an"
+type: talent
+_id: 2HGjyu2euCSuzOTE
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: 1FjOPUWMazy8NNAR
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: "<p>Replace [SEPT] with BORK’AN. Air caste: +1 to the Speed, Wounds and Resilience of their vehicle. Earth caste: +2 Medicae/Scholar/Tech. Fire caste: ranged weapon ranges +2 short / +4 medium / +6 long. Water caste: may re-roll a 1 on the Wrath die for Cunning/Deception/Insight/Persuasion tests.</p>"
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!2HGjyu2euCSuzOTE"

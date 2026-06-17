@@ -1,0 +1,17 @@
+name: "Sept: Dal’yth"
+type: talent
+_id: dP0caPhTIM26AfSI
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: 1FjOPUWMazy8NNAR
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: "<p>Replace [SEPT] with DAL’YTH. Air caste: +2 vehicle Defence when taking Evasive Action. Earth caste: double the range of Tech interaction attacks. Fire caste: if it does not move, +2 Defence (as if in cover) until the start of its next turn. Water caste: +2 Cunning/Deception/Insight/Persuasion.</p>"
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!dP0caPhTIM26AfSI"

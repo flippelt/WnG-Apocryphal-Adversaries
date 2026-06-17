@@ -1,0 +1,17 @@
+name: Precision of the Hunter
+type: talent
+_id: VtZuMuCKNkAhY5FT
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: HxfzEdK1rHF6QWhj
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>Each time this Adversary makes an attack, it may re-roll a number of dice equal to the game’s Tier on the attack and on the damage roll.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!VtZuMuCKNkAhY5FT"
