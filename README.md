@@ -52,8 +52,15 @@ Converted faction by faction from the source PDFs. See
   Grotesques, Cronos and Talos Pain Engines, Haemonculus), plus Incubi/Klaivex,
   Mandrakes and Scourges — with 50 *Lords of the Dark City* items (Kabal/Cult/Coven
   adaptations, Adversary Traits and Artefacts of Cruelty).
-- ⏳ **To do:** Daemonic Legions · Heretic Astartes · Asuryani · T'au Empire ·
-  Malicious Miscellany.
+- ✅ **T'au Empire — complete (v0.6.0):** 59 actors (Fire Caste infantry, the
+  full drone range, Stealth/Crisis/Broadside suits and Commanders, the
+  Ethereal/Earth/Air/Water castes, Kroot and Vespid auxiliaries, the Ghostkeel
+  and Riptide, the named heroes — Aun'Shi, Aun'Va, Farsight, Shadowsun,
+  Darkstrider, Longstrike — and the seven grav-tanks/aircraft as vehicles) plus
+  50 items (Sept adaptations, Battlesuit Support Systems, Adversary Traits and
+  Prototype & Signature Systems).
+- ⏳ **To do:** Daemonic Legions · Heretic Astartes · Asuryani · Malicious
+  Miscellany.
 
 **v1.0.0 will be tagged once all nine faction PDFs are converted.**
 
