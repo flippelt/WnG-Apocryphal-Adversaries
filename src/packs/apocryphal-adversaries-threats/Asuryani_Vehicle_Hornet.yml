@@ -1,0 +1,252 @@
+folder: 14fv25wdogGvatSN
+name: Hornet
+type: vehicle
+_id: poAvcupUOtFVxcKa
+img: icons/svg/target.svg
+system:
+  complement:
+    pilot: 1
+    crew: 0
+    passenger: 0
+    list: []
+  mnvr: 7
+  rarity: rare
+  value: 0
+  traits:
+    list:
+      - name: gyrostabilised
+        rating: ""
+        type: ""
+        custom: "true"
+        display: Gyro-Stabilised
+        description: ""
+      - name: hover
+        rating: ""
+        type: ""
+        custom: "true"
+        display: Hover
+        description: ""
+      - name: sealed
+        rating: ""
+        type: ""
+        custom: "true"
+        display: Sealed
+        description: ""
+      - name: turboboost6
+        rating: ""
+        type: ""
+        custom: "true"
+        display: Turbo-Boost (6)
+        description: ""
+  combat:
+    defence:
+      bonus: 0
+    resilience:
+      bonus: 0
+      total: 13
+    wounds:
+      value: 0
+      bonus: 0
+      max: 12
+    size: large
+    speed: 80
+    fly: 0
+  notes: <p>Hornet — an Eldar single-seat attack craft for reconnaissance and hit-and-run strikes. Its two Pulse Lasers may be replaced by Shuriken Cannons, Starcannons, Aeldari Missile Launchers, Bright Lances, or Scatter Lasers.</p>
+  settings:
+    hidePassengers: false
+prototypeToken:
+  name: Hornet
+  displayName: 20
+  actorLink: false
+  appendNumber: false
+  prependAdjective: false
+  texture:
+    src: icons/svg/target.svg
+    scaleX: 2
+    scaleY: 2
+    offsetX: 0
+    offsetY: 0
+    rotation: 0
+  width: 2
+  height: 2
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  disposition: -1
+  displayBars: 20
+  bar1:
+    attribute: combat.wounds
+  bar2:
+    attribute: ""
+  sight:
+    enabled: false
+    range: 0
+    angle: 360
+    visionMode: basic
+  detectionModes: []
+  flags: {}
+  randomImg: false
+items:
+  - name: AELDARI
+    type: keyword
+    _id: V753mfCByU10ziR9
+    img: icons/svg/target.svg
+    system:
+      description: <p>A vehicle of the ancient Aeldari race.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!poAvcupUOtFVxcKa.V753mfCByU10ziR9"
+  - name: ASURYANI
+    type: keyword
+    _id: BNRO8czXdUs6LkP7
+    img: icons/svg/target.svg
+    system:
+      description: <p>A Craftworld Aeldari vehicle.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!poAvcupUOtFVxcKa.BNRO8czXdUs6LkP7"
+  - name: FLYER
+    type: keyword
+    _id: 3eQa5Xt48FIiGqTl
+    img: icons/svg/target.svg
+    system:
+      description: <p>An aircraft / flying vehicle.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!poAvcupUOtFVxcKa.3eQa5Xt48FIiGqTl"
+  - name: Hornet Pulse Laser
+    type: weapon
+    _id: xJS9tBmbnL7hw0dA
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: <p>The Hornet carries two Hornet Pulse Lasers.</p>
+      value: 0
+      keywords: ""
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 15
+        bonus: 0
+        rank: none
+      ed:
+        base: 2
+        bonus: 0
+        rank: none
+      ap:
+        base: -2
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 18
+        medium: 36
+        long: 54
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: 2
+      traits:
+        - name: mounted
+          custom: true
+          display: Mounted (Large)
+        - name: rapidFire
+          rating: 1
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!poAvcupUOtFVxcKa.xJS9tBmbnL7hw0dA"
+  - name: Hornet Pulse Laser (2nd)
+    type: weapon
+    _id: cMKajyHvMLv4eGjY
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: ""
+      value: 0
+      keywords: ""
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 15
+        bonus: 0
+        rank: none
+      ed:
+        base: 2
+        bonus: 0
+        rank: none
+      ap:
+        base: -2
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 18
+        medium: 36
+        long: 54
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: 2
+      traits:
+        - name: mounted
+          custom: true
+          display: Mounted (Large)
+        - name: rapidFire
+          rating: 1
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!poAvcupUOtFVxcKa.cMKajyHvMLv4eGjY"
+  - name: Holo-Field
+    type: gear
+    _id: 744CWNkOfamQ1fFz
+    img: modules/wng-core/assets/icons/gear/gear.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: <p>A shifting holographic image makes the vehicle harder to hit.</p>
+      value: 0
+      keywords: ""
+      effect: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!poAvcupUOtFVxcKa.744CWNkOfamQ1fFz"
+effects: []
+sort: 0
+ownership:
+  default: 0
+flags: {}
+_key: "!actors!poAvcupUOtFVxcKa"

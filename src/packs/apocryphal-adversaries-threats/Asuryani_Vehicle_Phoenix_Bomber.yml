@@ -1,0 +1,417 @@
+folder: 14fv25wdogGvatSN
+name: Phoenix Bomber
+type: vehicle
+_id: rhsj3Iv8g0p8asag
+img: icons/svg/target.svg
+system:
+  complement:
+    pilot: 1
+    crew: 1
+    passenger: 0
+    list: []
+  mnvr: 8
+  rarity: veryRare
+  value: 0
+  traits:
+    list:
+      - name: flyer
+        rating: ""
+        type: ""
+        custom: "true"
+        display: Flyer
+        description: ""
+      - name: gyrostabilised
+        rating: ""
+        type: ""
+        custom: "true"
+        display: Gyro-Stabilised
+        description: ""
+      - name: hover
+        rating: ""
+        type: ""
+        custom: "true"
+        display: Hover
+        description: ""
+      - name: sealed
+        rating: ""
+        type: ""
+        custom: "true"
+        display: Sealed
+        description: ""
+      - name: turboboost20
+        rating: ""
+        type: ""
+        custom: "true"
+        display: Turbo-Boost (20)
+        description: ""
+  combat:
+    defence:
+      bonus: 0
+    resilience:
+      bonus: 0
+      total: 14
+    wounds:
+      value: 0
+      bonus: 0
+      max: 14
+    size: huge
+    speed: 120
+    fly: 0
+  notes: <p>Phoenix Bomber — an Eldar ground-attack fighter; sacrifices some speed for a heavy weapons payload, working in tandem with Nightwings.</p>
+  settings:
+    hidePassengers: false
+prototypeToken:
+  name: Phoenix Bomber
+  displayName: 20
+  actorLink: false
+  appendNumber: false
+  prependAdjective: false
+  texture:
+    src: icons/svg/target.svg
+    scaleX: 3
+    scaleY: 3
+    offsetX: 0
+    offsetY: 0
+    rotation: 0
+  width: 3
+  height: 3
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  disposition: -1
+  displayBars: 20
+  bar1:
+    attribute: combat.wounds
+  bar2:
+    attribute: ""
+  sight:
+    enabled: false
+    range: 0
+    angle: 360
+    visionMode: basic
+  detectionModes: []
+  flags: {}
+  randomImg: false
+items:
+  - name: AELDARI
+    type: keyword
+    _id: a53QkZF9DWHvDcfh
+    img: icons/svg/target.svg
+    system:
+      description: <p>A vehicle of the ancient Aeldari race.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!rhsj3Iv8g0p8asag.a53QkZF9DWHvDcfh"
+  - name: ASURYANI
+    type: keyword
+    _id: hFfvpnkkPmTPmbis
+    img: icons/svg/target.svg
+    system:
+      description: <p>A Craftworld Aeldari vehicle.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!rhsj3Iv8g0p8asag.hFfvpnkkPmTPmbis"
+  - name: FLYER
+    type: keyword
+    _id: pad0epDelGlFwksm
+    img: icons/svg/target.svg
+    system:
+      description: <p>An aircraft / flying vehicle.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!rhsj3Iv8g0p8asag.pad0epDelGlFwksm"
+  - name: Shuriken Cannon
+    type: weapon
+    _id: P7QVFkH0yxNb9oD9
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: <p>Two mounted.</p>
+      value: 0
+      keywords: ""
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 14
+        bonus: 0
+        rank: none
+      ed:
+        base: 2
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 12
+        medium: 24
+        long: 36
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: 4
+      traits:
+        - name: assault
+        - name: heavy
+          rating: 6
+        - name: rending
+          rating: 3
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!rhsj3Iv8g0p8asag.P7QVFkH0yxNb9oD9"
+  - name: Shuriken Cannon (2nd)
+    type: weapon
+    _id: RRjrZsHZpYXAhV16
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: ""
+      value: 0
+      keywords: ""
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 14
+        bonus: 0
+        rank: none
+      ed:
+        base: 2
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 12
+        medium: 24
+        long: 36
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: 4
+      traits:
+        - name: assault
+        - name: heavy
+          rating: 6
+        - name: rending
+          rating: 3
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!rhsj3Iv8g0p8asag.RRjrZsHZpYXAhV16"
+  - name: Phoenix Pulse Laser
+    type: weapon
+    _id: vyi014wtniw1Kfra
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: <p>May be replaced by 2 Bright Lances or 2 Starcannons.</p>
+      value: 0
+      keywords: ""
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 18
+        bonus: 0
+        rank: none
+      ed:
+        base: 3
+        bonus: 0
+        rank: none
+      ap:
+        base: -3
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 24
+        medium: 48
+        long: 72
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: 3
+      traits:
+        - name: mounted
+          custom: true
+          display: Mounted (Huge)
+        - name: rapidFire
+          rating: 2
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!rhsj3Iv8g0p8asag.vyi014wtniw1Kfra"
+  - name: Phoenix Missile Array
+    type: weapon
+    _id: FlYAy8K2XCw14p06
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: <p>May be replaced by a Nightfire Missile Array.</p>
+      value: 0
+      keywords: ""
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 13
+        bonus: 0
+        rank: none
+      ed:
+        base: 6
+        bonus: 0
+        rank: none
+      ap:
+        base: -3
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 24
+        medium: 48
+        long: 72
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: 6
+      traits:
+        - name: barrage
+          custom: true
+          display: Barrage
+        - name: blast
+          rating: "6"
+        - name: mounted
+          custom: true
+          display: Mounted (Huge)
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!rhsj3Iv8g0p8asag.FlYAy8K2XCw14p06"
+  - name: Nightfire Missile Array
+    type: weapon
+    _id: GZY94coP0PB64WQq
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: "<p>Option: replaces the Phoenix Missile Array.</p>"
+      value: 0
+      keywords: ""
+      equipped: false
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 10
+        bonus: 0
+        rank: none
+      ed:
+        base: 4
+        bonus: 0
+        rank: none
+      ap:
+        base: -1
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 24
+        medium: 48
+        long: 72
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: 6
+      traits:
+        - name: barrage
+          custom: true
+          display: Barrage
+        - name: blast
+          rating: "10"
+        - name: inflict
+          custom: true
+          display: Inflict (Pinned)
+        - name: mounted
+          custom: true
+          display: Mounted (Huge)
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!rhsj3Iv8g0p8asag.GZY94coP0PB64WQq"
+  - name: Holo-Field
+    type: gear
+    _id: cUQCPepTB5mCMcz4
+    img: modules/wng-core/assets/icons/gear/gear.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: <p>A shifting holographic image makes the vehicle harder to hit.</p>
+      value: 0
+      keywords: ""
+      effect: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!rhsj3Iv8g0p8asag.cUQCPepTB5mCMcz4"
+effects: []
+sort: 0
+ownership:
+  default: 0
+flags: {}
+_key: "!actors!rhsj3Iv8g0p8asag"
