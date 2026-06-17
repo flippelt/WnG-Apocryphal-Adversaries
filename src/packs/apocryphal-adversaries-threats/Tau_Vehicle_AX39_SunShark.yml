@@ -1,0 +1,424 @@
+folder: PgitB1aQv2ykyXEg
+name: AX-39 Sun Shark Bomber
+type: vehicle
+_id: rSLELjlkqqrBRJU7
+img: icons/svg/target.svg
+system:
+  complement:
+    pilot: 1
+    crew: 0
+    passenger: 0
+    list: []
+  mnvr: 6
+  rarity: rare
+  value: 0
+  traits:
+    list:
+      - name: flyer
+        rating: ""
+        type: ""
+        custom: "true"
+        display: Flyer
+        description: ""
+      - name: gyrostabilised
+        rating: ""
+        type: ""
+        custom: "true"
+        display: Gyro-Stabilised
+        description: ""
+      - name: sealed
+        rating: ""
+        type: ""
+        custom: "true"
+        display: Sealed
+        description: ""
+      - name: turboboost15
+        rating: ""
+        type: ""
+        custom: "true"
+        display: Turbo-Boost (15)
+        description: ""
+  combat:
+    defence:
+      bonus: 0
+    resilience:
+      bonus: 0
+      total: 15
+    wounds:
+      value: 0
+      bonus: 0
+      max: 16
+    size: gargantuan
+    speed: 100
+    fly: 100
+  notes: "<p>AX-39 Sun Shark Bomber — an atmospheric support aircraft built around a Pulse Bomb Generator that manufactures plasma bombs almost indefinitely. May replace its Missile Pod with a Twin Missile Pod.</p><p><em>Vehicle AI: all T’au vehicles carry a drone intellect in a CREW position (Default 3, Awareness 4 / Passive 2, Ballistic Skill 4, Pilot 4).</em></p>"
+  settings:
+    hidePassengers: false
+prototypeToken:
+  name: AX-39 Sun Shark Bomber
+  displayName: 20
+  actorLink: false
+  appendNumber: false
+  prependAdjective: false
+  texture:
+    src: icons/svg/target.svg
+    scaleX: 4
+    scaleY: 4
+    offsetX: 0
+    offsetY: 0
+    rotation: 0
+  width: 4
+  height: 4
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  disposition: -1
+  displayBars: 20
+  bar1:
+    attribute: combat.wounds
+  bar2:
+    attribute: ""
+  sight:
+    enabled: false
+    range: 0
+    angle: 360
+    visionMode: basic
+  detectionModes: []
+  flags: {}
+  randomImg: false
+items:
+  - name: T’AU EMPIRE
+    type: keyword
+    _id: IVd0oACT2vy9aZfb
+    img: icons/svg/target.svg
+    system:
+      description: <p>A vehicle of the T’au Empire.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!rSLELjlkqqrBRJU7.IVd0oACT2vy9aZfb"
+  - name: AIR CASTE
+    type: keyword
+    _id: Mq5ax6c5i76fwZDo
+    img: icons/svg/target.svg
+    system:
+      description: <p>An Air Caste aircraft.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!rSLELjlkqqrBRJU7.Mq5ax6c5i76fwZDo"
+  - name: FLYER
+    type: keyword
+    _id: n6qFy4N5lmT1R2qi
+    img: icons/svg/target.svg
+    system:
+      description: <p>An aircraft.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!rSLELjlkqqrBRJU7.n6qFy4N5lmT1R2qi"
+  - name: Markerlight
+    type: weapon
+    _id: eRtXvjiHdIL8buRI
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: "<p>Special: places the Marked condition on a hit. See page 6.</p>"
+      value: 0
+      keywords: ""
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 18
+        medium: 36
+        long: 54
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: 0
+      traits:
+        - name: markerlight
+          custom: true
+          display: Markerlight
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!rSLELjlkqqrBRJU7.eRtXvjiHdIL8buRI"
+  - name: Missile Pod
+    type: weapon
+    _id: XvzgIha1z37V0XNt
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: ""
+      value: 0
+      keywords: ""
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 14
+        bonus: 0
+        rank: none
+      ed:
+        base: 2
+        bonus: 0
+        rank: none
+      ap:
+        base: -1
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 18
+        medium: 36
+        long: 54
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: 2
+      traits:
+        - name: barrage
+          custom: true
+          display: Barrage
+        - name: blast
+          rating: "2"
+        - name: heavy
+          rating: 6
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!rSLELjlkqqrBRJU7.XvzgIha1z37V0XNt"
+  - name: Seeker Missile
+    type: weapon
+    _id: wKsvzjz97YJKsAuW
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: <p>Guided one-shot missile (fired at a Marked target). Profile approximate — verify against the T’au weapons table.</p>
+      value: 0
+      keywords: ""
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 16
+        bonus: 0
+        rank: none
+      ed:
+        base: 3
+        bonus: 0
+        rank: none
+      ap:
+        base: -3
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 36
+        medium: 72
+        long: 108
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: 0
+      traits:
+        - name: guided
+          custom: true
+          display: Guided
+        - name: oneshot
+          custom: true
+          display: One Shot Only
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!rSLELjlkqqrBRJU7.wKsvzjz97YJKsAuW"
+  - name: Seeker Missile
+    type: weapon
+    _id: SM1OuwmMGnngKNyv
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: <p>Guided one-shot missile (fired at a Marked target). Profile approximate — verify against the T’au weapons table.</p>
+      value: 0
+      keywords: ""
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 16
+        bonus: 0
+        rank: none
+      ed:
+        base: 3
+        bonus: 0
+        rank: none
+      ap:
+        base: -3
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 36
+        medium: 72
+        long: 108
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: 0
+      traits:
+        - name: guided
+          custom: true
+          display: Guided
+        - name: oneshot
+          custom: true
+          display: One Shot Only
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!rSLELjlkqqrBRJU7.SM1OuwmMGnngKNyv"
+  - name: Twin Missile Pod
+    type: weapon
+    _id: ouyxEkXa7GcNjoxx
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: "<p>Option: replaces the Missile Pod.</p>"
+      value: 0
+      keywords: ""
+      equipped: false
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 14
+        bonus: 0
+        rank: none
+      ed:
+        base: 2
+        bonus: 0
+        rank: none
+      ap:
+        base: -1
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 18
+        medium: 36
+        long: 54
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: 4
+      traits:
+        - name: barrage
+          custom: true
+          display: Barrage
+        - name: blast
+          rating: "2"
+        - name: heavy
+          rating: 6
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!rSLELjlkqqrBRJU7.ouyxEkXa7GcNjoxx"
+  - name: Drone Dock
+    type: gear
+    _id: 7xHWxwrGwMF4Hh4D
+    img: modules/wng-core/assets/icons/gear/gear.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: <p>Carries Interceptor Drones (Air Caste drone dock).</p>
+      value: 0
+      keywords: ""
+      effect: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!rSLELjlkqqrBRJU7.7xHWxwrGwMF4Hh4D"
+  - name: Pulse Bomb Generator
+    type: gear
+    _id: iugj0F8GEfgpDMEv
+    img: modules/wng-core/assets/icons/gear/gear.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: "<p>After completing its Movement, as a Combat Action, the flying vehicle may drop a single bomb at any point beneath its flight path: 12 +4ED damage, AP -1, Blast (12).</p>"
+      value: 0
+      keywords: ""
+      effect: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!rSLELjlkqqrBRJU7.iugj0F8GEfgpDMEv"
+effects: []
+sort: 0
+ownership:
+  default: 0
+flags: {}
+_key: "!actors!rSLELjlkqqrBRJU7"

@@ -1,0 +1,400 @@
+folder: PgitB1aQv2ykyXEg
+name: TX-7 Hammerhead Gunship
+type: vehicle
+_id: 9ixxgI86lvUrEWjF
+img: icons/svg/target.svg
+system:
+  complement:
+    pilot: 1
+    crew: 2
+    passenger: 0
+    list: []
+  mnvr: 5
+  rarity: rare
+  value: 0
+  traits:
+    list:
+      - name: gyrostabilised
+        rating: ""
+        type: ""
+        custom: "true"
+        display: Gyro-Stabilised
+        description: ""
+      - name: hover
+        rating: ""
+        type: ""
+        custom: "true"
+        display: Hover
+        description: ""
+      - name: sealed
+        rating: ""
+        type: ""
+        custom: "true"
+        display: Sealed
+        description: ""
+  combat:
+    defence:
+      bonus: 0
+    resilience:
+      bonus: 0
+      total: 16
+    wounds:
+      value: 0
+      bonus: 0
+      max: 19
+    size: huge
+    speed: 40
+    fly: 0
+  notes: "<p>TX-7 Hammerhead Gunship — the anti-gravitic main battle tank of the T’au, famed for its dreaded Railgun. May replace the Railgun with an Ion Cannon and carry up to two Seeker Missiles.</p><p><em>Vehicle AI: all T’au vehicles carry a drone intellect in a CREW position (Default 3, Awareness 4 / Passive 2, Ballistic Skill 4, Pilot 4).</em></p>"
+  settings:
+    hidePassengers: false
+prototypeToken:
+  name: TX-7 Hammerhead Gunship
+  displayName: 20
+  actorLink: false
+  appendNumber: false
+  prependAdjective: false
+  texture:
+    src: icons/svg/target.svg
+    scaleX: 3
+    scaleY: 3
+    offsetX: 0
+    offsetY: 0
+    rotation: 0
+  width: 3
+  height: 3
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  disposition: -1
+  displayBars: 20
+  bar1:
+    attribute: combat.wounds
+  bar2:
+    attribute: ""
+  sight:
+    enabled: false
+    range: 0
+    angle: 360
+    visionMode: basic
+  detectionModes: []
+  flags: {}
+  randomImg: false
+items:
+  - name: T’AU EMPIRE
+    type: keyword
+    _id: BqsUkFCewd9pwRuN
+    img: icons/svg/target.svg
+    system:
+      description: <p>A vehicle of the T’au Empire.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!9ixxgI86lvUrEWjF.BqsUkFCewd9pwRuN"
+  - name: FIRE CASTE
+    type: keyword
+    _id: 1ZdoCCOqXdY7hVec
+    img: icons/svg/target.svg
+    system:
+      description: <p>A Fire Caste vehicle.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!9ixxgI86lvUrEWjF.1ZdoCCOqXdY7hVec"
+  - name: TANK
+    type: keyword
+    _id: 4ZjlsaCXtbscjnhS
+    img: icons/svg/target.svg
+    system:
+      description: <p>A main battle tank.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!9ixxgI86lvUrEWjF.4ZjlsaCXtbscjnhS"
+  - name: Railgun
+    type: weapon
+    _id: yeg354w9ojgm5zES
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: ""
+      value: 0
+      keywords: ""
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 28
+        bonus: 0
+        rank: none
+      ed:
+        base: 6
+        bonus: 0
+        rank: none
+      ap:
+        base: -6
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 36
+        medium: 72
+        long: 108
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: 0
+      traits:
+        - name: mounted
+          custom: true
+          display: Mounted (Gargantuan)
+        - name: mortal
+          custom: true
+          display: Mortal (3)
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!9ixxgI86lvUrEWjF.yeg354w9ojgm5zES"
+  - name: Ion Cannon
+    type: weapon
+    _id: r2ZpmdNbLLjwqBfb
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: "<p>Option: replaces the Railgun. (Profile from the T’au weapons table.)</p>"
+      value: 0
+      keywords: ""
+      equipped: false
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 16
+        bonus: 0
+        rank: none
+      ed:
+        base: 2
+        bonus: 0
+        rank: none
+      ap:
+        base: -4
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 9
+        medium: 18
+        long: 27
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: 1
+      traits:
+        - name: assault
+        - name: melta
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!9ixxgI86lvUrEWjF.r2ZpmdNbLLjwqBfb"
+  - name: Smart Missile System
+    type: weapon
+    _id: JPsv4uZTS87SyxzP
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: ""
+      value: 0
+      keywords: ""
+      equipped: false
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 12
+        bonus: 0
+        rank: none
+      ed:
+        base: 2
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 15
+        medium: 30
+        long: 45
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: 4
+      traits:
+        - name: barrage
+          custom: true
+          display: Barrage
+        - name: blast
+          rating: "2"
+        - name: heavy
+          rating: 6
+        - name: indirect
+          custom: true
+          display: Indirect
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!9ixxgI86lvUrEWjF.JPsv4uZTS87SyxzP"
+  - name: Accelerator Burst Cannon
+    type: weapon
+    _id: cpWq5RtYRzicL2ux
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: ""
+      value: 0
+      keywords: ""
+      equipped: false
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 13
+        bonus: 0
+        rank: none
+      ed:
+        base: 1
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 9
+        medium: 18
+        long: 27
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: 6
+      traits:
+        - name: rapidFire
+          rating: 3
+        - name: mounted
+          custom: true
+          display: Mounted (Large)
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!9ixxgI86lvUrEWjF.cpWq5RtYRzicL2ux"
+  - name: Seeker Missile
+    type: weapon
+    _id: QSrhusgmTSc5mUPU
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: <p>Guided one-shot missile (fired at a Marked target). Profile approximate — verify against the T’au weapons table.</p>
+      value: 0
+      keywords: ""
+      equipped: false
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 16
+        bonus: 0
+        rank: none
+      ed:
+        base: 3
+        bonus: 0
+        rank: none
+      ap:
+        base: -3
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 36
+        medium: 72
+        long: 108
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: 0
+      traits:
+        - name: guided
+          custom: true
+          display: Guided
+        - name: oneshot
+          custom: true
+          display: One Shot Only
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!9ixxgI86lvUrEWjF.QSrhusgmTSc5mUPU"
+  - name: Drone Dock
+    type: gear
+    _id: zGRWh58CY2R5QLoX
+    img: modules/wng-core/assets/icons/gear/gear.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: <p>May exchange its Drone Dock for two Smart Missile Systems or two Accelerator Burst Cannons.</p>
+      value: 0
+      keywords: ""
+      effect: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!9ixxgI86lvUrEWjF.zGRWh58CY2R5QLoX"
+effects: []
+sort: 0
+ownership:
+  default: 0
+flags: {}
+_key: "!actors!9ixxgI86lvUrEWjF"
