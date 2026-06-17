@@ -1,0 +1,320 @@
+folder: PgitB1aQv2ykyXEg
+name: TY-7 Devilfish
+type: vehicle
+_id: vkGCrS5tbxuWI13r
+img: icons/svg/target.svg
+system:
+  complement:
+    pilot: 1
+    crew: 0
+    passenger: 12
+    list: []
+  mnvr: 5
+  rarity: rare
+  value: 0
+  traits:
+    list:
+      - name: gyrostabilised
+        rating: ""
+        type: ""
+        custom: "true"
+        display: Gyro-Stabilised
+        description: ""
+      - name: hover
+        rating: ""
+        type: ""
+        custom: "true"
+        display: Hover
+        description: ""
+      - name: sealed
+        rating: ""
+        type: ""
+        custom: "true"
+        display: Sealed
+        description: ""
+  combat:
+    defence:
+      bonus: 0
+    resilience:
+      bonus: 0
+      total: 16
+    wounds:
+      value: 0
+      bonus: 0
+      max: 17
+    size: huge
+    speed: 40
+    fly: 0
+  notes: "<p>TY-7 Devilfish — the primary anti-gravitic troop carrier of the T’au, ferrying twelve Fire Warriors or Pathfinders into battle and providing mobile fire support. May exchange its Drone Dock for two Smart Missile Systems and carry up to two Seeker Missiles.</p><p><em>Vehicle AI: all T’au vehicles carry a drone intellect in a CREW position (Default 3, Awareness 4 / Passive 2, Ballistic Skill 4, Pilot 4).</em></p>"
+  settings:
+    hidePassengers: false
+prototypeToken:
+  name: TY-7 Devilfish
+  displayName: 20
+  actorLink: false
+  appendNumber: false
+  prependAdjective: false
+  texture:
+    src: icons/svg/target.svg
+    scaleX: 3
+    scaleY: 3
+    offsetX: 0
+    offsetY: 0
+    rotation: 0
+  width: 3
+  height: 3
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  disposition: -1
+  displayBars: 20
+  bar1:
+    attribute: combat.wounds
+  bar2:
+    attribute: ""
+  sight:
+    enabled: false
+    range: 0
+    angle: 360
+    visionMode: basic
+  detectionModes: []
+  flags: {}
+  randomImg: false
+items:
+  - name: T’AU EMPIRE
+    type: keyword
+    _id: xAPmfEcVCMrtX9Az
+    img: icons/svg/target.svg
+    system:
+      description: <p>A vehicle of the T’au Empire.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!vkGCrS5tbxuWI13r.xAPmfEcVCMrtX9Az"
+  - name: FIRE CASTE
+    type: keyword
+    _id: FhAbPOPXjO3Wxnoi
+    img: icons/svg/target.svg
+    system:
+      description: <p>A Fire Caste vehicle.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!vkGCrS5tbxuWI13r.FhAbPOPXjO3Wxnoi"
+  - name: TRANSPORT
+    type: keyword
+    _id: KfLs5bPubd19dtma
+    img: icons/svg/target.svg
+    system:
+      description: <p>A troop transport.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!vkGCrS5tbxuWI13r.KfLs5bPubd19dtma"
+  - name: Accelerator Burst Cannon
+    type: weapon
+    _id: r9OtVPA97GOZRy2g
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: ""
+      value: 0
+      keywords: ""
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 13
+        bonus: 0
+        rank: none
+      ed:
+        base: 1
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 9
+        medium: 18
+        long: 27
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: 6
+      traits:
+        - name: rapidFire
+          rating: 3
+        - name: mounted
+          custom: true
+          display: Mounted (Large)
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!vkGCrS5tbxuWI13r.r9OtVPA97GOZRy2g"
+  - name: Smart Missile System
+    type: weapon
+    _id: sUcGVn1OhyrjgnUf
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: ""
+      value: 0
+      keywords: ""
+      equipped: false
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 12
+        bonus: 0
+        rank: none
+      ed:
+        base: 2
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 15
+        medium: 30
+        long: 45
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: 4
+      traits:
+        - name: barrage
+          custom: true
+          display: Barrage
+        - name: blast
+          rating: "2"
+        - name: heavy
+          rating: 6
+        - name: indirect
+          custom: true
+          display: Indirect
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!vkGCrS5tbxuWI13r.sUcGVn1OhyrjgnUf"
+  - name: Seeker Missile
+    type: weapon
+    _id: H8mI0VSnR6YU7PzY
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: <p>Guided one-shot missile (fired at a Marked target). Profile approximate — verify against the T’au weapons table.</p>
+      value: 0
+      keywords: ""
+      equipped: false
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 16
+        bonus: 0
+        rank: none
+      ed:
+        base: 3
+        bonus: 0
+        rank: none
+      ap:
+        base: -3
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 36
+        medium: 72
+        long: 108
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: 0
+      traits:
+        - name: guided
+          custom: true
+          display: Guided
+        - name: oneshot
+          custom: true
+          display: One Shot Only
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!vkGCrS5tbxuWI13r.H8mI0VSnR6YU7PzY"
+  - name: Sensor Suite
+    type: gear
+    _id: ZPadmf5XuDAYgbcn
+    img: modules/wng-core/assets/icons/gear/gear.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: <p>As a Simple Action, a PILOT or CREW may spend 1 Ruin and target all enemies in a Blast (6) within 24m it can see. Allied [SEPT] FIRE CASTE Threats within 6m may re-roll rolls of 1 on attacks against the targeted enemies until the end of their next turn.</p>
+      value: 0
+      keywords: ""
+      effect: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!vkGCrS5tbxuWI13r.ZPadmf5XuDAYgbcn"
+  - name: Drone Dock
+    type: gear
+    _id: oJYOq7PeCGvnAUTl
+    img: modules/wng-core/assets/icons/gear/gear.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: <p>Carries up to two MV-1 Tactical Drones as passengers (may detach into AI mode).</p>
+      value: 0
+      keywords: ""
+      effect: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!vkGCrS5tbxuWI13r.oJYOq7PeCGvnAUTl"
+effects: []
+sort: 0
+ownership:
+  default: 0
+flags: {}
+_key: "!actors!vkGCrS5tbxuWI13r"

@@ -1,0 +1,18 @@
+name: Early Warning Override
+type: gear
+_id: P5QOYAt3AWbgBYiR
+img: modules/wng-core/assets/icons/gear/gear.webp
+folder: MNEpmDGlGZGMo8cN
+sort: 0
+system:
+  quantity: 1
+  rarity: rare
+  description: <p>When this Threat is Charged, it may use its Reflexive Action and spend 1 ammo to make a ranged attack against the charging enemy, resolved before the Charge begins (a Salvo option — reload before firing again).</p>
+  value: 0
+  keywords: ""
+  effect: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!P5QOYAt3AWbgBYiR"

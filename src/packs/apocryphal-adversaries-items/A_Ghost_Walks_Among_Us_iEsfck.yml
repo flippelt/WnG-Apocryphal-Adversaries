@@ -1,0 +1,17 @@
+name: A Ghost Walks Among Us
+type: talent
+_id: iEsfck0DdtTRFGEZ
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: HxfzEdK1rHF6QWhj
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>The Adversary’s Defence is increased by +2; it also adds +1 to its Speed and may move at full speed while it has a Stealth Score.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!iEsfck0DdtTRFGEZ"

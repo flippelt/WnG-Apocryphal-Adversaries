@@ -1,0 +1,18 @@
+name: Ohr’tu’s Lantern
+type: gear
+_id: 0yJkrC9AARTV1hXG
+img: modules/wng-core/assets/icons/gear/gear.webp
+folder: jOyozM4BVnnWLqqn
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p>Signature System. Replaces a Markerlight. Each time this Adversary successfully hits with this Markerlight, roll 1d3+3 and place that many instances of the Marked condition on the initial target, or on enemies within 6m of it (spread as you see fit).</p>
+  value: 0
+  keywords: ""
+  effect: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!0yJkrC9AARTV1hXG"

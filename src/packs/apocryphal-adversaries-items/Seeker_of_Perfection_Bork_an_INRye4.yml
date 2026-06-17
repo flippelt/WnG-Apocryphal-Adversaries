@@ -1,0 +1,17 @@
+name: Seeker of Perfection (Bork’an)
+type: talent
+_id: INRye4AwIQHb5zks
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: HxfzEdK1rHF6QWhj
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>Each time this Adversary makes a ranged attack, the AP of that attack is improved by 1 (e.g. −2 to −3) and it gains the Mortal (1) trait.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!INRye4AwIQHb5zks"

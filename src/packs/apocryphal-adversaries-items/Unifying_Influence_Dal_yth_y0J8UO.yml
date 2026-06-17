@@ -1,0 +1,17 @@
+name: Unifying Influence (Dal’yth)
+type: talent
+_id: y0J8UO9f7saKnHyD
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: HxfzEdK1rHF6QWhj
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>Friendly DAL’YTH and T’AU AUXILIARY Threats within 6m add +1 to their Resolve. T’AU AUXILIARY Threats within 6m count as using T’AU EMPIRE weapons for the purposes of the Marked condition.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!y0J8UO9f7saKnHyD"

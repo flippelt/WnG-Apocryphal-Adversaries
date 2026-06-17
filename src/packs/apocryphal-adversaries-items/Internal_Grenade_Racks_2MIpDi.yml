@@ -1,0 +1,47 @@
+name: Internal Grenade Racks
+type: weapon
+_id: 2MIpDi8nc7umNCbP
+img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+folder: jOyozM4BVnnWLqqn
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p>Prototype. After completing its movement, as a Combat Action, the Adversary may drop a cluster of grenades at any point beneath its flight path (Range Special; Blast 3d3).</p>
+  value: 0
+  keywords: ""
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 10
+    bonus: 0
+    rank: none
+  ed:
+    base: 4
+    bonus: 0
+    rank: none
+  ap:
+    base: -1
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 0
+    thrown: null
+  ammo: ""
+  salvo: 0
+  traits:
+    - name: blast
+      rating: 3d3
+  upgrades: []
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!2MIpDi8nc7umNCbP"

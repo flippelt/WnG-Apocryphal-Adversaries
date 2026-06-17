@@ -1,0 +1,17 @@
+name: Exemplar of the Kauyon
+type: talent
+_id: u3xAkhft0gJHD33z
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: HxfzEdK1rHF6QWhj
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: "<p>BATTLECRY: at the start of the first turn, remove a number of allied T’AU EMPIRE Threats equal to the Adversary’s Intellect and redeploy them anywhere on the battlefield.</p>"
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!u3xAkhft0gJHD33z"

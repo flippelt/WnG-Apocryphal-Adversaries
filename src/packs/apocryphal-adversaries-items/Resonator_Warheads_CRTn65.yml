@@ -1,0 +1,55 @@
+name: Resonator Warheads (Missile Pod)
+type: weapon
+_id: CRTn65P8fYlknuNZ
+img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+folder: jOyozM4BVnnWLqqn
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p>Prototype. Crisis Shas’vre or COMMANDER only; replaces a single missile pod.</p>
+  value: 0
+  keywords: ""
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 16
+    bonus: 0
+    rank: none
+  ed:
+    base: 2
+    bonus: 0
+    rank: none
+  ap:
+    base: -2
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 15
+    medium: 30
+    long: 45
+    melee: 0
+    thrown: null
+  ammo: ""
+  salvo: 3
+  traits:
+    - name: barrage
+      custom: true
+      display: Barrage
+    - name: blast
+      rating: "3"
+    - name: heavy
+      rating: 6
+    - name: inflict
+      custom: true
+      display: Inflict (Staggered)
+  upgrades: []
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!CRTn65P8fYlknuNZ"

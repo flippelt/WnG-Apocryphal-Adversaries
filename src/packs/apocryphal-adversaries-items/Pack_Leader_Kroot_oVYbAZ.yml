@@ -1,0 +1,17 @@
+name: Pack Leader (Kroot)
+type: talent
+_id: oVYbAZVpgubm4T1z
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: HxfzEdK1rHF6QWhj
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>When an allied KROOT within 6m takes the Charge action, they add +1 to their Speed.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!oVYbAZVpgubm4T1z"

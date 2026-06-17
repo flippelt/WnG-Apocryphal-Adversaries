@@ -1,0 +1,48 @@
+name: Alternating Fusion Blaster
+type: weapon
+_id: maEImf0RV6NLqxgv
+img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+folder: jOyozM4BVnnWLqqn
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p>Prototype. Crisis Shas’vre or COMMANDER only; replaces a single fusion blaster.</p>
+  value: 0
+  keywords: ""
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 16
+    bonus: 0
+    rank: none
+  ed:
+    base: 3
+    bonus: 0
+    rank: none
+  ap:
+    base: -4
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 6
+    medium: 12
+    long: 18
+    melee: 0
+    thrown: null
+  ammo: ""
+  salvo: 1
+  traits:
+    - name: assault
+    - name: flamer
+    - name: melta
+  upgrades: []
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!maEImf0RV6NLqxgv"

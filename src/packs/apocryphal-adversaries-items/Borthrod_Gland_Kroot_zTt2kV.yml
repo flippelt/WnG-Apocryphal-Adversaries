@@ -1,0 +1,18 @@
+name: Borthrod Gland (Kroot)
+type: gear
+_id: zTt2kVLhH3UGhOFZ
+img: modules/wng-core/assets/icons/gear/gear.webp
+folder: jOyozM4BVnnWLqqn
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p>Signature System. Once per scene, this Adversary may cause all KROOT within 6m to become Frenzied.</p>
+  value: 0
+  keywords: ""
+  effect: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!zTt2kVLhH3UGhOFZ"

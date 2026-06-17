@@ -1,0 +1,18 @@
+name: Wide-Spectrum Scanners
+type: gear
+_id: eqpyNZhPW0eRqcVH
+img: modules/wng-core/assets/icons/gear/gear.webp
+folder: jOyozM4BVnnWLqqn
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: "<p>Prototype. Replaces an Early Warning Override. REACTION: when an enemy with a Stealth Score moves within 12m, make an immediate Awareness test — each Icon reduces the enemy’s Stealth Score by 1; if reduced to 0, make an immediate ranged attack against that enemy.</p>"
+  value: 0
+  keywords: ""
+  effect: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!eqpyNZhPW0eRqcVH"

@@ -1,0 +1,300 @@
+folder: PgitB1aQv2ykyXEg
+name: TX-4 Piranha
+type: vehicle
+_id: 79gspsqqVZ9RgJg4
+img: icons/svg/target.svg
+system:
+  complement:
+    pilot: 1
+    crew: 1
+    passenger: 0
+    list: []
+  mnvr: 6
+  rarity: rare
+  value: 0
+  traits:
+    list:
+      - name: gyrostabilised
+        rating: ""
+        type: ""
+        custom: "true"
+        display: Gyro-Stabilised
+        description: ""
+      - name: hover
+        rating: ""
+        type: ""
+        custom: "true"
+        display: Hover
+        description: ""
+      - name: opentopped
+        rating: ""
+        type: ""
+        custom: "true"
+        display: Open Topped
+        description: ""
+      - name: turboboost4
+        rating: ""
+        type: ""
+        custom: "true"
+        display: Turbo-Boost (4)
+        description: ""
+  combat:
+    defence:
+      bonus: 0
+    resilience:
+      bonus: 0
+      total: 14
+    wounds:
+      value: 0
+      bonus: 0
+      max: 16
+    size: large
+    speed: 60
+    fly: 0
+  notes: "<p>TX-4 Piranha — a fast, lightly-armoured combat scout skimmer that punches above its weight; carries two Gun Drones and up to two Seeker Missiles.</p><p><em>Vehicle AI: all T’au vehicles carry a drone intellect in a CREW position (Default 3, Awareness 4 / Passive 2, Ballistic Skill 4, Pilot 4).</em></p>"
+  settings:
+    hidePassengers: false
+prototypeToken:
+  name: TX-4 Piranha
+  displayName: 20
+  actorLink: false
+  appendNumber: false
+  prependAdjective: false
+  texture:
+    src: icons/svg/target.svg
+    scaleX: 2
+    scaleY: 2
+    offsetX: 0
+    offsetY: 0
+    rotation: 0
+  width: 2
+  height: 2
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  disposition: -1
+  displayBars: 20
+  bar1:
+    attribute: combat.wounds
+  bar2:
+    attribute: ""
+  sight:
+    enabled: false
+    range: 0
+    angle: 360
+    visionMode: basic
+  detectionModes: []
+  flags: {}
+  randomImg: false
+items:
+  - name: T’AU EMPIRE
+    type: keyword
+    _id: hrbC5lxxAtWbzfvo
+    img: icons/svg/target.svg
+    system:
+      description: <p>A vehicle of the T’au Empire.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!79gspsqqVZ9RgJg4.hrbC5lxxAtWbzfvo"
+  - name: FIRE CASTE
+    type: keyword
+    _id: rSzuf62hRc0fuKy0
+    img: icons/svg/target.svg
+    system:
+      description: <p>A Fire Caste vehicle.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!79gspsqqVZ9RgJg4.rSzuf62hRc0fuKy0"
+  - name: RAIDER
+    type: keyword
+    _id: RvmwOC1M3mSngkRs
+    img: icons/svg/target.svg
+    system:
+      description: <p>A fast attack skimmer.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!79gspsqqVZ9RgJg4.RvmwOC1M3mSngkRs"
+  - name: Piranha Burst Cannon
+    type: weapon
+    _id: xJPgUXvy6opTsaAd
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: ""
+      value: 0
+      keywords: ""
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 12
+        bonus: 0
+        rank: none
+      ed:
+        base: 1
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 9
+        medium: 18
+        long: 27
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: 6
+      traits:
+        - name: assault
+        - name: rapidFire
+          rating: 3
+        - name: heavy
+          rating: 4
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!79gspsqqVZ9RgJg4.xJPgUXvy6opTsaAd"
+  - name: Piranha Fusion Blaster
+    type: weapon
+    _id: nYb1cKmQVpgniAEa
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: "<p>Option: replaces the Piranha Burst Cannon.</p>"
+      value: 0
+      keywords: ""
+      equipped: false
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 16
+        bonus: 0
+        rank: none
+      ed:
+        base: 2
+        bonus: 0
+        rank: none
+      ap:
+        base: -4
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 9
+        medium: 18
+        long: 27
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: 1
+      traits:
+        - name: assault
+        - name: melta
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!79gspsqqVZ9RgJg4.nYb1cKmQVpgniAEa"
+  - name: Seeker Missile
+    type: weapon
+    _id: XqVKPolGmfrlThj2
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: <p>Guided one-shot missile (fired at a Marked target). Profile approximate — verify against the T’au weapons table.</p>
+      value: 0
+      keywords: ""
+      equipped: false
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 16
+        bonus: 0
+        rank: none
+      ed:
+        base: 3
+        bonus: 0
+        rank: none
+      ap:
+        base: -3
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 36
+        medium: 72
+        long: 108
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: 0
+      traits:
+        - name: guided
+          custom: true
+          display: Guided
+        - name: oneshot
+          custom: true
+          display: One Shot Only
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!79gspsqqVZ9RgJg4.XqVKPolGmfrlThj2"
+  - name: Gun Drones
+    type: gear
+    _id: YlxY4Stzp2XGSXMR
+    img: modules/wng-core/assets/icons/gear/gear.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: <p>A Piranha carries two Gun Drones (MV-1 Tactical Drones), retained for firepower or detached into AI mode.</p>
+      value: 0
+      keywords: ""
+      effect: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!79gspsqqVZ9RgJg4.YlxY4Stzp2XGSXMR"
+effects: []
+sort: 0
+ownership:
+  default: 0
+flags: {}
+_key: "!actors!79gspsqqVZ9RgJg4"

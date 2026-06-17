@@ -1,0 +1,18 @@
+name: Multi-Tracker
+type: gear
+_id: UuWAxTBrKD4TGVha
+img: modules/wng-core/assets/icons/gear/gear.webp
+folder: MNEpmDGlGZGMo8cN
+sort: 0
+system:
+  quantity: 1
+  rarity: rare
+  description: <p>When this Threat makes a ranged attack at an enemy Mob, or a Multi-Attack, each Exalted Icon shifted allows it to hit one additional enemy (no enemy hit more than once).</p>
+  value: 0
+  keywords: ""
+  effect: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!UuWAxTBrKD4TGVha"

@@ -1,0 +1,18 @@
+name: Velocity Tracker
+type: gear
+_id: 6VHD7WVK9Cv7n5Y1
+img: modules/wng-core/assets/icons/gear/gear.webp
+folder: MNEpmDGlGZGMo8cN
+sort: 0
+system:
+  quantity: 1
+  rarity: rare
+  description: <p>When this Threat makes a ranged attack against an enemy that is hovering, moved using a fly speed last turn, or is an airborne Flyer/Hover vehicle, add +2 bonus dice to the attack.</p>
+  value: 0
+  keywords: ""
+  effect: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!6VHD7WVK9Cv7n5Y1"

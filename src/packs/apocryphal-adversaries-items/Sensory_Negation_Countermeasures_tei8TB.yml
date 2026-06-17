@@ -1,0 +1,18 @@
+name: Sensory Negation Countermeasures
+type: gear
+_id: tei8TB49AWBMylwl
+img: modules/wng-core/assets/icons/gear/gear.webp
+folder: jOyozM4BVnnWLqqn
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p>Prototype. Crisis Shas’vre or COMMANDER only; counts as a support system. Once per scene, at the start of any turn where the Threat is engaged, add the game’s Tier to the Threat’s Defence against melee attacks.</p>
+  value: 0
+  keywords: ""
+  effect: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!tei8TB49AWBMylwl"

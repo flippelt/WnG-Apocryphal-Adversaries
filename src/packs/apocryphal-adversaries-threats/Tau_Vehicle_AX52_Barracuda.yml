@@ -1,0 +1,593 @@
+folder: PgitB1aQv2ykyXEg
+name: AX-5-2 Barracuda Superiority Fighter
+type: vehicle
+_id: YAzlThvjZiI7PaeV
+img: icons/svg/target.svg
+system:
+  complement:
+    pilot: 1
+    crew: 0
+    passenger: 0
+    list: []
+  mnvr: 6
+  rarity: rare
+  value: 0
+  traits:
+    list:
+      - name: flyer
+        rating: ""
+        type: ""
+        custom: "true"
+        display: Flyer
+        description: ""
+      - name: gyrostabilised
+        rating: ""
+        type: ""
+        custom: "true"
+        display: Gyro-Stabilised
+        description: ""
+      - name: sealed
+        rating: ""
+        type: ""
+        custom: "true"
+        display: Sealed
+        description: ""
+      - name: turboboost15
+        rating: ""
+        type: ""
+        custom: "true"
+        display: Turbo-Boost (15)
+        description: ""
+  combat:
+    defence:
+      bonus: 0
+    resilience:
+      bonus: 0
+      total: 15
+    wounds:
+      value: 0
+      bonus: 0
+      max: 16
+    size: gargantuan
+    speed: 115
+    fly: 115
+  notes: "<p>AX-5-2 Barracuda Superiority Fighter — the most common T’au atmospheric combat aircraft, prizing manoeuvrability and electronics. May swap its Long-Barrelled Burst Cannons for Cyclic Ion Blasters, its Swiftstrike Burst Cannon for an Ion Cannon or Swiftstrike Railgun, and carry up to four Seeker Missiles.</p><p><em>Vehicle AI: all T’au vehicles carry a drone intellect in a CREW position (Default 3, Awareness 4 / Passive 2, Ballistic Skill 4, Pilot 4).</em></p>"
+  settings:
+    hidePassengers: false
+prototypeToken:
+  name: AX-5-2 Barracuda Superiority Fighter
+  displayName: 20
+  actorLink: false
+  appendNumber: false
+  prependAdjective: false
+  texture:
+    src: icons/svg/target.svg
+    scaleX: 4
+    scaleY: 4
+    offsetX: 0
+    offsetY: 0
+    rotation: 0
+  width: 4
+  height: 4
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  disposition: -1
+  displayBars: 20
+  bar1:
+    attribute: combat.wounds
+  bar2:
+    attribute: ""
+  sight:
+    enabled: false
+    range: 0
+    angle: 360
+    visionMode: basic
+  detectionModes: []
+  flags: {}
+  randomImg: false
+items:
+  - name: T’AU EMPIRE
+    type: keyword
+    _id: 22gAffCJxQPqNLw0
+    img: icons/svg/target.svg
+    system:
+      description: <p>A vehicle of the T’au Empire.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!YAzlThvjZiI7PaeV.22gAffCJxQPqNLw0"
+  - name: AIR CASTE
+    type: keyword
+    _id: YOe79XsRRhuV6epQ
+    img: icons/svg/target.svg
+    system:
+      description: <p>An Air Caste aircraft.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!YAzlThvjZiI7PaeV.YOe79XsRRhuV6epQ"
+  - name: FLYER
+    type: keyword
+    _id: AnxhFjD373JtRM9I
+    img: icons/svg/target.svg
+    system:
+      description: <p>An aircraft.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!YAzlThvjZiI7PaeV.AnxhFjD373JtRM9I"
+  - name: Long-Barrelled Burst Cannon
+    type: weapon
+    _id: l7YnOhiIAtZyFRPS
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: <p>Profile from the T’au weapons table.</p>
+      value: 0
+      keywords: ""
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 12
+        bonus: 0
+        rank: none
+      ed:
+        base: 1
+        bonus: 0
+        rank: none
+      ap:
+        base: -1
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 12
+        medium: 24
+        long: 36
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: 6
+      traits:
+        - name: assault
+        - name: rapidFire
+          rating: 3
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!YAzlThvjZiI7PaeV.l7YnOhiIAtZyFRPS"
+  - name: Long-Barrelled Burst Cannon
+    type: weapon
+    _id: ZPFKDA1nXeP9OSS0
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: <p>Profile from the T’au weapons table.</p>
+      value: 0
+      keywords: ""
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 12
+        bonus: 0
+        rank: none
+      ed:
+        base: 1
+        bonus: 0
+        rank: none
+      ap:
+        base: -1
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 12
+        medium: 24
+        long: 36
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: 6
+      traits:
+        - name: assault
+        - name: rapidFire
+          rating: 3
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!YAzlThvjZiI7PaeV.ZPFKDA1nXeP9OSS0"
+  - name: Swiftstrike Burst Cannon
+    type: weapon
+    _id: rBzMT7peL5dNESjV
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: <p>Profile from the T’au weapons table.</p>
+      value: 0
+      keywords: ""
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 12
+        bonus: 0
+        rank: none
+      ed:
+        base: 1
+        bonus: 0
+        rank: none
+      ap:
+        base: -1
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 9
+        medium: 18
+        long: 27
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: 6
+      traits:
+        - name: assault
+        - name: rapidFire
+          rating: 3
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!YAzlThvjZiI7PaeV.rBzMT7peL5dNESjV"
+  - name: Missile Pod
+    type: weapon
+    _id: R9M2hY1lBhBO257h
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: ""
+      value: 0
+      keywords: ""
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 14
+        bonus: 0
+        rank: none
+      ed:
+        base: 2
+        bonus: 0
+        rank: none
+      ap:
+        base: -1
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 18
+        medium: 36
+        long: 54
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: 2
+      traits:
+        - name: barrage
+          custom: true
+          display: Barrage
+        - name: blast
+          rating: "2"
+        - name: heavy
+          rating: 6
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!YAzlThvjZiI7PaeV.R9M2hY1lBhBO257h"
+  - name: Missile Pod
+    type: weapon
+    _id: BQd1QN9cc3SPtG0Z
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: ""
+      value: 0
+      keywords: ""
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 14
+        bonus: 0
+        rank: none
+      ed:
+        base: 2
+        bonus: 0
+        rank: none
+      ap:
+        base: -1
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 18
+        medium: 36
+        long: 54
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: 2
+      traits:
+        - name: barrage
+          custom: true
+          display: Barrage
+        - name: blast
+          rating: "2"
+        - name: heavy
+          rating: 6
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!YAzlThvjZiI7PaeV.BQd1QN9cc3SPtG0Z"
+  - name: Cyclic Ion Blaster
+    type: weapon
+    _id: gi1HjiLZpRYBf6gw
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: <p>Option.</p>
+      value: 0
+      keywords: ""
+      equipped: false
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 15
+        bonus: 0
+        rank: none
+      ed:
+        base: 1
+        bonus: 0
+        rank: none
+      ap:
+        base: -2
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 9
+        medium: 18
+        long: 27
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: 4
+      traits:
+        - name: assault
+        - name: heavy
+          rating: 6
+        - name: supercharge
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!YAzlThvjZiI7PaeV.gi1HjiLZpRYBf6gw"
+  - name: Ion Cannon
+    type: weapon
+    _id: yUAmTAygRnilKfDK
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: "<p>Option: replaces the Railgun. (Profile from the T’au weapons table.)</p>"
+      value: 0
+      keywords: ""
+      equipped: false
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 16
+        bonus: 0
+        rank: none
+      ed:
+        base: 2
+        bonus: 0
+        rank: none
+      ap:
+        base: -4
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 9
+        medium: 18
+        long: 27
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: 1
+      traits:
+        - name: assault
+        - name: melta
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!YAzlThvjZiI7PaeV.yUAmTAygRnilKfDK"
+  - name: Swiftstrike Railgun
+    type: weapon
+    _id: F0Z8Fp9oaPRQ8mi5
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: <p>Option. (Profile from the T’au weapons table.)</p>
+      value: 0
+      keywords: ""
+      equipped: false
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 12
+        bonus: 0
+        rank: none
+      ed:
+        base: 1
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 6
+        medium: 12
+        long: 18
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: 1
+      traits:
+        - name: pistol
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!YAzlThvjZiI7PaeV.F0Z8Fp9oaPRQ8mi5"
+  - name: Seeker Missile
+    type: weapon
+    _id: N9IF3pdjm4hziaax
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: <p>Guided one-shot missile (fired at a Marked target). Profile approximate — verify against the T’au weapons table.</p>
+      value: 0
+      keywords: ""
+      equipped: false
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 16
+        bonus: 0
+        rank: none
+      ed:
+        base: 3
+        bonus: 0
+        rank: none
+      ap:
+        base: -3
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 36
+        medium: 72
+        long: 108
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: 0
+      traits:
+        - name: guided
+          custom: true
+          display: Guided
+        - name: oneshot
+          custom: true
+          display: One Shot Only
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!YAzlThvjZiI7PaeV.N9IF3pdjm4hziaax"
+  - name: Dispersion Field
+    type: gear
+    _id: 1xD1n9eR6zcJHBFa
+    img: modules/wng-core/assets/icons/gear/gear.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: "<p>The vehicle is fitted with holographic/electromagnetic decoy projectors: it adds +2 to its Defence.</p>"
+      value: 0
+      keywords: ""
+      effect: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!YAzlThvjZiI7PaeV.1xD1n9eR6zcJHBFa"
+effects: []
+sort: 0
+ownership:
+  default: 0
+flags: {}
+_key: "!actors!YAzlThvjZiI7PaeV"

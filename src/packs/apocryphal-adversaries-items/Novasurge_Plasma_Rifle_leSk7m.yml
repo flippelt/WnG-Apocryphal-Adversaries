@@ -1,0 +1,48 @@
+name: Novasurge Plasma Rifle
+type: weapon
+_id: leSk7mTyWDIG9BjB
+img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+folder: jOyozM4BVnnWLqqn
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p>Prototype. Crisis Shas’vre or COMMANDER only; replaces a single plasma rifle. Damage ignores all armour that provides an Invulnerable armour rating.</p>
+  value: 0
+  keywords: ""
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 16
+    bonus: 0
+    rank: none
+  ed:
+    base: 3
+    bonus: 0
+    rank: none
+  ap:
+    base: -5
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 15
+    medium: 30
+    long: 45
+    melee: 0
+    thrown: null
+  ammo: ""
+  salvo: 1
+  traits:
+    - name: assault
+    - name: heavy
+      rating: 4
+  upgrades: []
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!leSk7mTyWDIG9BjB"
