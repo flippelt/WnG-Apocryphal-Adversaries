@@ -21,7 +21,7 @@ abilities, wounds/resilience/defence). Converted faction by faction.
 | Necrons | The Necrons — **v2** (25/2/2021) | v0.3.0 | ✅ done — 39 actors (36 threats + 3 vehicles) + 38 items (Adversary Traits, Cryptek Arcana, Relics of the Aeons) |
 | Daemonic Legions | Daemonic Legions — **v1** | — | ⬜ to do |
 | Heretic Astartes | Heretic Astartes — **v1** | — | ⬜ to do |
-| Asuryani (Aeldari) | The Asuryani — **v2** | — | ⬜ to do |
+| Asuryani (Aeldari) | The Asuryani — **v2** | — | 🔧 in progress (branch `feat/asuryani-threats`, targets v0.7.0) |
 | Drukhari | The Drukhari — **v1** | v0.5.0 | ✅ done — 29 threats + 50 items (Kabal/Cult/Coven adaptations, Adversary Traits, Artefacts of Cruelty) |
 | T'au Empire | The T'au Empire — **v1** | v0.6.0 | ✅ done — 59 actors (52 threats + 7 vehicles) + 50 items (Sept adaptations, Support Systems, Adversary Traits, Prototype & Signature Systems) |
 | Malicious Miscellany | Malicious Miscellany — **v1** | — | ⬜ to do |
