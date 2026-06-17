@@ -19,7 +19,7 @@ abilities, wounds/resilience/defence). Converted faction by faction.
 | Orks | An Abundance of Apocryphal Adversaries: Orks — **v1** (10/9/2022) | v0.2.0 | ✅ done — 41 threats + 34 items (Adversary Traits + Shiny Gubbinz) |
 | Tyranids | The Tyranids — **v1** | v0.4.0 | ✅ done — 28 threats + 39 items (13 Hive-Mind powers, 19 Bio-Weapons, 7 Hive Fleet adaptations) |
 | Necrons | The Necrons — **v2** (25/2/2021) | v0.3.0 | ✅ done — 39 actors (36 threats + 3 vehicles) + 38 items (Adversary Traits, Cryptek Arcana, Relics of the Aeons) |
-| Daemonic Legions | Daemonic Legions — **v1** | — | ⬜ to do |
+| Daemonic Legions | Daemonic Legions — **v1** (30/01/2023) | — | 🔧 in progress (branch `feat/daemonic-legions`, targets v0.8.0) |
 | Heretic Astartes | Heretic Astartes — **v1** | — | ⬜ to do |
 | Asuryani (Aeldari) | The Asuryani — **v2** | v0.7.0 | ✅ done — 45 actors (41 threats + 4 vehicles) + 33 items (5 Craftworld adaptations, 12 Adversary Traits, 16 Remnants of Glory) |
 | Drukhari | The Drukhari — **v1** | v0.5.0 | ✅ done — 29 threats + 50 items (Kabal/Cult/Coven adaptations, Adversary Traits, Artefacts of Cruelty) |
