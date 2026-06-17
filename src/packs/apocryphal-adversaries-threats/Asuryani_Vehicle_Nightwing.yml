@@ -1,0 +1,374 @@
+folder: 14fv25wdogGvatSN
+name: Nightwing Interceptor
+type: vehicle
+_id: da4SHS6hXSmUWsvO
+img: icons/svg/target.svg
+system:
+  complement:
+    pilot: 1
+    crew: 0
+    passenger: 0
+    list: []
+  mnvr: 8
+  rarity: veryRare
+  value: 0
+  traits:
+    list:
+      - name: flyer
+        rating: ""
+        type: ""
+        custom: "true"
+        display: Flyer
+        description: ""
+      - name: gyrostabilised
+        rating: ""
+        type: ""
+        custom: "true"
+        display: Gyro-Stabilised
+        description: ""
+      - name: hover
+        rating: ""
+        type: ""
+        custom: "true"
+        display: Hover
+        description: ""
+      - name: sealed
+        rating: ""
+        type: ""
+        custom: "true"
+        display: Sealed
+        description: ""
+      - name: turboboost20
+        rating: ""
+        type: ""
+        custom: "true"
+        display: Turbo-Boost (20)
+        description: ""
+  combat:
+    defence:
+      bonus: 0
+    resilience:
+      bonus: 0
+      total: 13
+    wounds:
+      value: 0
+      bonus: 0
+      max: 12
+    size: huge
+    speed: 120
+    fly: 0
+  notes: <p>Nightwing Interceptor — the primary Eldar fighter craft; unmatched speed and manoeuvrability with variable-geometry wings, expected to win air superiority while outnumbered.</p>
+  settings:
+    hidePassengers: false
+prototypeToken:
+  name: Nightwing Interceptor
+  displayName: 20
+  actorLink: false
+  appendNumber: false
+  prependAdjective: false
+  texture:
+    src: icons/svg/target.svg
+    scaleX: 3
+    scaleY: 3
+    offsetX: 0
+    offsetY: 0
+    rotation: 0
+  width: 3
+  height: 3
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  disposition: -1
+  displayBars: 20
+  bar1:
+    attribute: combat.wounds
+  bar2:
+    attribute: ""
+  sight:
+    enabled: false
+    range: 0
+    angle: 360
+    visionMode: basic
+  detectionModes: []
+  flags: {}
+  randomImg: false
+items:
+  - name: AELDARI
+    type: keyword
+    _id: T7bZ2JBdmHOOBKZD
+    img: icons/svg/target.svg
+    system:
+      description: <p>A vehicle of the ancient Aeldari race.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!da4SHS6hXSmUWsvO.T7bZ2JBdmHOOBKZD"
+  - name: ASURYANI
+    type: keyword
+    _id: EKyJArIEu7nMvANO
+    img: icons/svg/target.svg
+    system:
+      description: <p>A Craftworld Aeldari vehicle.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!da4SHS6hXSmUWsvO.EKyJArIEu7nMvANO"
+  - name: FLYER
+    type: keyword
+    _id: fa7BS70kd86hz1Aj
+    img: icons/svg/target.svg
+    system:
+      description: <p>An aircraft / flying vehicle.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!da4SHS6hXSmUWsvO.fa7BS70kd86hz1Aj"
+  - name: Shuriken Cannon
+    type: weapon
+    _id: eGkYKu4swwnzQMlx
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: <p>Two mounted.</p>
+      value: 0
+      keywords: ""
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 14
+        bonus: 0
+        rank: none
+      ed:
+        base: 2
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 12
+        medium: 24
+        long: 36
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: 4
+      traits:
+        - name: assault
+        - name: heavy
+          rating: 6
+        - name: rending
+          rating: 3
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!da4SHS6hXSmUWsvO.eGkYKu4swwnzQMlx"
+  - name: Shuriken Cannon (2nd)
+    type: weapon
+    _id: cuEyBXaRQKu55YR0
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: ""
+      value: 0
+      keywords: ""
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 14
+        bonus: 0
+        rank: none
+      ed:
+        base: 2
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 12
+        medium: 24
+        long: 36
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: 4
+      traits:
+        - name: assault
+        - name: heavy
+          rating: 6
+        - name: rending
+          rating: 3
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!da4SHS6hXSmUWsvO.cuEyBXaRQKu55YR0"
+  - name: Bright Lance
+    type: weapon
+    _id: AjjemZfKBQJi1DMX
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: <p>Two mounted.</p>
+      value: 0
+      keywords: ""
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 16
+        bonus: 0
+        rank: none
+      ed:
+        base: 3
+        bonus: 0
+        rank: none
+      ap:
+        base: -4
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 24
+        medium: 48
+        long: 72
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: 0
+      traits:
+        - name: heavy
+          rating: 4
+        - name: sniper
+          rating: 1
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!da4SHS6hXSmUWsvO.AjjemZfKBQJi1DMX"
+  - name: Bright Lance (2nd)
+    type: weapon
+    _id: AJ9Pb3Y6BtZSIaKc
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: ""
+      value: 0
+      keywords: ""
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 16
+        bonus: 0
+        rank: none
+      ed:
+        base: 3
+        bonus: 0
+        rank: none
+      ap:
+        base: -4
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 24
+        medium: 48
+        long: 72
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: 0
+      traits:
+        - name: heavy
+          rating: 4
+        - name: sniper
+          rating: 1
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!da4SHS6hXSmUWsvO.AJ9Pb3Y6BtZSIaKc"
+  - name: Holo-Field
+    type: gear
+    _id: EUJRku4L4i93caHb
+    img: modules/wng-core/assets/icons/gear/gear.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: <p>A shifting holographic image makes the vehicle harder to hit.</p>
+      value: 0
+      keywords: ""
+      effect: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!da4SHS6hXSmUWsvO.EUJRku4L4i93caHb"
+  - name: Variable-Geometry Wings
+    type: gear
+    _id: uzthYbLndiLGFnJs
+    img: modules/wng-core/assets/icons/gear/gear.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: "<p>The pilot may switch wing position as a Simple action. Wings Forward: Manoeuvrability +2. Wings Back: Speed becomes 130 and Turbo-Boost becomes (25).</p>"
+      value: 0
+      keywords: ""
+      effect: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!da4SHS6hXSmUWsvO.uzthYbLndiLGFnJs"
+effects: []
+sort: 0
+ownership:
+  default: 0
+flags: {}
+_key: "!actors!da4SHS6hXSmUWsvO"

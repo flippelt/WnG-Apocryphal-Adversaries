@@ -1,0 +1,17 @@
+name: Walker of Many Paths
+type: talent
+_id: lSZqjD6GPzE0OsSe
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: UsLXf8voXTkdS4XN
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>Each turn, the Adversary may re-roll a number of dice equal to the game’s Tier on any one skill test or damage roll.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!lSZqjD6GPzE0OsSe"

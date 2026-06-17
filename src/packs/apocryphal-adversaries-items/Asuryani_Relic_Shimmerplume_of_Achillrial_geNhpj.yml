@@ -1,0 +1,18 @@
+name: Shimmerplume of Achillrial
+type: gear
+_id: geNhpj26PoB0hX3l
+img: modules/wng-core/assets/icons/gear/gear.webp
+folder: EXOpq6Dc5BATbNXp
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p>Autarch only. The wearer increases their Defence by +2.</p>
+  value: 0
+  keywords: ""
+  effect: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!geNhpj26PoB0hX3l"

@@ -1,0 +1,48 @@
+name: Kurnous’ Bow
+type: weapon
+_id: lae8BLr7gOGfdHDI
+img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+folder: EXOpq6Dc5BATbNXp
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p>Replaces a shuriken pistol. Each Exalted Icon shifted in an attack using this weapon adds two ED rather than only one.</p>
+  value: 0
+  keywords: ""
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 10
+    bonus: 0
+    rank: none
+  ed:
+    base: 2
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 6
+    medium: 12
+    long: 18
+    melee: 0
+    thrown: null
+  ammo: ""
+  salvo: 2
+  traits:
+    - name: pistol
+    - name: rending
+      rating: 3
+  upgrades: []
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!lae8BLr7gOGfdHDI"

@@ -1,0 +1,17 @@
+name: Mark of the Incomparable Hunter
+type: talent
+_id: TeWKT992mgtDN5rj
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: UsLXf8voXTkdS4XN
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>When the Adversary takes the Aim action and makes a Called Shot, double the bonus ED granted.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!TeWKT992mgtDN5rj"

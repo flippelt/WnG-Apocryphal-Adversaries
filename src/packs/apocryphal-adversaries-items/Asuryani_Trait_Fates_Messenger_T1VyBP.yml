@@ -1,0 +1,17 @@
+name: Fate’s Messenger
+type: talent
+_id: T1VyBP3vQVg301zk
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: UsLXf8voXTkdS4XN
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>Increase the Adversary’s Maximum Wounds and Maximum Shock by +Tier. In addition, the first time each Turn the Adversary rolls Determination, the attack’s damage is entirely negated and the Adversary suffers no Shock.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!T1VyBP3vQVg301zk"

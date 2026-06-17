@@ -1,0 +1,17 @@
+name: An Eye on Distant Events
+type: talent
+_id: efYF818DurqcOF5v
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: UsLXf8voXTkdS4XN
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: "<p>BATTLECRY: Select a single Mob of ASURYANI, or ASURYANI Troops or Elites equal to the Adversary’s Intellect. Each of those Threats may move up to their Speed before the first turn (resolve this before their own Battlecry abilities).</p>"
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!efYF818DurqcOF5v"

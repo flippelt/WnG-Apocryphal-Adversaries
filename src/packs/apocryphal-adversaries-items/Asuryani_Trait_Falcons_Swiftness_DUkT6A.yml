@@ -1,0 +1,17 @@
+name: Falcon’s Swiftness
+type: talent
+_id: DUkT6AldHEzFTltt
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: UsLXf8voXTkdS4XN
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>The Adversary’s Speed is increased by +2.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!DUkT6AldHEzFTltt"

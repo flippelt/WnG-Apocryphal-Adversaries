@@ -1,0 +1,17 @@
+name: Ambush of Blades
+type: talent
+_id: uPpL3IxjCJj1xgUv
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: UsLXf8voXTkdS4XN
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>Each time an ASURYANI Threat within 6m of this Adversary scores a Wrath Critical on an attack, the AP of that attack is improved by 1 (AP -1 becomes AP -2, and so on).</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!uPpL3IxjCJj1xgUv"

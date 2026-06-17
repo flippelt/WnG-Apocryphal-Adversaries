@@ -1,0 +1,17 @@
+name: Wild Rider Chieftain [Saim-Hann]
+type: talent
+_id: WGfugZCKMaQupWiH
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: UsLXf8voXTkdS4XN
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>When an enemy takes the Charge action and concludes their move within 6m of the Adversary, the Adversary may spend 1 Ruin as a Reflexive Action to move up to their Speed towards that enemy and make a melee attack before the enemy attacks (counting as charging).</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!WGfugZCKMaQupWiH"

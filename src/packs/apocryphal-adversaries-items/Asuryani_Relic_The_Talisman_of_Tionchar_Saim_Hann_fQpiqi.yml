@@ -1,0 +1,18 @@
+name: The Talisman of Tionchar [Saim-Hann]
+type: gear
+_id: fQpiqiVTV82PH99n
+img: modules/wng-core/assets/icons/gear/gear.webp
+folder: EXOpq6Dc5BATbNXp
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p>SAIM-HANN Adversary only. When the bearer charges, the attack’s damage is increased by +2, and the attack improves its AP by 1 (e.g., from AP -3 to AP -4).</p>
+  value: 0
+  keywords: ""
+  effect: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!fQpiqiVTV82PH99n"

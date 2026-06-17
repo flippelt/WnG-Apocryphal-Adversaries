@@ -1,0 +1,18 @@
+name: The Phoenix Gem
+type: gear
+_id: UmI02DKc4O7Kn63H
+img: modules/wng-core/assets/icons/gear/gear.webp
+folder: EXOpq6Dc5BATbNXp
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: "<p>ANNIHILATION: The first time this Adversary is slain, roll 1d6 for each creature (friend or foe) within 3m. For each Icon rolled, that creature suffers 1d3 Mortal Wounds, and the Adversary regains Wounds equal to the number of Mortal Wounds inflicted. If no Mortal Wounds are inflicted, the Adversary is slain.</p>"
+  value: 0
+  keywords: ""
+  effect: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!UmI02DKc4O7Kn63H"
