@@ -1,0 +1,17 @@
+name: Treacherous Deceiver [Cursed Blade] (Succubus)
+type: talent
+_id: Qb70aUI5YXDNbZ6G
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: CXtQhaS7x2hEIQAN
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>When an enemy fails a melee attack against the Succubus, she may make a melee attack against that attacker as a Reflexive Action.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!Qb70aUI5YXDNbZ6G"

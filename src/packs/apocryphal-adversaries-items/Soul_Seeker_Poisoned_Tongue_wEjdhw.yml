@@ -1,0 +1,51 @@
+name: Soul-Seeker [Poisoned Tongue]
+type: weapon
+_id: wEjdhwKGBAU91da6
+img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+folder: ifTVer9A2YRwUVUn
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: "<p>Archon from the Kabal of the Poisoned Tongue only. Replaces a splinter pistol. When making an attack with this weapon, the target does not receive the benefits of cover.</p><p>Poisonous: base damage is increased by the target’s Toughness (no effect vs VEHICLES).</p>"
+  value: 0
+  keywords: ""
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 5
+    bonus: 0
+    rank: none
+  ed:
+    base: 5
+    bonus: 0
+    rank: none
+  ap:
+    base: -2
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 9
+    medium: 18
+    long: 27
+    melee: 0
+    thrown: null
+  ammo: ""
+  salvo: 3
+  traits:
+    - name: poisonous
+      custom: true
+      display: Poisonous
+    - name: pistol
+    - name: sniper
+      rating: 1
+  upgrades: []
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!wEjdhwKGBAU91da6"

@@ -1,0 +1,18 @@
+name: The Helm of Spite
+type: gear
+_id: edqtjBbYkKhkqtET
+img: modules/wng-core/assets/icons/gear/gear.webp
+folder: ifTVer9A2YRwUVUn
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p>When an enemy PSYKER attempts to use a Psychic Power, the wearer may spend 1 Ruin to Deny the Witch as a Reflexive Action (Willpower + Tier bonus dice). If the power is denied, the Psyker immediately suffers Perils of the Warp.</p>
+  value: 0
+  keywords: ""
+  effect: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!edqtjBbYkKhkqtET"

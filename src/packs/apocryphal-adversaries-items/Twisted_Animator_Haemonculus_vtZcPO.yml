@@ -1,0 +1,17 @@
+name: Twisted Animator (Haemonculus)
+type: talent
+_id: vtZcPOUmPVP2ND5f
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: CXtQhaS7x2hEIQAN
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>As a Simple Action, select one mob of Wracks within 3m. 1d3 slain Wracks are returned to that mob, up to its original size.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!vtZcPOUmPVP2ND5f"

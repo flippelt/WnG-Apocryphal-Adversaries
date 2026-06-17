@@ -1,0 +1,17 @@
+name: "Kabal: The Poisoned Tongue"
+type: talent
+_id: kSzKqYbDrIXAjLBe
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: Y4LhokjKz8DEE1YP
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>Replace [KABAL] with POISONED TONGUE. The character adds +Tier dice to Stealth tests and +Tier ED to damage rolls with Poisonous weapons.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!kSzKqYbDrIXAjLBe"

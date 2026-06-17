@@ -1,0 +1,17 @@
+name: Hyperswift Reflexes [Red Grief] (Succubus)
+type: talent
+_id: BC43bT6Pra6c3pt6
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: CXtQhaS7x2hEIQAN
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>When the Succubus uses her Lightning-Fast Reactions Ruin ability, roll 1d6; on a 4, 5, or 6, the point of Ruin spent is refunded.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!BC43bT6Pra6c3pt6"

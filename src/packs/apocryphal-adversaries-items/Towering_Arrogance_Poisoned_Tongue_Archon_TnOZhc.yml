@@ -1,0 +1,17 @@
+name: Towering Arrogance [Poisoned Tongue] (Archon)
+type: talent
+_id: TnOZhcL8Fk8UGXTD
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: CXtQhaS7x2hEIQAN
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>The Archon, and any [KABAL OF THE POISONED TONGUE] Threats within 6m, add +1 dice to their Determination rolls and +2 to their Resolve.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!TnOZhcL8Fk8UGXTD"

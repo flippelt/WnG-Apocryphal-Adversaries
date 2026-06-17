@@ -1,0 +1,18 @@
+name: Poisoner’s Ampule
+type: gear
+_id: F7f8okX1LMKf4n0J
+img: modules/wng-core/assets/icons/gear/gear.webp
+folder: ifTVer9A2YRwUVUn
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p>Haemonculus only. Once per scene, when the Haemonculus succeeds at a Tech Interaction Attack, the target suffers 1d3 Mortal Wounds and the Poisoned condition (DN 5). While Poisoned, the target suffers 1d3 Shock at the start of each turn and cannot spend or gain Wrath or Glory.</p>
+  value: 0
+  keywords: ""
+  effect: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!F7f8okX1LMKf4n0J"

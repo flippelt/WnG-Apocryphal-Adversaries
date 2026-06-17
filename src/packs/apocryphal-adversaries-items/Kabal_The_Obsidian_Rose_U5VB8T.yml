@@ -1,0 +1,17 @@
+name: "Kabal: The Obsidian Rose"
+type: talent
+_id: U5VB8Tg8WnAQdHCU
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: Y4LhokjKz8DEE1YP
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>Replace [KABAL] with OBSIDIAN ROSE. The short range of any ranged weapon is increased by +Rank, medium by +Double Tier, and long by three times Tier. The character may also re-roll up to Tier ED when determining damage with one of their own weapons.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!U5VB8Tg8WnAQdHCU"

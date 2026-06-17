@@ -1,0 +1,17 @@
+name: Master Nemesine (Haemonculus)
+type: talent
+_id: F0svSI4urrcMYKKS
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: CXtQhaS7x2hEIQAN
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>Each time this Haemonculus makes an attack, re-roll all 1s on the damage roll.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!F0svSI4urrcMYKKS"

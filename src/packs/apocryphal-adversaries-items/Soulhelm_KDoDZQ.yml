@@ -1,0 +1,18 @@
+name: Soulhelm
+type: gear
+_id: KDoDZQCFsLlT8FlO
+img: modules/wng-core/assets/icons/gear/gear.webp
+folder: ifTVer9A2YRwUVUn
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p>Archon only. Increase the wearer’s Defence by +1. In addition, the wearer may roll Determination against Mortal Wounds.</p>
+  value: 0
+  keywords: ""
+  effect: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!KDoDZQCFsLlT8FlO"

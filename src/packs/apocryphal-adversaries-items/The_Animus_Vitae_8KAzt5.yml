@@ -1,0 +1,18 @@
+name: The Animus Vitae
+type: gear
+_id: 8KAzt5LhNRXHPgTC
+img: modules/wng-core/assets/icons/gear/gear.webp
+folder: ifTVer9A2YRwUVUn
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: "<p>A thrown orb (Damage 0, Range = Strength ×4, Blast (6)). One use only: any creature caught in the blast suffers 1d3+Tier Mortal Wounds. Allied DRUKHARI in the scene count the current round as 1 higher for Power Through Pain.</p>"
+  value: 0
+  keywords: ""
+  effect: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!8KAzt5LhNRXHPgTC"

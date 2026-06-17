@@ -1,0 +1,17 @@
+name: Hekatarii Combat Drugs
+type: talent
+_id: 2YvvOYAgxsiUKg1v
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: Y4LhokjKz8DEE1YP
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: "<p>At the start of battle, inject combat drugs — choose one effect or roll two d6: (1) Adrenalight: after charging, may make a second attack by spending 1 Ruin; (2) Grave Lotus: +3 Strength; (3) Hypex: +2 Speed; (4) Painbringer: +2 Resilience; (5) Serpentin: +3 dice on all melee attacks; (6) Splintermind: +2 dice to ranged attacks and +2 Resolve.</p>"
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!2YvvOYAgxsiUKg1v"

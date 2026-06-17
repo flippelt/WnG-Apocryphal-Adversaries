@@ -1,0 +1,17 @@
+name: Scarlet Epicurean [Coven of Twelve] (Haemonculus)
+type: talent
+_id: CoV7wpLOTdG3acqN
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: CXtQhaS7x2hEIQAN
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>Each time the Haemonculus rolls Determination, re-roll up to Tier dice.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!CoV7wpLOTdG3acqN"

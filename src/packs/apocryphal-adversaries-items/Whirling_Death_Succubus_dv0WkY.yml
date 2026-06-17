@@ -1,0 +1,17 @@
+name: Whirling Death (Succubus)
+type: talent
+_id: dv0WkYUAPH5jgUNs
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: CXtQhaS7x2hEIQAN
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>Each time this Succubus makes a Multi-Attack, ignore DN penalties up to twice the game’s Tier.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!dv0WkYUAPH5jgUNs"

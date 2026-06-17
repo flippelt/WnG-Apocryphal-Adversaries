@@ -1,0 +1,18 @@
+name: Writ of the Living Muse [Black Heart]
+type: gear
+_id: KMLuTAINzJ6MqS8P
+img: modules/wng-core/assets/icons/gear/gear.webp
+folder: ifTVer9A2YRwUVUn
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p>Archon from the Kabal of the Black Heart only. Allied Kabal of the Black Heart Threats within 12m may re-roll 1s when determining damage.</p>
+  value: 0
+  keywords: ""
+  effect: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!KMLuTAINzJ6MqS8P"

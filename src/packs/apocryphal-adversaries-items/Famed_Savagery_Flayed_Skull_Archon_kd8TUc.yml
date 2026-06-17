@@ -1,0 +1,17 @@
+name: Famed Savagery [Flayed Skull] (Archon)
+type: talent
+_id: kd8TUcD5kmRzyu36
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: CXtQhaS7x2hEIQAN
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>Add +2 to the Archon’s Strength and +2d to all melee attacks the Archon makes.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!kd8TUcD5kmRzyu36"

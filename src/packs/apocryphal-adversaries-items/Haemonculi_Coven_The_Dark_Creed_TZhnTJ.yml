@@ -1,0 +1,17 @@
+name: "Haemonculi Coven: The Dark Creed"
+type: talent
+_id: TZhnTJJbxQSNoDa9
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: Y4LhokjKz8DEE1YP
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>Replace [COVEN] with DARK CREED. Enemies within 6m add +2 DN to all Resolve tests. The character also adds +Tier dice to all attacks against enemies with a lower Resolve than them.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!TZhnTJJbxQSNoDa9"

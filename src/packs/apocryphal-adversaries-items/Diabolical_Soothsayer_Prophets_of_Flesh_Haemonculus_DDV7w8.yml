@@ -1,0 +1,17 @@
+name: Diabolical Soothsayer [Prophets of Flesh] (Haemonculus)
+type: talent
+_id: DDV7w8LrVC7ntlz4
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: CXtQhaS7x2hEIQAN
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: "<p>BATTLECRY: when the battle begins, the Haemonculus selects one: (a) +1 Toughness (also +1 Resilience and Wounds, +1d Determination); or (b) +1 Speed, +1 Defence, and +1d to all melee attacks.</p>"
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!DDV7w8LrVC7ntlz4"

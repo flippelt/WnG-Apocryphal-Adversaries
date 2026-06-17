@@ -1,0 +1,17 @@
+name: Blood Dancer [Cult of Strife] (Succubus)
+type: talent
+_id: T5PYoL0LSBhzYfpt
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: CXtQhaS7x2hEIQAN
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>When the Succubus scores a Wrath Critical on a melee attack, she may forego the critical hit or any other Wrath effect from that attack to make a second attack after the first is resolved.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!T5PYoL0LSBhzYfpt"

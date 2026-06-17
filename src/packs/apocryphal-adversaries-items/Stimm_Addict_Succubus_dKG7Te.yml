@@ -1,0 +1,17 @@
+name: Stimm Addict (Succubus)
+type: talent
+_id: dKG7TeEP8zNMEqpH
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: CXtQhaS7x2hEIQAN
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>When determining which Combat Drugs the Succubus is affected by, roll two d6 to determine two additional results from the table, in addition to any other combat drug effects.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!dKG7TeEP8zNMEqpH"

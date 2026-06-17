@@ -1,0 +1,22 @@
+name: The Armour of Misery [Obsidian Rose]
+type: armour
+_id: Ne9QObFBhH8S6PdG
+img: modules/wng-core/assets/icons/armour/armour.webp
+folder: ifTVer9A2YRwUVUn
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p>Archon from the Kabal of the Obsidian Rose only. The Archon’s Defence is increased by +2 against melee attacks. In addition, the Archon’s Resilience is increased by +1 when not benefitting from their Shadow Field.</p>
+  value: 0
+  keywords: ""
+  equipped: false
+  rating: 0
+  base: 0
+  traits: []
+  invulnerable: false
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!Ne9QObFBhH8S6PdG"
