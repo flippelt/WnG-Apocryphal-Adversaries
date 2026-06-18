@@ -123,10 +123,18 @@ Converted faction by faction from the source PDFs. See
   Maulerfiend, Venomcrawler) and five named lords (Haarken, Abaddon the Despoiler,
   Huron Blackheart, Fabius Bile, Vashtorr) — plus 52 items (the Dark Hereticus,
   Malefic, Dark Commune and Fellgor disciplines, the Chaos Prayers, Adversary
-  Traits and Relics & Daemon Weapons). The **cult legions** (Death Guard,
-  Emperor's Children, Thousand Sons, World Eaters) ship next as `0.9.x` updates.
-- ⏳ **To do:** Heretic Astartes cult legions, then the WIP Adeptus Astartes once
-  it is finalised.
+  Traits and Relics & Daemon Weapons).
+- 🔧 **— Death Guard (Nurgle) cult legion done (v0.9.4):** 17 actors — Plague
+  Marines, Poxwalkers, Blightlord & Deathshroud Terminators, the specialists
+  (Biologus Putrifier, Foul Blightspawn, Noxious Blightbringer, Plague Surgeon,
+  Tallyman, Malignant Plaguecaster), the Lords of Contagion and Virulence, the
+  daemon engines (Foetid Bloat-drone, Myphitic Blight-hauler, Plagueburst
+  Crawler), Typhus and the Daemon Primarch **Mortarion** — plus 40 items (the
+  Contagion discipline, Adversary Traits, Relics of Decay and Deadly Pathogens).
+  The remaining cult legions (Emperor's Children → `0.9.6`, Thousand Sons →
+  `0.9.8`, World Eaters → `1.0.0`) ship next.
+- ⏳ **To do:** Heretic Astartes cult legions (Emperor's Children, Thousand Sons,
+  World Eaters), then the WIP Adeptus Astartes once it is finalised.
 
 **Versioning:** new factions get a **minor** bump (`0.8.0`, `0.9.0`, …); updates
 to an already-published faction (tracking a newer source revision) get a **patch**
