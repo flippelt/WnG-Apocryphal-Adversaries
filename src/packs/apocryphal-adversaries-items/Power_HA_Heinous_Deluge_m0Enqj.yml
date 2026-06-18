@@ -1,0 +1,47 @@
+name: Heinous Deluge
+type: psychicPower
+_id: m0EnqjFjmRkVYjyG
+img: modules/wng-core/assets/icons/powers/power.webp
+folder: jZbEC5ywpQfrsutt
+sort: 0
+system:
+  dn: "4"
+  type: ""
+  specification: ""
+  description: <p>One visible target in range is drenched in gore and filth and becomes Hindered (2). <em>Potency:</em> *[2] target is also Vulnerable (2). [1] increase the rating of conditions by +1.</p>
+  effect: ""
+  cost: 0
+  activation: Action
+  duration: Instant
+  range: 18m
+  multiTarget: true
+  keywords: CHAOS, PSYCHIC
+  prerequisites: Psyker must have the CHAOS and DARK COMMUNE keywords.
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 0
+      five: 0
+      six: 0
+  otherDamage:
+    mortalWounds: ""
+    wounds: ""
+    shock: ""
+  potency: []
+  test:
+    dn: null
+    type: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!m0EnqjFjmRkVYjyG"

@@ -1,0 +1,19 @@
+name: Gorget of Eternal Hate
+type: gear
+_id: UwQtJeuMHctF4bhH
+img: modules/wng-core/assets/icons/gear/gear.webp
+folder: vesL6yfF4A3uItjy
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p><em>HERETIC ASTARTES Adversary only.</em> The Adversary’s AR is increased by +2 and they have an additional Invulnerable AR of *4 (does not stack). When the Adversary is slain, each enemy within 3m suffers 1d3 Mortal Wounds and the On Fire condition.</p>
+  value: 0
+  keywords: ""
+  equipped: false
+  traits: []
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!UwQtJeuMHctF4bhH"

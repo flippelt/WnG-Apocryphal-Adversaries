@@ -1,0 +1,19 @@
+name: Inferno Tome
+type: gear
+_id: rpIHJG267IyZEgIB
+img: modules/wng-core/assets/icons/gear/gear.webp
+folder: vesL6yfF4A3uItjy
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p><em>PRIEST Adversary only.</em> The bearer knows one additional Chaos Prayer. Each time the bearer successfully invokes a prayer, it inflicts 1d3 Mortal Wounds on the nearest enemy within 18m.</p>
+  value: 0
+  keywords: ""
+  equipped: false
+  traits: []
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!rpIHJG267IyZEgIB"

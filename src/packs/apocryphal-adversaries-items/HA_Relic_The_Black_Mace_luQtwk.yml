@@ -1,0 +1,50 @@
+name: The Black Mace
+type: weapon
+_id: luQtwkcrAln7MMk4
+img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+folder: vesL6yfF4A3uItjy
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p><em>HERETIC ASTARTES Adversary only; replaces a Power Maul or Accursed Crozius.</em> Damage S+6 (adds the wielder’s Strength). Cursed by each of the Daemon Primarchs; victims collapse into mouldering bone.</p>
+  value: 0
+  keywords: ""
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 6
+    bonus: 0
+    rank: none
+  ed:
+    base: 6
+    bonus: 0
+    rank: none
+  ap:
+    base: -2
+    bonus: 0
+    rank: none
+  category: melee
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 1
+    thrown: null
+  ammo: ""
+  salvo: 0
+  traits:
+    - name: brutal
+    - name: reaping
+      custom: true
+      display: Reaping
+    - name: spread
+  upgrades: []
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!luQtwkcrAln7MMk4"

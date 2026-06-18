@@ -1,0 +1,47 @@
+name: Miasma of Pestilence
+type: psychicPower
+_id: WB76uQ80JL1UxVb6
+img: modules/wng-core/assets/icons/powers/power.webp
+folder: dhn8L7SFBOiZYf1o
+sort: 0
+system:
+  dn: "6"
+  type: ""
+  specification: ""
+  description: <p>Select a number of NURGLE allies within range equal to the Sorcerer’s Willpower. The affected allies count as in Cover (+2 Defence) until the start of the Sorcerer’s next turn. <em>Potency:</em> *[2] affect +Willpower more allies.</p>
+  effect: ""
+  cost: 0
+  activation: Action
+  duration: 1 Round
+  range: 18m
+  multiTarget: false
+  keywords: CHAOS, NURGLE, PSYCHIC
+  prerequisites: Psyker must have the HERETIC ASTARTES and NURGLE keywords.
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 0
+      five: 0
+      six: 0
+  otherDamage:
+    mortalWounds: ""
+    wounds: ""
+    shock: ""
+  potency: []
+  test:
+    dn: null
+    type: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!WB76uQ80JL1UxVb6"

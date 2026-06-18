@@ -1,0 +1,49 @@
+name: The Blade of the Relentless
+type: weapon
+_id: mvnRKhHBkUCjuqjJ
+img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+folder: vesL6yfF4A3uItjy
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p><em>HERETIC ASTARTES Adversary only; replaces a Power Sword or Daemon Blade.</em> Damage S+5 (adds the wielder’s Strength). A soul-feeding blade.</p>
+  value: 0
+  keywords: ""
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 5
+    bonus: 0
+    rank: none
+  ed:
+    base: 5
+    bonus: 0
+    rank: none
+  ap:
+    base: -4
+    bonus: 0
+    rank: none
+  category: melee
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 1
+    thrown: null
+  ammo: ""
+  salvo: 0
+  traits:
+    - name: parry
+    - name: mortal
+      rating: 2
+    - name: sustained
+  upgrades: []
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!mvnRKhHBkUCjuqjJ"

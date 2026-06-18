@@ -1,0 +1,17 @@
+name: Wrathful Entreaty (Khorne)
+type: talent
+_id: SvIhihtoreikVkoe
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: qlyuaxDrvbFkr1Kr
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: "<p>KHORNE PRIESTS know this Prayer in addition to any others. If successful, while the Prayer remains in effect you add +Tier to your Strength.</p><p><em>A PRIEST invokes a Prayer as a Simple Action: a DN 3 Persuasion test that inflicts 1d3 Shock (no Shock if the Wrath die is a 6; 1 Mortal Wound to the Priest if the Wrath die is a 1). Each Prayer lasts one round; each Exalted Icon shifted extends the duration by one round, up to the game’s Tier.</em></p>"
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!SvIhihtoreikVkoe"

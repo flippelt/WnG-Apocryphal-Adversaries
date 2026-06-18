@@ -1,0 +1,19 @@
+name: Mantle of Traitors
+type: gear
+_id: 2on2k5iFygUrHDOs
+img: modules/wng-core/assets/icons/gear/gear.webp
+folder: vesL6yfF4A3uItjy
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: "<p><em>CHAMPION Adversary only.</em> The Adversary’s Personal Ruin is increased by +2. In addition, the Adversary doubles the range of any of these abilities it has: Lord of Chaos, Aspire to Glory, or Demagogue.</p>"
+  value: 0
+  keywords: ""
+  equipped: false
+  traits: []
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!2on2k5iFygUrHDOs"

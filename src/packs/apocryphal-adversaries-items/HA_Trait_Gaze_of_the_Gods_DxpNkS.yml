@@ -1,0 +1,17 @@
+name: Gaze of the Gods
+type: talent
+_id: DxpNkSyOuo2QHH1P
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: fCi8IKEM1B7ILVWN
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>The Adversary has an additional AR of *4 (which does not stack with normal armour). In addition, the Adversary may use the Death to the False Emperor ability against any foe, not just IMPERIUM ones.</p><p><em>One of the general Adversary Traits applicable to a CHAOS / HERETIC ASTARTES Adversary. (Legion-specific traits from the source are summarised in their legion releases.)</em></p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!DxpNkSyOuo2QHH1P"

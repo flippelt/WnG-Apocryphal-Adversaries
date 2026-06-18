@@ -1,0 +1,47 @@
+name: Diabolic Strength
+type: psychicPower
+_id: rXxIOIvje1jUEn74
+img: modules/wng-core/assets/icons/powers/power.webp
+folder: dhn8L7SFBOiZYf1o
+sort: 0
+system:
+  dn: "5"
+  type: ""
+  specification: ""
+  description: <p>Select a CHAOS ally within range. The ally’s Strength is increased by +4 and they receive +2 bonus dice on melee attacks while this power remains in effect. <em>Potency:</em> [2] +1 Strength. [1] +1ED to the ally’s melee damage.</p>
+  effect: ""
+  cost: 0
+  activation: Action
+  duration: Sustained
+  range: 12m
+  multiTarget: false
+  keywords: CHAOS, PSYCHIC
+  prerequisites: Psyker must have the HERETIC ASTARTES and CHAOS keywords.
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 0
+      five: 0
+      six: 0
+  otherDamage:
+    mortalWounds: ""
+    wounds: ""
+    shock: ""
+  potency: []
+  test:
+    dn: null
+    type: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!rXxIOIvje1jUEn74"

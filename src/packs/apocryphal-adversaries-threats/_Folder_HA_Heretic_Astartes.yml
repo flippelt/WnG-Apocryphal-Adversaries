@@ -1,0 +1,9 @@
+name: Heretic Astartes
+sorting: a
+folder: null
+type: Actor
+_id: HAstartesBase001
+sort: 900000
+color: null
+flags: {}
+_key: "!folders!HAstartesBase001"

@@ -1,0 +1,47 @@
+name: Apoplectic Rejuvenation
+type: psychicPower
+_id: GrQMpfW3IAz7esnN
+img: modules/wng-core/assets/icons/powers/power.webp
+folder: f0ekx3YfFAiqQzzf
+sort: 0
+system:
+  dn: "5"
+  type: ""
+  specification: ""
+  description: <p>A single Wounded FELLGOR ally within range heals 2d3 Wounds. <em>Potency:</em> [1] +1 Wound healed.</p>
+  effect: ""
+  cost: 0
+  activation: Action
+  duration: Instant
+  range: 6m
+  multiTarget: false
+  keywords: CHAOS, PSYCHIC
+  prerequisites: Psyker must have the CHAOS and FELLGOR keywords.
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 0
+      five: 0
+      six: 0
+  otherDamage:
+    mortalWounds: ""
+    wounds: ""
+    shock: ""
+  potency: []
+  test:
+    dn: null
+    type: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!GrQMpfW3IAz7esnN"
