@@ -1,0 +1,47 @@
+name: Dominate
+type: psychicPower
+_id: IaACXq28vEyRAzck
+img: modules/wng-core/assets/icons/powers/power.webp
+folder: Uysv92KdeFkk6lnq
+sort: 0
+system:
+  dn: Target's Conviction
+  type: ""
+  specification: ""
+  description: <p>Full Action, Sustained. Affects a single enemy you can see within range. While the power remains in effect, when the enemy acts, you may choose the actions they take; affected enemies are also Exhausted. You suffer 1 Shock each round you sustain this power. <em>Potency:</em> *[3] Enemies affected act freely and are not Exhausted. *[2] Instead, leave a single command in the target’s mind for a number of days equal to your Willpower (not Sustained); the target won’t remember until after they perform it.</p>
+  effect: ""
+  cost: 0
+  activation: full
+  duration: Sustained
+  range: 12m
+  multiTarget: true
+  keywords: TELEPATHY, PSYCHIC
+  prerequisites: Psyker must have the INQUISITION keyword.
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 0
+      five: 0
+      six: 0
+  otherDamage:
+    mortalWounds: ""
+    wounds: ""
+    shock: ""
+  potency: []
+  test:
+    dn: null
+    type: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!IaACXq28vEyRAzck"

@@ -1,0 +1,47 @@
+name: Warp Lightning
+type: psychicPower
+_id: qoN5sd6CHC6nbGtP
+img: modules/wng-core/assets/icons/powers/power.webp
+folder: yS6Qz2yqzHl7NS4U
+sort: 0
+system:
+  dn: Target's Defence
+  type: ""
+  specification: ""
+  description: <p>Bolts of warp lightning arc outwards. Select a visible enemy within range; that enemy suffers 1d3 Mortal Wounds. Each Wrath Critical rolled when activating this power increases the Mortal Wounds by +1, but each Wrath Complication inflicts 1 Mortal Wound on the psyker. <em>Potency:</em> [2] +1 Mortal Wound.</p>
+  effect: ""
+  cost: 0
+  activation: action
+  duration: Instant
+  range: 13m
+  multiTarget: true
+  keywords: HRUD, SKRYRE, PSYCHIC
+  prerequisites: Psyker must have the SKRYRE keyword.
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 0
+      five: 0
+      six: 0
+  otherDamage:
+    mortalWounds: ""
+    wounds: ""
+    shock: ""
+  potency: []
+  test:
+    dn: null
+    type: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!qoN5sd6CHC6nbGtP"

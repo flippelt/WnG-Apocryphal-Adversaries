@@ -1,0 +1,47 @@
+name: Psychic Pursuit
+type: psychicPower
+_id: lyBDJQBQVRwiQonH
+img: modules/wng-core/assets/icons/powers/power.webp
+folder: Uysv92KdeFkk6lnq
+sort: 0
+system:
+  dn: "6"
+  type: ""
+  specification: ""
+  description: "<p>Mark a single enemy you can see within range. While the power remains in effect, you gain +3 bonus dice on all tests to locate or track the target and always know their general direction in realspace. You may use a Simple Action to confer this awareness to allies within 6m (+2 dice to Awareness tests and attacks against the target). <em>Potency:</em> *[2] The target is haunted by dreams of pursuit: each day, their maximum Wounds and Shock are reduced by 1. [1] +1 day duration.</p>"
+  effect: ""
+  cost: 0
+  activation: action
+  duration: 1 day
+  range: 18m
+  multiTarget: false
+  keywords: TELEPATHY, PSYCHIC
+  prerequisites: Psyker must have the INQUISITION keyword.
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 0
+      five: 0
+      six: 0
+  otherDamage:
+    mortalWounds: ""
+    wounds: ""
+    shock: ""
+  potency: []
+  test:
+    dn: null
+    type: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!lyBDJQBQVRwiQonH"

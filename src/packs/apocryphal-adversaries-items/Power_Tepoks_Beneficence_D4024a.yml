@@ -1,0 +1,47 @@
+name: Tepok's Beneficence
+type: psychicPower
+_id: D4024a1itQOlIbYM
+img: modules/wng-core/assets/icons/powers/power.webp
+folder: CSSu796NEntxswQT
+sort: 0
+system:
+  dn: "4"
+  type: ""
+  specification: ""
+  description: <p>Select a single visible SKINK ally or mob within range. Until the start of the Slann’s next turn, the affected allies add +2 to their Defence and Resilience. <em>Potency:</em> [1] +1 Defence. [1] +1 Resilience.</p>
+  effect: ""
+  cost: 0
+  activation: action
+  duration: 1 Round
+  range: 18m
+  multiTarget: false
+  keywords: SERAPHON, PSYCHIC
+  prerequisites: Psyker must have the SERAPHON and SLANN keywords.
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 0
+      five: 0
+      six: 0
+  otherDamage:
+    mortalWounds: ""
+    wounds: ""
+    shock: ""
+  potency: []
+  test:
+    dn: null
+    type: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!D4024a1itQOlIbYM"

@@ -1,0 +1,47 @@
+name: Warp Lightning Shield
+type: psychicPower
+_id: IjxKGeZP2ge4ClaG
+img: modules/wng-core/assets/icons/powers/power.webp
+folder: yS6Qz2yqzHl7NS4U
+sort: 0
+system:
+  dn: "5"
+  type: ""
+  specification: ""
+  description: <p>Until the start of the psyker’s next turn, the next three times the psyker would take damage the attack is negated entirely. The fourth time, the psyker suffers 1d3 Mortal Wounds and the power ends. <em>Potency:</em> [1] +1 round duration. [2] Absorb one extra instance of damage.</p>
+  effect: ""
+  cost: 0
+  activation: action
+  duration: 1 Round
+  range: Self
+  multiTarget: false
+  keywords: HRUD, SKRYRE, PSYCHIC
+  prerequisites: Psyker must have the SKRYRE keyword.
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 0
+      five: 0
+      six: 0
+  otherDamage:
+    mortalWounds: ""
+    wounds: ""
+    shock: ""
+  potency: []
+  test:
+    dn: null
+    type: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!IjxKGeZP2ge4ClaG"

@@ -1,0 +1,47 @@
+name: Psychic Veil
+type: psychicPower
+_id: pCqnF2Xcvj8D95u6
+img: modules/wng-core/assets/icons/powers/power.webp
+folder: Uysv92KdeFkk6lnq
+sort: 0
+system:
+  dn: "4"
+  type: ""
+  specification: ""
+  description: <p>If successful, all IMPERIUM allies within range immediately gain a Stealth Score equal to your Intellect for the duration of the power.</p>
+  effect: ""
+  cost: 0
+  activation: action
+  duration: 1 Round
+  range: 6m
+  multiTarget: false
+  keywords: PSYCHIC
+  prerequisites: Psyker must have the INQUISITION and ORDO XENOS keywords.
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 0
+      five: 0
+      six: 0
+  otherDamage:
+    mortalWounds: ""
+    wounds: ""
+    shock: ""
+  potency: []
+  test:
+    dn: null
+    type: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!pCqnF2Xcvj8D95u6"

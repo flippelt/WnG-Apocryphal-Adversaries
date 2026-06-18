@@ -1,0 +1,47 @@
+name: Mental Interrogation
+type: psychicPower
+_id: aBnl0mgvOeY79Fpz
+img: modules/wng-core/assets/icons/powers/power.webp
+folder: Uysv92KdeFkk6lnq
+sort: 0
+system:
+  dn: Target's Conviction
+  type: ""
+  specification: ""
+  description: <p>Full Action, Sustained. Select a single enemy you can see within range; if successful, the target is Hindered while the power remains in effect. Each round you may ask the GM 1d3 questions (answered from the target’s surface thoughts and recent memories), and the target then suffers Shock equal to the number of questions asked. <em>Potency:</em> [1] If an Adversary Threat, remove one point of personal Ruin and gain 1 Glory. [1] +1 question per round. *[2] Delve into private/secret memories. *[3] Delve into repressed/hidden memories (2 Shock each).</p>
+  effect: ""
+  cost: 0
+  activation: full
+  duration: Sustained
+  range: 12m
+  multiTarget: false
+  keywords: TELEPATHY, PSYCHIC
+  prerequisites: Psyker must have the INQUISITION keyword.
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 0
+      five: 0
+      six: 0
+  otherDamage:
+    mortalWounds: ""
+    wounds: ""
+    shock: ""
+  potency: []
+  test:
+    dn: null
+    type: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!aBnl0mgvOeY79Fpz"

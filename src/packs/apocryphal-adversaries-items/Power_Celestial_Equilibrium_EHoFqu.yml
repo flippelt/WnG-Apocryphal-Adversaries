@@ -1,0 +1,47 @@
+name: Celestial Equilibrium
+type: psychicPower
+_id: EHoFquegiHb7ViY0
+img: modules/wng-core/assets/icons/powers/power.webp
+folder: CSSu796NEntxswQT
+sort: 0
+system:
+  dn: "5"
+  type: ""
+  specification: ""
+  description: <p>Full Action, Sustained. The Slann shimmers and draws links between its allies and the cosmos. Until the start of the Slann’s next turn, all allied PSYKERs other than the Slann add bonus dice equal to the game’s Tier to their Psychic Mastery tests. <em>Potency:</em> [1] Allied PSYKERs may re-roll 1 die on any Psychic Mastery test.</p>
+  effect: ""
+  cost: 0
+  activation: full
+  duration: Sustained
+  range: Special
+  multiTarget: false
+  keywords: SERAPHON, PSYCHIC
+  prerequisites: Psyker must have the SERAPHON and SLANN keywords.
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 0
+      five: 0
+      six: 0
+  otherDamage:
+    mortalWounds: ""
+    wounds: ""
+    shock: ""
+  potency: []
+  test:
+    dn: null
+    type: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!EHoFquegiHb7ViY0"

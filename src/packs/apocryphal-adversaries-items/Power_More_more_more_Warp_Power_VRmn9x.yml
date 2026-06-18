@@ -1,0 +1,47 @@
+name: More-more-more Warp Power!
+type: psychicPower
+_id: VRmn9xVdIDYIoTZR
+img: modules/wng-core/assets/icons/powers/power.webp
+folder: yS6Qz2yqzHl7NS4U
+sort: 0
+system:
+  dn: "6"
+  type: ""
+  specification: ""
+  description: <p>Select the Psyker, or a single SKRYRE ally or mob within range. The affected target adds +2 dice to all attacks and +2ED to damage until the end of the psyker’s next turn. When the effect ends, the target suffers 1d3 Mortal Wounds (or 1d3 casualties if a mob). <em>Potency:</em> [2] +1 round duration. [1] +1 die to attacks. [1] +1ED to damage.</p>
+  effect: ""
+  cost: 0
+  activation: action
+  duration: 1 Round
+  range: 13m
+  multiTarget: false
+  keywords: HRUD, SKRYRE, PSYCHIC
+  prerequisites: Psyker must have the SKRYRE keyword.
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 0
+      five: 0
+      six: 0
+  otherDamage:
+    mortalWounds: ""
+    wounds: ""
+    shock: ""
+  potency: []
+  test:
+    dn: null
+    type: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!VRmn9xVdIDYIoTZR"

@@ -1,0 +1,47 @@
+name: Chain Warp Lightning
+type: psychicPower
+_id: cjpoQaSCfoGhI6zh
+img: modules/wng-core/assets/icons/powers/power.webp
+folder: yS6Qz2yqzHl7NS4U
+sort: 0
+system:
+  dn: "6"
+  type: ""
+  specification: ""
+  description: <p>A ball of warp lightning careens across the battlefield. All enemies within range suffer 1 Mortal Wound. Each Wrath Critical rolled when activating this power increases the Mortal Wounds by +1; each Wrath Complication inflicts 1 Mortal Wound on the psyker. <em>Potency:</em> [3] +1 Mortal Wound.</p>
+  effect: ""
+  cost: 0
+  activation: action
+  duration: Instant
+  range: 13m
+  multiTarget: false
+  keywords: HRUD, SKRYRE, PSYCHIC
+  prerequisites: Psyker must have the SKRYRE keyword.
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 0
+      five: 0
+      six: 0
+  otherDamage:
+    mortalWounds: ""
+    wounds: ""
+    shock: ""
+  potency: []
+  test:
+    dn: null
+    type: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!cjpoQaSCfoGhI6zh"

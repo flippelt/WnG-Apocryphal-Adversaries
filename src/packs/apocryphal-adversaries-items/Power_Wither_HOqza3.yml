@@ -1,0 +1,47 @@
+name: Wither
+type: psychicPower
+_id: HOqza39plM8HVewM
+img: modules/wng-core/assets/icons/powers/power.webp
+folder: VoUpocb26qZ7jVb7
+sort: 0
+system:
+  dn: Target's Toughness +2
+  type: ""
+  specification: ""
+  description: <p>The Pale Seer hurls a glowing orb of green warp-stuff. Target a visible enemy within range; that enemy suffers 1d3+2 Mortal Wounds and suffers the Exhausted condition. <em>Potency:</em> [1] The target is also Hindered. [1] The target is also Vulnerable.</p>
+  effect: ""
+  cost: 0
+  activation: action
+  duration: Instant
+  range: 13m
+  multiTarget: false
+  keywords: HRUD, MASTERCLAN, PSYCHIC
+  prerequisites: Psyker must have the MASTERCLAN keyword.
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 0
+      five: 0
+      six: 0
+  otherDamage:
+    mortalWounds: ""
+    wounds: ""
+    shock: ""
+  potency: []
+  test:
+    dn: null
+    type: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!HOqza39plM8HVewM"

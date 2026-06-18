@@ -1,0 +1,47 @@
+name: Skitterleap
+type: psychicPower
+_id: 4Cr7x2C5ACAlCSQJ
+img: modules/wng-core/assets/icons/powers/power.webp
+folder: VoUpocb26qZ7jVb7
+sort: 0
+system:
+  dn: "5"
+  type: ""
+  specification: ""
+  description: <p>Select the Pale Seer or one HRUD ally within range; the creature vanishes instantly and reappears anywhere else in the scene more than 9m from an enemy, and may not move on their next turn. <em>Potency:</em> *[1] The Pale Seer instead vanishes from the battlefield entirely, leaving the scene and adding 1 to Ruin (replaces the normal effect). *[1] The target may attempt a Stealth test on reappearing, +2 to the resulting Stealth Score.</p>
+  effect: ""
+  cost: 0
+  activation: action
+  duration: Instant
+  range: 13m
+  multiTarget: false
+  keywords: HRUD, MASTERCLAN, PSYCHIC
+  prerequisites: Psyker must have the MASTERCLAN keyword.
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 0
+      five: 0
+      six: 0
+  otherDamage:
+    mortalWounds: ""
+    wounds: ""
+    shock: ""
+  potency: []
+  test:
+    dn: null
+    type: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!4Cr7x2C5ACAlCSQJ"
