@@ -1,0 +1,47 @@
+name: Gaze of Fate
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+folder: P5Gm7XdA3bn9EOJk
+sort: 0
+system:
+  dn: "6"
+  type: ""
+  specification: ""
+  description: <p>Immediately add 2 to Ruin. <em>Potency:</em> [3] add a further +1 to Ruin.</p>
+  effect: ""
+  cost: 0
+  activation: action
+  duration: Instant
+  range: Self
+  multiTarget: false
+  keywords: CHAOS, TZEENTCH, PSYCHIC
+  prerequisites: DAEMON, TZEENTCH
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 0
+      five: 0
+      six: 0
+  otherDamage:
+    mortalWounds: ""
+    wounds: ""
+    shock: ""
+  potency: []
+  test:
+    dn: null
+    type: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_id: V96s6ZOgLxoO0cWF
+_key: "!items!V96s6ZOgLxoO0cWF"

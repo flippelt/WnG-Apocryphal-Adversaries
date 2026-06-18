@@ -1,0 +1,47 @@
+name: Nurgle’s Rot
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+folder: 6oxmqPkDc8jdKVxx
+sort: 0
+system:
+  dn: "6"
+  type: ""
+  specification: ""
+  description: <p>Each enemy within range must pass a DN 5 Toughness Test or suffer 1d3 Mortal Wounds and the Poisoned 3 condition. An enemy who rolls a Complication suffers 1d3+3 Mortal Wounds instead. <em>Potency:</em> [2] +1 Mortal Wound; *[3] enemies Poisoned by this effect suffer 1d3 Mortal Wounds at the start of each of their turns.</p>
+  effect: ""
+  cost: 0
+  activation: action
+  duration: Instant
+  range: 6m
+  multiTarget: false
+  keywords: CHAOS, NURGLE, PSYCHIC
+  prerequisites: DAEMON, NURGLE
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 0
+      five: 0
+      six: 0
+  otherDamage:
+    mortalWounds: ""
+    wounds: ""
+    shock: ""
+  potency: []
+  test:
+    dn: null
+    type: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_id: WixXOtU6M01wNAfy
+_key: "!items!WixXOtU6M01wNAfy"

@@ -1,0 +1,47 @@
+name: Stream of Corruption
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+folder: 6oxmqPkDc8jdKVxx
+sort: 0
+system:
+  dn: "5"
+  type: ""
+  specification: ""
+  description: <p>The daemon ejects a jetting river of foulness. All enemies within a Blast (10) the daemon can see within range suffer 3d3 Mortal Wounds and the Poisoned 3 condition. <em>Potency:</em> *[2] increase the Blast by +2; [2] +1 Mortal Wound; [1] +1 to the Poisoned rating.</p>
+  effect: ""
+  cost: 0
+  activation: Full Action
+  duration: Instant
+  range: 12m
+  multiTarget: false
+  keywords: CHAOS, NURGLE, PSYCHIC
+  prerequisites: DAEMON, NURGLE
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 0
+      five: 0
+      six: 0
+  otherDamage:
+    mortalWounds: ""
+    wounds: ""
+    shock: ""
+  potency: []
+  test:
+    dn: null
+    type: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_id: G1BYaabcQeSfLIYS
+_key: "!items!G1BYaabcQeSfLIYS"

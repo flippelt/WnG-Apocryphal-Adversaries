@@ -1,0 +1,47 @@
+name: Betraying Shades
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+folder: Q121l2Z6Tc8RPGcR
+sort: 0
+system:
+  dn: "6"
+  type: ""
+  specification: ""
+  description: <p>Place a Blast (6) over one or more visible enemies within range. Affected enemies immediately suffer a melee attack, using their own Weapon Skill and the damage and qualities of their own weapon. <em>Potency:</em> *[2] increase the Blast to Blast (10).</p>
+  effect: ""
+  cost: 0
+  activation: action
+  duration: Instant
+  range: 18m
+  multiTarget: false
+  keywords: CHAOS, PSYCHIC
+  prerequisites: CHAOS, DISCIPLE OF BE’LAKOR
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 0
+      five: 0
+      six: 0
+  otherDamage:
+    mortalWounds: ""
+    wounds: ""
+    shock: ""
+  potency: []
+  test:
+    dn: null
+    type: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_id: jeVJFPEdAmAvBunx
+_key: "!items!jeVJFPEdAmAvBunx"

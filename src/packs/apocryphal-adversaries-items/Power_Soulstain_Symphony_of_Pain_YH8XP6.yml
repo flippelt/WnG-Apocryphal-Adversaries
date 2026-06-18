@@ -1,0 +1,47 @@
+name: Symphony of Pain
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+folder: JpqUHUSAmT0GMjB2
+sort: 0
+system:
+  dn: "6"
+  type: ""
+  specification: ""
+  description: <p>Select all enemies within a Blast (6) within range. Until the start of your next turn, those enemies suffer Hindered (2). <em>Potency:</em> *[2] Blast (10); [2] increase the Hindered condition by +1.</p>
+  effect: ""
+  cost: 0
+  activation: action
+  duration: 1 Round
+  range: 18m
+  multiTarget: false
+  keywords: CHAOS, SLAANESH, PSYCHIC
+  prerequisites: DAEMON, SLAANESH
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 0
+      five: 0
+      six: 0
+  otherDamage:
+    mortalWounds: ""
+    wounds: ""
+    shock: ""
+  potency: []
+  test:
+    dn: null
+    type: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_id: YH8XP6heFi6IQBMZ
+_key: "!items!YH8XP6heFi6IQBMZ"

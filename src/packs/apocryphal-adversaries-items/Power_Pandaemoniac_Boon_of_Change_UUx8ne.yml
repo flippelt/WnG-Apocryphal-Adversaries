@@ -1,0 +1,47 @@
+name: Boon of Change
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+folder: P5Gm7XdA3bn9EOJk
+sort: 0
+system:
+  dn: "5"
+  type: ""
+  specification: ""
+  description: "<p>Select allies with the TZEENTCH keyword within range equal to your Willpower. Until the start of your next turn each gains a random boon (1d3): 1 — extra limbs (+2 Speed, reduce Multi-Action DN penalty by 2); 2 — mystical strength (+1 Strength, +1 melee Damage); 3 — resilient hide (+1 Toughness, which adds +1 Resilience/Wounds/Determination). <em>Potency:</em> *[3] choose the result rather than rolling.</p>"
+  effect: ""
+  cost: 0
+  activation: action
+  duration: 1 Round
+  range: 18m
+  multiTarget: false
+  keywords: CHAOS, TZEENTCH, PSYCHIC
+  prerequisites: DAEMON, TZEENTCH
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 0
+      five: 0
+      six: 0
+  otherDamage:
+    mortalWounds: ""
+    wounds: ""
+    shock: ""
+  potency: []
+  test:
+    dn: null
+    type: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_id: UUx8neWhJhRZApo0
+_key: "!items!UUx8neWhJhRZApo0"
