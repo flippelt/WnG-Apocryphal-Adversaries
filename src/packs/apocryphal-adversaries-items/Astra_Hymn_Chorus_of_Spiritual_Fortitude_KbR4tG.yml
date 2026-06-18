@@ -1,0 +1,17 @@
+name: Chorus of Spiritual Fortitude
+type: talent
+_id: KbR4tGZUzkEbPokd
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: gRDP2hbJqPnfo1jR
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: "<p><strong>XP Cost: 20.</strong> If this Prayer is successful, end the effect of any psychic power or warp phenomenon on yourself and allies with the IMPERIUM keyword. In addition, while the Prayer remains in effect, you and the affected allies cannot be targeted by psychic powers.</p><p><em>Invoking a Prayer is a Simple Action requiring a DN 3 Persuasion test, and inflicts 1d3 Shock (no Shock if the Wrath die is a 6). Each Prayer lasts one round; each Exalted Icon shifted extends the duration by one round, to a maximum of your Persuasion rank. Only PRIESTS with the IMPERIUM and ADEPTUS MINISTORUM keywords (and without CHAOS) may know these.</em></p>"
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!KbR4tGZUzkEbPokd"

@@ -1,0 +1,17 @@
+name: Tactical Auto-Reliquary of Tyberius
+type: talent
+_id: Usd66OECEZmTKTyD
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: YtwBsg7TW3spLFG5
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p><em>OFFICER Adversary only.</em> Whenever the bearer issues Orders using Voice of Command, they may issue one additional Order.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!Usd66OECEZmTKTyD"

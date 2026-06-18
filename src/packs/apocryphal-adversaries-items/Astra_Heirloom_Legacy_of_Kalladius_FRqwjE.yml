@@ -1,0 +1,48 @@
+name: Legacy of Kalladius
+type: weapon
+_id: FRqwjEV0bmhekcoZ
+img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+folder: YtwBsg7TW3spLFG5
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p><em>Adversary equipped with a Chainsword only; replaces the Chainsword.</em> Damage S+6 (adds the wielder’s Strength).</p>
+  value: 0
+  keywords: ""
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 6
+    bonus: 0
+    rank: none
+  ed:
+    base: 5
+    bonus: 0
+    rank: none
+  ap:
+    base: -2
+    bonus: 0
+    rank: none
+  category: melee
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 1
+    thrown: null
+  ammo: ""
+  salvo: 0
+  traits:
+    - name: brutal
+    - name: parry
+    - name: sustained
+  upgrades: []
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!FRqwjEV0bmhekcoZ"

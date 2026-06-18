@@ -1,0 +1,17 @@
+name: Relic of Lost Cadia [Cadian]
+type: talent
+_id: VcH8YRBNjZdaUTRH
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: YtwBsg7TW3spLFG5
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p><em>CADIAN Adversaries only.</em> While allied CADIAN Threats are within 6m of this model, they may re-roll any 1s on attacks and damage rolls. Against CHAOS enemies, they may instead re-roll any failures.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!VcH8YRBNjZdaUTRH"

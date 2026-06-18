@@ -1,0 +1,17 @@
+name: Order of the Bastium Stellaris
+type: talent
+_id: HKkg29ntUbHJ3wT4
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: YtwBsg7TW3spLFG5
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>The Adversary, and every [REGIMENT] Threat within 3m, may roll Determination without spending Ruin, and do not suffer Shock for Wounds negated.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!HKkg29ntUbHJ3wT4"

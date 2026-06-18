@@ -1,0 +1,17 @@
+name: Grand Strategist
+type: talent
+_id: ckTKcIom4qy8rAHb
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: h3elnXYgwSfu8dkL
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: "<p>While this Adversary is on the battlefield, each time you spend Ruin, roll 1d6: on an Exalted Icon, that point of Ruin is refunded.</p>"
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!ckTKcIom4qy8rAHb"

@@ -1,0 +1,17 @@
+name: Draconian Disciplinarian
+type: talent
+_id: l1rUTIXjSRp7NbdE
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: h3elnXYgwSfu8dkL
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>[REGIMENT] allies within 6m of this Adversary add +Tier to their Resolve and may re-roll any failures when they make a Resolve test.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!l1rUTIXjSRp7NbdE"

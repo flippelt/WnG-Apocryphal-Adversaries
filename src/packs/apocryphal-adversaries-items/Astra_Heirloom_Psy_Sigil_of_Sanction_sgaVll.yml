@@ -1,0 +1,17 @@
+name: Psy-Sigil of Sanction
+type: talent
+_id: sgaVllLD7d6MLRrc
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: YtwBsg7TW3spLFG5
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p><em>PSYKER Adversary only.</em> The bearer knows one additional psychic power from the Psykana discipline. In addition, the psyker may attempt to use up to Tier psychic powers in a single combat action as a Multi-Action.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!sgaVllLD7d6MLRrc"

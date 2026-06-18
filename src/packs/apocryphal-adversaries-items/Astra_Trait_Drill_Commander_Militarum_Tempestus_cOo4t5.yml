@@ -1,0 +1,17 @@
+name: Drill Commander [Militarum Tempestus]
+type: talent
+_id: cOo4t5RJaX2K1mey
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: h3elnXYgwSfu8dkL
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p><em>Militarum Tempestus only.</em> When MILITARUM TEMPESTUS allies within 6m of this Adversary make a ranged attack with a Rapid Fire weapon, they gain the benefits of Rapid Fire at any range, not just Short Range.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!cOo4t5RJaX2K1mey"

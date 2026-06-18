@@ -1,0 +1,47 @@
+name: Nightshroud
+type: psychicPower
+_id: VQkShJYAeUe50byM
+img: modules/wng-core/assets/icons/powers/power.webp
+folder: yP4o7FqidGHOlyvS
+sort: 0
+system:
+  dn: "5"
+  type: ""
+  specification: ""
+  description: <p>Calling upon the power of the empyrean, you cloak your allies in a flowing curtain of shadow, concealing them from the enemy. Select a number of IMPERIUM allies you can see within range equal to your Willpower. While this power remains in effect, affected allies add +2 to their Defence. If any affected ally attempts a Stealth test, they gain +2 bonus dice. <em>Potency:</em> [2] +1 Defence. [1] Affect +1 ally. *[2] Affected allies who have a Stealth Score may increase it by +1 at the start of each turn this power remains in effect.</p>
+  effect: ""
+  cost: 0
+  activation: Action
+  duration: Sustained
+  range: 12m
+  multiTarget: false
+  keywords: PSYCHIC
+  prerequisites: Psyker must have the ADEPTUS ASTRA TELEPATHICA keyword.
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 0
+      five: 0
+      six: 0
+  otherDamage:
+    mortalWounds: ""
+    wounds: ""
+    shock: ""
+  potency: []
+  test:
+    dn: null
+    type: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!VQkShJYAeUe50byM"

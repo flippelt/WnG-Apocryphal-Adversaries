@@ -1,0 +1,17 @@
+name: Front-Line Combatant
+type: talent
+_id: CpDJQJ1ULarakGPL
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: h3elnXYgwSfu8dkL
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>This Adversary’s melee attacks gain the Sustained quality, and roll +Tier ED on the damage roll.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!CpDJQJ1ULarakGPL"

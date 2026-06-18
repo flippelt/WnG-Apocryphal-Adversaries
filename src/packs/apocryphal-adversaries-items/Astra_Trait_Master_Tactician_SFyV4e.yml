@@ -1,0 +1,17 @@
+name: Master Tactician
+type: talent
+_id: SFyV4elw4txNRkho
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: h3elnXYgwSfu8dkL
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: "<p><strong>Battlecry:</strong> The Adversary may spend 1-3 Ruin: for each Ruin spent, pick one [REGIMENT] mob or vehicle on the battlefield, which may immediately make a standard move.</p>"
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!SFyV4elw4txNRkho"

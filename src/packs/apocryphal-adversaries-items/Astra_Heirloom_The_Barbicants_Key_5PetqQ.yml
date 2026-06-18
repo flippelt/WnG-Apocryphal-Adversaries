@@ -1,0 +1,17 @@
+name: The Barbicant's Key
+type: talent
+_id: 5PetqQyiL5OujPNi
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: YtwBsg7TW3spLFG5
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>Once per scene, at the start of their turn, the bearer may use this relic. The bearer and a single [REGIMENT] Mob (or up to 5 [REGIMENT] Threats) vanish and reappear anywhere on the battlefield more than 9m from any enemies. If any affected Threats Charge during this turn, they increase their Speed by +2.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!5PetqQyiL5OujPNi"

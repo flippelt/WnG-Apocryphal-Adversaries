@@ -1,0 +1,17 @@
+name: Finial of Nemrodesh 1st
+type: talent
+_id: Xe75hXv7YZ1lBfZ2
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: YtwBsg7TW3spLFG5
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p><em>Threat with the Regimental Standard rule accompanying an Adversary OFFICER only.</em> When a [REGIMENT] ally is affected by the Threat’s Regimental Standard rule, an enemy wounded by that ally’s attacks cannot roll Determination.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!Xe75hXv7YZ1lBfZ2"
