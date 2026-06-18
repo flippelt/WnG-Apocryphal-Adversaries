@@ -1,0 +1,19 @@
+name: Raiment Revulsive
+type: gear
+_id: A41kQi0uMkOdNBF3
+img: modules/wng-core/assets/icons/gear/gear.webp
+folder: 457Gs759CPHrbNEu
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p><em>EMPEROR’S CHILDREN or CULTIST Adversary only.</em> A CULTIST gains the EMPEROR’S CHILDREN keyword. While an EMPEROR’S CHILDREN or CULTIST is within 6m, they may reduce the DN penalty of a Multi-Action by 2. Enemies who begin their turn within 6m are Hindered 2.</p>
+  value: 0
+  keywords: ""
+  equipped: false
+  traits: []
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!A41kQi0uMkOdNBF3"

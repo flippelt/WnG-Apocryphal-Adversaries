@@ -1,0 +1,47 @@
+name: Distortion
+type: weapon
+_id: SvpykIiO0GHXyy5k
+img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+folder: 457Gs759CPHrbNEu
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: "<p><em>EMPEROR’S CHILDREN Adversary with a power sword or force sword only; replaces it.</em> Damage S+4. Choose a profile each attack — Elegant Incision (shown) or Inelegant Slash: S+8 +5ED / AP -4 / Brutal, Parry.</p>"
+  value: 0
+  keywords: ""
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 4
+    bonus: 0
+    rank: none
+  ed:
+    base: 4
+    bonus: 0
+    rank: none
+  ap:
+    base: -2
+    bonus: 0
+    rank: none
+  category: melee
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 1
+    thrown: null
+  ammo: ""
+  salvo: 0
+  traits:
+    - name: parry
+    - name: reaping
+  upgrades: []
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!SvpykIiO0GHXyy5k"

@@ -1,0 +1,17 @@
+name: Loathsome Grace
+type: talent
+_id: Ugh9ltxduPCeYiAK
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: MbW4ieMxiPy46Twv
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>This Warlord’s Speed is increased by +2.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!Ugh9ltxduPCeYiAK"

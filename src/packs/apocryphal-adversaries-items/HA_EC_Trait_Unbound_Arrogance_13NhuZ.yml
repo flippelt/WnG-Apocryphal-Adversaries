@@ -1,0 +1,17 @@
+name: Unbound Arrogance
+type: talent
+_id: 13NhuZOIzuYrW1EO
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: MbW4ieMxiPy46Twv
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: "<p>At the start of each of this Adversary’s turns, secretly choose a number 1-3; the nearest PC’s player does the same. Reveal simultaneously: if the numbers differ, the Adversary gains Ruin equal to the number chosen for him.</p>"
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!13NhuZOIzuYrW1EO"

@@ -1,0 +1,19 @@
+name: The Endless Grin
+type: gear
+_id: 0p8loEt8FhGyQ6GL
+img: modules/wng-core/assets/icons/gear/gear.webp
+folder: 457Gs759CPHrbNEu
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p><em>EMPEROR’S CHILDREN Adversary only.</em> The Adversary adds +Tier bonus dice to all Determination rolls. In addition, when the GM spends Ruin to keep this Adversary alive on 1 Wound, it immediately heals Wounds equal to the game’s Tier.</p>
+  value: 0
+  keywords: ""
+  equipped: false
+  traits: []
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!0p8loEt8FhGyQ6GL"

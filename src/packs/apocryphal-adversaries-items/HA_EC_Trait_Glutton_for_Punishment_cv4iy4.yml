@@ -1,0 +1,17 @@
+name: Glutton for Punishment
+type: talent
+_id: cv4iy48uNLTGqjFP
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: MbW4ieMxiPy46Twv
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>Whenever this Adversary rolls Determination, they regain 1 Shock for every Exalted Icon rolled.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!cv4iy48uNLTGqjFP"

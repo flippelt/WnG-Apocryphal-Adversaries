@@ -1,0 +1,19 @@
+name: Remnant of the Maraviglia
+type: gear
+_id: o0V9hWZcRmU4yPAr
+img: modules/wng-core/assets/icons/gear/gear.webp
+folder: 457Gs759CPHrbNEu
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: "<p><em>EMPEROR’S CHILDREN PRIEST only.</em> Once per scene, broadcast this recording as a Simple Action: until the start of the bearer’s next turn, all EMPEROR’S CHILDREN within 6m add bonus dice equal to the game’s Tier to their melee attacks.</p>"
+  value: 0
+  keywords: ""
+  equipped: false
+  traits: []
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!o0V9hWZcRmU4yPAr"

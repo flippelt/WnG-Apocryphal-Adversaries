@@ -131,10 +131,12 @@ Converted faction by faction from the source PDFs. See
   daemon engines (Foetid Bloat-drone, Myphitic Blight-hauler, Plagueburst
   Crawler), Typhus and the Daemon Primarch **Mortarion** — plus 40 items (the
   Contagion discipline, Adversary Traits, Relics of Decay and Deadly Pathogens).
-  The remaining cult legions (Emperor's Children → `0.9.6`, Thousand Sons →
-  `0.9.8`, World Eaters → `1.0.0`) ship next.
-- ⏳ **To do:** Heretic Astartes cult legions (Emperor's Children, Thousand Sons,
-  World Eaters), then the WIP Adeptus Astartes once it is finalised.
+- 🔧 **— Emperor's Children (Slaanesh) cult legion done (v0.9.6):** the Noise
+  Marine, Slaangor Fiendbloods and **Lucius the Eternal** — plus 12 items
+  (Adversary Traits and Relics of Excess). Thousand Sons → `0.9.8`, World Eaters →
+  `1.0.0` ship next.
+- ⏳ **To do:** Heretic Astartes cult legions (Thousand Sons, World Eaters), then
+  the WIP Adeptus Astartes once it is finalised.
 
 **Versioning:** new factions get a **minor** bump (`0.8.0`, `0.9.0`, …); updates
 to an already-published faction (tracking a newer source revision) get a **patch**
