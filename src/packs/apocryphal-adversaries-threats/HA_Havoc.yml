@@ -1,0 +1,939 @@
+folder: HAstartesBase001
+name: Havoc
+type: threat
+_id: bT7izhIJ8Up3fDcI
+img: icons/environment/people/infantry.webp
+system:
+  attributes:
+    strength:
+      label: ATTRIBUTE.STRENGTH
+      rating: 0
+      base: 8
+      bonus: 0
+      cost: 0
+      total: 0
+    toughness:
+      label: ATTRIBUTE.TOUGHNESS
+      rating: 0
+      base: 6
+      bonus: 0
+      cost: 0
+      total: 0
+    agility:
+      label: ATTRIBUTE.AGILITY
+      rating: 0
+      base: 5
+      bonus: 0
+      cost: 0
+      total: 0
+    initiative:
+      label: ATTRIBUTE.INITIATIVE
+      rating: 0
+      base: 5
+      bonus: 0
+      cost: 0
+      total: 0
+    willpower:
+      label: ATTRIBUTE.WILLPOWER
+      rating: 0
+      base: 4
+      bonus: 0
+      cost: 0
+      total: 0
+    intellect:
+      label: ATTRIBUTE.INTELLECT
+      rating: 0
+      base: 4
+      bonus: 0
+      cost: 0
+      total: 0
+    fellowship:
+      label: ATTRIBUTE.FELLOWSHIP
+      rating: 0
+      base: 2
+      bonus: 0
+      cost: 0
+      total: 0
+  skills:
+    athletics:
+      label: SKILL.ATHLETICS
+      attribute: strength
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    awareness:
+      label: SKILL.AWARENESS
+      attribute: intellect
+      rating: 5
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    ballisticSkill:
+      label: SKILL.BALLISTIC_SKILL
+      attribute: agility
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    cunning:
+      label: SKILL.CUNNING
+      attribute: fellowship
+      rating: 5
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    deception:
+      label: SKILL.DECEPTION
+      attribute: fellowship
+      rating: 5
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    insight:
+      label: SKILL.INSIGHT
+      attribute: fellowship
+      rating: 5
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    intimidation:
+      label: SKILL.INTIMIDATION
+      attribute: willpower
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    investigation:
+      label: SKILL.INVESTIGATION
+      attribute: intellect
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    leadership:
+      label: SKILL.LEADERSHIP
+      attribute: willpower
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    medicae:
+      label: SKILL.MEDICAE
+      attribute: intellect
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    persuasion:
+      label: SKILL.PERSUASION
+      attribute: fellowship
+      rating: 5
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    pilot:
+      label: SKILL.PILOT
+      attribute: agility
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    psychicMastery:
+      label: SKILL.PSYCHIC_MASTERY
+      attribute: willpower
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    scholar:
+      label: SKILL.SCHOLAR
+      attribute: intellect
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    stealth:
+      label: SKILL.STEALTH
+      attribute: agility
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    survival:
+      label: SKILL.SURVIVAL
+      attribute: willpower
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    tech:
+      label: SKILL.TECH
+      attribute: intellect
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    weaponSkill:
+      label: SKILL.WEAPON_SKILL
+      attribute: initiative
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+  combat:
+    defense:
+      bonus: 0
+      total: 0
+    defence:
+      bonus: 0
+      total: 0
+    resilience:
+      bonus: 0
+      total: 0
+    wounds:
+      value: 0
+      bonus: 0
+      max: 10
+    determination:
+      bonus: 0
+      total: 0
+    shock:
+      value: 0
+      bonus: 0
+      max: 6
+    resolve:
+      bonus: 1
+      total: 0
+    conviction:
+      bonus: 0
+      total: 0
+    size: average
+    speed: 6
+    fly: 0
+    passiveAwareness:
+      bonus: 0
+      total: 0
+    stealth: 0
+  bio:
+    species: ""
+    faction: Heretic Astartes
+    archetype: ""
+    threat:
+      first: A
+      second: A
+      third: E
+      fourth: E
+      fifth: T
+  resources:
+    ruin: 0
+  corruption:
+    current: 0
+  mob: null
+  notes: <p>Havoc — a heavy-weapons specialist who lays down devastating supporting fire and dominates whole swathes of the battlefield.</p>
+prototypeToken:
+  name: Havoc
+  displayName: 20
+  actorLink: false
+  appendNumber: false
+  prependAdjective: false
+  texture:
+    src: icons/environment/people/infantry.webp
+    scaleX: 1
+    scaleY: 1
+    offsetX: 0
+    offsetY: 0
+    rotation: 0
+  width: 1
+  height: 1
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  disposition: -1
+  displayBars: 20
+  bar1:
+    attribute: combat.wounds
+  bar2:
+    attribute: combat.shock
+  sight:
+    enabled: false
+    range: 0
+    angle: 360
+    visionMode: basic
+  detectionModes: []
+  flags: {}
+  randomImg: false
+items:
+  - name: CHAOS
+    type: keyword
+    _id: oxPKae3k9EsVJCrN
+    img: icons/svg/eye.svg
+    system:
+      description: <p>A servant of the Dark Gods.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!bT7izhIJ8Up3fDcI.oxPKae3k9EsVJCrN"
+  - name: "[MARK OF CHAOS]"
+    type: keyword
+    _id: QgNSI0sMemy0O0uP
+    img: icons/svg/eye.svg
+    system:
+      description: <p>Replace with the Mark of a Dark God (Khorne/Tzeentch/Slaanesh/Nurgle), or UNDIVIDED — see common rules for the granted benefit.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!bT7izhIJ8Up3fDcI.QgNSI0sMemy0O0uP"
+  - name: HERETIC ASTARTES
+    type: keyword
+    _id: l6l7HCrPk26THdzV
+    img: icons/svg/eye.svg
+    system:
+      description: <p>A traitor Space Marine.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!bT7izhIJ8Up3fDcI.l6l7HCrPk26THdzV"
+  - name: "[LEGION]"
+    type: keyword
+    _id: MgxAEVXHr39pCwgm
+    img: icons/svg/eye.svg
+    system:
+      description: <p>Replace with the Legion/Warband keyword (Black Legion, Iron Warriors, Alpha Legion, etc.).</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!bT7izhIJ8Up3fDcI.MgxAEVXHr39pCwgm"
+  - name: CHAMPION
+    type: keyword
+    _id: sMSXJs7rlcX7C8M2
+    img: icons/svg/eye.svg
+    system:
+      description: <p>A champion who may take Ruin Actions.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!bT7izhIJ8Up3fDcI.sMSXJs7rlcX7C8M2"
+  - name: Mk V Power Armour
+    type: armour
+    _id: GMRxrEBTNrohheKU
+    img: modules/wng-core/assets/icons/armour/armour.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: <p>5 AR.</p>
+      value: 0
+      keywords: ""
+      equipped: true
+      rating: 5
+      base: 0
+      traits: []
+      invulnerable: false
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!bT7izhIJ8Up3fDcI.GMRxrEBTNrohheKU"
+  - name: Havoc Autocannon
+    type: weapon
+    _id: R7tzslUektxiiFWN
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: ""
+      value: 0
+      keywords: ""
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 16
+        bonus: 0
+        rank: none
+      ed:
+        base: 2
+        bonus: 0
+        rank: none
+      ap:
+        base: -2
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 24
+        medium: 48
+        long: 72
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: 3
+      traits:
+        - name: heavy
+          rating: 6
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!bT7izhIJ8Up3fDcI.R7tzslUektxiiFWN"
+  - name: Bolt Pistol
+    type: weapon
+    _id: p6Li8Kaetqb9OBcg
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: ""
+      value: 0
+      keywords: ""
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 10
+        bonus: 0
+        rank: none
+      ed:
+        base: 1
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 6
+        medium: 12
+        long: 18
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: 1
+      traits:
+        - name: brutal
+        - name: pistol
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!bT7izhIJ8Up3fDcI.p6Li8Kaetqb9OBcg"
+  - name: Astartes Combat Knife
+    type: weapon
+    _id: l3CF3QKtBaVYu0Uy
+    img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: ""
+      value: 0
+      keywords: ""
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 10
+        bonus: 0
+        rank: none
+      ed:
+        base: 2
+        bonus: 0
+        rank: none
+      ap:
+        base: -1
+        bonus: 0
+        rank: none
+      category: melee
+      range:
+        short: 0
+        medium: 0
+        long: 0
+        melee: 1
+        thrown: null
+      ammo: ""
+      salvo: 0
+      traits:
+        - name: reliable
+          custom: true
+          display: Reliable
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!bT7izhIJ8Up3fDcI.l3CF3QKtBaVYu0Uy"
+  - name: Heavy Bolter
+    type: weapon
+    _id: STzN3KRAiKVULvUg
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: <p>Heavy Weapons option.</p>
+      value: 0
+      keywords: ""
+      equipped: false
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 12
+        bonus: 0
+        rank: none
+      ed:
+        base: 2
+        bonus: 0
+        rank: none
+      ap:
+        base: -1
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 18
+        medium: 36
+        long: 54
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: 3
+      traits:
+        - name: brutal
+        - name: heavy
+          rating: 4
+        - name: rapidFire
+          rating: 4
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!bT7izhIJ8Up3fDcI.STzN3KRAiKVULvUg"
+  - name: Lascannon
+    type: weapon
+    _id: cKW3St0pRYGcCwSX
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: <p>Heavy Weapons option.</p>
+      value: 0
+      keywords: ""
+      equipped: false
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 18
+        bonus: 0
+        rank: none
+      ed:
+        base: 3
+        bonus: 0
+        rank: none
+      ap:
+        base: -3
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 24
+        medium: 48
+        long: 72
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: 1
+      traits:
+        - name: heavy
+          rating: 8
+        - name: reliable
+          custom: true
+          display: Reliable
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!bT7izhIJ8Up3fDcI.cKW3St0pRYGcCwSX"
+  - name: Reaper Chaincannon
+    type: weapon
+    _id: xh86Y09CAdKiPsFr
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: <p>Heavy Weapons option.</p>
+      value: 0
+      keywords: ""
+      equipped: false
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 12
+        bonus: 0
+        rank: none
+      ed:
+        base: 1
+        bonus: 0
+        rank: none
+      ap:
+        base: -1
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 12
+        medium: 24
+        long: 36
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: 8
+      traits:
+        - name: heavy
+          rating: 6
+        - name: rapidFire
+          rating: 3
+        - name: sustained
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!bT7izhIJ8Up3fDcI.xh86Y09CAdKiPsFr"
+  - name: Missile Launcher (Frag)
+    type: weapon
+    _id: 7bq1BphjEAnTu6FL
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: "<p>Heavy Weapons option. Krak: 16 +6ED / AP -2 / Blast (4).</p>"
+      value: 0
+      keywords: ""
+      equipped: false
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 12
+        bonus: 0
+        rank: none
+      ed:
+        base: 5
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 24
+        medium: 48
+        long: 72
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: null
+      traits:
+        - name: heavy
+          rating: 6
+        - name: blast
+          rating: 10
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!bT7izhIJ8Up3fDcI.7bq1BphjEAnTu6FL"
+  - name: Champion
+    type: talent
+    _id: w61AGtN8knCyXCvU
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>This Threat may use Ruin Actions and has 1 Personal Ruin. Also see Dark Pacts.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!bT7izhIJ8Up3fDcI.w61AGtN8knCyXCvU"
+  - name: Death to the False Emperor
+    type: talent
+    _id: yBfFuGYBtP9vGrFb
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>Each time this Threat rolls an Exalted Icon on an attack against an enemy with the IMPERIUM keyword, it may immediately roll one additional die on that attack. These additional dice cannot themselves grant extra dice.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!bT7izhIJ8Up3fDcI.yBfFuGYBtP9vGrFb"
+  - name: Malicious Volleys
+    type: talent
+    _id: ApQMuwQlxWmOMWxx
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>When making a ranged attack with a BOLT weapon with the Rapid Fire (X) trait, the Threat increases the trait’s rating by +Tier.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!bT7izhIJ8Up3fDcI.ApQMuwQlxWmOMWxx"
+  - name: Space Marine Implants
+    type: talent
+    _id: RnwU2LxsB3dnB0L4
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>This Threat has the bio-engineered implants of a Space Marine (W&G core rulebook), allowing unusual actions or a bonus die on certain actions.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!bT7izhIJ8Up3fDcI.RnwU2LxsB3dnB0L4"
+  - name: Stabilisation Talons
+    type: talent
+    _id: zgUXg64tQz78f0Cs
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>Havocs ignore the Heavy quality on their weapons but cannot Sprint.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!bT7izhIJ8Up3fDcI.zgUXg64tQz78f0Cs"
+  - name: Battlecry
+    type: ability
+    _id: 8QoDLaNNKP0S0TiT
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ""
+      specification: ""
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>The Havoc may either make a normal move, or a Suppressive Fire attack against the nearest visible enemy.</p>
+      display: true
+      abilityType: battlecry
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ""
+        wounds: ""
+        shock: ""
+      test:
+        dn: null
+        type: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!bT7izhIJ8Up3fDcI.8QoDLaNNKP0S0TiT"
+  - name: "Wrath: Unrelenting Devastation"
+    type: ability
+    _id: mQy5dwSWxNqqdlSI
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ""
+      specification: ""
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>When this Threat scores a Wrath Critical on an attack, they may spend 1 Ammo to immediately make another attack with that weapon.</p>
+      display: true
+      abilityType: wrath
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ""
+        wounds: ""
+        shock: ""
+      test:
+        dn: null
+        type: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!bT7izhIJ8Up3fDcI.mQy5dwSWxNqqdlSI"
+  - name: Determination
+    type: ability
+    _id: sPl2oUWLP30jGYZV
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ""
+      specification: ""
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>Spend 1 Ruin to roll 6d6.</p>
+      display: true
+      abilityType: determination
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ""
+        wounds: ""
+        shock: ""
+      test:
+        dn: null
+        type: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!bT7izhIJ8Up3fDcI.sPl2oUWLP30jGYZV"
+effects: []
+sort: 0
+ownership:
+  default: 0
+flags:
+  wrath-and-glory:
+    autoCalc:
+      defence: true
+      resilience: true
+      shock: true
+      awareness: true
+      resolve: true
+      determination: true
+      wounds: true
+      conviction: true
+    autoWounded: true
+    autoExhausted: true
+    generateMetaCurrencies: true
+_key: "!actors!bT7izhIJ8Up3fDcI"
