@@ -1,0 +1,17 @@
+name: Acidic Malady
+type: talent
+_id: RgIsQ4LmGIl5TErT
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: PZdgV88Y8dGl6hGt
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: "<p>The weapon’s AP is improved by 1 (e.g. from AP -1 to AP -2).</p><p><em>A Deadly Pathogen upgrades a single Plague Weapon (not a Relic of Decay or grenade): increase its damage by +1ED and apply this effect.</em></p>"
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!RgIsQ4LmGIl5TErT"

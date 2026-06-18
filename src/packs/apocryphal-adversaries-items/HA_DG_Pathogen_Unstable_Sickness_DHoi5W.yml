@@ -1,0 +1,17 @@
+name: Unstable Sickness
+type: talent
+_id: DHoi5Wsn78uRltht
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: PZdgV88Y8dGl6hGt
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: "<p>Each time an enemy is killed while suffering Poisoned X from this weapon, they explode, inflicting Tier Mortal Wounds to all other creatures within 3m (NURGLE creatures unaffected).</p><p><em>A Deadly Pathogen upgrades a single Plague Weapon (not a Relic of Decay or grenade): increase its damage by +1ED and apply this effect.</em></p>"
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!DHoi5Wsn78uRltht"

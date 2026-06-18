@@ -1,0 +1,19 @@
+name: Tollkeeper
+type: gear
+_id: 7QY72K2RFLu0h510
+img: modules/wng-core/assets/icons/gear/gear.webp
+folder: FdbVd4tQgWD4UhGI
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p><em>Tallyman only.</em> While a DEATH GUARD ally is within 7m of the bearer, each Exalted Icon they roll on a ranged attack lets them immediately roll one additional die on that attack (these cannot themselves grant extra dice).</p>
+  value: 0
+  keywords: ""
+  equipped: false
+  traits: []
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!7QY72K2RFLu0h510"

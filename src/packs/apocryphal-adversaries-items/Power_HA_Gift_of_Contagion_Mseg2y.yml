@@ -1,0 +1,47 @@
+name: Gift of Contagion
+type: psychicPower
+_id: Mseg2yQXoIHQEgAi
+img: modules/wng-core/assets/icons/powers/power.webp
+folder: FNFrMBmsnEnDKY8P
+sort: 0
+system:
+  dn: "4"
+  type: ""
+  specification: ""
+  description: <p>Affects enemies you can see within a Blast (6). Each enemy hit suffers the Poisoned (4) condition; while Poisoned they increase the DN of all Strength-based tests by +2. <em>Potency:</em> [1] +1 Poisoned rating. *[2] while Poisoned, affected targets also add +2 DN to all melee attacks.</p>
+  effect: ""
+  cost: 0
+  activation: Action
+  duration: Instant
+  range: 18m
+  multiTarget: true
+  keywords: CHAOS, NURGLE, PSYCHIC
+  prerequisites: Psyker must have the HERETIC ASTARTES and NURGLE keywords.
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 0
+      five: 0
+      six: 0
+  otherDamage:
+    mortalWounds: ""
+    wounds: ""
+    shock: ""
+  potency: []
+  test:
+    dn: null
+    type: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!Mseg2yQXoIHQEgAi"

@@ -1,0 +1,19 @@
+name: The Daemon's Favour
+type: gear
+_id: iQYrpy14A1Hc6MJs
+img: modules/wng-core/assets/icons/gear/gear.webp
+folder: FdbVd4tQgWD4UhGI
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: "<p><em>Malignant Plaguecaster only.</em> Replaces Pestilential Fallout with Torrent of Putrefaction: on Exalted Icons on Wrath Dice when activating a power, one enemy within 14m gains Poisoned 7; if none, a single enemy within 7m gains Poisoned 3.</p>"
+  value: 0
+  keywords: ""
+  equipped: false
+  traits: []
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!iQYrpy14A1Hc6MJs"

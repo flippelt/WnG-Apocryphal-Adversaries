@@ -1,0 +1,19 @@
+name: Warp Insect Hive
+type: gear
+_id: OeRSYo9k6VaEmpC9
+img: modules/wng-core/assets/icons/gear/gear.webp
+folder: FdbVd4tQgWD4UhGI
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p>Each time the bearer makes a melee attack, they may re-roll up to Tier dice on the attack skill test and up to Tier ED on the damage roll.</p>
+  value: 0
+  keywords: ""
+  equipped: false
+  traits: []
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!OeRSYo9k6VaEmpC9"

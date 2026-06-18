@@ -1,0 +1,17 @@
+name: Revoltingly Resilient
+type: talent
+_id: Cg1Jo0MFGi6EJRU0
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: ZfO4YNgvu4T8p4lG
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>When the Adversary rolls Determination, he may re-roll any dice which roll 1.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!Cg1Jo0MFGi6EJRU0"

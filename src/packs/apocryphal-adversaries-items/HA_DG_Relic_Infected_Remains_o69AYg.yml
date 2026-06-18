@@ -1,0 +1,19 @@
+name: Infected Remains
+type: gear
+_id: o69AYgLqJw4wVw9Z
+img: modules/wng-core/assets/icons/gear/gear.webp
+folder: FdbVd4tQgWD4UhGI
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p>Once per scene, as a Simple Action, mark a point within 3m. For the rest of the scene, that point has all the same Contagion abilities as the Adversary.</p>
+  value: 0
+  keywords: ""
+  equipped: false
+  traits: []
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!o69AYgLqJw4wVw9Z"

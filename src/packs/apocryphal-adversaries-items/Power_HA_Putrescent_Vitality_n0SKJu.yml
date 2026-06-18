@@ -1,0 +1,47 @@
+name: Putrescent Vitality
+type: psychicPower
+_id: n0SKJuLrUwZi1u50
+img: modules/wng-core/assets/icons/powers/power.webp
+folder: FNFrMBmsnEnDKY8P
+sort: 0
+system:
+  dn: "6"
+  type: ""
+  specification: ""
+  description: <p>Select a number of NURGLE allies within range equal to your Willpower. The affected allies add +2 to Strength and Toughness until the start of your next turn. <em>Potency:</em> [1] each affected ally regains 1d3 Shock. [2] each affected ally regains 1 Wound.</p><p><em>The Contagion discipline also includes Miasma of Pestilence (see the Dark Hereticus discipline).</em></p>
+  effect: ""
+  cost: 0
+  activation: Action
+  duration: 1 Round
+  range: 18m
+  multiTarget: false
+  keywords: CHAOS, NURGLE, PSYCHIC
+  prerequisites: Psyker must have the HERETIC ASTARTES and NURGLE keywords.
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 0
+      five: 0
+      six: 0
+  otherDamage:
+    mortalWounds: ""
+    wounds: ""
+    shock: ""
+  potency: []
+  test:
+    dn: null
+    type: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!n0SKJuLrUwZi1u50"

@@ -1,0 +1,17 @@
+name: Arch-Contaminator
+type: talent
+_id: AXNA1frbjkXgMd07
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: ZfO4YNgvu4T8p4lG
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>Allied DEATH GUARD within 7m may re-roll any failures on ED with any weapon which has the Inflict (Poisoned X) quality.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!AXNA1frbjkXgMd07"

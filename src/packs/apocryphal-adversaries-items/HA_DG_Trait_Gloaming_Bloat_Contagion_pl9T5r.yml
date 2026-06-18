@@ -1,0 +1,17 @@
+name: Gloaming Bloat [Contagion]
+type: talent
+_id: pl9T5rkNAo8BbmNo
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: ZfO4YNgvu4T8p4lG
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>Enemies within Contagion Range cannot make Reflexive Actions, and may not re-roll any dice on attacks or damage rolls.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!pl9T5rkNAo8BbmNo"

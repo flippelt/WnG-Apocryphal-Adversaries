@@ -1,0 +1,17 @@
+name: Nurgle's Fruit [Contagion]
+type: talent
+_id: gGPfwO0Y2JH3eDnq
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: ZfO4YNgvu4T8p4lG
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>Enemies within Contagion Range gain no Cover bonus to Defence against attacks from DEATH GUARD threats.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!gGPfwO0Y2JH3eDnq"

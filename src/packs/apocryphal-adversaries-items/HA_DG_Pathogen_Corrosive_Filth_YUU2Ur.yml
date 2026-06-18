@@ -1,0 +1,17 @@
+name: Corrosive Filth
+type: talent
+_id: YUU2UrTj4efZglo3
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: PZdgV88Y8dGl6hGt
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: "<p>The weapon gains the Bane (Vehicles) quality.</p><p><em>A Deadly Pathogen upgrades a single Plague Weapon (not a Relic of Decay or grenade): increase its damage by +1ED and apply this effect.</em></p>"
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!YUU2UrTj4efZglo3"

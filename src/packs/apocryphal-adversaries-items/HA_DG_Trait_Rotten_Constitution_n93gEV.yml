@@ -1,0 +1,17 @@
+name: Rotten Constitution
+type: talent
+_id: n93gEVx2Ozdzv0mh
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: ZfO4YNgvu4T8p4lG
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>The Adversary’s Toughness is increased by +2 (raising Resilience, Determination and Maximum Wounds). Each time the Adversary is hit by an attack with AP -1 or -2, the AP is treated as 0 instead.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!n93gEVx2Ozdzv0mh"

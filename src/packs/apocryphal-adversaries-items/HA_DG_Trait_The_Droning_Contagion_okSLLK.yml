@@ -1,0 +1,17 @@
+name: The Droning [Contagion]
+type: talent
+_id: okSLLKfQ5LTUBtUY
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: ZfO4YNgvu4T8p4lG
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>If an enemy is within Contagion Range at the start of their turn, they must pass a Toughness test (DN 2 +Tier) or be Staggered.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!okSLLKfQ5LTUBtUY"

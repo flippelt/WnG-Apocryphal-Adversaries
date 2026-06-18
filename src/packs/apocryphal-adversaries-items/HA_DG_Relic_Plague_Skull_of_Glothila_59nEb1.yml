@@ -1,0 +1,54 @@
+name: Plague Skull of Glothila
+type: weapon
+_id: 59nEb1QlgPB5tunC
+img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+folder: FdbVd4tQgWD4UhGI
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p>A single unique grenade. Thrown Strength ×4.</p>
+  value: 0
+  keywords: ""
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 7
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 0
+    thrown: null
+  ammo: ""
+  salvo: 0
+  traits:
+    - name: blast
+      rating: 7
+    - name: inflict
+      custom: true
+      display: Inflict (Poisoned 7)
+    - name: mortal
+      rating: 1
+    - name: rad
+      rating: 2
+  upgrades: []
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!59nEb1QlgPB5tunC"

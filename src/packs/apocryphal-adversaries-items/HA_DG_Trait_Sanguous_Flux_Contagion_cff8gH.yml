@@ -1,0 +1,17 @@
+name: Sanguous Flux [Contagion]
+type: talent
+_id: cff8gHjoJGV9YSZY
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: ZfO4YNgvu4T8p4lG
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>While an enemy is within Contagion Range, all attacks against them inflict the Bleeding condition, and their Resolve is reduced by 1 (min 1).</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!cff8gHjoJGV9YSZY"
