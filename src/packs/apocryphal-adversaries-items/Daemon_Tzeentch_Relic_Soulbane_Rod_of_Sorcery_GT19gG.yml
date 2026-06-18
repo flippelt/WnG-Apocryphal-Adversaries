@@ -1,0 +1,48 @@
+name: "Relic: Soulbane (Rod of Sorcery)"
+type: weapon
+_id: GT19gGCVFG5yQ5hn
+img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+folder: bmUGfUJfPIvMNnTt
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p>Replaces a Rod of Sorcery. An incorporeal blade that carves through the soul rather than the body.</p>
+  value: 0
+  keywords: ""
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 13
+    bonus: 0
+    rank: none
+  ed:
+    base: 4
+    bonus: 0
+    rank: none
+  ap:
+    base: -2
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 6
+    medium: 12
+    long: 18
+    melee: 0
+    thrown: null
+  ammo: ""
+  salvo: 0
+  traits:
+    - name: agonising
+    - name: blast
+      rating: 9
+  upgrades: []
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!GT19gGCVFG5yQ5hn"

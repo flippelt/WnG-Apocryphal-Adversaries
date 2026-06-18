@@ -1,0 +1,17 @@
+name: "Adversary Trait: Born of Sorcery"
+type: talent
+_id: W1GomK0g70SesDDb
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: bmUGfUJfPIvMNnTt
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>When attempting to activate a psychic power, the Adversary may re-roll a number of dice equal to the game’s Tier.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!W1GomK0g70SesDDb"

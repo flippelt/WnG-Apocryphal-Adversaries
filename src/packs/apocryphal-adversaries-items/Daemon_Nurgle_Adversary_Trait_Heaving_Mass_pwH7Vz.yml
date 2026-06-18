@@ -1,0 +1,17 @@
+name: "Adversary Trait: Heaving Mass"
+type: talent
+_id: pwH7Vz6koiuzkkht
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: Vs9xnXH0aRee5K58
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>Increase the Adversary’s Maximum Wounds by an amount equal to half their Toughness (round up).</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!pwH7Vz6koiuzkkht"

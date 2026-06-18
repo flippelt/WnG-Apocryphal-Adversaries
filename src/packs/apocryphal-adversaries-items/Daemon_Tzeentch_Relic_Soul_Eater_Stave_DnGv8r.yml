@@ -1,0 +1,18 @@
+name: "Relic: Soul-Eater Stave"
+type: gear
+_id: DnGv8r9cMJm75qee
+img: modules/wng-core/assets/icons/gear/gear.webp
+folder: bmUGfUJfPIvMNnTt
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p>TZEENTCH PSYKER only. The bearer heals 1d3 Wounds each time it kills an enemy with a psychic power.</p>
+  value: 0
+  keywords: ""
+  effect: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!DnGv8r9cMJm75qee"

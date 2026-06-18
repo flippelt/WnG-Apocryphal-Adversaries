@@ -1,0 +1,17 @@
+name: "Adversary Trait: Rage Incarnate"
+type: talent
+_id: gYgkWC5J0u5Pm7jE
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: f4TYtZlwzVEqaear
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>(GREATER DAEMON / DAEMON PRINCE only.) This Adversary is Frenzied and adds +1 Speed when it Sprints or Charges. All KHORNE DAEMONS within 8m are also Frenzied and add +1 Speed when they Sprint or Charge.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!gYgkWC5J0u5Pm7jE"

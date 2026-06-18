@@ -1,0 +1,17 @@
+name: Disciple of Be’Lakor (template)
+type: talent
+_id: xspwI6xfudmOFG8F
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: jCG9pynERLkqzeLP
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: "<p>A Threat with the CHAOS keyword (and not GREATER DAEMON, DAEMON PRINCE, DAEMON ENGINE, World Eaters, Thousand Sons, Death Guard, or Emperor’s Children) may become a Disciple of Be’Lakor: it gains the DISCIPLE OF BE’LAKOR keyword; HERETIC ASTARTES may have no [MARK OF CHAOS] other than UNALIGNED and gain no [LEGION] rules (instead gaining Disciples of Shadows); if a PSYKER, it may use powers from the Noctic discipline.</p>"
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!xspwI6xfudmOFG8F"

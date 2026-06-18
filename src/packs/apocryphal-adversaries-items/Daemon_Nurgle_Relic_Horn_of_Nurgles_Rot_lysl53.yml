@@ -1,0 +1,18 @@
+name: "Relic: Horn of Nurgle’s Rot"
+type: gear
+_id: lysl53QfZgSmK8yT
+img: modules/wng-core/assets/icons/gear/gear.webp
+folder: Vs9xnXH0aRee5K58
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: "<p>For each Troop enemy this Adversary kills in melee, roll 1d6: on an Icon, the slain enemy is transformed into a Plaguebearer and joins the nearest Plaguebearer mob. For each Elite enemy killed, roll 1d6: on an Exalted Icon, the slain enemy becomes a Poxbringer.</p>"
+  value: 0
+  keywords: ""
+  effect: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!lysl53QfZgSmK8yT"

@@ -1,0 +1,17 @@
+name: "Adversary Trait: Quicksilver Duellist"
+type: talent
+_id: V3DTno8xXWbKTfPN
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: SJsKwMuTk0hMRcoC
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>(GREATER DAEMON / DAEMON PRINCE only.) Each time this Adversary makes a melee attack, it may re-roll any dice which roll 1 on the attack; if the attack is against a Player Character or Adversary NPC, it may also re-roll the attack’s ED.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!V3DTno8xXWbKTfPN"

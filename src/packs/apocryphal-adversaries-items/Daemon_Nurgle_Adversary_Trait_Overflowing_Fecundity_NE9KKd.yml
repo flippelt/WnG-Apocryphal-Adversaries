@@ -1,0 +1,17 @@
+name: "Adversary Trait: Overflowing Fecundity"
+type: talent
+_id: NE9KKdeEXp2gvdSx
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: Vs9xnXH0aRee5K58
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>(GREATER DAEMON / DAEMON PRINCE only.) Each time an attack is made against this Adversary, the maximum number of Wounds inflicted is equal to the total rolled on the attack’s ED.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!NE9KKdeEXp2gvdSx"

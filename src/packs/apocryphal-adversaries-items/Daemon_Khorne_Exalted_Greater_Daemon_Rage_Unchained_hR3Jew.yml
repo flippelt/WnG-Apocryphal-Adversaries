@@ -1,0 +1,17 @@
+name: "Exalted Greater Daemon: Rage Unchained"
+type: talent
+_id: hR3JewZ3ibzrdVzh
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: f4TYtZlwzVEqaear
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>This Exalted Daemon suffers no penalty for being Wounded, and adds +Tier bonus dice to its melee attacks while wounded.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!hR3JewZ3ibzrdVzh"

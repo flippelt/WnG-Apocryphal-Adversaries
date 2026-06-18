@@ -1,0 +1,17 @@
+name: "Exalted Greater Daemon: Indomitable Onslaught"
+type: talent
+_id: 3oQRqtcR7XkVYCBF
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: f4TYtZlwzVEqaear
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>The Exalted Daemon cannot suffer more than 8 Wounds in a single turn; excess damage is ignored.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!3oQRqtcR7XkVYCBF"

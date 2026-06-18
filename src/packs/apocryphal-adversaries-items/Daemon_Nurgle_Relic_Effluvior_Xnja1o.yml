@@ -1,0 +1,50 @@
+name: "Relic: Effluvior"
+type: weapon
+_id: Xnja1oESQ1FcB1NZ
+img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+folder: Vs9xnXH0aRee5K58
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p>Replaces an Adversary’s Plague Flail. Damage S+4 (adds Strength). Range 7. No range modifiers apply; it cannot hit its wielder in its own Blast.</p>
+  value: 0
+  keywords: ""
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 4
+    bonus: 0
+    rank: none
+  ed:
+    base: 5
+    bonus: 0
+    rank: none
+  ap:
+    base: -3
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 7
+    medium: 7
+    long: 7
+    melee: 0
+    thrown: null
+  ammo: ""
+  salvo: 0
+  traits:
+    - name: blast
+      rating: 3d3
+    - name: inflict
+      custom: true
+      display: Inflict (Poisoned 5)
+  upgrades: []
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!Xnja1oESQ1FcB1NZ"

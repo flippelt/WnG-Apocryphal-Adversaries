@@ -1,0 +1,17 @@
+name: "Adversary Trait: Warp Tether"
+type: talent
+_id: ZccaMEd6h42MOufw
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: bmUGfUJfPIvMNnTt
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>(GREATER DAEMON / DAEMON PRINCE only.) Friendly TZEENTCH DAEMONs within 12m may use this Adversary’s Resolve instead of their own.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!ZccaMEd6h42MOufw"

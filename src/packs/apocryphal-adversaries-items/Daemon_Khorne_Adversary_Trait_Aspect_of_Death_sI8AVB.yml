@@ -1,0 +1,17 @@
+name: "Adversary Trait: Aspect of Death"
+type: talent
+_id: sI8AVBM4NDzaaMWC
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: f4TYtZlwzVEqaear
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>While an enemy is within 6m of this Adversary, they suffer 1d3+Tier Shock when they fail a Resolve test.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!sI8AVBM4NDzaaMWC"

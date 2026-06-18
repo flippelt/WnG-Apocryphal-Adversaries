@@ -1,0 +1,17 @@
+name: "Adversary Trait: Virulent Touch"
+type: talent
+_id: 8bz8AdFuAs7jxp2R
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: Vs9xnXH0aRee5K58
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>Each time this Adversary makes a melee attack that hits, the target suffers a minimum number of Wounds equal to the game’s Tier, regardless of the attack’s damage or the target’s Resilience.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!8bz8AdFuAs7jxp2R"

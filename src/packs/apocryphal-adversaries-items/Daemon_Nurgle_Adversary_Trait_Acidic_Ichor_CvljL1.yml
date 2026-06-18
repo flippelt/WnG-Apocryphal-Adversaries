@@ -1,0 +1,17 @@
+name: "Adversary Trait: Acidic Ichor"
+type: talent
+_id: CvljL1veE4wtyLMr
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: Vs9xnXH0aRee5K58
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>Whenever this Adversary suffers one or more Wounds from a melee attack, roll 1d6 for each Wound suffered from that attack; for each Icon rolled, the attacker suffers 1 Mortal Wound.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!CvljL1veE4wtyLMr"

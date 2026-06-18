@@ -1,0 +1,18 @@
+name: "Relic: The Entropic Knell"
+type: gear
+_id: aOcH0q2i3ePJTr1j
+img: modules/wng-core/assets/icons/gear/gear.webp
+folder: Vs9xnXH0aRee5K58
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p>As a Simple Action, the Adversary may select enemies within a Blast (10) within 12m. Until the start of the Adversary’s next turn, affected enemies cannot benefit from any ability or bonus granted by an ally, and cannot gain or spend Glory.</p>
+  value: 0
+  keywords: ""
+  effect: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!aOcH0q2i3ePJTr1j"

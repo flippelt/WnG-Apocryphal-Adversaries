@@ -1,0 +1,17 @@
+name: "Exalted Greater Daemon: Bountiful Gifts"
+type: talent
+_id: Xl0neKLtVtlCftqG
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: Vs9xnXH0aRee5K58
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>While this Exalted Daemon is present on the battlefield, the maximum number of Ruin points is increased by +2.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!Xl0neKLtVtlCftqG"

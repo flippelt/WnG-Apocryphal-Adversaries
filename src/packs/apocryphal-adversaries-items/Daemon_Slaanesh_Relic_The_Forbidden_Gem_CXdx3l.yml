@@ -1,0 +1,18 @@
+name: "Relic: The Forbidden Gem"
+type: gear
+_id: CXdx3lQDqMRkTlMJ
+img: modules/wng-core/assets/icons/gear/gear.webp
+folder: SJsKwMuTk0hMRcoC
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p>When the bearer makes a Persuasion Interaction Attack, if the attack is successful then the target is also Exhausted until the start of your next turn.</p>
+  value: 0
+  keywords: ""
+  effect: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!CXdx3lQDqMRkTlMJ"

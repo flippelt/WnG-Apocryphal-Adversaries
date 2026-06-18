@@ -1,0 +1,18 @@
+name: "Relic: The Endless Gift"
+type: gear
+_id: e23ESd2YDSHcG75h
+img: modules/wng-core/assets/icons/gear/gear.webp
+folder: Vs9xnXH0aRee5K58
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p>At the start of each round, the Adversary regains a number of lost Wounds equal to the number of points of Ruin the GM possesses.</p>
+  value: 0
+  keywords: ""
+  effect: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!e23ESd2YDSHcG75h"

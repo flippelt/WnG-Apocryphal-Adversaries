@@ -1,0 +1,17 @@
+name: "Exalted Greater Daemon: Revoltingly Resilient"
+type: talent
+_id: zFd28rOX4YitjsAy
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: Vs9xnXH0aRee5K58
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>When rolling Determination against a melee attack, the Exalted Daemon may re-roll a number of dice equal to the game’s Tier.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!zFd28rOX4YitjsAy"

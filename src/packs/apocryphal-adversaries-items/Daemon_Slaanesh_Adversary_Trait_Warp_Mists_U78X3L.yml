@@ -1,0 +1,17 @@
+name: "Adversary Trait: Warp Mists"
+type: talent
+_id: U78X3LkxfErGsYau
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: SJsKwMuTk0hMRcoC
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>While this Adversary is present on the battlefield, the maximum number of Ruin points is increased by +2.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!U78X3LkxfErGsYau"

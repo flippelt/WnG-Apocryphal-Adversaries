@@ -1,0 +1,17 @@
+name: "Adversary Trait: Brazen Hide"
+type: talent
+_id: b457OsOlQUKbSLNA
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: f4TYtZlwzVEqaear
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>The Adversary may re-roll up to Tier dice when it rolls Determination.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!b457OsOlQUKbSLNA"

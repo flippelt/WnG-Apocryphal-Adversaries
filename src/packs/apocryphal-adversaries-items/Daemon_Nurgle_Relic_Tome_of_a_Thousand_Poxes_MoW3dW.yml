@@ -1,0 +1,18 @@
+name: "Relic: Tome of a Thousand Poxes"
+type: gear
+_id: MoW3dWgBpzSUvBlq
+img: modules/wng-core/assets/icons/gear/gear.webp
+folder: Vs9xnXH0aRee5K58
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p>NURGLE DAEMON PSYKERS only. The Adversary knows one additional power from the Warprot discipline. In addition, if it manifests a Warprot power and scores exactly 7 Icons on the Psychic Mastery test, that power cannot be countered by Deny the Witch.</p>
+  value: 0
+  keywords: ""
+  effect: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!MoW3dWgBpzSUvBlq"
