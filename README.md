@@ -49,12 +49,18 @@ Converted faction by faction from the source PDFs. See
   Tyrannofex, Haruspex, Exocrine, Toxicrene, Trygon and Mawloc) plus the 13
   Powers of the Hive Mind, a full Bio-Weapons armoury and the seven Hive Fleet
   adaptations.
-- ✅ **Drukhari — complete (v0.5.0):** 29 threats across the Kabals (Kabalite
-  Warrior, Archon and court), Wych Cults (Wyches, Hekatrix Bloodbrides, Hellions,
-  Beastmasters and their beasts, Succubus) and Haemonculi Covens (Wracks,
-  Grotesques, Cronos and Talos Pain Engines, Haemonculus), plus Incubi/Klaivex,
-  Mandrakes and Scourges — with 50 *Lords of the Dark City* items (Kabal/Cult/Coven
-  adaptations, Adversary Traits and Artefacts of Cruelty).
+- ✅ **Drukhari — complete (v0.5.0; updated to source v3 in v0.7.2):** 54 actors
+  (51 threats + 3 vehicles) — the Kabals (Kabalite Warrior, Archon and court, and
+  the full **Hand of the Archon** retinue: Archsybarite, Crimson Duellist, Disciple
+  of Yaelindra, Elixicant, Flayer, Gunner, Heavy Gunner, Skysplinter Assassin),
+  Wych Cults (Wyches, **Reavers**, Hellions, Beastmasters and beasts, Succubus),
+  Haemonculi Covens (Wracks, Grotesques, Cronos/Talos Pain Engines, Haemonculus),
+  Incubi/Klaivex, Scourges, and the **Mandrakes** with all variants (Nightfiend,
+  Abyssal, Chooser of the Flesh, Dirgemaw, Shadeweaver); **eight named lords**
+  (Asdrubael Vect, Aurelia Malys, Baron Sathonyx, Drazhar, Duke Sliscus, Lelith
+  Hesperax, Kheradruakh, Urien Rakarth); and **three vehicles** (Razorwing
+  Jetfighter, Voidraven Bomber, the Dias of Destruction) — with 50 *Lords of the
+  Dark City* items. **Power Through Pain** updated to the v3 Pain Token economy.
 - ✅ **T'au Empire — complete (v0.6.0):** 59 actors (Fire Caste infantry, the
   full drone range, Stealth/Crisis/Broadside suits and Commanders, the
   Ethereal/Earth/Air/Water castes, Kroot and Vespid auxiliaries, the Ghostkeel

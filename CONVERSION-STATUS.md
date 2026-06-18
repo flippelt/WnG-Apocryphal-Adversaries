@@ -22,7 +22,7 @@ abilities, wounds/resilience/defence). Converted faction by faction.
 | Daemonic Legions | Daemonic Legions — **v1** (30/01/2023) | — | 🔧 in progress (branch `feat/daemonic-legions`, targets v0.8.0) |
 | Heretic Astartes | Heretic Astartes — **v1** | — | ⬜ to do |
 | Asuryani (Aeldari) | The Asuryani — **v2** | v0.7.0 | ✅ done — 45 actors (41 threats + 4 vehicles) + 33 items (5 Craftworld adaptations, 12 Adversary Traits, 16 Remnants of Glory) |
-| Drukhari | The Drukhari — **v3** (24/11/2024) | v0.5.0 (earlier rev) | ✅ v0.5.0 done (29 threats + 50 items); 🔧 **v3 delta to apply** (Hand of the Archon + Mandrake threats, modified Power Through Pain) — diff against shipped content |
+| Drukhari | The Drukhari — **v3** (24/11/2024) | v0.7.2 (from v3) | ✅ done — 54 actors (51 threats + 3 vehicles) + 50 items. v0.7.2 brought full v3 parity: Power Through Pain reworked to Pain Tokens (24 actors), Poisonous→Fleshbane sweep, + Hand of the Archon (8), Reaver, Mandrake variants (5), 8 named lords, 3 vehicles (Razorwing Jetfighter, Voidraven Bomber, Dias of Destruction) |
 | T'au Empire | The T'au Empire — **v1** | v0.6.0 | ✅ done — 59 actors (52 threats + 7 vehicles) + 50 items (Sept adaptations, Support Systems, Adversary Traits, Prototype & Signature Systems) |
 | Malicious Miscellany | Malicious Miscellany — **v1** | — | ⬜ to do |
 | Astra Militarum | The Astra Militarum — **v1** (1/12/2024) | — | ⬜ to do — new faction (89pp, ~78 stat blocks) |
