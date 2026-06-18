@@ -32,7 +32,7 @@ here **with his permission**.
 Converted faction by faction from the source PDFs. See
 [CONVERSION-STATUS.md](CONVERSION-STATUS.md).
 
-- ✅ **Orks — complete (v0.2.0; updated to source v2 in v0.8.0):** 55 threats
+- ✅ **Orks — complete (v0.2.0; updated to source v2 in v0.7.1):** 55 threats
   (Boyz, Nobz, walkers, psykers and every named Warlord up to Ghazghkull, plus
   the full Kommando specialists — Breacha/Burna/Comms/Dakka/Grot/Nob/Rokkit/
   Slasha/Snipa Boyz — and the Wrecka Krews: Tankbusta Gunners & Rokkiteers,
@@ -74,7 +74,9 @@ Converted faction by faction from the source PDFs. See
   Remnants of Glory).
 - ⏳ **To do:** Daemonic Legions · Heretic Astartes · Malicious Miscellany.
 
-**v1.0.0 will be tagged once all nine faction PDFs are converted.**
+**Versioning:** new factions get a **minor** bump (`0.8.0`, `0.9.0`, …); updates
+to an already-published faction (tracking a newer source revision) get a **patch**
+bump (`0.7.1`, …). **`v1.0.0` is reserved for when every faction PDF is converted.**
 
 ## Development
 

@@ -16,7 +16,7 @@ abilities, wounds/resilience/defence). Converted faction by faction.
 
 | Faction | Source version | Converted at | Status |
 | --- | --- | --- | --- |
-| Orks | Orks — **v2** (10/9/2022; V2 expands Kommandos + Tankbustas/Wreckas) | v0.8.0 (from v2) | ✅ done — 55 threats + 34 items. v0.8.0 added the v2 delta: 9 Kommando specialists + base Kommando reworked, and the Wrecka Krews (Tankbusta Gunner/Rokkiteer, Wrecka Boss Nob, Breaka Boy Demolisha/Fighter/Krusha); old standalone Tankbusta superseded by Tankbusta Gunner |
+| Orks | Orks — **v2** (10/9/2022; V2 expands Kommandos + Tankbustas/Wreckas) | v0.7.1 (from v2) | ✅ done — 55 threats + 34 items. v0.7.1 added the v2 delta: 9 Kommando specialists + base Kommando reworked, and the Wrecka Krews (Tankbusta Gunner/Rokkiteer, Wrecka Boss Nob, Breaka Boy Demolisha/Fighter/Krusha); old standalone Tankbusta superseded by Tankbusta Gunner |
 | Tyranids | The Tyranids — **v1** | v0.4.0 | ✅ done — 28 threats + 39 items (13 Hive-Mind powers, 19 Bio-Weapons, 7 Hive Fleet adaptations) |
 | Necrons | The Necrons — **v2** (25/2/2021) | v0.3.0 | ✅ done — 39 actors (36 threats + 3 vehicles) + 38 items (Adversary Traits, Cryptek Arcana, Relics of the Aeons) |
 | Daemonic Legions | Daemonic Legions — **v1** (30/01/2023) | — | 🔧 in progress (branch `feat/daemonic-legions`, targets v0.8.0) |
