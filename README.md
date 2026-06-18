@@ -101,8 +101,21 @@ Converted faction by faction from the source PDFs. See
   Bastonne and Stumper Muckstart) and the Rogal Dorn, Salamander Command and
   Salamander Scout tanks — plus 42 items: the Psykana psychic discipline, the
   Hymns of Battle, Adversary Traits and the Heirlooms of Conquest.
-- ⏳ **To do:** Heretic Astartes · Malicious Miscellany (plus the WIP Adeptus
-  Astartes once it is finalised).
+- ✅ **Malicious Miscellany — complete (v0.9.0):** 63 actors across four
+  unrelated groups — the worm-mass **Slaugth** (Infiltrator, Overseer); the
+  rat-like **Hrud Skavengers** (Verminkin, Stormvermin, Clawlord, the Eshin
+  assassins, Moulder beasts, Skryre engineers, Pestilens plague-priests and the
+  Pale Seer); the **Seraphon** (Skinks, Saurus Warriors, Kroxigor, Skink
+  Starpriest, Saurus Oldblood, Slann Starmaster); and a large **Agents of the
+  Imperium** block — an Adeptus Custodes Custodian Guard, the four Sisters of
+  Silence, the full twelve-strong Adeptus Arbites precinct (with the R-VR
+  Cyber-Mastiff), the Inquisition (Mystic, Autosavant, Enlightener, Hexorcist,
+  Interrogator, Pistolier, Questkeeper and the Inquisitor) and an Astropath, the
+  eleven-unit Navis Imperialis Breacher kill team, and all four Officio
+  Assassinorum temples (Callidus, Culexus, Eversor, Vindicare) — plus 27 items:
+  the Warpvolt, Ruin, Celestial and Telethesia psychic disciplines.
+- ⏳ **To do:** Heretic Astartes (plus the WIP Adeptus Astartes once it is
+  finalised).
 
 **Versioning:** new factions get a **minor** bump (`0.8.0`, `0.9.0`, …); updates
 to an already-published faction (tracking a newer source revision) get a **patch**
