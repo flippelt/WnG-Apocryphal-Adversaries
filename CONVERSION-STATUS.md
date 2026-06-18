@@ -25,7 +25,7 @@ abilities, wounds/resilience/defence). Converted faction by faction.
 | Drukhari | The Drukhari — **v3** (24/11/2024) | v0.7.2 (from v3) | ✅ done — 54 actors (51 threats + 3 vehicles) + 50 items. v0.7.2 brought full v3 parity: Power Through Pain reworked to Pain Tokens (24 actors), Poisonous→Fleshbane sweep, + Hand of the Archon (8), Reaver, Mandrake variants (5), 8 named lords, 3 vehicles (Razorwing Jetfighter, Voidraven Bomber, Dias of Destruction) |
 | T'au Empire | The T'au Empire — **v1** | v0.6.0 | ✅ done — 59 actors (52 threats + 7 vehicles) + 50 items (Sept adaptations, Support Systems, Adversary Traits, Prototype & Signature Systems) |
 | Malicious Miscellany | Malicious Miscellany — **v1** | — | ⬜ to do |
-| Astra Militarum | The Astra Militarum — **v1** (1/12/2024) | — | 🔧 in progress (branch `feat/astra-militarum`, targets v0.9.0) |
+| Astra Militarum | The Astra Militarum — **v1** (1/12/2024) | v0.8.5 | ✅ done — 88 actors (85 threats + 3 vehicles) + 42 items (Psykana discipline, Hymns of Battle, Adversary Traits, Heirlooms of Conquest) |
 | Adeptus Astartes | The Adeptus Astartes — **v0 wip** | — | ⏸️ deferred — draft/incomplete (178pp, "First Complete Version: #"); convert once a complete version drops. Loyalist Space Marines (≠ Heretic Astartes) |
 
 ## Plan

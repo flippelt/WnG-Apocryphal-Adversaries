@@ -87,8 +87,22 @@ Converted faction by faction from the source PDFs. See
   daemonic chariots/mounts as vehicles — plus 86 items: the four psychic
   disciplines (Warprot, Soulstain, Pandaemoniac, Noctic) and each god's
   Adversary Traits, Exalted Greater Daemons and Relics.
-- ⏳ **To do:** Heretic Astartes · Malicious Miscellany (plus the new Astra
-  Militarum, and the WIP Adeptus Astartes once it is finalised).
+- ✅ **Astra Militarum (Imperial Guard) — complete (v0.8.5):** 88 actors (85
+  threats + 3 vehicles) — core infantry of Cadia, Catachan and Krieg (plus
+  Conscripts), officers, commissars, standard/vox/medic, the twelve Veteran
+  specialists, Tank Crew/Commanders and Field Ordnance, Rough Riders with their
+  Grox/Horse/Mukaali/Saurian mounts, the full Militarum Tempestus (Scions,
+  Aquilons and the Tempestor Prime), the Wyrdvane and Primaris psykers,
+  Ogryns/Bullgryns/Ratlings, the Kasrkin kill team and Catachan Devils, sixteen
+  named heroes (“Sly” Marbo, Captain Al’rahem, Colonel Straken, Commander
+  Chenkov, Commissar Yarrick, Sgt Harker, Knight-Commander Pask, Lord Solars
+  Leontus and Macharius with Konstantin, both Lord Castellan Creeds and Colour
+  Sergeant Kell, Mogul Kamir with his Cyber-Horse, Nork Deddog, Sergeant
+  Bastonne and Stumper Muckstart) and the Rogal Dorn, Salamander Command and
+  Salamander Scout tanks — plus 42 items: the Psykana psychic discipline, the
+  Hymns of Battle, Adversary Traits and the Heirlooms of Conquest.
+- ⏳ **To do:** Heretic Astartes · Malicious Miscellany (plus the WIP Adeptus
+  Astartes once it is finalised).
 
 **Versioning:** new factions get a **minor** bump (`0.8.0`, `0.9.0`, …); updates
 to an already-published faction (tracking a newer source revision) get a **patch**
