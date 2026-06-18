@@ -1,0 +1,761 @@
+folder: OfIQWGkRU2Niec83
+name: Be’Lakor, The Dark Master
+type: threat
+_id: c7Au1aFUUaBRYgbk
+img: icons/magic/unholy/spirit-undead-winged-ghost.webp
+system:
+  attributes:
+    strength:
+      label: ATTRIBUTE.STRENGTH
+      rating: 0
+      base: 13
+      bonus: 0
+      cost: 0
+      total: 0
+    toughness:
+      label: ATTRIBUTE.TOUGHNESS
+      rating: 0
+      base: 11
+      bonus: 0
+      cost: 0
+      total: 0
+    agility:
+      label: ATTRIBUTE.AGILITY
+      rating: 0
+      base: 7
+      bonus: 0
+      cost: 0
+      total: 0
+    initiative:
+      label: ATTRIBUTE.INITIATIVE
+      rating: 0
+      base: 9
+      bonus: 0
+      cost: 0
+      total: 0
+    willpower:
+      label: ATTRIBUTE.WILLPOWER
+      rating: 0
+      base: 9
+      bonus: 0
+      cost: 0
+      total: 0
+    intellect:
+      label: ATTRIBUTE.INTELLECT
+      rating: 0
+      base: 9
+      bonus: 0
+      cost: 0
+      total: 0
+    fellowship:
+      label: ATTRIBUTE.FELLOWSHIP
+      rating: 0
+      base: 9
+      bonus: 0
+      cost: 0
+      total: 0
+  skills:
+    athletics:
+      label: SKILL.ATHLETICS
+      attribute: strength
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    awareness:
+      label: SKILL.AWARENESS
+      attribute: intellect
+      rating: 6
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    ballisticSkill:
+      label: SKILL.BALLISTIC_SKILL
+      attribute: agility
+      rating: 5
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    cunning:
+      label: SKILL.CUNNING
+      attribute: fellowship
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    deception:
+      label: SKILL.DECEPTION
+      attribute: fellowship
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    insight:
+      label: SKILL.INSIGHT
+      attribute: fellowship
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    intimidation:
+      label: SKILL.INTIMIDATION
+      attribute: willpower
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    investigation:
+      label: SKILL.INVESTIGATION
+      attribute: intellect
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    leadership:
+      label: SKILL.LEADERSHIP
+      attribute: willpower
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    medicae:
+      label: SKILL.MEDICAE
+      attribute: intellect
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    persuasion:
+      label: SKILL.PERSUASION
+      attribute: fellowship
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    pilot:
+      label: SKILL.PILOT
+      attribute: agility
+      rating: 5
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    psychicMastery:
+      label: SKILL.PSYCHIC_MASTERY
+      attribute: willpower
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    scholar:
+      label: SKILL.SCHOLAR
+      attribute: intellect
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    stealth:
+      label: SKILL.STEALTH
+      attribute: agility
+      rating: 5
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    survival:
+      label: SKILL.SURVIVAL
+      attribute: willpower
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    tech:
+      label: SKILL.TECH
+      attribute: intellect
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    weaponSkill:
+      label: SKILL.WEAPON_SKILL
+      attribute: initiative
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+  combat:
+    defense:
+      bonus: 0
+      total: 0
+    defence:
+      bonus: 0
+      total: 0
+    resilience:
+      bonus: 0
+      total: 0
+    wounds:
+      value: 0
+      bonus: 0
+      max: 21
+    determination:
+      bonus: 0
+      total: 0
+    shock:
+      value: 0
+      bonus: 0
+      max: 0
+    resolve:
+      bonus: 0
+      total: 0
+    conviction:
+      bonus: 0
+      total: 0
+    size: gargantuan
+    speed: 12
+    fly: 12
+    passiveAwareness:
+      bonus: 0
+      total: 0
+    stealth: 0
+  bio:
+    species: ""
+    faction: Daemonic Legions
+    archetype: ""
+    threat:
+      first: A
+      second: A
+      third: A
+      fourth: A
+      fifth: A
+  resources:
+    ruin: 0
+  corruption:
+    current: 0
+  mob: null
+  notes: <p>Be’Lakor, The Dark Master — the First-Damned, the very first Daemon Prince, beholden to all four Chaos Gods equally; a master of shadows. Knows all Noctic powers.</p>
+prototypeToken:
+  name: Be’Lakor, The Dark Master
+  displayName: 20
+  actorLink: false
+  appendNumber: false
+  prependAdjective: false
+  texture:
+    src: icons/magic/unholy/spirit-undead-winged-ghost.webp
+    scaleX: 4
+    scaleY: 4
+    offsetX: 0
+    offsetY: 0
+    rotation: 0
+  width: 4
+  height: 4
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  disposition: -1
+  displayBars: 20
+  bar1:
+    attribute: combat.wounds
+  bar2:
+    attribute: combat.shock
+  sight:
+    enabled: false
+    range: 0
+    angle: 360
+    visionMode: basic
+  detectionModes: []
+  flags: {}
+  randomImg: false
+items:
+  - name: CHAOS
+    type: keyword
+    _id: p4zLmieRLc76BsNF
+    img: icons/svg/eye.svg
+    system:
+      description: <p>A creature of Chaos.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!c7Au1aFUUaBRYgbk.p4zLmieRLc76BsNF"
+  - name: DAEMON
+    type: keyword
+    _id: 2J4fFXurQXwTVV7h
+    img: icons/svg/eye.svg
+    system:
+      description: <p>A daemon of the Warp.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!c7Au1aFUUaBRYgbk.2J4fFXurQXwTVV7h"
+  - name: DAEMON PRINCE
+    type: keyword
+    _id: JClamP7XoUub6wkc
+    img: icons/svg/eye.svg
+    system:
+      description: <p>A mortal champion elevated to daemonhood.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!c7Au1aFUUaBRYgbk.JClamP7XoUub6wkc"
+  - name: KHORNE
+    type: keyword
+    _id: I6WWetSQXCWi9QkS
+    img: icons/svg/eye.svg
+    system:
+      description: <p>Marked by Khorne.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!c7Au1aFUUaBRYgbk.I6WWetSQXCWi9QkS"
+  - name: NURGLE
+    type: keyword
+    _id: 1ghJolmOKBgAFdfN
+    img: icons/svg/eye.svg
+    system:
+      description: <p>Marked by Nurgle.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!c7Au1aFUUaBRYgbk.1ghJolmOKBgAFdfN"
+  - name: TZEENTCH
+    type: keyword
+    _id: H5750xIHlIQMdSXn
+    img: icons/svg/eye.svg
+    system:
+      description: <p>Marked by Tzeentch.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!c7Au1aFUUaBRYgbk.H5750xIHlIQMdSXn"
+  - name: SLAANESH
+    type: keyword
+    _id: oQE7ZJn5ZYR4EIEs
+    img: icons/svg/eye.svg
+    system:
+      description: <p>Marked by Slaanesh.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!c7Au1aFUUaBRYgbk.oQE7ZJn5ZYR4EIEs"
+  - name: MONSTER
+    type: keyword
+    _id: vabLUn40pHnlA9MH
+    img: icons/svg/eye.svg
+    system:
+      description: <p>A monstrous creature.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!c7Au1aFUUaBRYgbk.vabLUn40pHnlA9MH"
+  - name: PSYKER
+    type: keyword
+    _id: 3Nbv7cX8HbY1l56P
+    img: icons/svg/eye.svg
+    system:
+      description: <p>A psychically-active being.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!c7Au1aFUUaBRYgbk.3Nbv7cX8HbY1l56P"
+  - name: Daemonic Aura
+    type: armour
+    _id: nTGRfRyAbLWbootl
+    img: modules/wng-core/assets/icons/armour/armour.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: <p>Resilience 16 (Daemonic Aura *4 AR). Not modified by AP.</p>
+      value: 0
+      keywords: ""
+      equipped: true
+      rating: 4
+      base: 0
+      traits: []
+      invulnerable: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!c7Au1aFUUaBRYgbk.nTGRfRyAbLWbootl"
+  - name: The Blade of Shadows (Sweep)
+    type: weapon
+    _id: Tjb3IpdXadfotsD2
+    img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: <p>Range 3(M).</p>
+      value: 0
+      keywords: ""
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 15
+        bonus: 0
+        rank: none
+      ed:
+        base: 3
+        bonus: 0
+        rank: none
+      ap:
+        base: -3
+        bonus: 0
+        rank: none
+      category: melee
+      range:
+        short: 0
+        medium: 0
+        long: 0
+        melee: 3
+        thrown: null
+      ammo: ""
+      salvo: 0
+      traits:
+        - name: parry
+        - name: reaping
+          custom: true
+          display: Reaping
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!c7Au1aFUUaBRYgbk.Tjb3IpdXadfotsD2"
+  - name: The Blade of Shadows (Pierce)
+    type: weapon
+    _id: 0ICL6T8jOR0L4qyd
+    img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: <p>Range 3(M). Enemies cannot roll Determination against the Blade of Shadows (Pierce).</p>
+      value: 0
+      keywords: ""
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 21
+        bonus: 0
+        rank: none
+      ed:
+        base: 6
+        bonus: 0
+        rank: none
+      ap:
+        base: -4
+        bonus: 0
+        rank: none
+      category: melee
+      range:
+        short: 0
+        medium: 0
+        long: 0
+        melee: 3
+        thrown: null
+      ammo: ""
+      salvo: 0
+      traits: []
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!c7Au1aFUUaBRYgbk.0ICL6T8jOR0L4qyd"
+  - name: Champion
+    type: talent
+    _id: lACM18VWWQD0flFY
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>This Threat may take Ruin Actions and has 8 personal Ruin.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!c7Au1aFUUaBRYgbk.lACM18VWWQD0flFY"
+  - name: Daemonic Aura
+    type: talent
+    _id: BXf2DqRMFHkCU3g2
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>DAEMON Threats with this ability have two Resilience values — one against melee attacks, one against ranged — neither modified by an attack's AP (they may be replaced by other armour). DAEMONS may roll Determination against Mortal Wounds; wounds negated by Determination are ignored instead of being converted to Shock. See page 7.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!c7Au1aFUUaBRYgbk.BXf2DqRMFHkCU3g2"
+  - name: The Dark Master
+    type: talent
+    _id: W6wD1rD2PCk4PdJW
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>While friendly DAEMON or DISCIPLES OF BE’LAKOR Troops are within 6m, they may re-roll any die which rolls a 1 on any attack. Be’Lakor counts as having the DISCIPLES OF BE’LAKOR keyword (though he is not his own disciple).</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!c7Au1aFUUaBRYgbk.W6wD1rD2PCk4PdJW"
+  - name: Monstrous Creature
+    type: talent
+    _id: lHu9JCh2R61WoxOh
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>This Threat is immune to the Fear, Terror, Pinned, and Staggered conditions.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!c7Au1aFUUaBRYgbk.lHu9JCh2R61WoxOh"
+  - name: Shadow Form
+    type: talent
+    _id: UfFMuvcKDKvAh8Jx
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>Each time an attack is made against Be’Lakor, the attacker cannot re-roll any dice on the attack roll or any ED.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!c7Au1aFUUaBRYgbk.UfFMuvcKDKvAh8Jx"
+  - name: Lord of Torment
+    type: talent
+    _id: cnwHLWaJ1HSVXve4
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>Enemies within 6m of Be’Lakor reduce their Resolve and Conviction by 1, to a minimum of 1.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!c7Au1aFUUaBRYgbk.cnwHLWaJ1HSVXve4"
+  - name: "Battlecry: Daemonic Terror"
+    type: ability
+    _id: 8JmJedzujYCpwRZZ
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ""
+      specification: ""
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>Anyone who can see this Threat must make a DN 5 Terror Test. See page 7.</p>
+      display: true
+      abilityType: battlecry
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ""
+        wounds: ""
+        shock: ""
+      test:
+        dn: null
+        type: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!c7Au1aFUUaBRYgbk.8JmJedzujYCpwRZZ"
+  - name: Noctic
+    type: ability
+    _id: BJkAHVVVKZxE3Utz
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ""
+      specification: ""
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>Be’Lakor may attempt to activate any psychic power he knows. He knows Smite, Psyniscience, Deny the Witch, and all powers from the Noctic discipline (authored in the items pack).</p>
+      display: true
+      abilityType: action
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ""
+        wounds: ""
+        shock: ""
+      test:
+        dn: null
+        type: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!c7Au1aFUUaBRYgbk.BJkAHVVVKZxE3Utz"
+  - name: Determination
+    type: ability
+    _id: wnSRBQg6xagSqkLl
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ""
+      specification: ""
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: "<p>Daemonic Aura. Spend 1 Ruin to roll 11d6 (vs Mortal Wounds; wounds negated ignored, not converted to Shock). Shadow Form: Be’Lakor may re-roll any dice that roll 1 when he rolls Determination.</p>"
+      display: true
+      abilityType: determination
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ""
+        wounds: ""
+        shock: ""
+      test:
+        dn: null
+        type: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!c7Au1aFUUaBRYgbk.wnSRBQg6xagSqkLl"
+effects: []
+sort: 0
+ownership:
+  default: 0
+flags:
+  wrath-and-glory:
+    autoCalc:
+      defence: true
+      resilience: true
+      shock: false
+      awareness: true
+      resolve: true
+      determination: true
+      wounds: true
+      conviction: true
+    autoWounded: true
+    autoExhausted: true
+    generateMetaCurrencies: true
+_key: "!actors!c7Au1aFUUaBRYgbk"
