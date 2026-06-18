@@ -1,0 +1,18 @@
+name: "Relic: Blood-Drinker Talisman"
+type: gear
+_id: fMxcpiY0iFqtNDD9
+img: modules/wng-core/assets/icons/gear/gear.webp
+folder: f4TYtZlwzVEqaear
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p>For each Exalted Icon rolled on the bearer’s ED during melee attacks, the bearer heals 1 Wound.</p>
+  value: 0
+  keywords: ""
+  effect: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!fMxcpiY0iFqtNDD9"

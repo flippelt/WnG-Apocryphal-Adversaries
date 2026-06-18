@@ -1,0 +1,18 @@
+name: "Relic: Corruption"
+type: gear
+_id: ysr8lWVwDYPU8k4U
+img: modules/wng-core/assets/icons/gear/gear.webp
+folder: Vs9xnXH0aRee5K58
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p>Select one melee weapon the bearer is equipped with. That weapon adds +2ED to its damage; if it did not already have Inflict (Poisoned X), it gains Inflict (Poisoned 5). While a creature suffers the Poisoned condition inflicted by this weapon, they cannot roll Determination.</p>
+  value: 0
+  keywords: ""
+  effect: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!ysr8lWVwDYPU8k4U"

@@ -1,0 +1,17 @@
+name: "Adversary Trait: Immense Power"
+type: talent
+_id: qKIItjzIVQ6vJyHK
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: f4TYtZlwzVEqaear
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>(GREATER DAEMON / DAEMON PRINCE only.) This Adversary’s melee attacks gain the Brutal trait. If they already have Brutal, add +2ED instead.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!qKIItjzIVQ6vJyHK"

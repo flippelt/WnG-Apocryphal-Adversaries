@@ -1,0 +1,17 @@
+name: "Adversary Trait: Glory of Battle"
+type: talent
+_id: FknEauJHQ665w7yg
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: f4TYtZlwzVEqaear
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>(GREATER DAEMON / DAEMON PRINCE only.) This Adversary reduces the DN for a multi-attack by an amount equal to the number of enemies within 3m.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!FknEauJHQ665w7yg"

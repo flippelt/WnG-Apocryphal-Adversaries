@@ -1,0 +1,18 @@
+name: "Relic: Slothful Claws"
+type: gear
+_id: VrqSETLi3VZCImRb
+img: modules/wng-core/assets/icons/gear/gear.webp
+folder: SJsKwMuTk0hMRcoC
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: "<p>Alters the Ravaging Claws or Snapping Claws of the Daemon: the claws inflict +2ED damage and gain the Agonising quality.</p>"
+  value: 0
+  keywords: ""
+  effect: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!VrqSETLi3VZCImRb"

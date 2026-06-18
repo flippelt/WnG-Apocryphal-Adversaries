@@ -1,0 +1,171 @@
+folder: OfIQWGkRU2Niec83
+name: Burning Chariot of Tzeentch
+type: vehicle
+_id: dKAwGvKDYL88QUXt
+img: icons/svg/target.svg
+system:
+  complement:
+    pilot: 1
+    crew: 3
+    passenger: 2
+    list: []
+  mnvr: 6
+  rarity: veryRare
+  value: 0
+  traits:
+    list:
+      - name: bike
+        rating: ""
+        type: ""
+        custom: "true"
+        display: Bike
+        description: ""
+      - name: gyrostabilised
+        rating: ""
+        type: ""
+        custom: "true"
+        display: Gyro-Stabilised
+        description: ""
+      - name: hover
+        rating: ""
+        type: ""
+        custom: "true"
+        display: Hover
+        description: ""
+      - name: opentopped
+        rating: ""
+        type: ""
+        custom: "true"
+        display: Open-Topped
+        description: ""
+      - name: turboboost9
+        rating: ""
+        type: ""
+        custom: "true"
+        display: Turbo-Boost (9)
+        description: ""
+  combat:
+    defence:
+      bonus: 0
+    resilience:
+      bonus: 0
+      total: 13
+    wounds:
+      value: 0
+      bonus: 0
+      max: 12
+    size: huge
+    speed: 14
+    fly: 0
+  notes: <p>Burning Chariot of Tzeentch — a daemonic chariot crewed by an Exalted Flamer (or a Fateskimmer) and pulled by 2 Screamers, with a trio of Blue Horror crew.</p>
+  settings:
+    hidePassengers: false
+prototypeToken:
+  name: Burning Chariot of Tzeentch
+  displayName: 20
+  actorLink: false
+  appendNumber: false
+  prependAdjective: false
+  texture:
+    src: icons/svg/target.svg
+    scaleX: 3
+    scaleY: 3
+    offsetX: 0
+    offsetY: 0
+    rotation: 0
+  width: 3
+  height: 3
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  disposition: -1
+  displayBars: 20
+  bar1:
+    attribute: combat.wounds
+  bar2:
+    attribute: ""
+  sight:
+    enabled: false
+    range: 0
+    angle: 360
+    visionMode: basic
+  detectionModes: []
+  flags: {}
+  randomImg: false
+items:
+  - name: CHAOS
+    type: keyword
+    _id: J7Q0OCnHtdRjyDyI
+    img: icons/svg/target.svg
+    system:
+      description: <p>A creature of Chaos.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!dKAwGvKDYL88QUXt.J7Q0OCnHtdRjyDyI"
+  - name: DAEMON
+    type: keyword
+    _id: PCpa75eIe6wCwiLE
+    img: icons/svg/target.svg
+    system:
+      description: <p>A daemon of the Warp.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!dKAwGvKDYL88QUXt.PCpa75eIe6wCwiLE"
+  - name: TZEENTCH
+    type: keyword
+    _id: DSxFq8DdmkS8Ku0M
+    img: icons/svg/target.svg
+    system:
+      description: <p>A daemon of Tzeentch.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!dKAwGvKDYL88QUXt.DSxFq8DdmkS8Ku0M"
+  - name: CHARIOT
+    type: keyword
+    _id: GVEIfkmjqnZR29HH
+    img: icons/svg/target.svg
+    system:
+      description: <p>A daemonic chariot.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!dKAwGvKDYL88QUXt.GVEIfkmjqnZR29HH"
+  - name: Daemonic Machine Spirit
+    type: gear
+    _id: CwYjcUUOcmXC4YTq
+    img: modules/wng-core/assets/icons/gear/gear.webp
+    system:
+      quantity: 1
+      rarity: rare
+      description: <p>The chariot is itself a daemon, needing no separate crew intelligence to act.</p>
+      value: 0
+      keywords: ""
+      effect: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!dKAwGvKDYL88QUXt.CwYjcUUOcmXC4YTq"
+effects: []
+sort: 0
+ownership:
+  default: 0
+flags: {}
+_key: "!actors!dKAwGvKDYL88QUXt"

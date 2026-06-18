@@ -1,0 +1,47 @@
+name: Delightful Agonies
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+folder: JpqUHUSAmT0GMjB2
+sort: 0
+system:
+  dn: "5"
+  type: ""
+  specification: ""
+  description: <p>Select one allied mob of SLAANESH LESSER DAEMONS, visible and within range. Until the start of your next turn, the selected mob may roll Determination without spending Ruin. <em>Potency:</em> [1] the affected mob rolls +1 die when rolling Determination.</p>
+  effect: ""
+  cost: 0
+  activation: action
+  duration: 1 Round
+  range: 18m
+  multiTarget: false
+  keywords: CHAOS, SLAANESH, PSYCHIC
+  prerequisites: DAEMON, SLAANESH
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 0
+      five: 0
+      six: 0
+  otherDamage:
+    mortalWounds: ""
+    wounds: ""
+    shock: ""
+  potency: []
+  test:
+    dn: null
+    type: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_id: tWLOpq2eRGD8lZKZ
+_key: "!items!tWLOpq2eRGD8lZKZ"

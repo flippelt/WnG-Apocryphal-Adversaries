@@ -1,0 +1,17 @@
+name: "Exalted Greater Daemon: Diaphanous Panoply"
+type: talent
+_id: pf8NSwpy5Bu5FBeC
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: SJsKwMuTk0hMRcoC
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>Each time a ranged attack is made against this Exalted Daemon, the number of ED rolled for that attack’s damage is halved (rounding up).</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!pf8NSwpy5Bu5FBeC"

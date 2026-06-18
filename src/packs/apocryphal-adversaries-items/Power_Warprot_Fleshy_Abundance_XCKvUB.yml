@@ -1,0 +1,47 @@
+name: Fleshy Abundance
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+folder: 6oxmqPkDc8jdKVxx
+sort: 0
+system:
+  dn: "6"
+  type: ""
+  specification: ""
+  description: <p>Select up to 7 NURGLE LESSER DAEMONS, or a single mob of NURGLE DAEMONS, within range. While this power remains in effect, the mob’s Resilience is increased by +2. <em>Potency:</em> [2] increase the Toughness bonus by +1.</p>
+  effect: ""
+  cost: 0
+  activation: action
+  duration: Sustained
+  range: 18m
+  multiTarget: false
+  keywords: CHAOS, NURGLE, PSYCHIC
+  prerequisites: DAEMON, NURGLE
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 0
+      five: 0
+      six: 0
+  otherDamage:
+    mortalWounds: ""
+    wounds: ""
+    shock: ""
+  potency: []
+  test:
+    dn: null
+    type: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_id: XCKvUBTEsGbIFlae
+_key: "!items!XCKvUBTEsGbIFlae"

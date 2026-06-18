@@ -1,0 +1,17 @@
+name: "Exalted Greater Daemon: Nexus of Fate"
+type: talent
+_id: ranyrbO3llrNoKo2
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: bmUGfUJfPIvMNnTt
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: "<p>Replaces the Avatar of Sorcery ability: at the start of each of the Lord of Change’s turns, add 1d3+1 to Ruin.</p>"
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!ranyrbO3llrNoKo2"

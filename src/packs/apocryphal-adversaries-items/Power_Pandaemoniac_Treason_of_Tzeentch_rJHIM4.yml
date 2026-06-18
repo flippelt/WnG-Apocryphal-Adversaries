@@ -1,0 +1,47 @@
+name: Treason of Tzeentch
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+folder: P5Gm7XdA3bn9EOJk
+sort: 0
+system:
+  dn: Target's Resolve
+  type: ""
+  specification: ""
+  description: <p>Target one enemy within range. If effective, the target either suffers 1d3 Mortal Wounds or immediately takes an action under the Psyker’s control (it may only act as if Exhausted). <em>Potency:</em> [2] +1 Mortal Wound; [1] any test by the controlled creature gains +1 bonus die.</p>
+  effect: ""
+  cost: 0
+  activation: action
+  duration: 1 Round
+  range: 18m
+  multiTarget: true
+  keywords: CHAOS, TZEENTCH, PSYCHIC
+  prerequisites: DAEMON, TZEENTCH
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 0
+      five: 0
+      six: 0
+  otherDamage:
+    mortalWounds: ""
+    wounds: ""
+    shock: ""
+  potency: []
+  test:
+    dn: null
+    type: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_id: rJHIM4Stw5qAtUWC
+_key: "!items!rJHIM4Stw5qAtUWC"

@@ -1,0 +1,208 @@
+folder: OfIQWGkRU2Niec83
+name: Hellflayer of Slaanesh
+type: vehicle
+_id: NKWqLUWPa2a7CdAf
+img: icons/svg/target.svg
+system:
+  complement:
+    pilot: 1
+    crew: 2
+    passenger: 2
+    list: []
+  mnvr: 5
+  rarity: veryRare
+  value: 0
+  traits:
+    list:
+      - name: bike
+        rating: ""
+        type: ""
+        custom: "true"
+        display: Bike
+        description: ""
+      - name: gyrostabilised
+        rating: ""
+        type: ""
+        custom: "true"
+        display: Gyro-Stabilised
+        description: ""
+      - name: opentopped
+        rating: ""
+        type: ""
+        custom: "true"
+        display: Open-Topped
+        description: ""
+  combat:
+    defence:
+      bonus: 0
+    resilience:
+      bonus: 0
+      total: 13
+    wounds:
+      value: 0
+      bonus: 0
+      max: 12
+    size: huge
+    speed: 14
+    fly: 0
+  notes: "<p>Hellflayer of Slaanesh — a daemonic Chariot of Slaanesh, pulled by 2 Seekers and crewed by Daemonettes (each additionally armed with a Lash of Torment: 11 +3ED / AP -1 / Range 3(M) / Agonising).</p>"
+  settings:
+    hidePassengers: false
+prototypeToken:
+  name: Hellflayer of Slaanesh
+  displayName: 20
+  actorLink: false
+  appendNumber: false
+  prependAdjective: false
+  texture:
+    src: icons/svg/target.svg
+    scaleX: 3
+    scaleY: 3
+    offsetX: 0
+    offsetY: 0
+    rotation: 0
+  width: 3
+  height: 3
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  disposition: -1
+  displayBars: 20
+  bar1:
+    attribute: combat.wounds
+  bar2:
+    attribute: ""
+  sight:
+    enabled: false
+    range: 0
+    angle: 360
+    visionMode: basic
+  detectionModes: []
+  flags: {}
+  randomImg: false
+items:
+  - name: CHAOS
+    type: keyword
+    _id: E6rUeuyQCkJXqvQ4
+    img: icons/svg/target.svg
+    system:
+      description: <p>A creature of Chaos.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!NKWqLUWPa2a7CdAf.E6rUeuyQCkJXqvQ4"
+  - name: DAEMON
+    type: keyword
+    _id: 4iYHDNkk4xgS757p
+    img: icons/svg/target.svg
+    system:
+      description: <p>A daemon of the Warp.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!NKWqLUWPa2a7CdAf.4iYHDNkk4xgS757p"
+  - name: SLAANESH
+    type: keyword
+    _id: BSxRdYYVSG5GsnEr
+    img: icons/svg/target.svg
+    system:
+      description: <p>A daemon of Slaanesh.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!NKWqLUWPa2a7CdAf.BSxRdYYVSG5GsnEr"
+  - name: CHARIOT
+    type: keyword
+    _id: yOPrKcaCXr9IbQoQ
+    img: icons/svg/target.svg
+    system:
+      description: <p>A daemonic chariot.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!NKWqLUWPa2a7CdAf.yOPrKcaCXr9IbQoQ"
+  - name: Bladed Axle
+    type: weapon
+    _id: y9igsrkwg9ECus7O
+    img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+    system:
+      quantity: 1
+      rarity: rare
+      description: ""
+      value: 0
+      keywords: ""
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 13
+        bonus: 0
+        rank: none
+      ed:
+        base: 6
+        bonus: 0
+        rank: none
+      ap:
+        base: -2
+        bonus: 0
+        rank: none
+      category: melee
+      range:
+        short: 0
+        medium: 0
+        long: 0
+        melee: 1
+        thrown: null
+      ammo: ""
+      salvo: 0
+      traits:
+        - name: spread
+        - name: reaping
+          custom: true
+          display: Reaping
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!NKWqLUWPa2a7CdAf.y9igsrkwg9ECus7O"
+  - name: Daemonic Machine Spirit
+    type: gear
+    _id: 5xgPbsVRXi0MCsys
+    img: modules/wng-core/assets/icons/gear/gear.webp
+    system:
+      quantity: 1
+      rarity: rare
+      description: <p>The chariot is itself a daemon, needing no separate crew intelligence to act.</p>
+      value: 0
+      keywords: ""
+      effect: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!NKWqLUWPa2a7CdAf.5xgPbsVRXi0MCsys"
+effects: []
+sort: 0
+ownership:
+  default: 0
+flags: {}
+_key: "!actors!NKWqLUWPa2a7CdAf"

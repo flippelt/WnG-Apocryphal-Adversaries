@@ -1,0 +1,49 @@
+name: "Relic: Soulstealer"
+type: weapon
+_id: fXldQ4YteIEEyfAd
+img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+folder: SJsKwMuTk0hMRcoC
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p>Replaces a Witstealer Sword or Hellforged Sword. Damage S+6 (adds Strength). Range 2(M). Each time a creature is slain by this weapon, the bearer heals 1d3 Wounds. Against an AELDARI or DRUKHARI character, attacks gain the Mortal (1) quality.</p>
+  value: 0
+  keywords: ""
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 6
+    bonus: 0
+    rank: none
+  ed:
+    base: 6
+    bonus: 0
+    rank: none
+  ap:
+    base: -3
+    bonus: 0
+    rank: none
+  category: melee
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 2
+    thrown: null
+  ammo: ""
+  salvo: 0
+  traits:
+    - name: parry
+    - name: inflict
+      custom: true
+      display: Inflict (Hindered 2)
+  upgrades: []
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!fXldQ4YteIEEyfAd"

@@ -1,0 +1,50 @@
+name: "Relic: A’rgath, the King of Blades"
+type: weapon
+_id: JGNpwMBMaFkZcAMq
+img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+folder: f4TYtZlwzVEqaear
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p>Replaces a Hellblade, Blade of Blood, or Hellforged Sword. Damage S+5 (adds the wielder’s Strength). Against an enemy Adversary or Player Character, attacks may re-roll any ED which roll failures.</p>
+  value: 0
+  keywords: ""
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 5
+    bonus: 0
+    rank: none
+  ed:
+    base: 8
+    bonus: 0
+    rank: none
+  ap:
+    base: -3
+    bonus: 0
+    rank: none
+  category: melee
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 1
+    thrown: null
+  ammo: ""
+  salvo: 0
+  traits:
+    - name: brutal
+    - name: parry
+    - name: inflict
+      custom: true
+      display: Inflict (Bleeding)
+  upgrades: []
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!JGNpwMBMaFkZcAMq"

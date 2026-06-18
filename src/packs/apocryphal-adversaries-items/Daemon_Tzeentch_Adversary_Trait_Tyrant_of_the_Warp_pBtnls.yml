@@ -1,0 +1,17 @@
+name: "Adversary Trait: Tyrant of the Warp"
+type: talent
+_id: pBtnls4t0CpjWE76
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: bmUGfUJfPIvMNnTt
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>(GREATER DAEMON / DAEMON PRINCE only.) This Adversary never suffers Perils of the Warp, and may re-roll any dice which roll 1s on Determination rolls against damage from Psychic powers.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!pBtnls4t0CpjWE76"

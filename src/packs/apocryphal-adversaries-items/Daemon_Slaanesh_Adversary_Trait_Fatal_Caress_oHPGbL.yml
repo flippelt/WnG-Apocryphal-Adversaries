@@ -1,0 +1,17 @@
+name: "Adversary Trait: Fatal Caress"
+type: talent
+_id: oHPGbL5HIzKWPiIQ
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: SJsKwMuTk0hMRcoC
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>Each time this Adversary makes a melee attack, if the attack scores a Wrath Critical, the target may not roll Determination against any damage inflicted.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!oHPGbL5HIzKWPiIQ"

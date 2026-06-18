@@ -1,0 +1,47 @@
+name: Phantasmagoria
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+folder: JpqUHUSAmT0GMjB2
+sort: 0
+system:
+  dn: "6"
+  type: ""
+  specification: ""
+  description: "<p>Select enemies within Blast (10) who are visible and within range. Affected enemies must pass a DN 5 Terror test; those who fail roll 1d6: on 1–2, suffer Terror and inflict 1d3 Mortal Wounds on themselves; on 3–4, suffer Terror and are Restrained; on 5–6, become Frenzied and cannot tell friend from foe. <em>Potency:</em> [2] +1 Blast; [2] increase the Terror test DN.</p>"
+  effect: ""
+  cost: 0
+  activation: Full Action
+  duration: 1 Round
+  range: 18m
+  multiTarget: false
+  keywords: CHAOS, SLAANESH, PSYCHIC
+  prerequisites: DAEMON, SLAANESH
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 0
+      five: 0
+      six: 0
+  otherDamage:
+    mortalWounds: ""
+    wounds: ""
+    shock: ""
+  potency: []
+  test:
+    dn: null
+    type: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_id: 01TEx8QCB9fQLwpX
+_key: "!items!01TEx8QCB9fQLwpX"

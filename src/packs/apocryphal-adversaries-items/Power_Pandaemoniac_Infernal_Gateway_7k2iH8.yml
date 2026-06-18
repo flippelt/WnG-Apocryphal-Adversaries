@@ -1,0 +1,47 @@
+name: Infernal Gateway
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+folder: P5Gm7XdA3bn9EOJk
+sort: 0
+system:
+  dn: "7"
+  type: ""
+  specification: ""
+  description: <p>A rift opens centred on a visible point within range. Any enemy within 3m of the rift when activated, or at the start of their turn, must pass a DN 3 Strength test or be dragged 1d3m towards the centre and suffer Staggered until the end of their next turn. An enemy at the centre suffers 1d3 Mortal Wounds instead of being dragged. <em>Potency:</em> [2] +1 Mortal Wound at the centre; [1] +1 DN; [2] +1m to the rift’s reach.</p>
+  effect: ""
+  cost: 0
+  activation: action
+  duration: Sustained
+  range: 18m
+  multiTarget: false
+  keywords: CHAOS, TZEENTCH, PSYCHIC
+  prerequisites: DAEMON, TZEENTCH
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 0
+      five: 0
+      six: 0
+  otherDamage:
+    mortalWounds: ""
+    wounds: ""
+    shock: ""
+  potency: []
+  test:
+    dn: null
+    type: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_id: 7k2iH8AtqorKMLUL
+_key: "!items!7k2iH8AtqorKMLUL"

@@ -1,0 +1,17 @@
+name: "Adversary Trait: Plague Fly Hive"
+type: talent
+_id: IRMLVPBPvhndUzch
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: Vs9xnXH0aRee5K58
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>(GREATER DAEMON / DAEMON PRINCE only.) Any enemy who begins their turn within 6m of this Adversary suffers the Hindered (2) condition until the start of their next turn.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!IRMLVPBPvhndUzch"

@@ -1,0 +1,17 @@
+name: "Exalted Greater Daemon: Hideous Visage"
+type: talent
+_id: 52qdsYEkc6uNaSmX
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: Vs9xnXH0aRee5K58
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>Enemies within 6m of this Exalted Daemon fail any Corruption or Resolve test where the Wrath die rolls 1, 2, or 3.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!52qdsYEkc6uNaSmX"

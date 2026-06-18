@@ -1,0 +1,17 @@
+name: "Adversary Trait: Fractal Mind"
+type: talent
+_id: Jbj60Lx5shJrFZau
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: bmUGfUJfPIvMNnTt
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>The Adversary may attempt to activate multiple psychic powers as a single Multi-Action, adding +2 to the DN of each test for every power after the first. Each power activated must be different.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!Jbj60Lx5shJrFZau"

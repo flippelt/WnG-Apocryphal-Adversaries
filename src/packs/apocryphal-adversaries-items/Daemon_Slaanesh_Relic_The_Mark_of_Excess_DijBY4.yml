@@ -1,0 +1,18 @@
+name: "Relic: The Mark of Excess"
+type: gear
+_id: DijBY4ggKad0PkqN
+img: modules/wng-core/assets/icons/gear/gear.webp
+folder: SJsKwMuTk0hMRcoC
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p>The Daemon’s Weapon Skill is increased by +2. Each time it makes a melee attack which kills a Player Character, Adversary NPC, or Monster, or destroys a Vehicle, it adds a further +1 Weapon Skill (cumulative).</p>
+  value: 0
+  keywords: ""
+  effect: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!DijBY4ggKad0PkqN"

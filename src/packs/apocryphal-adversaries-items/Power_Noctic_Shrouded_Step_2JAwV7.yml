@@ -1,0 +1,47 @@
+name: Shrouded Step
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+folder: Q121l2Z6Tc8RPGcR
+sort: 0
+system:
+  dn: "5"
+  type: ""
+  specification: ""
+  description: <p>Select a number of allies with the DISCIPLE OF BE’LAKOR keyword within range equal to your Willpower. The affected allies vanish and reappear anywhere within 100m which is more than 9m from an enemy. <em>Potency:</em> *[2] affect an additional number of allies equal to your Willpower.</p>
+  effect: ""
+  cost: 0
+  activation: action
+  duration: Instant
+  range: 18m
+  multiTarget: false
+  keywords: CHAOS, PSYCHIC
+  prerequisites: CHAOS, DISCIPLE OF BE’LAKOR
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 0
+      five: 0
+      six: 0
+  otherDamage:
+    mortalWounds: ""
+    wounds: ""
+    shock: ""
+  potency: []
+  test:
+    dn: null
+    type: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_id: 2JAwV7bxxFKY7NR4
+_key: "!items!2JAwV7bxxFKY7NR4"

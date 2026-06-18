@@ -1,0 +1,17 @@
+name: "Adversary Trait: Pestilent Miasma"
+type: talent
+_id: jRE3Bs7hAb3Utf06
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: Vs9xnXH0aRee5K58
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>(GREATER DAEMON / DAEMON PRINCE only.) Any creature engaged with the Adversary at the start of its turn must roll 7d6; for each Effect rolled, it suffers 1 Mortal Wound.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!jRE3Bs7hAb3Utf06"

@@ -1,0 +1,159 @@
+folder: OfIQWGkRU2Niec83
+name: Blood Throne of Khorne
+type: vehicle
+_id: g7sTWclN9Zu2BaOK
+img: icons/svg/target.svg
+system:
+  complement:
+    pilot: 1
+    crew: 2
+    passenger: 0
+    list: []
+  mnvr: 5
+  rarity: veryRare
+  value: 0
+  traits:
+    list:
+      - name: bike
+        rating: ""
+        type: ""
+        custom: "true"
+        display: Bike
+        description: ""
+      - name: gyrostabilised
+        rating: ""
+        type: ""
+        custom: "true"
+        display: Gyro-Stabilised
+        description: ""
+      - name: opentopped
+        rating: ""
+        type: ""
+        custom: "true"
+        display: Open-Topped
+        description: ""
+  combat:
+    defence:
+      bonus: 0
+    resilience:
+      bonus: 0
+      total: 15
+    wounds:
+      value: 0
+      bonus: 0
+      max: 13
+    size: huge
+    speed: 10
+    fly: 0
+  notes: <p>Blood Throne of Khorne — a brazen daemonic chariot ridden by a Rendmaster, crewed by two Bloodletters.</p>
+  settings:
+    hidePassengers: false
+prototypeToken:
+  name: Blood Throne of Khorne
+  displayName: 20
+  actorLink: false
+  appendNumber: false
+  prependAdjective: false
+  texture:
+    src: icons/svg/target.svg
+    scaleX: 3
+    scaleY: 3
+    offsetX: 0
+    offsetY: 0
+    rotation: 0
+  width: 3
+  height: 3
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  disposition: -1
+  displayBars: 20
+  bar1:
+    attribute: combat.wounds
+  bar2:
+    attribute: ""
+  sight:
+    enabled: false
+    range: 0
+    angle: 360
+    visionMode: basic
+  detectionModes: []
+  flags: {}
+  randomImg: false
+items:
+  - name: CHAOS
+    type: keyword
+    _id: M4nwjWyKVtYW3ad1
+    img: icons/svg/target.svg
+    system:
+      description: <p>A creature of Chaos.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!g7sTWclN9Zu2BaOK.M4nwjWyKVtYW3ad1"
+  - name: DAEMON
+    type: keyword
+    _id: yYlDfXy7OpXl0PHw
+    img: icons/svg/target.svg
+    system:
+      description: <p>A daemon of the Warp.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!g7sTWclN9Zu2BaOK.yYlDfXy7OpXl0PHw"
+  - name: KHORNE
+    type: keyword
+    _id: ttRmdnsyO25R0RD7
+    img: icons/svg/target.svg
+    system:
+      description: <p>A daemon of Khorne.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!g7sTWclN9Zu2BaOK.ttRmdnsyO25R0RD7"
+  - name: CHARIOT
+    type: keyword
+    _id: iZm9LXc2n8dqB9Q9
+    img: icons/svg/target.svg
+    system:
+      description: <p>A daemonic chariot.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!g7sTWclN9Zu2BaOK.iZm9LXc2n8dqB9Q9"
+  - name: Daemonic Machine Spirit
+    type: gear
+    _id: UvunR9awGORn81u5
+    img: modules/wng-core/assets/icons/gear/gear.webp
+    system:
+      quantity: 1
+      rarity: rare
+      description: <p>The chariot is itself a daemon, needing no separate crew intelligence to act.</p>
+      value: 0
+      keywords: ""
+      effect: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!g7sTWclN9Zu2BaOK.UvunR9awGORn81u5"
+effects: []
+sort: 0
+ownership:
+  default: 0
+flags: {}
+_key: "!actors!g7sTWclN9Zu2BaOK"

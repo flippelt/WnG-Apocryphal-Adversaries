@@ -1,0 +1,47 @@
+name: Malodorous Pall
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+folder: 6oxmqPkDc8jdKVxx
+sort: 0
+system:
+  dn: "7"
+  type: ""
+  specification: ""
+  description: <p>Creates a cloud filling a Blast (8) anywhere within range and sight. Creatures lacking the NURGLE keyword that start their turn in the cloud suffer the Blinded and Staggered conditions; the cloud blocks all line of sight. <em>Potency:</em> [2] increase the Blast by +2.</p>
+  effect: ""
+  cost: 0
+  activation: action
+  duration: Sustained
+  range: 18m
+  multiTarget: false
+  keywords: CHAOS, NURGLE, PSYCHIC
+  prerequisites: DAEMON, NURGLE
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 0
+      five: 0
+      six: 0
+  otherDamage:
+    mortalWounds: ""
+    wounds: ""
+    shock: ""
+  potency: []
+  test:
+    dn: null
+    type: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_id: KXptFyGa1cCttU17
+_key: "!items!KXptFyGa1cCttU17"

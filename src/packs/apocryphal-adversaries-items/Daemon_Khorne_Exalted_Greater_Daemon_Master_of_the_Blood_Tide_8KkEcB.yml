@@ -1,0 +1,17 @@
+name: "Exalted Greater Daemon: Master of the Blood Tide"
+type: talent
+_id: 8KkEcB6XFFNGl8wD
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: f4TYtZlwzVEqaear
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>Each round, the first melee attack made after the Exalted Daemon charges or is charged adds +Tier dice to its Weapon Skill.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!8KkEcB6XFFNGl8wD"

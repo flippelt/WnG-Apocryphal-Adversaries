@@ -1,0 +1,18 @@
+name: "Relic: Rune of Brass"
+type: gear
+_id: 1flSq4Z5O87lJZl7
+img: modules/wng-core/assets/icons/gear/gear.webp
+folder: f4TYtZlwzVEqaear
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p>PSYKERS within 12m of the bearer treat both 1s and 6s on their Wrath Dice as Complications when rolling Psychic Mastery tests. Whenever a PSYKER within 12m suffers Perils of the Warp, they additionally suffer 1d3 Mortal Wounds and are On Fire.</p>
+  value: 0
+  keywords: ""
+  effect: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!1flSq4Z5O87lJZl7"

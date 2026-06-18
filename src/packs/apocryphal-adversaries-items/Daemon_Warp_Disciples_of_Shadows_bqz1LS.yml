@@ -1,0 +1,17 @@
+name: Disciples of Shadows
+type: talent
+_id: bqz1LSPyGpFQ3jJr
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: jCG9pynERLkqzeLP
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>This Threat may re-roll any failures on Resolve tests. In addition, each time a ranged attack is made against this Threat, if the attacker is 12m or more away, the Threat’s Defence is increased by +2.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!bqz1LSPyGpFQ3jJr"

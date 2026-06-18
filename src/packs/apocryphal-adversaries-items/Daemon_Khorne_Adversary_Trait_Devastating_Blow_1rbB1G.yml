@@ -1,0 +1,17 @@
+name: "Adversary Trait: Devastating Blow"
+type: talent
+_id: 1rbB1GO24EmmacE0
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: f4TYtZlwzVEqaear
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>Each time this Adversary makes a melee attack, the target cannot roll Determination to reduce that damage.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!1rbB1GO24EmmacE0"

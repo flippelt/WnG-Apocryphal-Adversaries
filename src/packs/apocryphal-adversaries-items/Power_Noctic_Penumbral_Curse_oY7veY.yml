@@ -1,0 +1,47 @@
+name: Penumbral Curse
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+folder: Q121l2Z6Tc8RPGcR
+sort: 0
+system:
+  dn: "6"
+  type: ""
+  specification: ""
+  description: <p>Place a Blast (6) over one or more visible enemies within range. Until the psyker’s next turn, affected enemies’ melee attacks reduce their ED by 1 (minimum 1) and worsen their AP by 1 (minimum 0). <em>Potency:</em> [1] reduce ED by a further 1; [1] worsen AP by a further 1; *[2] Blast (10).</p>
+  effect: ""
+  cost: 0
+  activation: action
+  duration: 1 Round
+  range: 18m
+  multiTarget: false
+  keywords: CHAOS, PSYCHIC
+  prerequisites: CHAOS, DISCIPLE OF BE’LAKOR
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 0
+      five: 0
+      six: 0
+  otherDamage:
+    mortalWounds: ""
+    wounds: ""
+    shock: ""
+  potency: []
+  test:
+    dn: null
+    type: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_id: oY7veYpz2RUQZ3qS
+_key: "!items!oY7veYpz2RUQZ3qS"

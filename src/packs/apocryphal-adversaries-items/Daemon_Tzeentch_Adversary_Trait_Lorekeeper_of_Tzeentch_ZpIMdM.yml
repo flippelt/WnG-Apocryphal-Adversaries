@@ -1,0 +1,17 @@
+name: "Adversary Trait: Lorekeeper of Tzeentch"
+type: talent
+_id: ZpIMdMfzaCv9cxdx
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: bmUGfUJfPIvMNnTt
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>(GREATER DAEMON / DAEMON PRINCE only.) Each time this Adversary activates a Pandaemoniac psychic power, increase its range by +6m.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!ZpIMdMfzaCv9cxdx"

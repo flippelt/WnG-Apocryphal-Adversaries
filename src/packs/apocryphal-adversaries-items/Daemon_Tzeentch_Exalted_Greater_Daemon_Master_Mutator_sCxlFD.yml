@@ -1,0 +1,17 @@
+name: "Exalted Greater Daemon: Master Mutator"
+type: talent
+_id: sCxlFDf8BNqlPsiE
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: bmUGfUJfPIvMNnTt
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>Any creature which suffers one or more Wounds from one of this Exalted Daemon’s psychic powers must pass a Corruption Test with a DN equal to the Wounds suffered.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!sCxlFDf8BNqlPsiE"
