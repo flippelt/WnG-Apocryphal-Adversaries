@@ -1,0 +1,17 @@
+name: Precision Targeting [Militarum Tempestus]
+type: talent
+_id: LZxY6xFZX54Bx6ab
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: h3elnXYgwSfu8dkL
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p><em>Militarum Tempestus only.</em> When a friendly MILITARUM TEMPESTUS Threat within 6m of this Adversary makes a ranged attack, the target’s Defence against that attack is not increased by being in Cover.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!LZxY6xFZX54Bx6ab"

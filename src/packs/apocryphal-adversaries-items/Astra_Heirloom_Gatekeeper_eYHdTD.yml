@@ -1,0 +1,51 @@
+name: Gatekeeper
+type: weapon
+_id: eYHdTDdsg1tjWFN4
+img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+folder: YtwBsg7TW3spLFG5
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p><em>Leman Russ Battle Tank commanded by a Tank Commander only.</em> This relic battle cannon replaces the vehicle’s normal Battle Cannon.</p>
+  value: 0
+  keywords: ""
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 18
+    bonus: 0
+    rank: none
+  ed:
+    base: 6
+    bonus: 0
+    rank: none
+  ap:
+    base: -3
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 36
+    medium: 72
+    long: 108
+    melee: 0
+    thrown: null
+  ammo: ""
+  salvo: 0
+  traits:
+    - name: blast
+      custom: true
+      display: Blast (1d3+6)
+    - name: mounted
+      custom: true
+      display: Mounted (Huge)
+  upgrades: []
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!eYHdTDdsg1tjWFN4"

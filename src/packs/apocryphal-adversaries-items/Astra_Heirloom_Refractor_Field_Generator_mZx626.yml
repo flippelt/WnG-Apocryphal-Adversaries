@@ -1,0 +1,17 @@
+name: Refractor Field Generator
+type: talent
+_id: mZx626q00A11Rhof
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: YtwBsg7TW3spLFG5
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p><em>MILITARUM TEMPESTUS Adversary only.</em> MILITARUM TEMPESTUS Threats within 6m of the bearer add +2 to their Resilience and may roll Determination against Mortal Wounds.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!mZx626q00A11Rhof"

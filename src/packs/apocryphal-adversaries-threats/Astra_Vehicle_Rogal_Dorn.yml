@@ -1,0 +1,590 @@
+folder: 2LklVYhzkjxDFJbd
+name: Rogal Dorn Battle Tank
+type: vehicle
+_id: lJseoS8yBbMxWYdG
+img: icons/svg/target.svg
+system:
+  complement:
+    pilot: 1
+    crew: 7
+    passenger: 0
+    list: []
+  mnvr: 3
+  rarity: rare
+  value: 18
+  traits:
+    list:
+      - name: reliable
+        rating: ""
+        type: ""
+        custom: "true"
+        display: Reliable
+        description: ""
+      - name: sealed
+        rating: ""
+        type: ""
+        custom: "true"
+        display: Sealed
+        description: ""
+      - name: armouredtracks
+        rating: ""
+        type: ""
+        custom: "true"
+        display: Armoured Tracks
+        description: ""
+      - name: smokelaunchers
+        rating: ""
+        type: ""
+        custom: "true"
+        display: Smoke Launchers
+        description: ""
+  combat:
+    defence:
+      bonus: 0
+    resilience:
+      bonus: 0
+      total: 19
+    wounds:
+      value: 0
+      bonus: 0
+      max: 20
+    size: gargantuan
+    speed: 14
+    fly: 0
+  notes: "<p>Rogal Dorn Battle Tank — an Astra Militarum heavy battle tank. Armoured Tracks: Resilience is increased by +2 against any attack which rolls only 1 ED, and it inflicts +2ED when ramming. Options: the Twin Battle Cannon may be replaced by an Oppressor Cannon (with co-axial Autocannon); the Castigator Gatling Cannon by a Pulveriser Cannon; pintle Twin Meltagun or Twin Heavy Stubber; two Heavy Bolters or two Multi-Meltas as sponsons.</p>"
+  settings:
+    hidePassengers: false
+prototypeToken:
+  name: Rogal Dorn Battle Tank
+  displayName: 20
+  actorLink: false
+  appendNumber: false
+  prependAdjective: false
+  texture:
+    src: icons/svg/target.svg
+    scaleX: 4
+    scaleY: 4
+    offsetX: 0
+    offsetY: 0
+    rotation: 0
+  width: 4
+  height: 4
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  disposition: -1
+  displayBars: 20
+  bar1:
+    attribute: combat.wounds
+  bar2:
+    attribute: ""
+  sight:
+    enabled: false
+    range: 0
+    angle: 360
+    visionMode: basic
+  detectionModes: []
+  flags: {}
+  randomImg: false
+items:
+  - name: IMPERIUM
+    type: keyword
+    _id: UBva4xaep611UE08
+    img: icons/svg/target.svg
+    system:
+      description: <p>A vehicle of the Imperium.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!lJseoS8yBbMxWYdG.UBva4xaep611UE08"
+  - name: ASTRA MILITARUM
+    type: keyword
+    _id: jMUrFaZMIpJldGee
+    img: icons/svg/target.svg
+    system:
+      description: <p>An Astra Militarum war machine.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!lJseoS8yBbMxWYdG.jMUrFaZMIpJldGee"
+  - name: TANK
+    type: keyword
+    _id: h3soVKjaxMALGlyB
+    img: icons/svg/target.svg
+    system:
+      description: <p>An armoured fighting vehicle.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!lJseoS8yBbMxWYdG.h3soVKjaxMALGlyB"
+  - name: Castigator Gatling Cannon
+    type: weapon
+    _id: JL2cuc2zCvJJyBZK
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: rare
+      description: <p>Hull-mounted high-powered rotary cannon; scythes through infantry.</p>
+      value: 0
+      keywords: ""
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 11
+        bonus: 0
+        rank: none
+      ed:
+        base: 3
+        bonus: 0
+        rank: none
+      ap:
+        base: -1
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 12
+        medium: 24
+        long: 36
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: 12
+      traits:
+        - name: mounted
+          custom: true
+          display: Mounted (Huge)
+        - name: sustained
+        - name: rapidFire
+          rating: 4
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!lJseoS8yBbMxWYdG.JL2cuc2zCvJJyBZK"
+  - name: Twin Battle Cannon
+    type: weapon
+    _id: uB6P0PODT4Vn2zbR
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: rare
+      description: <p>Twin-linked battle cannons delivering punishing volleys.</p>
+      value: 0
+      keywords: ""
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 16
+        bonus: 0
+        rank: none
+      ed:
+        base: 6
+        bonus: 0
+        rank: none
+      ap:
+        base: -3
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 36
+        medium: 72
+        long: 108
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: 0
+      traits:
+        - name: blast
+          rating: 10
+        - name: mounted
+          custom: true
+          display: Mounted (Gargantuan)
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!lJseoS8yBbMxWYdG.uB6P0PODT4Vn2zbR"
+  - name: Heavy Stubber
+    type: weapon
+    _id: 5TVNjSsI27IB8iiJ
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: rare
+      description: <p>Standard-pattern heavy stubber.</p>
+      value: 0
+      keywords: ""
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 9
+        bonus: 0
+        rank: none
+      ed:
+        base: 2
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 18
+        medium: 36
+        long: 54
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: 4
+      traits:
+        - name: heavy
+          rating: 4
+        - name: rapidFire
+          rating: 3
+        - name: mounted
+          custom: true
+          display: Mounted (Huge)
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!lJseoS8yBbMxWYdG.5TVNjSsI27IB8iiJ"
+  - name: Oppressor Cannon
+    type: weapon
+    _id: kzQtqdk6wwlMaIAX
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: rare
+      description: "<p>Devastating anti-armour weapon with a co-axial Autocannon: when attacking with the Oppressor Cannon, also attack with the co-axial Autocannon; if that hits, add 1 ED (+1ED per Exalted Icon shifted) to the damage against a single target in the blast.</p>"
+      value: 0
+      keywords: ""
+      equipped: false
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 20
+        bonus: 0
+        rank: none
+      ed:
+        base: 4
+        bonus: 0
+        rank: none
+      ap:
+        base: -3
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 45
+        medium: 90
+        long: 135
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: 0
+      traits:
+        - name: blast
+          rating: 10
+        - name: mounted
+          custom: true
+          display: Mounted (Gargantuan)
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!lJseoS8yBbMxWYdG.kzQtqdk6wwlMaIAX"
+  - name: Pulveriser Cannon
+    type: weapon
+    _id: MD2fMGCQWWA7xXLF
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: rare
+      description: <p>A scaled-down Demolisher cannon for shattering fortifications.</p>
+      value: 0
+      keywords: ""
+      equipped: false
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 16
+        bonus: 0
+        rank: none
+      ed:
+        base: 3
+        bonus: 0
+        rank: none
+      ap:
+        base: -2
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 12
+        medium: 24
+        long: 36
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: 0
+      traits:
+        - name: blast
+          rating: 6
+        - name: mounted
+          custom: true
+          display: Mounted (Huge)
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!lJseoS8yBbMxWYdG.MD2fMGCQWWA7xXLF"
+  - name: Co-Axial Autocannon
+    type: weapon
+    _id: 45OF9gfCUjdoXAY4
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: rare
+      description: <p>Standard-pattern autocannon.</p>
+      value: 0
+      keywords: ""
+      equipped: false
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 14
+        bonus: 0
+        rank: none
+      ed:
+        base: 2
+        bonus: 0
+        rank: none
+      ap:
+        base: -1
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 24
+        medium: 48
+        long: 72
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: 2
+      traits:
+        - name: heavy
+          rating: 5
+        - name: mounted
+          custom: true
+          display: Mounted (Huge)
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!lJseoS8yBbMxWYdG.45OF9gfCUjdoXAY4"
+  - name: Twin Meltagun
+    type: weapon
+    _id: 0f9kKEKkztVAbaKD
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: rare
+      description: <p>Pintle option.</p>
+      value: 0
+      keywords: ""
+      equipped: false
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 16
+        bonus: 0
+        rank: none
+      ed:
+        base: 2
+        bonus: 0
+        rank: none
+      ap:
+        base: -4
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 6
+        medium: 12
+        long: 18
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: 1
+      traits:
+        - name: melta
+        - name: mounted
+          custom: true
+          display: Mounted (Huge)
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!lJseoS8yBbMxWYdG.0f9kKEKkztVAbaKD"
+  - name: Heavy Bolter
+    type: weapon
+    _id: TZDoaG8NT0flfxbO
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: rare
+      description: <p>Standard-pattern heavy bolter.</p>
+      value: 0
+      keywords: ""
+      equipped: false
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 12
+        bonus: 0
+        rank: none
+      ed:
+        base: 1
+        bonus: 0
+        rank: none
+      ap:
+        base: -1
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 18
+        medium: 36
+        long: 54
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: 3
+      traits:
+        - name: brutal
+        - name: heavy
+          rating: 4
+        - name: rapidFire
+          rating: 3
+        - name: mounted
+          custom: true
+          display: Mounted (Huge)
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!lJseoS8yBbMxWYdG.TZDoaG8NT0flfxbO"
+  - name: Multi-Melta
+    type: weapon
+    _id: 4ZN0x9urCNT6rbKO
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: rare
+      description: <p>Standard-pattern multi-melta.</p>
+      value: 0
+      keywords: ""
+      equipped: false
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 18
+        bonus: 0
+        rank: none
+      ed:
+        base: 3
+        bonus: 0
+        rank: none
+      ap:
+        base: -4
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 6
+        medium: 12
+        long: 18
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: 1
+      traits:
+        - name: melta
+        - name: heavy
+          rating: 4
+        - name: mounted
+          custom: true
+          display: Mounted (Huge)
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!lJseoS8yBbMxWYdG.4ZN0x9urCNT6rbKO"
+effects: []
+sort: 0
+ownership:
+  default: 0
+flags: {}
+_key: "!actors!lJseoS8yBbMxWYdG"

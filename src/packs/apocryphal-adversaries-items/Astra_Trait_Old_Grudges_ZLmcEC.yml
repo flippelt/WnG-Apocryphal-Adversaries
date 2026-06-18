@@ -1,0 +1,17 @@
+name: Old Grudges
+type: talent
+_id: ZLmcECNy7GLFYMZ3
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: h3elnXYgwSfu8dkL
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p><strong>Battlecry:</strong> Select a single Keyword possessed by an enemy. For the duration of the scene, while an allied [REGIMENT] Threat or Mob is within 6m of the Adversary, each time they make an attack against an enemy with the chosen Keyword, add +1ED to their attacks’ damage.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!ZLmcECNy7GLFYMZ3"

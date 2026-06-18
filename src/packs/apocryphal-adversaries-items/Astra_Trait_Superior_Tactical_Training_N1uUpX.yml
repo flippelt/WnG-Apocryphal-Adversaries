@@ -1,0 +1,17 @@
+name: Superior Tactical Training
+type: talent
+_id: N1uUpX9gry2TM53M
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: h3elnXYgwSfu8dkL
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>The Adversary gains the OFFICER keyword if it didn’t already have it and may issue a single Order using the Voice of Command rule. If the Adversary is already an OFFICER who issues orders, select one type of Orders (Regimental, Prefectus, or Mechanised) it does not know; it may issue those Orders in addition to any it knows.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!N1uUpX9gry2TM53M"

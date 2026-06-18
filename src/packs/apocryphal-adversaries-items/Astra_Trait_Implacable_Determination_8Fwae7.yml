@@ -1,0 +1,17 @@
+name: Implacable Determination
+type: talent
+_id: 8Fwae7J6QgERQjOx
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: h3elnXYgwSfu8dkL
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>When this Adversary or any allied [REGIMENT] Threats within 3m advance, increase their Speed by +Tier.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!8Fwae7J6QgERQjOx"

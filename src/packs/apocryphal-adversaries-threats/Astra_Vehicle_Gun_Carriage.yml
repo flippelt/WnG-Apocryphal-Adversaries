@@ -1,0 +1,254 @@
+folder: 2LklVYhzkjxDFJbd
+name: Gun Carriage (Field Ordnance)
+type: vehicle
+_id: zhyNYRvZE8Kk1XmK
+img: icons/svg/target.svg
+system:
+  complement:
+    pilot: 0
+    crew: 3
+    passenger: 0
+    list: []
+  mnvr: 1
+  rarity: rare
+  value: 0
+  traits:
+    list:
+      - name: towed
+        rating: ""
+        type: ""
+        custom: "true"
+        display: Towed
+        description: ""
+  combat:
+    defence:
+      bonus: 0
+    resilience:
+      bonus: 0
+      total: 12
+    wounds:
+      value: 0
+      bonus: 0
+      max: 10
+    size: huge
+    speed: 0
+    fly: 0
+  notes: <p>Gun Carriage — a wheeled heavy-weapon platform operated by a 3-Guardsman Field Ordnance Crew. Towed (pulled by another vehicle, or by the crew at Speed 4); cannot fire while moving.</p>
+  settings:
+    hidePassengers: false
+prototypeToken:
+  name: Gun Carriage (Field Ordnance)
+  displayName: 20
+  actorLink: false
+  appendNumber: false
+  prependAdjective: false
+  texture:
+    src: icons/svg/target.svg
+    scaleX: 3
+    scaleY: 3
+    offsetX: 0
+    offsetY: 0
+    rotation: 0
+  width: 3
+  height: 3
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  disposition: -1
+  displayBars: 20
+  bar1:
+    attribute: combat.wounds
+  bar2:
+    attribute: ""
+  sight:
+    enabled: false
+    range: 0
+    angle: 360
+    visionMode: basic
+  detectionModes: []
+  flags: {}
+  randomImg: false
+items:
+  - name: IMPERIUM
+    type: keyword
+    _id: 3x7Uu8t1WBvHlmKi
+    img: icons/svg/target.svg
+    system:
+      description: <p>A vehicle of the Imperium.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!zhyNYRvZE8Kk1XmK.3x7Uu8t1WBvHlmKi"
+  - name: ASTRA MILITARUM
+    type: keyword
+    _id: SBaC2LyK1nod6QSQ
+    img: icons/svg/target.svg
+    system:
+      description: <p>An Imperial Guard ordnance carriage.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!zhyNYRvZE8Kk1XmK.SBaC2LyK1nod6QSQ"
+  - name: Bombast Field Gun
+    type: weapon
+    _id: KRoVqvsaoT5AB1fm
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: rare
+      description: <p>Powerful mortar; anti-infantry and light vehicle.</p>
+      value: 0
+      keywords: ""
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 14
+        bonus: 0
+        rank: none
+      ed:
+        base: 5
+        bonus: 0
+        rank: none
+      ap:
+        base: -2
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 24
+        medium: 48
+        long: 72
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: 0
+      traits:
+        - name: blast
+          rating: 10
+        - name: indirect
+          custom: true
+          display: Indirect
+        - name: mounted
+          custom: true
+          display: Mounted (Huge)
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!zhyNYRvZE8Kk1XmK.KRoVqvsaoT5AB1fm"
+  - name: Malleus Rocket Launcher
+    type: weapon
+    _id: pIVccXHFXnHzDQpp
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: rare
+      description: "<p>Option: multiple-launch antipersonnel rockets.</p>"
+      value: 0
+      keywords: ""
+      equipped: false
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 13
+        bonus: 0
+        rank: none
+      ed:
+        base: 4
+        bonus: 0
+        rank: none
+      ap:
+        base: -1
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 24
+        medium: 48
+        long: 72
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: 0
+      traits:
+        - name: blast
+          rating: 6+2d6
+        - name: mounted
+          custom: true
+          display: Mounted (Huge)
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!zhyNYRvZE8Kk1XmK.pIVccXHFXnHzDQpp"
+  - name: Heavy Lascannon
+    type: weapon
+    _id: VaqF5TK7PYNPsfRg
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: rare
+      description: "<p>Option: high-power armour-piercing las.</p>"
+      value: 0
+      keywords: ""
+      equipped: false
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 20
+        bonus: 0
+        rank: none
+      ed:
+        base: 6
+        bonus: 0
+        rank: none
+      ap:
+        base: -4
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 24
+        medium: 48
+        long: 72
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: 2
+      traits:
+        - name: mounted
+          custom: true
+          display: Mounted (Huge)
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!zhyNYRvZE8Kk1XmK.VaqF5TK7PYNPsfRg"
+effects: []
+sort: 0
+ownership:
+  default: 0
+flags: {}
+_key: "!actors!zhyNYRvZE8Kk1XmK"

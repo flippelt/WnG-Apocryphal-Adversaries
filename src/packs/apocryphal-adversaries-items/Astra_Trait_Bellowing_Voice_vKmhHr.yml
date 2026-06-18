@@ -1,0 +1,17 @@
+name: Bellowing Voice
+type: talent
+_id: vKmhHrOMpYTwNSRH
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: h3elnXYgwSfu8dkL
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>Add +3m to the range of the Adversary’s Voice of Command ability, and to any other abilities which grant benefits to nearby allies.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!vKmhHrOMpYTwNSRH"

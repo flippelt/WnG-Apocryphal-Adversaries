@@ -1,0 +1,17 @@
+name: Null Coat
+type: talent
+_id: R2EZEY7KnUeVLsb0
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: YtwBsg7TW3spLFG5
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p><em>MILITARUM TEMPESTUS or OFFICIO PREFECTUS Adversary only.</em> The bearer may Deny the Witch as if they were a Psyker. Their dice pool is their Willpower plus the game’s Tier.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!R2EZEY7KnUeVLsb0"

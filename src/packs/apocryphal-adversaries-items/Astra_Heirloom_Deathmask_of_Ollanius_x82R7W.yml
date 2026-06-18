@@ -1,0 +1,17 @@
+name: Deathmask of Ollanius
+type: talent
+_id: x82R7WjHUnzT5eN6
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: YtwBsg7TW3spLFG5
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>This Threat, and any allied ASTRA MILITARUM Threats within 3m, increase their Resilience by +2, and their Resilience is Invulnerable.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!x82R7WjHUnzT5eN6"

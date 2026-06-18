@@ -1,0 +1,17 @@
+name: Armour of Graf Toschenko [Vostroyan]
+type: talent
+_id: JUNn60fTSJkpdfzE
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: YtwBsg7TW3spLFG5
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p><em>VOSTROYAN Adversary only.</em> The bearer’s Maximum Wounds and their Resilience are both increased by +3.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!JUNn60fTSJkpdfzE"

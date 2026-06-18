@@ -1,0 +1,47 @@
+name: Psychic Maelstrom
+type: psychicPower
+_id: 8pv3eccwDx1s3fU0
+img: modules/wng-core/assets/icons/powers/power.webp
+folder: yP4o7FqidGHOlyvS
+sort: 0
+system:
+  dn: "5"
+  type: ""
+  specification: ""
+  description: <p>You unleash the full might of your mind, summoning a roiling psychic tempest that lifts the enemy from the ground and wrenches them about like a rag doll. This power affects enemies within a Blast (6) you can see within range; this blast must touch the nearest enemy you can see. Each enemy must pass a Strength test with a DN of 4, and failure means they are flung 1d3 metres in a random direction and knocked Prone, suffering Mortal Wounds equal to the distance they were thrown. <em>Potency:</em> [1] +1 DN. [1] Blast rating is increased by +2. [2] Each target is thrown +1 metre.</p>
+  effect: ""
+  cost: 0
+  activation: Action
+  duration: Instant
+  range: 18m
+  multiTarget: false
+  keywords: PSYCHIC
+  prerequisites: Psyker must have the ADEPTUS ASTRA TELEPATHICA keyword.
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 0
+      five: 0
+      six: 0
+  otherDamage:
+    mortalWounds: ""
+    wounds: ""
+    shock: ""
+  potency: []
+  test:
+    dn: null
+    type: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!8pv3eccwDx1s3fU0"

@@ -1,0 +1,17 @@
+name: Lead by Example
+type: talent
+_id: voVkShkY8VvvjVoZ
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: h3elnXYgwSfu8dkL
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>Once per turn, when this Adversary issues an Order using Voice of Command, they receive the benefits of that Order themselves as well.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!voVkShkY8VvvjVoZ"

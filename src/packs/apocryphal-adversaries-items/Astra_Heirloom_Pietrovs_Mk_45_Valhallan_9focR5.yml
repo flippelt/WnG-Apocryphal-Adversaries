@@ -1,0 +1,47 @@
+name: Pietrov's Mk 45 [Valhallan]
+type: weapon
+_id: 9focR5PC9yxGaZWe
+img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+folder: YtwBsg7TW3spLFG5
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: "<p><em>VALHALLAN Adversary with a bolt pistol only; replaces the bolt pistol.</em> SPECIAL: VALHALLAN allies within 6m may re-roll all failures on Resolve tests.</p>"
+  value: 0
+  keywords: ""
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 10
+    bonus: 0
+    rank: none
+  ed:
+    base: 2
+    bonus: 0
+    rank: none
+  ap:
+    base: -1
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 6
+    medium: 12
+    long: 18
+    melee: 0
+    thrown: null
+  ammo: ""
+  salvo: 2
+  traits:
+    - name: brutal
+    - name: pistol
+  upgrades: []
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!9focR5PC9yxGaZWe"

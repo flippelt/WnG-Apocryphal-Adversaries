@@ -1,0 +1,17 @@
+name: Laurels of Command
+type: talent
+_id: CqEy3bBee0Ft34vE
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: YtwBsg7TW3spLFG5
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: "<p><em>OFFICER Adversary only.</em> Once per scene, the Adversary may issue an Order as a Ruin Action without spending Ruin. This may only be one of: Fix Bayonets, Take Cover, At All Costs, Show Them Steel, Show Them Contempt, Remain Vigilant, or Shock and Awe.</p>"
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!CqEy3bBee0Ft34vE"

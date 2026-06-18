@@ -1,0 +1,17 @@
+name: Kurov's Aquila
+type: talent
+_id: lyVAq3qJQQDXrBS2
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: YtwBsg7TW3spLFG5
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p><em>OFFICER only.</em> Once per scene, after the enemy spends 1 Wrath or 1 Glory, gain 1 Ruin.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!lyVAq3qJQQDXrBS2"

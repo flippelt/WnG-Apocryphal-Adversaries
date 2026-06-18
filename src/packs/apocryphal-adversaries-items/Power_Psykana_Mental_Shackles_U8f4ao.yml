@@ -1,0 +1,47 @@
+name: Mental Shackles
+type: psychicPower
+_id: U8f4aoqIoGLs0JM8
+img: modules/wng-core/assets/icons/powers/power.webp
+folder: yP4o7FqidGHOlyvS
+sort: 0
+system:
+  dn: "5"
+  type: ""
+  specification: ""
+  description: <p>You impose forbidding psychic prohibitions on the foe, miring their minds in an illusory fog. Select enemies within a Blast (6) within range. Until the start of your next turn, the affected enemies are Staggered. <em>Potency:</em> *[2] Enemies are Restrained instead of Staggered. [1] Increase Blast size by +2.</p>
+  effect: ""
+  cost: 0
+  activation: Action
+  duration: 1 Round
+  range: 18m
+  multiTarget: false
+  keywords: TELEPATHY, PSYCHIC
+  prerequisites: Psyker must have the ADEPTUS ASTRA TELEPATHICA keyword.
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 0
+      five: 0
+      six: 0
+  otherDamage:
+    mortalWounds: ""
+    wounds: ""
+    shock: ""
+  potency: []
+  test:
+    dn: null
+    type: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!U8f4aoqIoGLs0JM8"

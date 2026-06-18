@@ -1,0 +1,17 @@
+name: Clarion Proclamatus
+type: talent
+_id: sjbqKYBw2Ri1fUn3
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: YtwBsg7TW3spLFG5
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p><em>Threat with a Master Vox accompanying an Adversary OFFICER only.</em> Orders issued via this Master Vox may be issued to an allied Vox-Caster at any distance, rather than only within 25m.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!sjbqKYBw2Ri1fUn3"
