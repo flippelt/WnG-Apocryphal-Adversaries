@@ -1,0 +1,721 @@
+folder: 2LklVYhzkjxDFJbd
+name: Nork Deddog
+type: threat
+_id: 3Ne0GdBoLfzopqzZ
+img: icons/environment/people/infantry-army.webp
+system:
+  attributes:
+    strength:
+      label: ATTRIBUTE.STRENGTH
+      rating: 0
+      base: 12
+      bonus: 0
+      cost: 0
+      total: 0
+    toughness:
+      label: ATTRIBUTE.TOUGHNESS
+      rating: 0
+      base: 8
+      bonus: 0
+      cost: 0
+      total: 0
+    agility:
+      label: ATTRIBUTE.AGILITY
+      rating: 0
+      base: 2
+      bonus: 0
+      cost: 0
+      total: 0
+    initiative:
+      label: ATTRIBUTE.INITIATIVE
+      rating: 0
+      base: 3
+      bonus: 0
+      cost: 0
+      total: 0
+    willpower:
+      label: ATTRIBUTE.WILLPOWER
+      rating: 0
+      base: 5
+      bonus: 0
+      cost: 0
+      total: 0
+    intellect:
+      label: ATTRIBUTE.INTELLECT
+      rating: 0
+      base: 2
+      bonus: 0
+      cost: 0
+      total: 0
+    fellowship:
+      label: ATTRIBUTE.FELLOWSHIP
+      rating: 0
+      base: 2
+      bonus: 0
+      cost: 0
+      total: 0
+  skills:
+    athletics:
+      label: SKILL.ATHLETICS
+      attribute: strength
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    awareness:
+      label: SKILL.AWARENESS
+      attribute: intellect
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    ballisticSkill:
+      label: SKILL.BALLISTIC_SKILL
+      attribute: agility
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    cunning:
+      label: SKILL.CUNNING
+      attribute: fellowship
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    deception:
+      label: SKILL.DECEPTION
+      attribute: fellowship
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    insight:
+      label: SKILL.INSIGHT
+      attribute: fellowship
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    intimidation:
+      label: SKILL.INTIMIDATION
+      attribute: willpower
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    investigation:
+      label: SKILL.INVESTIGATION
+      attribute: intellect
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    leadership:
+      label: SKILL.LEADERSHIP
+      attribute: willpower
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    medicae:
+      label: SKILL.MEDICAE
+      attribute: intellect
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    persuasion:
+      label: SKILL.PERSUASION
+      attribute: fellowship
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    pilot:
+      label: SKILL.PILOT
+      attribute: agility
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    psychicMastery:
+      label: SKILL.PSYCHIC_MASTERY
+      attribute: willpower
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    scholar:
+      label: SKILL.SCHOLAR
+      attribute: intellect
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    stealth:
+      label: SKILL.STEALTH
+      attribute: agility
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    survival:
+      label: SKILL.SURVIVAL
+      attribute: willpower
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    tech:
+      label: SKILL.TECH
+      attribute: intellect
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    weaponSkill:
+      label: SKILL.WEAPON_SKILL
+      attribute: initiative
+      rating: 6
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+  combat:
+    defense:
+      bonus: 0
+      total: 0
+    defence:
+      bonus: 0
+      total: 0
+    resilience:
+      bonus: 0
+      total: 0
+    wounds:
+      value: 0
+      bonus: 0
+      max: 14
+    determination:
+      bonus: 0
+      total: 0
+    shock:
+      value: 0
+      bonus: 0
+      max: 8
+    resolve:
+      bonus: 0
+      total: 0
+    conviction:
+      bonus: 0
+      total: 0
+    size: large
+    speed: 6
+    fly: 0
+    passiveAwareness:
+      bonus: 0
+      total: 0
+    stealth: 0
+  bio:
+    species: ""
+    faction: Astra Militarum
+    archetype: ""
+    threat:
+      first: A
+      second: A
+      third: A
+      fourth: E
+      fifth: E
+  resources:
+    ruin: 0
+  corruption:
+    current: 0
+  mob: null
+  notes: <p>Nork Deddog — the most famous (and unusually clever) Ogryn bodyguard in the Imperium, whose loyalty and headbutt are both legendary.</p>
+prototypeToken:
+  name: Nork Deddog
+  displayName: 20
+  actorLink: false
+  appendNumber: false
+  prependAdjective: false
+  texture:
+    src: icons/environment/people/infantry-army.webp
+    scaleX: 2
+    scaleY: 2
+    offsetX: 0
+    offsetY: 0
+    rotation: 0
+  width: 2
+  height: 2
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  disposition: -1
+  displayBars: 20
+  bar1:
+    attribute: combat.wounds
+  bar2:
+    attribute: combat.shock
+  sight:
+    enabled: false
+    range: 0
+    angle: 360
+    visionMode: basic
+  detectionModes: []
+  flags: {}
+  randomImg: false
+items:
+  - name: IMPERIUM
+    type: keyword
+    _id: TRAcUd27doA7U4yy
+    img: icons/svg/eye.svg
+    system:
+      description: <p>A servant of the Imperium.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!3Ne0GdBoLfzopqzZ.TRAcUd27doA7U4yy"
+  - name: ASTRA MILITARUM
+    type: keyword
+    _id: iRtrSUfgCAurV2bJ
+    img: icons/svg/eye.svg
+    system:
+      description: <p>A soldier of the Imperial Guard.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!3Ne0GdBoLfzopqzZ.iRtrSUfgCAurV2bJ"
+  - name: MILITARUM AUXILIA
+    type: keyword
+    _id: h5xyMT151GY4BOw2
+    img: icons/svg/eye.svg
+    system:
+      description: <p>An Abhuman auxiliary of the Astra Militarum.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!3Ne0GdBoLfzopqzZ.h5xyMT151GY4BOw2"
+  - name: ABHUMAN
+    type: keyword
+    _id: AiAq9rq1nxivMdct
+    img: icons/svg/eye.svg
+    system:
+      description: <p>A sanctioned Abhuman.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!3Ne0GdBoLfzopqzZ.AiAq9rq1nxivMdct"
+  - name: Bullgryn Plate
+    type: armour
+    _id: 3osV3ouJf876TeSa
+    img: modules/wng-core/assets/icons/armour/armour.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: <p>4 AR.</p>
+      value: 0
+      keywords: ""
+      equipped: true
+      rating: 4
+      base: 0
+      traits: []
+      invulnerable: false
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!3Ne0GdBoLfzopqzZ.3osV3ouJf876TeSa"
+  - name: Ripper Gun
+    type: weapon
+    _id: rRjdL41PADJfxJCu
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: ""
+      value: 0
+      keywords: ""
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 11
+        bonus: 0
+        rank: none
+      ed:
+        base: 2
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 6
+        medium: 12
+        long: 18
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: 0
+      traits:
+        - name: assault
+        - name: brutal
+        - name: heavy
+          rating: 5
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!3Ne0GdBoLfzopqzZ.rRjdL41PADJfxJCu"
+  - name: Huge Knife
+    type: weapon
+    _id: MkaqHgtV8OiITTkE
+    img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: ""
+      value: 0
+      keywords: ""
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 14
+        bonus: 0
+        rank: none
+      ed:
+        base: 3
+        bonus: 0
+        rank: none
+      ap:
+        base: -1
+        bonus: 0
+        rank: none
+      category: melee
+      range:
+        short: 0
+        medium: 0
+        long: 0
+        melee: 1
+        thrown: null
+      ammo: ""
+      salvo: 0
+      traits:
+        - name: reliable
+          custom: true
+          display: Reliable
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!3Ne0GdBoLfzopqzZ.MkaqHgtV8OiITTkE"
+  - name: Thunderous Headbutt
+    type: weapon
+    _id: 4pughwIjDALe9L25
+    img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: ""
+      value: 0
+      keywords: ""
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 12
+        bonus: 0
+        rank: none
+      ed:
+        base: 3
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      category: melee
+      range:
+        short: 0
+        medium: 0
+        long: 0
+        melee: 1
+        thrown: null
+      ammo: ""
+      salvo: 0
+      traits:
+        - name: inflict
+          custom: true
+          display: Inflict (Staggered)
+        - name: mortal
+          rating: 1
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!3Ne0GdBoLfzopqzZ.4pughwIjDALe9L25"
+  - name: Frag Bomb
+    type: weapon
+    _id: 3PXCgGJXNDhaf2yX
+    img: modules/wng-core/assets/icons/weapons/grenade.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: <p>1 bomb. Thrown 22m.</p>
+      value: 0
+      keywords: ""
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 12
+        bonus: 0
+        rank: none
+      ed:
+        base: 4
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 0
+        medium: 0
+        long: 0
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: null
+      traits:
+        - name: blast
+          rating: 8
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!3Ne0GdBoLfzopqzZ.3PXCgGJXNDhaf2yX"
+  - name: Avalanche of Muscle
+    type: talent
+    _id: yDprY22KXZ8i7NFU
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>When this Threat charges, it adds +Tier bonus dice to the melee attack.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!3Ne0GdBoLfzopqzZ.yDprY22KXZ8i7NFU"
+  - name: Big Target
+    type: talent
+    _id: y0yCzFCEzuqPxCdl
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>Nork will shield a single ASTRA MILITARUM OFFICER. While that Officer is within 3m, any ranged attack targeting them must target Nork instead.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!3Ne0GdBoLfzopqzZ.y0yCzFCEzuqPxCdl"
+  - name: Make Way
+    type: talent
+    _id: 4MlR8OXghh3f98hg
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>When Nork moves out of Engagement range of an enemy without falling back, add +Tier to his Defence against Reaction Attacks. Any enemy who fails a Reaction Attack against Nork becomes Staggered.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!3Ne0GdBoLfzopqzZ.4MlR8OXghh3f98hg"
+  - name: Point-Blank Barrage
+    type: talent
+    _id: 5Z0kbJhrLJXf0pIB
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>This Threat may make ranged attacks while Engaged, as if the weapon had the Pistol quality, adding +Tier bonus dice to the attack.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!3Ne0GdBoLfzopqzZ.5Z0kbJhrLJXf0pIB"
+  - name: "Battlecry: Obedience"
+    type: ability
+    _id: twOMB6BGGMpUVHv5
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ""
+      specification: ""
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>Nork chooses a single ASTRA MILITARUM OFFICER and makes a normal move towards them. It will protect that Threat with its Big Target ability.</p>
+      display: true
+      abilityType: battlecry
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ""
+        wounds: ""
+        shock: ""
+      test:
+        dn: null
+        type: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!3Ne0GdBoLfzopqzZ.twOMB6BGGMpUVHv5"
+  - name: Determination
+    type: ability
+    _id: a4D1ViTImpuv6AMh
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ""
+      specification: ""
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>Wall of Muscle. Spend 1 Ruin to roll 8d6, rerolling any dice which roll 1.</p>
+      display: true
+      abilityType: determination
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ""
+        wounds: ""
+        shock: ""
+      test:
+        dn: null
+        type: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!3Ne0GdBoLfzopqzZ.a4D1ViTImpuv6AMh"
+effects: []
+sort: 0
+ownership:
+  default: 0
+flags:
+  wrath-and-glory:
+    autoCalc:
+      defence: true
+      resilience: true
+      shock: true
+      awareness: true
+      resolve: true
+      determination: true
+      wounds: true
+      conviction: true
+    autoWounded: true
+    autoExhausted: true
+    generateMetaCurrencies: true
+_key: "!actors!3Ne0GdBoLfzopqzZ"

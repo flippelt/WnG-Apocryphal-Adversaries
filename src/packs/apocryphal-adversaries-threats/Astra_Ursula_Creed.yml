@@ -1,0 +1,688 @@
+folder: 2LklVYhzkjxDFJbd
+name: Lord Castellan Ursula J. Creed
+type: threat
+_id: yC2IbHrJkADlB23v
+img: icons/environment/people/charge.webp
+system:
+  attributes:
+    strength:
+      label: ATTRIBUTE.STRENGTH
+      rating: 0
+      base: 4
+      bonus: 0
+      cost: 0
+      total: 0
+    toughness:
+      label: ATTRIBUTE.TOUGHNESS
+      rating: 0
+      base: 5
+      bonus: 0
+      cost: 0
+      total: 0
+    agility:
+      label: ATTRIBUTE.AGILITY
+      rating: 0
+      base: 4
+      bonus: 0
+      cost: 0
+      total: 0
+    initiative:
+      label: ATTRIBUTE.INITIATIVE
+      rating: 0
+      base: 4
+      bonus: 0
+      cost: 0
+      total: 0
+    willpower:
+      label: ATTRIBUTE.WILLPOWER
+      rating: 0
+      base: 7
+      bonus: 0
+      cost: 0
+      total: 0
+    intellect:
+      label: ATTRIBUTE.INTELLECT
+      rating: 0
+      base: 7
+      bonus: 0
+      cost: 0
+      total: 0
+    fellowship:
+      label: ATTRIBUTE.FELLOWSHIP
+      rating: 0
+      base: 6
+      bonus: 0
+      cost: 0
+      total: 0
+  skills:
+    athletics:
+      label: SKILL.ATHLETICS
+      attribute: strength
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    awareness:
+      label: SKILL.AWARENESS
+      attribute: intellect
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    ballisticSkill:
+      label: SKILL.BALLISTIC_SKILL
+      attribute: agility
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    cunning:
+      label: SKILL.CUNNING
+      attribute: fellowship
+      rating: 1
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    deception:
+      label: SKILL.DECEPTION
+      attribute: fellowship
+      rating: 1
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    insight:
+      label: SKILL.INSIGHT
+      attribute: fellowship
+      rating: 1
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    intimidation:
+      label: SKILL.INTIMIDATION
+      attribute: willpower
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    investigation:
+      label: SKILL.INVESTIGATION
+      attribute: intellect
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    leadership:
+      label: SKILL.LEADERSHIP
+      attribute: willpower
+      rating: 5
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    medicae:
+      label: SKILL.MEDICAE
+      attribute: intellect
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    persuasion:
+      label: SKILL.PERSUASION
+      attribute: fellowship
+      rating: 1
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    pilot:
+      label: SKILL.PILOT
+      attribute: agility
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    psychicMastery:
+      label: SKILL.PSYCHIC_MASTERY
+      attribute: willpower
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    scholar:
+      label: SKILL.SCHOLAR
+      attribute: intellect
+      rating: 5
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    stealth:
+      label: SKILL.STEALTH
+      attribute: agility
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    survival:
+      label: SKILL.SURVIVAL
+      attribute: willpower
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    tech:
+      label: SKILL.TECH
+      attribute: intellect
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    weaponSkill:
+      label: SKILL.WEAPON_SKILL
+      attribute: initiative
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+  combat:
+    defense:
+      bonus: 0
+      total: 0
+    defence:
+      bonus: 0
+      total: 0
+    resilience:
+      bonus: 0
+      total: 0
+    wounds:
+      value: 0
+      bonus: 0
+      max: 15
+    determination:
+      bonus: 0
+      total: 0
+    shock:
+      value: 0
+      bonus: 0
+      max: 12
+    resolve:
+      bonus: -1
+      total: 0
+    conviction:
+      bonus: -1
+      total: 0
+    size: average
+    speed: 6
+    fly: 0
+    passiveAwareness:
+      bonus: 0
+      total: 0
+    stealth: 0
+  bio:
+    species: ""
+    faction: Astra Militarum
+    archetype: ""
+    threat:
+      first: A
+      second: A
+      third: A
+      fourth: A
+      fifth: A
+  resources:
+    ruin: 0
+  corruption:
+    current: 0
+  mob: null
+  notes: <p>Lord Castellan Ursula J. Creed — daughter of Ursarkar Creed and current Lord Castellan of Cadia, a ruthless and intuitive strategist.</p>
+prototypeToken:
+  name: Lord Castellan Ursula J. Creed
+  displayName: 20
+  actorLink: false
+  appendNumber: false
+  prependAdjective: false
+  texture:
+    src: icons/environment/people/charge.webp
+    scaleX: 1
+    scaleY: 1
+    offsetX: 0
+    offsetY: 0
+    rotation: 0
+  width: 1
+  height: 1
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  disposition: -1
+  displayBars: 20
+  bar1:
+    attribute: combat.wounds
+  bar2:
+    attribute: combat.shock
+  sight:
+    enabled: false
+    range: 0
+    angle: 360
+    visionMode: basic
+  detectionModes: []
+  flags: {}
+  randomImg: false
+items:
+  - name: IMPERIUM
+    type: keyword
+    _id: X2bYWpDHEtNSiZsV
+    img: icons/svg/eye.svg
+    system:
+      description: <p>A servant of the Imperium.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!yC2IbHrJkADlB23v.X2bYWpDHEtNSiZsV"
+  - name: ASTRA MILITARUM
+    type: keyword
+    _id: ckZcVTXZiNjhiLH9
+    img: icons/svg/eye.svg
+    system:
+      description: <p>A soldier of the Imperial Guard.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!yC2IbHrJkADlB23v.ckZcVTXZiNjhiLH9"
+  - name: CADIAN
+    type: keyword
+    _id: MdUnsa3xZkHFjs34
+    img: icons/svg/eye.svg
+    system:
+      description: <p>Of a Cadian regiment.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!yC2IbHrJkADlB23v.MdUnsa3xZkHFjs34"
+  - name: OFFICER
+    type: keyword
+    _id: OT5I5WEc5lv2RADk
+    img: icons/svg/eye.svg
+    system:
+      description: <p>An Astra Militarum officer who may issue Orders.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!yC2IbHrJkADlB23v.OT5I5WEc5lv2RADk"
+  - name: Carapace Armour & Refractor Field
+    type: armour
+    _id: et6mFtLd3C0XaM1K
+    img: modules/wng-core/assets/icons/armour/armour.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: <p>Carapace 4 AR; Refractor Field provides 3* invulnerable AR.</p>
+      value: 0
+      keywords: ""
+      equipped: true
+      rating: 4
+      base: 0
+      traits: []
+      invulnerable: false
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!yC2IbHrJkADlB23v.et6mFtLd3C0XaM1K"
+  - name: Duty & Vengeance
+    type: weapon
+    _id: nUa9eYmfsO5tUSaC
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: "<p>Dual Pistols: reduce the DN of a multi-attack with Duty & Vengeance by 2.</p>"
+      value: 0
+      keywords: ""
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 12
+        bonus: 0
+        rank: none
+      ed:
+        base: 2
+        bonus: 0
+        rank: none
+      ap:
+        base: -3
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 6
+        medium: 12
+        long: 18
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: 4
+      traits:
+        - name: pistol
+        - name: paired
+          custom: true
+          display: Paired
+        - name: sustained
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!yC2IbHrJkADlB23v.nUa9eYmfsO5tUSaC"
+  - name: Power Sword
+    type: weapon
+    _id: buUxi00zDaTy3LcV
+    img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: ""
+      value: 0
+      keywords: ""
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 9
+        bonus: 0
+        rank: none
+      ed:
+        base: 4
+        bonus: 0
+        rank: none
+      ap:
+        base: -3
+        bonus: 0
+        rank: none
+      category: melee
+      range:
+        short: 0
+        medium: 0
+        long: 0
+        melee: 1
+        thrown: null
+      ammo: ""
+      salvo: 0
+      traits:
+        - name: parry
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!yC2IbHrJkADlB23v.buUxi00zDaTy3LcV"
+  - name: Champion
+    type: talent
+    _id: 5SLFt9qiCQpC05wY
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>This Threat may use Ruin Actions and has 7 Personal Ruin.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!yC2IbHrJkADlB23v.5SLFt9qiCQpC05wY"
+  - name: Lord Castellan's Fury
+    type: talent
+    _id: AUZfbF4OilgpzOgn
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>Whenever this Threat issues an Order using Voice of Command, the allies receiving the Order add +Tier to the damage of any attack they make as part of that order.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!yC2IbHrJkADlB23v.AUZfbF4OilgpzOgn"
+  - name: Senior Officer
+    type: talent
+    _id: XXJnBdqffIoeCAZA
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>CADIAN allies within 12m may use the Officer’s Conviction and Resolve scores instead of their own.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!yC2IbHrJkADlB23v.XXJnBdqffIoeCAZA"
+  - name: "Battlecry: Tactical Genius"
+    type: ability
+    _id: m5q2OaLkSsxq5b4z
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ""
+      specification: ""
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: "<p>Add 2 Ruin to the GM’s pool. Creed may spend 1-3 Ruin: for each Ruin spent, pick one CADIAN mob or vehicle on the battlefield, which may immediately make a standard move.</p>"
+      display: true
+      abilityType: battlecry
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ""
+        wounds: ""
+        shock: ""
+      test:
+        dn: null
+        type: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!yC2IbHrJkADlB23v.m5q2OaLkSsxq5b4z"
+  - name: Voice of Command
+    type: ability
+    _id: QBpYkKRLCQnWBGUv
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ""
+      specification: ""
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>The Threat issues one, two, or three Orders as an Action (Regimental Orders).</p>
+      display: true
+      abilityType: action
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ""
+        wounds: ""
+        shock: ""
+      test:
+        dn: null
+        type: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!yC2IbHrJkADlB23v.QBpYkKRLCQnWBGUv"
+  - name: "Ruin: Inspired Command"
+    type: ability
+    _id: ziDT1y6vKPRhTVGW
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ""
+      specification: ""
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>Spend 1 Ruin and issue a single Order as a Ruin Action. The Threat may give Regimental Orders.</p>
+      display: true
+      abilityType: ruin
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ""
+        wounds: ""
+        shock: ""
+      test:
+        dn: null
+        type: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!yC2IbHrJkADlB23v.ziDT1y6vKPRhTVGW"
+  - name: Determination
+    type: ability
+    _id: DIlVBpxY0OJWG4bt
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ""
+      specification: ""
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>Spend 1 Ruin to roll 5d6. This Threat may roll Determination against Mortal Wounds.</p>
+      display: true
+      abilityType: determination
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ""
+        wounds: ""
+        shock: ""
+      test:
+        dn: null
+        type: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!yC2IbHrJkADlB23v.DIlVBpxY0OJWG4bt"
+effects: []
+sort: 0
+ownership:
+  default: 0
+flags:
+  wrath-and-glory:
+    autoCalc:
+      defence: true
+      resilience: true
+      shock: true
+      awareness: true
+      resolve: true
+      determination: true
+      wounds: true
+      conviction: true
+    autoWounded: true
+    autoExhausted: true
+    generateMetaCurrencies: true
+_key: "!actors!yC2IbHrJkADlB23v"

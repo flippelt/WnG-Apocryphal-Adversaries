@@ -1,0 +1,783 @@
+folder: 2LklVYhzkjxDFJbd
+name: "\"Sly\" Marbo"
+type: threat
+_id: NIO56I62jJFCGi5d
+img: icons/environment/people/infantry-army.webp
+system:
+  attributes:
+    strength:
+      label: ATTRIBUTE.STRENGTH
+      rating: 0
+      base: 7
+      bonus: 0
+      cost: 0
+      total: 0
+    toughness:
+      label: ATTRIBUTE.TOUGHNESS
+      rating: 0
+      base: 6
+      bonus: 0
+      cost: 0
+      total: 0
+    agility:
+      label: ATTRIBUTE.AGILITY
+      rating: 0
+      base: 5
+      bonus: 0
+      cost: 0
+      total: 0
+    initiative:
+      label: ATTRIBUTE.INITIATIVE
+      rating: 0
+      base: 6
+      bonus: 0
+      cost: 0
+      total: 0
+    willpower:
+      label: ATTRIBUTE.WILLPOWER
+      rating: 0
+      base: 6
+      bonus: 0
+      cost: 0
+      total: 0
+    intellect:
+      label: ATTRIBUTE.INTELLECT
+      rating: 0
+      base: 3
+      bonus: 0
+      cost: 0
+      total: 0
+    fellowship:
+      label: ATTRIBUTE.FELLOWSHIP
+      rating: 0
+      base: 1
+      bonus: 0
+      cost: 0
+      total: 0
+  skills:
+    athletics:
+      label: SKILL.ATHLETICS
+      attribute: strength
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    awareness:
+      label: SKILL.AWARENESS
+      attribute: intellect
+      rating: 9
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    ballisticSkill:
+      label: SKILL.BALLISTIC_SKILL
+      attribute: agility
+      rating: 7
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    cunning:
+      label: SKILL.CUNNING
+      attribute: fellowship
+      rating: 9
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    deception:
+      label: SKILL.DECEPTION
+      attribute: fellowship
+      rating: 9
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    insight:
+      label: SKILL.INSIGHT
+      attribute: fellowship
+      rating: 9
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    intimidation:
+      label: SKILL.INTIMIDATION
+      attribute: willpower
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    investigation:
+      label: SKILL.INVESTIGATION
+      attribute: intellect
+      rating: 7
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    leadership:
+      label: SKILL.LEADERSHIP
+      attribute: willpower
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    medicae:
+      label: SKILL.MEDICAE
+      attribute: intellect
+      rating: 7
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    persuasion:
+      label: SKILL.PERSUASION
+      attribute: fellowship
+      rating: 9
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    pilot:
+      label: SKILL.PILOT
+      attribute: agility
+      rating: 5
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    psychicMastery:
+      label: SKILL.PSYCHIC_MASTERY
+      attribute: willpower
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    scholar:
+      label: SKILL.SCHOLAR
+      attribute: intellect
+      rating: 7
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    stealth:
+      label: SKILL.STEALTH
+      attribute: agility
+      rating: 8
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    survival:
+      label: SKILL.SURVIVAL
+      attribute: willpower
+      rating: 6
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    tech:
+      label: SKILL.TECH
+      attribute: intellect
+      rating: 7
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    weaponSkill:
+      label: SKILL.WEAPON_SKILL
+      attribute: initiative
+      rating: 6
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+  combat:
+    defense:
+      bonus: 0
+      total: 0
+    defence:
+      bonus: 0
+      total: 0
+    resilience:
+      bonus: 0
+      total: 0
+    wounds:
+      value: 0
+      bonus: 0
+      max: 14
+    determination:
+      bonus: 0
+      total: 0
+    shock:
+      value: 0
+      bonus: 0
+      max: 10
+    resolve:
+      bonus: 0
+      total: 0
+    conviction:
+      bonus: 0
+      total: 0
+    size: average
+    speed: 6
+    fly: 0
+    passiveAwareness:
+      bonus: 0
+      total: 0
+    stealth: 0
+  bio:
+    species: ""
+    faction: Astra Militarum
+    archetype: ""
+    threat:
+      first: A
+      second: A
+      third: A
+      fourth: A
+      fifth: A
+  resources:
+    ruin: 0
+  corruption:
+    current: 0
+  mob: null
+  notes: <p>“Sly” Marbo — the legendary one-man army of the Catachan Jungle Fighters; a near-mythical lone operative.</p>
+prototypeToken:
+  name: "\"Sly\" Marbo"
+  displayName: 20
+  actorLink: false
+  appendNumber: false
+  prependAdjective: false
+  texture:
+    src: icons/environment/people/infantry-army.webp
+    scaleX: 1
+    scaleY: 1
+    offsetX: 0
+    offsetY: 0
+    rotation: 0
+  width: 1
+  height: 1
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  disposition: -1
+  displayBars: 20
+  bar1:
+    attribute: combat.wounds
+  bar2:
+    attribute: combat.shock
+  sight:
+    enabled: false
+    range: 0
+    angle: 360
+    visionMode: basic
+  detectionModes: []
+  flags: {}
+  randomImg: false
+items:
+  - name: IMPERIUM
+    type: keyword
+    _id: JyLQwb6v3vH9y6JY
+    img: icons/svg/eye.svg
+    system:
+      description: <p>A servant of the Imperium.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!NIO56I62jJFCGi5d.JyLQwb6v3vH9y6JY"
+  - name: ASTRA MILITARUM
+    type: keyword
+    _id: J0jviGaW59Tr4pUW
+    img: icons/svg/eye.svg
+    system:
+      description: <p>A soldier of the Imperial Guard.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!NIO56I62jJFCGi5d.J0jviGaW59Tr4pUW"
+  - name: CATACHAN
+    type: keyword
+    _id: 27quweAVHKZwI2BO
+    img: icons/svg/eye.svg
+    system:
+      description: <p>Of a Catachan jungle-fighter regiment.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!NIO56I62jJFCGi5d.27quweAVHKZwI2BO"
+  - name: VETERAN
+    type: keyword
+    _id: azBkisADImk4OuAc
+    img: icons/svg/eye.svg
+    system:
+      description: <p>A hardened veteran.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!NIO56I62jJFCGi5d.azBkisADImk4OuAc"
+  - name: Flak Armour
+    type: armour
+    _id: w8Z481JNwbrUCZrw
+    img: modules/wng-core/assets/icons/armour/armour.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: <p>3 AR.</p>
+      value: 0
+      keywords: ""
+      equipped: true
+      rating: 3
+      base: 0
+      traits: []
+      invulnerable: false
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!NIO56I62jJFCGi5d.w8Z481JNwbrUCZrw"
+  - name: Ripper Pistol
+    type: weapon
+    _id: qFHhWzTbaZ8QMjwm
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: ""
+      value: 0
+      keywords: ""
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 7
+        bonus: 0
+        rank: none
+      ed:
+        base: 3
+        bonus: 0
+        rank: none
+      ap:
+        base: -2
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 6
+        medium: 12
+        long: 24
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: 3
+      traits:
+        - name: assault
+        - name: fleshbane
+          custom: true
+          display: Fleshbane
+        - name: inflictpoison
+          custom: true
+          display: Inflict (Poisoned 4)
+        - name: mortal
+          rating: 1
+        - name: pistol
+        - name: sniper
+          rating: 2
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!NIO56I62jJFCGi5d.qFHhWzTbaZ8QMjwm"
+  - name: Envenomed Blade
+    type: weapon
+    _id: HF1ENi5fVaJmdf59
+    img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: ""
+      value: 0
+      keywords: ""
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 10
+        bonus: 0
+        rank: none
+      ed:
+        base: 4
+        bonus: 0
+        rank: none
+      ap:
+        base: -2
+        bonus: 0
+        rank: none
+      category: melee
+      range:
+        short: 0
+        medium: 0
+        long: 0
+        melee: 1
+        thrown: null
+      ammo: ""
+      salvo: 0
+      traits:
+        - name: fleshbane
+          custom: true
+          display: Fleshbane
+        - name: rending
+          rating: 2
+        - name: inflictpoison
+          custom: true
+          display: Inflict (Poisoned 4)
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!NIO56I62jJFCGi5d.HF1ENi5fVaJmdf59"
+  - name: Frag Grenade
+    type: weapon
+    _id: d5wIjcarPHWuFgyK
+    img: modules/wng-core/assets/icons/weapons/grenade.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: <p>2 grenades. Thrown 28m.</p>
+      value: 0
+      keywords: ""
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 10
+        bonus: 0
+        rank: none
+      ed:
+        base: 4
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 0
+        medium: 0
+        long: 0
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: null
+      traits:
+        - name: blast
+          rating: 6
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!NIO56I62jJFCGi5d.d5wIjcarPHWuFgyK"
+  - name: Champion
+    type: talent
+    _id: YOluEyrFovsdAHl1
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>This Threat may use Ruin Actions and has 5 Personal Ruin.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!NIO56I62jJFCGi5d.YOluEyrFovsdAHl1"
+  - name: Deathworld Toxins
+    type: talent
+    _id: 175AsFjOdYC6OK2x
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>Any creature who suffers the Poisoned condition from Sly Marbo’s weapons suffers 1d3 Mortal Wounds at the start of each turn.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!NIO56I62jJFCGi5d.175AsFjOdYC6OK2x"
+  - name: Jungle Fighters
+    type: talent
+    _id: VnUSuLjx5Z97t0VN
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>When this Threat Charges, add +2 ED to the attack’s damage and add the Sustained quality to the attack.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!NIO56I62jJFCGi5d.VnUSuLjx5Z97t0VN"
+  - name: Loner
+    type: talent
+    _id: ZZqI06BmNB4u1AOo
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>Sly Marbo can gain no benefits from other NPCs’ abilities. He works alone.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!NIO56I62jJFCGi5d.ZZqI06BmNB4u1AOo"
+  - name: Sudden Ambush
+    type: talent
+    _id: rh7LX3otV743kmdP
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>This Threat may move at full speed while it has a Stealth Score. When they make a Surprise Attack, their attacks gain Inflict (Pinning).</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!NIO56I62jJFCGi5d.rh7LX3otV743kmdP"
+  - name: "Battlecry: From the Shadows"
+    type: ability
+    _id: 5CGwHz7YiMUquBmJ
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ""
+      specification: ""
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>The Threat makes a normal move and attempts a Stealth test to create a Stealth Score.</p>
+      display: true
+      abilityType: battlecry
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ""
+        wounds: ""
+        shock: ""
+      test:
+        dn: null
+        type: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!NIO56I62jJFCGi5d.5CGwHz7YiMUquBmJ"
+  - name: "Reaction: One Man Army"
+    type: ability
+    _id: 8s4ucCz2k9jRntrG
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ""
+      specification: ""
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>When Sly Marbo is the target of a ranged attack, after that attack is resolved, Sly Marbo may attempt a ranged attack of his own against his attacker.</p>
+      display: true
+      abilityType: reaction
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ""
+        wounds: ""
+        shock: ""
+      test:
+        dn: null
+        type: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!NIO56I62jJFCGi5d.8s4ucCz2k9jRntrG"
+  - name: "Ruin: Into the Shadows"
+    type: ability
+    _id: 6r1GsjQxWJ2zIgcI
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ""
+      specification: ""
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>Spend 1 Ruin to move up to the Threat’s Speed and attempt a Stealth test to create a Stealth Score as a Ruin Action.</p>
+      display: true
+      abilityType: ruin
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ""
+        wounds: ""
+        shock: ""
+      test:
+        dn: null
+        type: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!NIO56I62jJFCGi5d.6r1GsjQxWJ2zIgcI"
+  - name: Determination
+    type: ability
+    _id: 3YMMpjAmim3L4eBg
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ""
+      specification: ""
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>Spend 1 Ruin to roll 6d6.</p>
+      display: true
+      abilityType: determination
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ""
+        wounds: ""
+        shock: ""
+      test:
+        dn: null
+        type: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!NIO56I62jJFCGi5d.3YMMpjAmim3L4eBg"
+effects: []
+sort: 0
+ownership:
+  default: 0
+flags:
+  wrath-and-glory:
+    autoCalc:
+      defence: true
+      resilience: true
+      shock: true
+      awareness: true
+      resolve: true
+      determination: true
+      wounds: true
+      conviction: true
+    autoWounded: true
+    autoExhausted: true
+    generateMetaCurrencies: true
+_key: "!actors!NIO56I62jJFCGi5d"
