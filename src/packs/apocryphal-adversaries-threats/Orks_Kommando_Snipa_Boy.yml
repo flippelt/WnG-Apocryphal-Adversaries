@@ -1,7 +1,7 @@
 folder: fIRfbMfP3ahjbc6n
-name: Kommando
+name: Kommando Snipa Boy
 type: threat
-_id: TWMqE6dr0iHbgK0z
+_id: MEUmNyhsuzB5CUhk
 img: modules/wng-core/assets/tokens/orks.webp
 system:
   attributes:
@@ -248,9 +248,9 @@ system:
   corruption:
     current: 0
   mob: null
-  notes: <p>Kommando — an Ork specialist who relies on "kunning trikz", stealth, and ambush rather than fighting head-on. The squad fields specialist variants (Breacha, Burna, Comms, Dakka, Grot, Nob, Rokkit, Slasha, Snipa Boyz).</p>
+  notes: <p>Kommando Snipa Boy — picks off targets from afar with a scoped big shoota.</p>
 prototypeToken:
-  name: Kommando
+  name: Kommando Snipa Boy
   displayName: 20
   actorLink: false
   appendNumber: false
@@ -284,7 +284,7 @@ prototypeToken:
 items:
   - name: ORK
     type: keyword
-    _id: 1gaidHPmK4pimDtU
+    _id: 3gu8SDBbDjCtC5zi
     img: modules/wng-core/assets/factions/orks.svg
     system:
       description: <p>A brutal xenos Species that crave violence and live only for war.</p>
@@ -294,10 +294,10 @@ items:
     ownership:
       default: 0
     flags: {}
-    _key: "!actors.items!TWMqE6dr0iHbgK0z.1gaidHPmK4pimDtU"
+    _key: "!actors.items!MEUmNyhsuzB5CUhk.3gu8SDBbDjCtC5zi"
   - name: "[CLAN]"
     type: keyword
-    _id: p7lxLDFGyNljUJUT
+    _id: 8ZyFVPJHQGsDphMH
     img: modules/wng-core/assets/factions/orks.svg
     system:
       description: <p>Replace with the Ork's clan keyword (Bad Moons, Blood Axes, Deathskulls, Evil Sunz, Freebooterz, Goffs, Snakebites&hellip;).</p>
@@ -307,10 +307,10 @@ items:
     ownership:
       default: 0
     flags: {}
-    _key: "!actors.items!TWMqE6dr0iHbgK0z.p7lxLDFGyNljUJUT"
+    _key: "!actors.items!MEUmNyhsuzB5CUhk.8ZyFVPJHQGsDphMH"
   - name: KOMMANDO
     type: keyword
-    _id: XvJYBVHV9BJRZo33
+    _id: 2oJoeUhqm0yn8gRk
     img: modules/wng-core/assets/factions/orks.svg
     system:
       description: <p>An Ork infiltrator and saboteur specialising in stealth and ambush.</p>
@@ -320,10 +320,10 @@ items:
     ownership:
       default: 0
     flags: {}
-    _key: "!actors.items!TWMqE6dr0iHbgK0z.XvJYBVHV9BJRZo33"
+    _key: "!actors.items!MEUmNyhsuzB5CUhk.2oJoeUhqm0yn8gRk"
   - name: Ork Flak
     type: armour
-    _id: l0KznxxMUJrFHFIz
+    _id: LeUTQean2QltFqb7
     img: modules/wng-core/assets/icons/armour/armour.webp
     system:
       quantity: 1
@@ -342,10 +342,10 @@ items:
     ownership:
       default: 0
     flags: {}
-    _key: "!actors.items!TWMqE6dr0iHbgK0z.l0KznxxMUJrFHFIz"
-  - name: Slugga
+    _key: "!actors.items!MEUmNyhsuzB5CUhk.LeUTQean2QltFqb7"
+  - name: Scoped Big Shoota
     type: weapon
-    _id: xZSxzL6kwX8r4hSc
+    _id: 0EcuulephiOHDFdR
     img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
     system:
       quantity: 1
@@ -359,11 +359,11 @@ items:
         bonus: 0
         rank: none
       damage:
-        base: 10
+        base: 12
         bonus: 0
         rank: none
       ed:
-        base: 1
+        base: 2
         bonus: 0
         rank: none
       ap:
@@ -372,15 +372,16 @@ items:
         rank: none
       category: ranged
       range:
-        short: 6
-        medium: 12
-        long: 18
+        short: 24
+        medium: 48
+        long: 72
         melee: 0
         thrown: null
       ammo: ""
-      salvo: 1
+      salvo: 3
       traits:
-        - name: pistol
+        - name: sniper
+          rating: 1
         - name: waaagh!
       upgrades: []
     effects: []
@@ -389,10 +390,10 @@ items:
     ownership:
       default: 0
     flags: {}
-    _key: "!actors.items!TWMqE6dr0iHbgK0z.xZSxzL6kwX8r4hSc"
-  - name: Sneaky Stabba
+    _key: "!actors.items!MEUmNyhsuzB5CUhk.0EcuulephiOHDFdR"
+  - name: Burly Fists
     type: weapon
-    _id: 4WZVbLLvupNuGpeK
+    _id: K6QoqjRrSYBq0yr8
     img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
     system:
       quantity: 1
@@ -406,15 +407,15 @@ items:
         bonus: 0
         rank: none
       damage:
-        base: 8
+        base: 5
         bonus: 0
         rank: none
       ed:
-        base: 3
+        base: 1
         bonus: 0
         rank: none
       ap:
-        base: -1
+        base: 0
         bonus: 0
         rank: none
       category: melee
@@ -426,9 +427,7 @@ items:
         thrown: null
       ammo: ""
       salvo: 0
-      traits:
-        - name: silent
-        - name: waaagh!
+      traits: []
       upgrades: []
     effects: []
     folder: null
@@ -436,57 +435,10 @@ items:
     ownership:
       default: 0
     flags: {}
-    _key: "!actors.items!TWMqE6dr0iHbgK0z.4WZVbLLvupNuGpeK"
-  - name: Stikkbomb
-    type: weapon
-    _id: JZ07c9Z28hG8zMzo
-    img: modules/wng-core/assets/icons/weapons/grenade.webp
-    system:
-      quantity: 2
-      rarity: common
-      description: <p>Range 20. Salvo —.</p>
-      value: 0
-      keywords: ""
-      equipped: true
-      attack:
-        base: 0
-        bonus: 0
-        rank: none
-      damage:
-        base: 9
-        bonus: 0
-        rank: none
-      ed:
-        base: 5
-        bonus: 0
-        rank: none
-      ap:
-        base: 0
-        bonus: 0
-        rank: none
-      category: ranged
-      range:
-        short: 0
-        medium: 0
-        long: 0
-        melee: 0
-        thrown: 20
-      ammo: ""
-      salvo: 0
-      traits:
-        - name: blast
-          rating: 6
-      upgrades: []
-    effects: []
-    folder: null
-    sort: 0
-    ownership:
-      default: 0
-    flags: {}
-    _key: "!actors.items!TWMqE6dr0iHbgK0z.JZ07c9Z28hG8zMzo"
+    _key: "!actors.items!MEUmNyhsuzB5CUhk.K6QoqjRrSYBq0yr8"
   - name: Champion
     type: talent
-    _id: 7zADDJPwtY333uNr
+    _id: lfZezR97MJw2zd1P
     img: modules/wng-core/assets/icons/talents/talent.webp
     system:
       effect: ""
@@ -500,10 +452,10 @@ items:
     ownership:
       default: 0
     flags: {}
-    _key: "!actors.items!TWMqE6dr0iHbgK0z.7zADDJPwtY333uNr"
+    _key: "!actors.items!MEUmNyhsuzB5CUhk.lfZezR97MJw2zd1P"
   - name: "'Ere We Go"
     type: talent
-    _id: nz30na0xo7MAPsvs
+    _id: pxu1D6cIOx7ezuza
     img: modules/wng-core/assets/icons/talents/talent.webp
     system:
       effect: ""
@@ -517,10 +469,10 @@ items:
     ownership:
       default: 0
     flags: {}
-    _key: "!actors.items!TWMqE6dr0iHbgK0z.nz30na0xo7MAPsvs"
+    _key: "!actors.items!MEUmNyhsuzB5CUhk.pxu1D6cIOx7ezuza"
   - name: Dakka! Dakka! Dakka!
     type: talent
-    _id: URNQIiQaAxaPvYzT
+    _id: CM8hlwSWVBvgQHmf
     img: modules/wng-core/assets/icons/talents/talent.webp
     system:
       effect: ""
@@ -534,10 +486,10 @@ items:
     ownership:
       default: 0
     flags: {}
-    _key: "!actors.items!TWMqE6dr0iHbgK0z.URNQIiQaAxaPvYzT"
+    _key: "!actors.items!MEUmNyhsuzB5CUhk.CM8hlwSWVBvgQHmf"
   - name: Mob Rule
     type: talent
-    _id: 7YbmUwUiF057uTHn
+    _id: TvikxakyGtM3kjtH
     img: modules/wng-core/assets/icons/talents/talent.webp
     system:
       effect: ""
@@ -551,10 +503,10 @@ items:
     ownership:
       default: 0
     flags: {}
-    _key: "!actors.items!TWMqE6dr0iHbgK0z.7YbmUwUiF057uTHn"
+    _key: "!actors.items!MEUmNyhsuzB5CUhk.TvikxakyGtM3kjtH"
   - name: Throat Slittas
     type: talent
-    _id: arVZVzKnYYm8G4Tu
+    _id: m1gGraQSLukrGS25
     img: modules/wng-core/assets/icons/talents/talent.webp
     system:
       effect: ""
@@ -568,10 +520,10 @@ items:
     ownership:
       default: 0
     flags: {}
-    _key: "!actors.items!TWMqE6dr0iHbgK0z.arVZVzKnYYm8G4Tu"
+    _key: "!actors.items!MEUmNyhsuzB5CUhk.m1gGraQSLukrGS25"
   - name: "Battlecry: Sneaky Gitz"
     type: ability
-    _id: LWRaxIFOGfh6YemB
+    _id: N5PcIYUHMRaoDCOv
     img: modules/wng-core/assets/icons/abilities/ability.webp
     system:
       dn: 0
@@ -609,10 +561,10 @@ items:
     ownership:
       default: 0
     flags: {}
-    _key: "!actors.items!TWMqE6dr0iHbgK0z.LWRaxIFOGfh6YemB"
-  - name: "Ruin: Skulk About"
+    _key: "!actors.items!MEUmNyhsuzB5CUhk.N5PcIYUHMRaoDCOv"
+  - name: "Ruin: 'Av It!"
     type: ability
-    _id: lhC6ekfUxjzX9Loc
+    _id: qzzCpcyWYY0fFEZN
     img: modules/wng-core/assets/icons/abilities/ability.webp
     system:
       dn: 0
@@ -621,7 +573,7 @@ items:
       effect: ""
       cost: 0
       requirements: ""
-      description: <p>Spend 1 Ruin to make a normal move and attempt a Stealth Test to create a Stealth Score.</p>
+      description: <p>Spend 1 Ruin to make an aimed ranged attack with the Threat's Scoped Big Shoota as a Ruin Action. This is always a Salvo Attack and gains the Inflict (Pinned) trait.</p>
       display: true
       abilityType: ruin
       traits: []
@@ -650,10 +602,10 @@ items:
     ownership:
       default: 0
     flags: {}
-    _key: "!actors.items!TWMqE6dr0iHbgK0z.lhC6ekfUxjzX9Loc"
+    _key: "!actors.items!MEUmNyhsuzB5CUhk.qzzCpcyWYY0fFEZN"
   - name: Determination
     type: ability
-    _id: qJYZF1uiBCMt8kfZ
+    _id: JoQzh0OPztoIWUHt
     img: modules/wng-core/assets/icons/abilities/ability.webp
     system:
       dn: 0
@@ -691,7 +643,7 @@ items:
     ownership:
       default: 0
     flags: {}
-    _key: "!actors.items!TWMqE6dr0iHbgK0z.qJYZF1uiBCMt8kfZ"
+    _key: "!actors.items!MEUmNyhsuzB5CUhk.JoQzh0OPztoIWUHt"
 effects: []
 sort: 0
 ownership:
@@ -710,4 +662,4 @@ flags:
     autoWounded: true
     autoExhausted: true
     generateMetaCurrencies: true
-_key: "!actors!TWMqE6dr0iHbgK0z"
+_key: "!actors!MEUmNyhsuzB5CUhk"

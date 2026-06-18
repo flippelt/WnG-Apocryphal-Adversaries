@@ -1,21 +1,21 @@
 folder: fIRfbMfP3ahjbc6n
-name: Kommando
+name: Wrecka Boss Nob
 type: threat
-_id: TWMqE6dr0iHbgK0z
+_id: MymWbqW0IAum1goT
 img: modules/wng-core/assets/tokens/orks.webp
 system:
   attributes:
     strength:
       label: ATTRIBUTE.STRENGTH
       rating: 0
-      base: 5
+      base: 8
       bonus: 0
       cost: 0
       total: 0
     toughness:
       label: ATTRIBUTE.TOUGHNESS
       rating: 0
-      base: 7
+      base: 8
       bonus: 0
       cost: 0
       total: 0
@@ -36,21 +36,21 @@ system:
     willpower:
       label: ATTRIBUTE.WILLPOWER
       rating: 0
-      base: 3
+      base: 4
       bonus: 0
       cost: 0
       total: 0
     intellect:
       label: ATTRIBUTE.INTELLECT
       rating: 0
-      base: 2
+      base: 3
       bonus: 0
       cost: 0
       total: 0
     fellowship:
       label: ATTRIBUTE.FELLOWSHIP
       rating: 0
-      base: 1
+      base: 2
       bonus: 0
       cost: 0
       total: 0
@@ -66,7 +66,7 @@ system:
     awareness:
       label: SKILL.AWARENESS
       attribute: intellect
-      rating: 4
+      rating: 3
       base: 0
       bonus: 0
       cost: 0
@@ -82,7 +82,7 @@ system:
     cunning:
       label: SKILL.CUNNING
       attribute: fellowship
-      rating: 5
+      rating: 4
       base: 0
       bonus: 0
       cost: 0
@@ -106,7 +106,7 @@ system:
     intimidation:
       label: SKILL.INTIMIDATION
       attribute: willpower
-      rating: 3
+      rating: 4
       base: 0
       bonus: 0
       cost: 0
@@ -146,7 +146,7 @@ system:
     pilot:
       label: SKILL.PILOT
       attribute: agility
-      rating: 1
+      rating: 2
       base: 0
       bonus: 0
       cost: 0
@@ -170,7 +170,7 @@ system:
     stealth:
       label: SKILL.STEALTH
       attribute: agility
-      rating: 4
+      rating: 2
       base: 0
       bonus: 0
       cost: 0
@@ -178,7 +178,7 @@ system:
     survival:
       label: SKILL.SURVIVAL
       attribute: willpower
-      rating: 4
+      rating: 2
       base: 0
       bonus: 0
       cost: 0
@@ -194,7 +194,7 @@ system:
     weaponSkill:
       label: SKILL.WEAPON_SKILL
       attribute: initiative
-      rating: 3
+      rating: 6
       base: 0
       bonus: 0
       cost: 0
@@ -212,21 +212,21 @@ system:
     wounds:
       value: 0
       bonus: 0
-      max: 11
+      max: 12
     determination:
       bonus: 0
       total: 0
     shock:
       value: 0
       bonus: 0
-      max: 5
+      max: 6
     resolve:
       bonus: 0
       total: 0
     conviction:
       bonus: 0
       total: 0
-    size: average
+    size: large
     speed: 5
     fly: 0
     passiveAwareness:
@@ -238,32 +238,32 @@ system:
     faction: Orks
     archetype: ""
     threat:
-      first: E
+      first: A
       second: E
-      third: T
-      fourth: T
-      fifth: T
+      third: E
+      fourth: E
+      fifth: E
   resources:
     ruin: 0
   corruption:
     current: 0
   mob: null
-  notes: <p>Kommando — an Ork specialist who relies on "kunning trikz", stealth, and ambush rather than fighting head-on. The squad fields specialist variants (Breacha, Burna, Comms, Dakka, Grot, Nob, Rokkit, Slasha, Snipa Boyz).</p>
+  notes: <p>Wrecka Boss Nob — the biggest, nastiest Tankbusta or Breaka Boy, leading a Wrecka Krew through sheer force of will.</p>
 prototypeToken:
-  name: Kommando
+  name: Wrecka Boss Nob
   displayName: 20
   actorLink: false
   appendNumber: false
   prependAdjective: false
   texture:
     src: modules/wng-core/assets/tokens/orks.webp
-    scaleX: 1
-    scaleY: 1
+    scaleX: 2
+    scaleY: 2
     offsetX: 0
     offsetY: 0
     rotation: 0
-  width: 1
-  height: 1
+  width: 2
+  height: 2
   lockRotation: false
   rotation: 0
   alpha: 1
@@ -284,7 +284,7 @@ prototypeToken:
 items:
   - name: ORK
     type: keyword
-    _id: 1gaidHPmK4pimDtU
+    _id: aheL8NN21FEtAt1C
     img: modules/wng-core/assets/factions/orks.svg
     system:
       description: <p>A brutal xenos Species that crave violence and live only for war.</p>
@@ -294,10 +294,36 @@ items:
     ownership:
       default: 0
     flags: {}
-    _key: "!actors.items!TWMqE6dr0iHbgK0z.1gaidHPmK4pimDtU"
+    _key: "!actors.items!MymWbqW0IAum1goT.aheL8NN21FEtAt1C"
+  - name: NOB
+    type: keyword
+    _id: YxoMTApmC7pwaUq3
+    img: modules/wng-core/assets/factions/orks.svg
+    system:
+      description: <p>A bigger, tougher Ork who leads lesser Boyz.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!MymWbqW0IAum1goT.YxoMTApmC7pwaUq3"
+  - name: WRECKA
+    type: keyword
+    _id: Pp1LngLOezOAHRxB
+    img: modules/wng-core/assets/factions/orks.svg
+    system:
+      description: <p>A member of a Wrecka Krew — Tankbustas and Breaka Boyz united by a love of wrecking vehicles.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!MymWbqW0IAum1goT.Pp1LngLOezOAHRxB"
   - name: "[CLAN]"
     type: keyword
-    _id: p7lxLDFGyNljUJUT
+    _id: W3rG5sW1Ci5ex2fg
     img: modules/wng-core/assets/factions/orks.svg
     system:
       description: <p>Replace with the Ork's clan keyword (Bad Moons, Blood Axes, Deathskulls, Evil Sunz, Freebooterz, Goffs, Snakebites&hellip;).</p>
@@ -307,23 +333,10 @@ items:
     ownership:
       default: 0
     flags: {}
-    _key: "!actors.items!TWMqE6dr0iHbgK0z.p7lxLDFGyNljUJUT"
-  - name: KOMMANDO
-    type: keyword
-    _id: XvJYBVHV9BJRZo33
-    img: modules/wng-core/assets/factions/orks.svg
-    system:
-      description: <p>An Ork infiltrator and saboteur specialising in stealth and ambush.</p>
-    effects: []
-    folder: null
-    sort: 0
-    ownership:
-      default: 0
-    flags: {}
-    _key: "!actors.items!TWMqE6dr0iHbgK0z.XvJYBVHV9BJRZo33"
-  - name: Ork Flak
+    _key: "!actors.items!MymWbqW0IAum1goT.W3rG5sW1Ci5ex2fg"
+  - name: "'Eavy Armour"
     type: armour
-    _id: l0KznxxMUJrFHFIz
+    _id: qUMTAXwbE0KOhfH9
     img: modules/wng-core/assets/icons/armour/armour.webp
     system:
       quantity: 1
@@ -332,7 +345,7 @@ items:
       value: 0
       keywords: ""
       equipped: true
-      rating: 2
+      rating: 4
       base: 0
       traits: []
       invulnerable: false
@@ -342,15 +355,15 @@ items:
     ownership:
       default: 0
     flags: {}
-    _key: "!actors.items!TWMqE6dr0iHbgK0z.l0KznxxMUJrFHFIz"
-  - name: Slugga
+    _key: "!actors.items!MymWbqW0IAum1goT.qUMTAXwbE0KOhfH9"
+  - name: Rokkit Pistol
     type: weapon
-    _id: xZSxzL6kwX8r4hSc
+    _id: iBk05XGxn9LBxztP
     img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
     system:
       quantity: 1
       rarity: common
-      description: ""
+      description: <p>Salvo —. Extra Damage +1d3.</p>
       value: 0
       keywords: ""
       equipped: true
@@ -359,15 +372,15 @@ items:
         bonus: 0
         rank: none
       damage:
-        base: 10
+        base: 14
         bonus: 0
         rank: none
       ed:
-        base: 1
+        base: 0
         bonus: 0
         rank: none
       ap:
-        base: 0
+        base: -2
         bonus: 0
         rank: none
       category: ranged
@@ -378,8 +391,10 @@ items:
         melee: 0
         thrown: null
       ammo: ""
-      salvo: 1
+      salvo: null
       traits:
+        - name: blast
+          rating: 2
         - name: pistol
         - name: waaagh!
       upgrades: []
@@ -389,10 +404,10 @@ items:
     ownership:
       default: 0
     flags: {}
-    _key: "!actors.items!TWMqE6dr0iHbgK0z.xZSxzL6kwX8r4hSc"
-  - name: Sneaky Stabba
+    _key: "!actors.items!MymWbqW0IAum1goT.iBk05XGxn9LBxztP"
+  - name: Smash Hammer
     type: weapon
-    _id: 4WZVbLLvupNuGpeK
+    _id: rVSOWWyiRLvR6SY9
     img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
     system:
       quantity: 1
@@ -406,15 +421,15 @@ items:
         bonus: 0
         rank: none
       damage:
-        base: 8
+        base: 14
         bonus: 0
         rank: none
       ed:
-        base: 3
+        base: 5
         bonus: 0
         rank: none
       ap:
-        base: -1
+        base: -3
         bonus: 0
         rank: none
       category: melee
@@ -427,8 +442,12 @@ items:
       ammo: ""
       salvo: 0
       traits:
-        - name: silent
-        - name: waaagh!
+        - name: bane
+          custom: true
+          display: Bane (Vehicle)
+        - name: brutal
+        - name: rending
+          rating: 4
       upgrades: []
     effects: []
     folder: null
@@ -436,10 +455,10 @@ items:
     ownership:
       default: 0
     flags: {}
-    _key: "!actors.items!TWMqE6dr0iHbgK0z.4WZVbLLvupNuGpeK"
+    _key: "!actors.items!MymWbqW0IAum1goT.rVSOWWyiRLvR6SY9"
   - name: Stikkbomb
     type: weapon
-    _id: JZ07c9Z28hG8zMzo
+    _id: h4NXbfN4pg1kR4mV
     img: modules/wng-core/assets/icons/weapons/grenade.webp
     system:
       quantity: 2
@@ -483,27 +502,106 @@ items:
     ownership:
       default: 0
     flags: {}
-    _key: "!actors.items!TWMqE6dr0iHbgK0z.JZ07c9Z28hG8zMzo"
-  - name: Champion
-    type: talent
-    _id: 7zADDJPwtY333uNr
-    img: modules/wng-core/assets/icons/talents/talent.webp
+    _key: "!actors.items!MymWbqW0IAum1goT.h4NXbfN4pg1kR4mV"
+  - name: Tankbusta Bomb
+    type: weapon
+    _id: OaqxVIiVdmRA718U
+    img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
     system:
-      effect: ""
-      cost: 0
-      requirements: ""
-      description: <p>This Threat may use Ruin Actions and has 1 Personal Ruin.</p>
-      display: true
+      quantity: 1
+      rarity: common
+      description: <p>Demolition charge (1). Brutal, Blast (2), Waaagh!</p>
+      value: 0
+      keywords: ""
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 16
+        bonus: 0
+        rank: none
+      ed:
+        base: 3
+        bonus: 0
+        rank: none
+      ap:
+        base: -3
+        bonus: 0
+        rank: none
+      category: melee
+      range:
+        short: 0
+        medium: 0
+        long: 0
+        melee: 1
+        thrown: null
+      ammo: ""
+      salvo: 0
+      traits:
+        - name: brutal
+        - name: blast
+          rating: 2
+        - name: waaagh!
+      upgrades: []
     effects: []
     folder: null
     sort: 0
     ownership:
       default: 0
     flags: {}
-    _key: "!actors.items!TWMqE6dr0iHbgK0z.7zADDJPwtY333uNr"
+    _key: "!actors.items!MymWbqW0IAum1goT.OaqxVIiVdmRA718U"
+  - name: Chain Choppa
+    type: weapon
+    _id: MrMZCWEQyoBD5r2j
+    img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: "<p>Threat Option (Da Best Gear): with a second Rokkit Pistol (gaining Paired).</p>"
+      value: 0
+      keywords: ""
+      equipped: false
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 13
+        bonus: 0
+        rank: none
+      ed:
+        base: 4
+        bonus: 0
+        rank: none
+      ap:
+        base: -1
+        bonus: 0
+        rank: none
+      category: melee
+      range:
+        short: 0
+        medium: 0
+        long: 0
+        melee: 1
+        thrown: null
+      ammo: ""
+      salvo: 0
+      traits:
+        - name: brutal
+        - name: waaagh!
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!MymWbqW0IAum1goT.MrMZCWEQyoBD5r2j"
   - name: "'Ere We Go"
     type: talent
-    _id: nz30na0xo7MAPsvs
+    _id: Os5Vc3ZlNICk3uJj
     img: modules/wng-core/assets/icons/talents/talent.webp
     system:
       effect: ""
@@ -517,10 +615,27 @@ items:
     ownership:
       default: 0
     flags: {}
-    _key: "!actors.items!TWMqE6dr0iHbgK0z.nz30na0xo7MAPsvs"
+    _key: "!actors.items!MymWbqW0IAum1goT.Os5Vc3ZlNICk3uJj"
+  - name: Champion
+    type: talent
+    _id: HDu40WdKNeRtfFaE
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>This Threat may use Ruin Actions and has 3 Personal Ruin.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!MymWbqW0IAum1goT.HDu40WdKNeRtfFaE"
   - name: Dakka! Dakka! Dakka!
     type: talent
-    _id: URNQIiQaAxaPvYzT
+    _id: ESmi1otFjIKzzt0R
     img: modules/wng-core/assets/icons/talents/talent.webp
     system:
       effect: ""
@@ -534,10 +649,10 @@ items:
     ownership:
       default: 0
     flags: {}
-    _key: "!actors.items!TWMqE6dr0iHbgK0z.URNQIiQaAxaPvYzT"
+    _key: "!actors.items!MymWbqW0IAum1goT.ESmi1otFjIKzzt0R"
   - name: Mob Rule
     type: talent
-    _id: 7YbmUwUiF057uTHn
+    _id: 6hERpYkNfEmUE0ae
     img: modules/wng-core/assets/icons/talents/talent.webp
     system:
       effect: ""
@@ -551,16 +666,16 @@ items:
     ownership:
       default: 0
     flags: {}
-    _key: "!actors.items!TWMqE6dr0iHbgK0z.7YbmUwUiF057uTHn"
-  - name: Throat Slittas
+    _key: "!actors.items!MymWbqW0IAum1goT.6hERpYkNfEmUE0ae"
+  - name: Tank Hunters
     type: talent
-    _id: arVZVzKnYYm8G4Tu
+    _id: 5LYpJ4IGhiba4gTY
     img: modules/wng-core/assets/icons/talents/talent.webp
     system:
       effect: ""
       cost: 0
       requirements: ""
-      description: <p>This Threat can move at full speed while it has a Stealth Score. When making a melee Surprise Attack, the Threat's melee weapon gains the Brutal weapon trait.</p>
+      description: <p>This Threat may re-roll failed dice on attacks against Vehicles.</p>
       display: true
     effects: []
     folder: null
@@ -568,10 +683,10 @@ items:
     ownership:
       default: 0
     flags: {}
-    _key: "!actors.items!TWMqE6dr0iHbgK0z.arVZVzKnYYm8G4Tu"
-  - name: "Battlecry: Sneaky Gitz"
+    _key: "!actors.items!MymWbqW0IAum1goT.5LYpJ4IGhiba4gTY"
+  - name: Wreck Dat!
     type: ability
-    _id: LWRaxIFOGfh6YemB
+    _id: Ta729XQGCiECxSDY
     img: modules/wng-core/assets/icons/abilities/ability.webp
     system:
       dn: 0
@@ -580,9 +695,9 @@ items:
       effect: ""
       cost: 0
       requirements: ""
-      description: <p>During the first round of combat in which this Threat ambushes their opponent, they may use their Stealth dice pool of 8 for any Attack.</p>
+      description: <p>As a Simple Action, pick another WRECKA within 18m and give them 1 Personal Ruin.</p>
       display: true
-      abilityType: battlecry
+      abilityType: action
       traits: []
       damage:
         base: 0
@@ -609,10 +724,10 @@ items:
     ownership:
       default: 0
     flags: {}
-    _key: "!actors.items!TWMqE6dr0iHbgK0z.LWRaxIFOGfh6YemB"
-  - name: "Ruin: Skulk About"
+    _key: "!actors.items!MymWbqW0IAum1goT.Ta729XQGCiECxSDY"
+  - name: "Wrath: Wrecka Rampage"
     type: ability
-    _id: lhC6ekfUxjzX9Loc
+    _id: JMX6JcXgYtWm7kAt
     img: modules/wng-core/assets/icons/abilities/ability.webp
     system:
       dn: 0
@@ -621,9 +736,9 @@ items:
       effect: ""
       cost: 0
       requirements: ""
-      description: <p>Spend 1 Ruin to make a normal move and attempt a Stealth Test to create a Stealth Score.</p>
+      description: <p>When a WRECKA rolls one or more Exalted Icons on the ED for an attack's damage, gain 1 Ruin.</p>
       display: true
-      abilityType: ruin
+      abilityType: wrath
       traits: []
       damage:
         base: 0
@@ -650,10 +765,10 @@ items:
     ownership:
       default: 0
     flags: {}
-    _key: "!actors.items!TWMqE6dr0iHbgK0z.lhC6ekfUxjzX9Loc"
+    _key: "!actors.items!MymWbqW0IAum1goT.JMX6JcXgYtWm7kAt"
   - name: Determination
     type: ability
-    _id: qJYZF1uiBCMt8kfZ
+    _id: MamiV7qdT8rtKwVX
     img: modules/wng-core/assets/icons/abilities/ability.webp
     system:
       dn: 0
@@ -662,7 +777,7 @@ items:
       effect: ""
       cost: 0
       requirements: ""
-      description: <p>Spend 1 Ruin to roll 7d6.</p>
+      description: <p>Spend 1 Ruin to roll 8d6.</p>
       display: true
       abilityType: determination
       traits: []
@@ -691,7 +806,7 @@ items:
     ownership:
       default: 0
     flags: {}
-    _key: "!actors.items!TWMqE6dr0iHbgK0z.qJYZF1uiBCMt8kfZ"
+    _key: "!actors.items!MymWbqW0IAum1goT.MamiV7qdT8rtKwVX"
 effects: []
 sort: 0
 ownership:
@@ -710,4 +825,4 @@ flags:
     autoWounded: true
     autoExhausted: true
     generateMetaCurrencies: true
-_key: "!actors!TWMqE6dr0iHbgK0z"
+_key: "!actors!MymWbqW0IAum1goT"

@@ -1,28 +1,28 @@
 folder: fIRfbMfP3ahjbc6n
-name: Kommando
+name: Kommando Nob
 type: threat
-_id: TWMqE6dr0iHbgK0z
+_id: gMc3sUlKzL6XeM3F
 img: modules/wng-core/assets/tokens/orks.webp
 system:
   attributes:
     strength:
       label: ATTRIBUTE.STRENGTH
       rating: 0
-      base: 5
+      base: 8
       bonus: 0
       cost: 0
       total: 0
     toughness:
       label: ATTRIBUTE.TOUGHNESS
       rating: 0
-      base: 7
+      base: 8
       bonus: 0
       cost: 0
       total: 0
     agility:
       label: ATTRIBUTE.AGILITY
       rating: 0
-      base: 4
+      base: 2
       bonus: 0
       cost: 0
       total: 0
@@ -36,7 +36,7 @@ system:
     willpower:
       label: ATTRIBUTE.WILLPOWER
       rating: 0
-      base: 3
+      base: 4
       bonus: 0
       cost: 0
       total: 0
@@ -50,7 +50,7 @@ system:
     fellowship:
       label: ATTRIBUTE.FELLOWSHIP
       rating: 0
-      base: 1
+      base: 2
       bonus: 0
       cost: 0
       total: 0
@@ -74,7 +74,7 @@ system:
     ballisticSkill:
       label: SKILL.BALLISTIC_SKILL
       attribute: agility
-      rating: 0
+      rating: 2
       base: 0
       bonus: 0
       cost: 0
@@ -82,7 +82,7 @@ system:
     cunning:
       label: SKILL.CUNNING
       attribute: fellowship
-      rating: 5
+      rating: 6
       base: 0
       bonus: 0
       cost: 0
@@ -106,7 +106,7 @@ system:
     intimidation:
       label: SKILL.INTIMIDATION
       attribute: willpower
-      rating: 3
+      rating: 4
       base: 0
       bonus: 0
       cost: 0
@@ -114,7 +114,7 @@ system:
     investigation:
       label: SKILL.INVESTIGATION
       attribute: intellect
-      rating: 3
+      rating: 4
       base: 0
       bonus: 0
       cost: 0
@@ -130,7 +130,7 @@ system:
     medicae:
       label: SKILL.MEDICAE
       attribute: intellect
-      rating: 3
+      rating: 4
       base: 0
       bonus: 0
       cost: 0
@@ -146,7 +146,7 @@ system:
     pilot:
       label: SKILL.PILOT
       attribute: agility
-      rating: 1
+      rating: 4
       base: 0
       bonus: 0
       cost: 0
@@ -162,7 +162,7 @@ system:
     scholar:
       label: SKILL.SCHOLAR
       attribute: intellect
-      rating: 3
+      rating: 4
       base: 0
       bonus: 0
       cost: 0
@@ -170,7 +170,7 @@ system:
     stealth:
       label: SKILL.STEALTH
       attribute: agility
-      rating: 4
+      rating: 6
       base: 0
       bonus: 0
       cost: 0
@@ -178,7 +178,7 @@ system:
     survival:
       label: SKILL.SURVIVAL
       attribute: willpower
-      rating: 4
+      rating: 3
       base: 0
       bonus: 0
       cost: 0
@@ -186,7 +186,7 @@ system:
     tech:
       label: SKILL.TECH
       attribute: intellect
-      rating: 3
+      rating: 4
       base: 0
       bonus: 0
       cost: 0
@@ -194,7 +194,7 @@ system:
     weaponSkill:
       label: SKILL.WEAPON_SKILL
       attribute: initiative
-      rating: 3
+      rating: 6
       base: 0
       bonus: 0
       cost: 0
@@ -212,14 +212,14 @@ system:
     wounds:
       value: 0
       bonus: 0
-      max: 11
+      max: 12
     determination:
       bonus: 0
       total: 0
     shock:
       value: 0
       bonus: 0
-      max: 5
+      max: 6
     resolve:
       bonus: 0
       total: 0
@@ -238,19 +238,19 @@ system:
     faction: Orks
     archetype: ""
     threat:
-      first: E
-      second: E
-      third: T
-      fourth: T
-      fifth: T
+      first: A
+      second: A
+      third: E
+      fourth: E
+      fifth: E
   resources:
     ruin: 0
   corruption:
     current: 0
   mob: null
-  notes: <p>Kommando — an Ork specialist who relies on "kunning trikz", stealth, and ambush rather than fighting head-on. The squad fields specialist variants (Breacha, Burna, Comms, Dakka, Grot, Nob, Rokkit, Slasha, Snipa Boyz).</p>
+  notes: <p>Kommando Nob — the sneakiest of sneaky gits, brutal and cunning enough to boss about the most conniving of his kind.</p>
 prototypeToken:
-  name: Kommando
+  name: Kommando Nob
   displayName: 20
   actorLink: false
   appendNumber: false
@@ -284,7 +284,7 @@ prototypeToken:
 items:
   - name: ORK
     type: keyword
-    _id: 1gaidHPmK4pimDtU
+    _id: dLQYQKnZOBdIrKMD
     img: modules/wng-core/assets/factions/orks.svg
     system:
       description: <p>A brutal xenos Species that crave violence and live only for war.</p>
@@ -294,10 +294,23 @@ items:
     ownership:
       default: 0
     flags: {}
-    _key: "!actors.items!TWMqE6dr0iHbgK0z.1gaidHPmK4pimDtU"
+    _key: "!actors.items!gMc3sUlKzL6XeM3F.dLQYQKnZOBdIrKMD"
+  - name: NOB
+    type: keyword
+    _id: uNUocdtZNWhPbtHn
+    img: modules/wng-core/assets/factions/orks.svg
+    system:
+      description: <p>A bigger, tougher Ork who leads lesser Boyz.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!gMc3sUlKzL6XeM3F.uNUocdtZNWhPbtHn"
   - name: "[CLAN]"
     type: keyword
-    _id: p7lxLDFGyNljUJUT
+    _id: 4LMCL5outsHusvHr
     img: modules/wng-core/assets/factions/orks.svg
     system:
       description: <p>Replace with the Ork's clan keyword (Bad Moons, Blood Axes, Deathskulls, Evil Sunz, Freebooterz, Goffs, Snakebites&hellip;).</p>
@@ -307,10 +320,10 @@ items:
     ownership:
       default: 0
     flags: {}
-    _key: "!actors.items!TWMqE6dr0iHbgK0z.p7lxLDFGyNljUJUT"
+    _key: "!actors.items!gMc3sUlKzL6XeM3F.4LMCL5outsHusvHr"
   - name: KOMMANDO
     type: keyword
-    _id: XvJYBVHV9BJRZo33
+    _id: 4KOUU8fLADvJM8XM
     img: modules/wng-core/assets/factions/orks.svg
     system:
       description: <p>An Ork infiltrator and saboteur specialising in stealth and ambush.</p>
@@ -320,10 +333,10 @@ items:
     ownership:
       default: 0
     flags: {}
-    _key: "!actors.items!TWMqE6dr0iHbgK0z.XvJYBVHV9BJRZo33"
+    _key: "!actors.items!gMc3sUlKzL6XeM3F.4KOUU8fLADvJM8XM"
   - name: Ork Flak
     type: armour
-    _id: l0KznxxMUJrFHFIz
+    _id: 8vpJ5sMdJb94TPOK
     img: modules/wng-core/assets/icons/armour/armour.webp
     system:
       quantity: 1
@@ -342,10 +355,10 @@ items:
     ownership:
       default: 0
     flags: {}
-    _key: "!actors.items!TWMqE6dr0iHbgK0z.l0KznxxMUJrFHFIz"
+    _key: "!actors.items!gMc3sUlKzL6XeM3F.8vpJ5sMdJb94TPOK"
   - name: Slugga
     type: weapon
-    _id: xZSxzL6kwX8r4hSc
+    _id: nZRfeItzQgXGx6wb
     img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
     system:
       quantity: 1
@@ -389,10 +402,10 @@ items:
     ownership:
       default: 0
     flags: {}
-    _key: "!actors.items!TWMqE6dr0iHbgK0z.xZSxzL6kwX8r4hSc"
-  - name: Sneaky Stabba
+    _key: "!actors.items!gMc3sUlKzL6XeM3F.nZRfeItzQgXGx6wb"
+  - name: Big Choppa
     type: weapon
-    _id: 4WZVbLLvupNuGpeK
+    _id: MekH1wTOE4oml8sl
     img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
     system:
       quantity: 1
@@ -406,11 +419,11 @@ items:
         bonus: 0
         rank: none
       damage:
-        base: 8
+        base: 13
         bonus: 0
         rank: none
       ed:
-        base: 3
+        base: 5
         bonus: 0
         rank: none
       ap:
@@ -427,7 +440,6 @@ items:
       ammo: ""
       salvo: 0
       traits:
-        - name: silent
         - name: waaagh!
       upgrades: []
     effects: []
@@ -436,24 +448,24 @@ items:
     ownership:
       default: 0
     flags: {}
-    _key: "!actors.items!TWMqE6dr0iHbgK0z.4WZVbLLvupNuGpeK"
-  - name: Stikkbomb
+    _key: "!actors.items!gMc3sUlKzL6XeM3F.MekH1wTOE4oml8sl"
+  - name: Power Klaw
     type: weapon
-    _id: JZ07c9Z28hG8zMzo
-    img: modules/wng-core/assets/icons/weapons/grenade.webp
+    _id: KjdKsYivBJlV63gz
+    img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
     system:
-      quantity: 2
+      quantity: 1
       rarity: common
-      description: <p>Range 20. Salvo —.</p>
+      description: "<p>Threat Option (Da Best Gear): replaces the Big Choppa.</p>"
       value: 0
       keywords: ""
-      equipped: true
+      equipped: false
       attack:
         base: 0
         bonus: 0
         rank: none
       damage:
-        base: 9
+        base: 14
         bonus: 0
         rank: none
       ed:
@@ -461,21 +473,23 @@ items:
         bonus: 0
         rank: none
       ap:
-        base: 0
+        base: -3
         bonus: 0
         rank: none
-      category: ranged
+      category: melee
       range:
         short: 0
         medium: 0
         long: 0
-        melee: 0
-        thrown: 20
+        melee: 1
+        thrown: null
       ammo: ""
       salvo: 0
       traits:
-        - name: blast
-          rating: 6
+        - name: brutal
+        - name: unwieldy
+          rating: 3
+        - name: waaagh!
       upgrades: []
     effects: []
     folder: null
@@ -483,16 +497,16 @@ items:
     ownership:
       default: 0
     flags: {}
-    _key: "!actors.items!TWMqE6dr0iHbgK0z.JZ07c9Z28hG8zMzo"
+    _key: "!actors.items!gMc3sUlKzL6XeM3F.KjdKsYivBJlV63gz"
   - name: Champion
     type: talent
-    _id: 7zADDJPwtY333uNr
+    _id: Iq4zdSPW30xayONz
     img: modules/wng-core/assets/icons/talents/talent.webp
     system:
       effect: ""
       cost: 0
       requirements: ""
-      description: <p>This Threat may use Ruin Actions and has 1 Personal Ruin.</p>
+      description: <p>This Threat may use Ruin Actions and has 3 Personal Ruin.</p>
       display: true
     effects: []
     folder: null
@@ -500,10 +514,10 @@ items:
     ownership:
       default: 0
     flags: {}
-    _key: "!actors.items!TWMqE6dr0iHbgK0z.7zADDJPwtY333uNr"
+    _key: "!actors.items!gMc3sUlKzL6XeM3F.Iq4zdSPW30xayONz"
   - name: "'Ere We Go"
     type: talent
-    _id: nz30na0xo7MAPsvs
+    _id: U0rLzLRJqGXbiD2q
     img: modules/wng-core/assets/icons/talents/talent.webp
     system:
       effect: ""
@@ -517,10 +531,10 @@ items:
     ownership:
       default: 0
     flags: {}
-    _key: "!actors.items!TWMqE6dr0iHbgK0z.nz30na0xo7MAPsvs"
+    _key: "!actors.items!gMc3sUlKzL6XeM3F.U0rLzLRJqGXbiD2q"
   - name: Dakka! Dakka! Dakka!
     type: talent
-    _id: URNQIiQaAxaPvYzT
+    _id: MbmabEdiOl6L3zMo
     img: modules/wng-core/assets/icons/talents/talent.webp
     system:
       effect: ""
@@ -534,10 +548,10 @@ items:
     ownership:
       default: 0
     flags: {}
-    _key: "!actors.items!TWMqE6dr0iHbgK0z.URNQIiQaAxaPvYzT"
+    _key: "!actors.items!gMc3sUlKzL6XeM3F.MbmabEdiOl6L3zMo"
   - name: Mob Rule
     type: talent
-    _id: 7YbmUwUiF057uTHn
+    _id: DnmHhmqw3WiVkVTr
     img: modules/wng-core/assets/icons/talents/talent.webp
     system:
       effect: ""
@@ -551,10 +565,10 @@ items:
     ownership:
       default: 0
     flags: {}
-    _key: "!actors.items!TWMqE6dr0iHbgK0z.7YbmUwUiF057uTHn"
+    _key: "!actors.items!gMc3sUlKzL6XeM3F.DnmHhmqw3WiVkVTr"
   - name: Throat Slittas
     type: talent
-    _id: arVZVzKnYYm8G4Tu
+    _id: b2OQkUumXlWDS65E
     img: modules/wng-core/assets/icons/talents/talent.webp
     system:
       effect: ""
@@ -568,10 +582,10 @@ items:
     ownership:
       default: 0
     flags: {}
-    _key: "!actors.items!TWMqE6dr0iHbgK0z.arVZVzKnYYm8G4Tu"
+    _key: "!actors.items!gMc3sUlKzL6XeM3F.b2OQkUumXlWDS65E"
   - name: "Battlecry: Sneaky Gitz"
     type: ability
-    _id: LWRaxIFOGfh6YemB
+    _id: Oha7z4Y9tqh3FC2b
     img: modules/wng-core/assets/icons/abilities/ability.webp
     system:
       dn: 0
@@ -609,10 +623,10 @@ items:
     ownership:
       default: 0
     flags: {}
-    _key: "!actors.items!TWMqE6dr0iHbgK0z.LWRaxIFOGfh6YemB"
-  - name: "Ruin: Skulk About"
+    _key: "!actors.items!gMc3sUlKzL6XeM3F.Oha7z4Y9tqh3FC2b"
+  - name: "Ruin: Get It Dun!"
     type: ability
-    _id: lhC6ekfUxjzX9Loc
+    _id: qaT96iO3zHsTGHxA
     img: modules/wng-core/assets/icons/abilities/ability.webp
     system:
       dn: 0
@@ -621,7 +635,7 @@ items:
       effect: ""
       cost: 0
       requirements: ""
-      description: <p>Spend 1 Ruin to make a normal move and attempt a Stealth Test to create a Stealth Score.</p>
+      description: <p>Spend 1 Ruin to allow up to two other KOMMANDOs to take a Ruin Action.</p>
       display: true
       abilityType: ruin
       traits: []
@@ -650,10 +664,10 @@ items:
     ownership:
       default: 0
     flags: {}
-    _key: "!actors.items!TWMqE6dr0iHbgK0z.lhC6ekfUxjzX9Loc"
+    _key: "!actors.items!gMc3sUlKzL6XeM3F.qaT96iO3zHsTGHxA"
   - name: Determination
     type: ability
-    _id: qJYZF1uiBCMt8kfZ
+    _id: 1c4ZH0K3H7KTwQUr
     img: modules/wng-core/assets/icons/abilities/ability.webp
     system:
       dn: 0
@@ -662,7 +676,7 @@ items:
       effect: ""
       cost: 0
       requirements: ""
-      description: <p>Spend 1 Ruin to roll 7d6.</p>
+      description: <p>Spend 1 Ruin to roll 8d6.</p>
       display: true
       abilityType: determination
       traits: []
@@ -691,7 +705,7 @@ items:
     ownership:
       default: 0
     flags: {}
-    _key: "!actors.items!TWMqE6dr0iHbgK0z.qJYZF1uiBCMt8kfZ"
+    _key: "!actors.items!gMc3sUlKzL6XeM3F.1c4ZH0K3H7KTwQUr"
 effects: []
 sort: 0
 ownership:
@@ -710,4 +724,4 @@ flags:
     autoWounded: true
     autoExhausted: true
     generateMetaCurrencies: true
-_key: "!actors!TWMqE6dr0iHbgK0z"
+_key: "!actors!gMc3sUlKzL6XeM3F"

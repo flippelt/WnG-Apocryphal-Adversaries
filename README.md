@@ -32,9 +32,12 @@ here **with his permission**.
 Converted faction by faction from the source PDFs. See
 [CONVERSION-STATUS.md](CONVERSION-STATUS.md).
 
-- ✅ **Orks — complete (v0.2.0):** all 41 threats (Boyz, Nobz, walkers, psykers
-  and every named Warlord up to Ghazghkull) plus a companion items compendium of
-  19 Adversary Traits and 15 Shiny Gubbinz relics.
+- ✅ **Orks — complete (v0.2.0; updated to source v2 in v0.7.1):** 55 threats
+  (Boyz, Nobz, walkers, psykers and every named Warlord up to Ghazghkull, plus
+  the full Kommando specialists — Breacha/Burna/Comms/Dakka/Grot/Nob/Rokkit/
+  Slasha/Snipa Boyz — and the Wrecka Krews: Tankbusta Gunners & Rokkiteers,
+  Wrecka Boss Nob, and Breaka Boy Demolishas/Fighters/Krushas) plus a companion
+  items compendium of 19 Adversary Traits and 15 Shiny Gubbinz relics.
 - ✅ **Necrons — complete (v0.3.0):** 39 actors (Warriors, Immortals, Flayed Ones,
   Destroyers, Crypteks, Canoptek constructs, the three C'Tan Shards, every named
   Overlord and Lord from Imotekh the Stormlord to Trazyn the Infinite, and the
@@ -71,7 +74,9 @@ Converted faction by faction from the source PDFs. See
   Remnants of Glory).
 - ⏳ **To do:** Daemonic Legions · Heretic Astartes · Malicious Miscellany.
 
-**v1.0.0 will be tagged once all nine faction PDFs are converted.**
+**Versioning:** new factions get a **minor** bump (`0.8.0`, `0.9.0`, …); updates
+to an already-published faction (tracking a newer source revision) get a **patch**
+bump (`0.7.1`, …). **`v1.0.0` is reserved for when every faction PDF is converted.**
 
 ## Development
 
