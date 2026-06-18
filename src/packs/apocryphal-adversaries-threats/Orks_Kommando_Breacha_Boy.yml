@@ -1,14 +1,14 @@
 folder: fIRfbMfP3ahjbc6n
-name: Kommando
+name: Kommando Breacha Boy
 type: threat
-_id: TWMqE6dr0iHbgK0z
+_id: oAwTikRGcg7M1mXk
 img: modules/wng-core/assets/tokens/orks.webp
 system:
   attributes:
     strength:
       label: ATTRIBUTE.STRENGTH
       rating: 0
-      base: 5
+      base: 6
       bonus: 0
       cost: 0
       total: 0
@@ -248,9 +248,9 @@ system:
   corruption:
     current: 0
   mob: null
-  notes: <p>Kommando — an Ork specialist who relies on "kunning trikz", stealth, and ambush rather than fighting head-on. The squad fields specialist variants (Breacha, Burna, Comms, Dakka, Grot, Nob, Rokkit, Slasha, Snipa Boyz).</p>
+  notes: <p>Kommando Breacha Boy — barges into places and enemies alike and smashes them apart with a Breacha Ram.</p>
 prototypeToken:
-  name: Kommando
+  name: Kommando Breacha Boy
   displayName: 20
   actorLink: false
   appendNumber: false
@@ -284,7 +284,7 @@ prototypeToken:
 items:
   - name: ORK
     type: keyword
-    _id: 1gaidHPmK4pimDtU
+    _id: lx1IR0wyaTP5ROR0
     img: modules/wng-core/assets/factions/orks.svg
     system:
       description: <p>A brutal xenos Species that crave violence and live only for war.</p>
@@ -294,10 +294,10 @@ items:
     ownership:
       default: 0
     flags: {}
-    _key: "!actors.items!TWMqE6dr0iHbgK0z.1gaidHPmK4pimDtU"
+    _key: "!actors.items!oAwTikRGcg7M1mXk.lx1IR0wyaTP5ROR0"
   - name: "[CLAN]"
     type: keyword
-    _id: p7lxLDFGyNljUJUT
+    _id: MBs6s4VEBde3eelV
     img: modules/wng-core/assets/factions/orks.svg
     system:
       description: <p>Replace with the Ork's clan keyword (Bad Moons, Blood Axes, Deathskulls, Evil Sunz, Freebooterz, Goffs, Snakebites&hellip;).</p>
@@ -307,10 +307,10 @@ items:
     ownership:
       default: 0
     flags: {}
-    _key: "!actors.items!TWMqE6dr0iHbgK0z.p7lxLDFGyNljUJUT"
+    _key: "!actors.items!oAwTikRGcg7M1mXk.MBs6s4VEBde3eelV"
   - name: KOMMANDO
     type: keyword
-    _id: XvJYBVHV9BJRZo33
+    _id: BBshGtt4EK66ULmi
     img: modules/wng-core/assets/factions/orks.svg
     system:
       description: <p>An Ork infiltrator and saboteur specialising in stealth and ambush.</p>
@@ -320,10 +320,10 @@ items:
     ownership:
       default: 0
     flags: {}
-    _key: "!actors.items!TWMqE6dr0iHbgK0z.XvJYBVHV9BJRZo33"
+    _key: "!actors.items!oAwTikRGcg7M1mXk.BBshGtt4EK66ULmi"
   - name: Ork Flak
     type: armour
-    _id: l0KznxxMUJrFHFIz
+    _id: wV4ye4VyuSloaR5I
     img: modules/wng-core/assets/icons/armour/armour.webp
     system:
       quantity: 1
@@ -342,10 +342,10 @@ items:
     ownership:
       default: 0
     flags: {}
-    _key: "!actors.items!TWMqE6dr0iHbgK0z.l0KznxxMUJrFHFIz"
+    _key: "!actors.items!oAwTikRGcg7M1mXk.wV4ye4VyuSloaR5I"
   - name: Slugga
     type: weapon
-    _id: xZSxzL6kwX8r4hSc
+    _id: 14lom38RX5lyuWDu
     img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
     system:
       quantity: 1
@@ -389,10 +389,10 @@ items:
     ownership:
       default: 0
     flags: {}
-    _key: "!actors.items!TWMqE6dr0iHbgK0z.xZSxzL6kwX8r4hSc"
-  - name: Sneaky Stabba
+    _key: "!actors.items!oAwTikRGcg7M1mXk.14lom38RX5lyuWDu"
+  - name: Breacha Ram
     type: weapon
-    _id: 4WZVbLLvupNuGpeK
+    _id: BQfheERZnuiOVmKc
     img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
     system:
       quantity: 1
@@ -406,15 +406,15 @@ items:
         bonus: 0
         rank: none
       damage:
-        base: 8
+        base: 12
         bonus: 0
         rank: none
       ed:
-        base: 3
+        base: 5
         bonus: 0
         rank: none
       ap:
-        base: -1
+        base: -2
         bonus: 0
         rank: none
       category: melee
@@ -427,8 +427,11 @@ items:
       ammo: ""
       salvo: 0
       traits:
-        - name: silent
-        - name: waaagh!
+        - name: careful
+          custom: true
+          display: Careful
+        - name: unwieldy
+          rating: 2
       upgrades: []
     effects: []
     folder: null
@@ -436,57 +439,44 @@ items:
     ownership:
       default: 0
     flags: {}
-    _key: "!actors.items!TWMqE6dr0iHbgK0z.4WZVbLLvupNuGpeK"
-  - name: Stikkbomb
-    type: weapon
-    _id: JZ07c9Z28hG8zMzo
-    img: modules/wng-core/assets/icons/weapons/grenade.webp
+    _key: "!actors.items!oAwTikRGcg7M1mXk.BQfheERZnuiOVmKc"
+  - name: Bull Charge
+    type: talent
+    _id: b6UmD4e0w1AuNg4L
+    img: modules/wng-core/assets/icons/talents/talent.webp
     system:
-      quantity: 2
-      rarity: common
-      description: <p>Range 20. Salvo —.</p>
-      value: 0
-      keywords: ""
-      equipped: true
-      attack:
-        base: 0
-        bonus: 0
-        rank: none
-      damage:
-        base: 9
-        bonus: 0
-        rank: none
-      ed:
-        base: 5
-        bonus: 0
-        rank: none
-      ap:
-        base: 0
-        bonus: 0
-        rank: none
-      category: ranged
-      range:
-        short: 0
-        medium: 0
-        long: 0
-        melee: 0
-        thrown: 20
-      ammo: ""
-      salvo: 0
-      traits:
-        - name: blast
-          rating: 6
-      upgrades: []
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>When this Threat Charges, it adds +2 dice to the attack, and its Breacha Ram gains the Inflict (Staggered) trait for the attack.</p>
+      display: true
     effects: []
     folder: null
     sort: 0
     ownership:
       default: 0
     flags: {}
-    _key: "!actors.items!TWMqE6dr0iHbgK0z.JZ07c9Z28hG8zMzo"
+    _key: "!actors.items!oAwTikRGcg7M1mXk.b6UmD4e0w1AuNg4L"
+  - name: Breach
+    type: talent
+    _id: W97uCdfYVCZglpe9
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>When this Threat Charges, it may ignore difficult terrain, and will break down thin doors, walls, and other barricades.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!oAwTikRGcg7M1mXk.W97uCdfYVCZglpe9"
   - name: Champion
     type: talent
-    _id: 7zADDJPwtY333uNr
+    _id: kldN5jbvugby2uHd
     img: modules/wng-core/assets/icons/talents/talent.webp
     system:
       effect: ""
@@ -500,10 +490,10 @@ items:
     ownership:
       default: 0
     flags: {}
-    _key: "!actors.items!TWMqE6dr0iHbgK0z.7zADDJPwtY333uNr"
+    _key: "!actors.items!oAwTikRGcg7M1mXk.kldN5jbvugby2uHd"
   - name: "'Ere We Go"
     type: talent
-    _id: nz30na0xo7MAPsvs
+    _id: o64TJJH0CW3c6Ia2
     img: modules/wng-core/assets/icons/talents/talent.webp
     system:
       effect: ""
@@ -517,10 +507,10 @@ items:
     ownership:
       default: 0
     flags: {}
-    _key: "!actors.items!TWMqE6dr0iHbgK0z.nz30na0xo7MAPsvs"
+    _key: "!actors.items!oAwTikRGcg7M1mXk.o64TJJH0CW3c6Ia2"
   - name: Dakka! Dakka! Dakka!
     type: talent
-    _id: URNQIiQaAxaPvYzT
+    _id: 1J23zbNsU86B3VrO
     img: modules/wng-core/assets/icons/talents/talent.webp
     system:
       effect: ""
@@ -534,10 +524,10 @@ items:
     ownership:
       default: 0
     flags: {}
-    _key: "!actors.items!TWMqE6dr0iHbgK0z.URNQIiQaAxaPvYzT"
+    _key: "!actors.items!oAwTikRGcg7M1mXk.1J23zbNsU86B3VrO"
   - name: Mob Rule
     type: talent
-    _id: 7YbmUwUiF057uTHn
+    _id: B3YVale35qnn28ee
     img: modules/wng-core/assets/icons/talents/talent.webp
     system:
       effect: ""
@@ -551,10 +541,10 @@ items:
     ownership:
       default: 0
     flags: {}
-    _key: "!actors.items!TWMqE6dr0iHbgK0z.7YbmUwUiF057uTHn"
+    _key: "!actors.items!oAwTikRGcg7M1mXk.B3YVale35qnn28ee"
   - name: Throat Slittas
     type: talent
-    _id: arVZVzKnYYm8G4Tu
+    _id: azIxY1UNJuzLyqL9
     img: modules/wng-core/assets/icons/talents/talent.webp
     system:
       effect: ""
@@ -568,10 +558,10 @@ items:
     ownership:
       default: 0
     flags: {}
-    _key: "!actors.items!TWMqE6dr0iHbgK0z.arVZVzKnYYm8G4Tu"
+    _key: "!actors.items!oAwTikRGcg7M1mXk.azIxY1UNJuzLyqL9"
   - name: "Battlecry: Sneaky Gitz"
     type: ability
-    _id: LWRaxIFOGfh6YemB
+    _id: p8xw4BqXRHPIrHZk
     img: modules/wng-core/assets/icons/abilities/ability.webp
     system:
       dn: 0
@@ -609,51 +599,10 @@ items:
     ownership:
       default: 0
     flags: {}
-    _key: "!actors.items!TWMqE6dr0iHbgK0z.LWRaxIFOGfh6YemB"
-  - name: "Ruin: Skulk About"
-    type: ability
-    _id: lhC6ekfUxjzX9Loc
-    img: modules/wng-core/assets/icons/abilities/ability.webp
-    system:
-      dn: 0
-      type: ""
-      specification: ""
-      effect: ""
-      cost: 0
-      requirements: ""
-      description: <p>Spend 1 Ruin to make a normal move and attempt a Stealth Test to create a Stealth Score.</p>
-      display: true
-      abilityType: ruin
-      traits: []
-      damage:
-        base: 0
-        bonus: 0
-        rank: none
-      ed:
-        base: 0
-        bonus: 0
-        rank: none
-      ap:
-        base: 0
-        bonus: 0
-        rank: none
-      otherDamage:
-        mortalWounds: ""
-        wounds: ""
-        shock: ""
-      test:
-        dn: null
-        type: ""
-    effects: []
-    folder: null
-    sort: 0
-    ownership:
-      default: 0
-    flags: {}
-    _key: "!actors.items!TWMqE6dr0iHbgK0z.lhC6ekfUxjzX9Loc"
+    _key: "!actors.items!oAwTikRGcg7M1mXk.p8xw4BqXRHPIrHZk"
   - name: Determination
     type: ability
-    _id: qJYZF1uiBCMt8kfZ
+    _id: CMe4bp0gHNytJboS
     img: modules/wng-core/assets/icons/abilities/ability.webp
     system:
       dn: 0
@@ -691,7 +640,7 @@ items:
     ownership:
       default: 0
     flags: {}
-    _key: "!actors.items!TWMqE6dr0iHbgK0z.qJYZF1uiBCMt8kfZ"
+    _key: "!actors.items!oAwTikRGcg7M1mXk.CMe4bp0gHNytJboS"
 effects: []
 sort: 0
 ownership:
@@ -710,4 +659,4 @@ flags:
     autoWounded: true
     autoExhausted: true
     generateMetaCurrencies: true
-_key: "!actors!TWMqE6dr0iHbgK0z"
+_key: "!actors!oAwTikRGcg7M1mXk"

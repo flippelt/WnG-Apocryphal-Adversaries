@@ -1,7 +1,7 @@
 folder: fIRfbMfP3ahjbc6n
-name: Tankbusta
+name: Kommando Dakka Boy
 type: threat
-_id: zNIBiKn0ERPS01zV
+_id: mrM9Numlz3lDtSdJ
 img: modules/wng-core/assets/tokens/orks.webp
 system:
   attributes:
@@ -82,7 +82,7 @@ system:
     cunning:
       label: SKILL.CUNNING
       attribute: fellowship
-      rating: 4
+      rating: 5
       base: 0
       bonus: 0
       cost: 0
@@ -170,7 +170,7 @@ system:
     stealth:
       label: SKILL.STEALTH
       attribute: agility
-      rating: 1
+      rating: 4
       base: 0
       bonus: 0
       cost: 0
@@ -178,7 +178,7 @@ system:
     survival:
       label: SKILL.SURVIVAL
       attribute: willpower
-      rating: 3
+      rating: 4
       base: 0
       bonus: 0
       cost: 0
@@ -234,9 +234,9 @@ system:
       total: 0
     stealth: 0
   bio:
-    species: ''
+    species: ""
     faction: Orks
-    archetype: ''
+    archetype: ""
     threat:
       first: E
       second: E
@@ -248,19 +248,9 @@ system:
   corruption:
     current: 0
   mob: null
-  notes: >-
-    <p>A Tankbusta is an Ork Boy completely addicted to the thrill of destroying
-    the armoured fighting vehicles of his foes; the desire to hunt down and slay
-    the biggest, most dangerous tanks echoes the primal instinct of the big-game
-    hunter. They equip themselves extensively for dealing death to enemy armour
-    &mdash; whistling volleys of Rokkits and lethal Tankbusta Bomb assaults that
-    can spell annihilation for even the heaviest tank. After a kill, a Tankbusta
-    enjoys being "tanked up": devouring the wrecked crew and drinking engine oil
-    from the smoking remains.</p><p><em>Threat Options &mdash; Special Weapons:
-    one in five Tankbustas may replace their Rokkit Launcha with Two Rokkit
-    Pistols or a Tankhammer (both included unequipped below).</em></p>
+  notes: <p>Kommando Dakka Boy — lays down a hail of automatic fire from his Dakka Shoota.</p>
 prototypeToken:
-  name: Tankbusta
+  name: Kommando Dakka Boy
   displayName: 20
   actorLink: false
   appendNumber: false
@@ -294,43 +284,53 @@ prototypeToken:
 items:
   - name: ORK
     type: keyword
-    _id: Akyo4IZs7W6gyFyp
+    _id: DxLdkxHbUPU5kWr8
     img: modules/wng-core/assets/factions/orks.svg
     system:
-      description: >-
-        <p>A brutal xenos Species that crave violence and live only for war.</p>
+      description: <p>A brutal xenos Species that crave violence and live only for war.</p>
     effects: []
     folder: null
     sort: 0
     ownership:
       default: 0
     flags: {}
-    _key: '!actors.items!zNIBiKn0ERPS01zV.Akyo4IZs7W6gyFyp'
-  - name: '[CLAN]'
+    _key: "!actors.items!mrM9Numlz3lDtSdJ.DxLdkxHbUPU5kWr8"
+  - name: "[CLAN]"
     type: keyword
-    _id: nniKPawrj35Wjlgh
+    _id: qW9LxT5waIyPKp0z
     img: modules/wng-core/assets/factions/orks.svg
     system:
-      description: >-
-        <p>Replace with the Ork's clan keyword (Bad Moons, Blood Axes,
-        Deathskulls, Evil Sunz, Freebooterz, Goffs, Snakebites&hellip;).</p>
+      description: <p>Replace with the Ork's clan keyword (Bad Moons, Blood Axes, Deathskulls, Evil Sunz, Freebooterz, Goffs, Snakebites&hellip;).</p>
     effects: []
     folder: null
     sort: 0
     ownership:
       default: 0
     flags: {}
-    _key: '!actors.items!zNIBiKn0ERPS01zV.nniKPawrj35Wjlgh'
+    _key: "!actors.items!mrM9Numlz3lDtSdJ.qW9LxT5waIyPKp0z"
+  - name: KOMMANDO
+    type: keyword
+    _id: acN0CJF9TbeaxLXQ
+    img: modules/wng-core/assets/factions/orks.svg
+    system:
+      description: <p>An Ork infiltrator and saboteur specialising in stealth and ambush.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!mrM9Numlz3lDtSdJ.acN0CJF9TbeaxLXQ"
   - name: Ork Flak
     type: armour
-    _id: Is5cm0SooHzpEHkS
+    _id: PMHNbiPYmiCa7CpL
     img: modules/wng-core/assets/icons/armour/armour.webp
     system:
       quantity: 1
       rarity: common
-      description: ''
+      description: ""
       value: 0
-      keywords: ''
+      keywords: ""
       equipped: true
       rating: 2
       base: 0
@@ -342,46 +342,46 @@ items:
     ownership:
       default: 0
     flags: {}
-    _key: '!actors.items!zNIBiKn0ERPS01zV.Is5cm0SooHzpEHkS'
-  - name: Rokkit Launcha
+    _key: "!actors.items!mrM9Numlz3lDtSdJ.PMHNbiPYmiCa7CpL"
+  - name: Dakka Shoota
     type: weapon
-    _id: MdxVTBKfq3n5aiCi
+    _id: 12Akp3g0ftS5lO7Y
     img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
     system:
       quantity: 1
       rarity: common
-      description: '<p>Extra Damage is +1d3.</p>'
+      description: ""
       value: 0
-      keywords: ''
+      keywords: ""
       equipped: true
       attack:
         base: 0
         bonus: 0
         rank: none
       damage:
-        base: 16
+        base: 10
         bonus: 0
         rank: none
       ed:
-        base: 0
+        base: 1
         bonus: 0
         rank: none
       ap:
-        base: -2
+        base: 0
         bonus: 0
         rank: none
       category: ranged
       range:
-        short: 12
-        medium: 24
-        long: 36
+        short: 9
+        medium: 18
+        long: 27
         melee: 0
         thrown: null
-      ammo: ''
-      salvo: 0
+      ammo: ""
+      salvo: 6
       traits:
-        - name: blast
-          rating: 4
+        - name: assault
+        - name: waaagh!
       upgrades: []
     effects: []
     folder: null
@@ -389,179 +389,32 @@ items:
     ownership:
       default: 0
     flags: {}
-    _key: '!actors.items!zNIBiKn0ERPS01zV.MdxVTBKfq3n5aiCi'
-  - name: Stikkbomb
+    _key: "!actors.items!mrM9Numlz3lDtSdJ.12Akp3g0ftS5lO7Y"
+  - name: Burly Fists
     type: weapon
-    _id: t5Z1uRJzdoXYfmUE
-    img: modules/wng-core/assets/icons/weapons/grenade.webp
-    system:
-      quantity: 2
-      rarity: common
-      description: ''
-      value: 0
-      keywords: ''
-      equipped: true
-      attack:
-        base: 0
-        bonus: 0
-        rank: none
-      damage:
-        base: 9
-        bonus: 0
-        rank: none
-      ed:
-        base: 5
-        bonus: 0
-        rank: none
-      ap:
-        base: 0
-        bonus: 0
-        rank: none
-      category: ranged
-      range:
-        short: 0
-        medium: 0
-        long: 0
-        melee: 0
-        thrown: 20
-      ammo: ''
-      salvo: 0
-      traits:
-        - name: blast
-          rating: 6
-      upgrades: []
-    effects: []
-    folder: null
-    sort: 0
-    ownership:
-      default: 0
-    flags: {}
-    _key: '!actors.items!zNIBiKn0ERPS01zV.t5Z1uRJzdoXYfmUE'
-  - name: Tankbusta Bomb
-    type: weapon
-    _id: pKWHJ9z7uDdo5dWv
-    img: modules/wng-core/assets/icons/weapons/grenade.webp
-    system:
-      quantity: 1
-      rarity: common
-      description: >-
-        <p>Cannot be thrown or fired from a launcher &mdash; it must be planted
-        (see the Tankbusta Bombs rule).</p>
-      value: 0
-      keywords: ''
-      equipped: true
-      attack:
-        base: 0
-        bonus: 0
-        rank: none
-      damage:
-        base: 16
-        bonus: 0
-        rank: none
-      ed:
-        base: 3
-        bonus: 0
-        rank: none
-      ap:
-        base: -3
-        bonus: 0
-        rank: none
-      category: ranged
-      range:
-        short: 0
-        medium: 0
-        long: 0
-        melee: 0
-        thrown: null
-      ammo: ''
-      salvo: 0
-      traits:
-        - name: brutal
-        - name: blast
-          rating: 2
-        - name: 'waaagh!'
-      upgrades: []
-    effects: []
-    folder: null
-    sort: 0
-    ownership:
-      default: 0
-    flags: {}
-    _key: '!actors.items!zNIBiKn0ERPS01zV.pKWHJ9z7uDdo5dWv'
-  - name: Two Rokkit Pistols
-    type: weapon
-    _id: NwsUbVLL2LqW7nrs
-    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
-    system:
-      quantity: 1
-      rarity: common
-      description: '<p>Special Weapon option: replaces the Rokkit Launcha. Extra Damage is +1d3.</p>'
-      value: 0
-      keywords: ''
-      equipped: false
-      attack:
-        base: 0
-        bonus: 0
-        rank: none
-      damage:
-        base: 14
-        bonus: 0
-        rank: none
-      ed:
-        base: 0
-        bonus: 0
-        rank: none
-      ap:
-        base: -2
-        bonus: 0
-        rank: none
-      category: ranged
-      range:
-        short: 6
-        medium: 12
-        long: 18
-        melee: 0
-        thrown: null
-      ammo: ''
-      salvo: 0
-      traits:
-        - name: blast
-          rating: 2
-        - name: pistol
-        - name: 'waaagh!'
-      upgrades: []
-    effects: []
-    folder: null
-    sort: 0
-    ownership:
-      default: 0
-    flags: {}
-    _key: '!actors.items!zNIBiKn0ERPS01zV.NwsUbVLL2LqW7nrs'
-  - name: Tankhammer
-    type: weapon
-    _id: H5z8PRDkUcOfYsQa
+    _id: b6FDwQo3pW2DLRee
     img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
     system:
       quantity: 1
       rarity: common
-      description: '<p>Special Weapon option: replaces the Rokkit Launcha.</p>'
+      description: ""
       value: 0
-      keywords: ''
-      equipped: false
+      keywords: ""
+      equipped: true
       attack:
         base: 0
         bonus: 0
         rank: none
       damage:
-        base: 14
-        bonus: 0
-        rank: none
-      ed:
         base: 5
         bonus: 0
         rank: none
+      ed:
+        base: 1
+        bonus: 0
+        rank: none
       ap:
-        base: -2
+        base: 0
         bonus: 0
         rank: none
       category: melee
@@ -571,15 +424,9 @@ items:
         long: 0
         melee: 1
         thrown: null
-      ammo: ''
+      ammo: ""
       salvo: 0
-      traits:
-        - name: careful
-          custom: true
-          display: Careful
-        - name: blast
-          rating: 2
-        - name: 'waaagh!'
+      traits: []
       upgrades: []
     effects: []
     folder: null
@@ -587,19 +434,33 @@ items:
     ownership:
       default: 0
     flags: {}
-    _key: '!actors.items!zNIBiKn0ERPS01zV.H5z8PRDkUcOfYsQa'
+    _key: "!actors.items!mrM9Numlz3lDtSdJ.b6FDwQo3pW2DLRee"
+  - name: Champion
+    type: talent
+    _id: 1ypTXUozSjTaP90Z
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>This Threat may use Ruin Actions and has 1 Personal Ruin.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!mrM9Numlz3lDtSdJ.1ypTXUozSjTaP90Z"
   - name: "'Ere We Go"
     type: talent
-    _id: zeWt30FodQ3mA6Xf
+    _id: rjdKWHVHfypWhfsC
     img: modules/wng-core/assets/icons/talents/talent.webp
     system:
-      effect: ''
+      effect: ""
       cost: 0
-      requirements: ''
-      description: >-
-        <p>The Threat adds +1 to its Speed when it takes the Charge action.
-        Further, if the Threat begins its turn Engaged, then it adds +2 damage to
-        its melee attacks.</p>
+      requirements: ""
+      description: <p>The Threat adds +1 to its Speed when it takes the Charge action. Further, if the Threat begins its turn Engaged, then it adds +2 damage to its melee attacks.</p>
       display: true
     effects: []
     folder: null
@@ -607,18 +468,16 @@ items:
     ownership:
       default: 0
     flags: {}
-    _key: '!actors.items!zNIBiKn0ERPS01zV.zeWt30FodQ3mA6Xf'
+    _key: "!actors.items!mrM9Numlz3lDtSdJ.rjdKWHVHfypWhfsC"
   - name: Dakka! Dakka! Dakka!
     type: talent
-    _id: 40Zy7xPrvaqkLRSi
+    _id: r8nfd9W7MMjeYZQ3
     img: modules/wng-core/assets/icons/talents/talent.webp
     system:
-      effect: ''
+      effect: ""
       cost: 0
-      requirements: ''
-      description: >-
-        <p>When the Threat makes a ranged attack at an enemy within Short range,
-        add bonus dice equal to the weapon's Salvo rating to the attack.</p>
+      requirements: ""
+      description: <p>When the Threat makes a ranged attack at an enemy within Short range, add bonus dice equal to the weapon's Salvo rating to the attack.</p>
       display: true
     effects: []
     folder: null
@@ -626,18 +485,16 @@ items:
     ownership:
       default: 0
     flags: {}
-    _key: '!actors.items!zNIBiKn0ERPS01zV.40Zy7xPrvaqkLRSi'
+    _key: "!actors.items!mrM9Numlz3lDtSdJ.r8nfd9W7MMjeYZQ3"
   - name: Mob Rule
     type: talent
-    _id: 3cM0MMG6RLCHYXLO
+    _id: qwhF1hQGGkk85pbx
     img: modules/wng-core/assets/icons/talents/talent.webp
     system:
-      effect: ''
+      effect: ""
       cost: 0
-      requirements: ''
-      description: >-
-        <p>Orks gain 1 Icon on all Resolve tests for every 10 Ork Threats present
-        on the battlefield.</p>
+      requirements: ""
+      description: <p>Orks gain 1 Icon on all Resolve tests for every 10 Ork Threats present on the battlefield.</p>
       display: true
     effects: []
     folder: null
@@ -645,21 +502,16 @@ items:
     ownership:
       default: 0
     flags: {}
-    _key: '!actors.items!zNIBiKn0ERPS01zV.3cM0MMG6RLCHYXLO'
-  - name: Tankbusta Bombs
+    _key: "!actors.items!mrM9Numlz3lDtSdJ.qwhF1hQGGkk85pbx"
+  - name: Throat Slittas
     type: talent
-    _id: hT54idx2Wea7smF7
+    _id: bO9WmWTAe8S87Stj
     img: modules/wng-core/assets/icons/talents/talent.webp
     system:
-      effect: ''
+      effect: ""
       cost: 0
-      requirements: ''
-      description: >-
-        <p>A Tankbusta Bomb cannot be thrown or fired from a launcher. It must be
-        planted with a Tech test against a vehicle within 1m, at a DN equal to the
-        vehicle's Defence. The bomb detonates at the end of the current turn.
-        After placing it, the character may move 1d3+1 metres away and fall Prone
-        as they leap clear before it detonates.</p>
+      requirements: ""
+      description: <p>This Threat can move at full speed while it has a Stealth Score. When making a melee Surprise Attack, the Threat's melee weapon gains the Brutal weapon trait.</p>
       display: true
     effects: []
     folder: null
@@ -667,41 +519,21 @@ items:
     ownership:
       default: 0
     flags: {}
-    _key: '!actors.items!zNIBiKn0ERPS01zV.hT54idx2Wea7smF7'
-  - name: Tank Hunters
-    type: talent
-    _id: B4l7vkic8IBjOx5H
-    img: modules/wng-core/assets/icons/talents/talent.webp
-    system:
-      effect: ''
-      cost: 0
-      requirements: ''
-      description: >-
-        <p>This Threat may re-roll failed dice on attacks against Vehicles.</p>
-      display: true
-    effects: []
-    folder: null
-    sort: 0
-    ownership:
-      default: 0
-    flags: {}
-    _key: '!actors.items!zNIBiKn0ERPS01zV.B4l7vkic8IBjOx5H'
-  - name: 'Battlecry: Begin da Hunt'
+    _key: "!actors.items!mrM9Numlz3lDtSdJ.bO9WmWTAe8S87Stj"
+  - name: "Battlecry: Sneaky Gitz"
     type: ability
-    _id: YcfIi6SaGVGTBqiM
+    _id: gm5ShgszHz9Kzckc
     img: modules/wng-core/assets/icons/abilities/ability.webp
     system:
       dn: 0
-      type: ''
-      specification: ''
-      effect: ''
+      type: ""
+      specification: ""
+      effect: ""
       cost: 0
-      requirements: ''
-      description: >-
-        <p>The Tankbusta makes a normal move towards the nearest visible
-        Vehicle.</p>
+      requirements: ""
+      description: <p>During the first round of combat in which this Threat ambushes their opponent, they may use their Stealth dice pool of 8 for any Attack.</p>
       display: true
-      abilityType: ''
+      abilityType: battlecry
       traits: []
       damage:
         base: 0
@@ -716,30 +548,71 @@ items:
         bonus: 0
         rank: none
       otherDamage:
-        mortalWounds: ''
-        wounds: ''
-        shock: ''
+        mortalWounds: ""
+        wounds: ""
+        shock: ""
       test:
         dn: null
-        type: ''
+        type: ""
     effects: []
     folder: null
     sort: 0
     ownership:
       default: 0
     flags: {}
-    _key: '!actors.items!zNIBiKn0ERPS01zV.YcfIi6SaGVGTBqiM'
-  - name: Determination
+    _key: "!actors.items!mrM9Numlz3lDtSdJ.gm5ShgszHz9Kzckc"
+  - name: "Ruin: Dakka Dash!"
     type: ability
-    _id: 3kMWxAzMSbO7zapu
+    _id: 5StHtGuFfU078Bgx
     img: modules/wng-core/assets/icons/abilities/ability.webp
     system:
       dn: 0
-      type: ''
-      specification: ''
-      effect: ''
+      type: ""
+      specification: ""
+      effect: ""
       cost: 0
-      requirements: ''
+      requirements: ""
+      description: <p>Spend 1 Ruin to make a Sprint Move and a ranged attack with the Threat's Dakka Shoota as a Ruin Action.</p>
+      display: true
+      abilityType: ruin
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ""
+        wounds: ""
+        shock: ""
+      test:
+        dn: null
+        type: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!mrM9Numlz3lDtSdJ.5StHtGuFfU078Bgx"
+  - name: Determination
+    type: ability
+    _id: 78XKYTrXexjZA2Er
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ""
+      specification: ""
+      effect: ""
+      cost: 0
+      requirements: ""
       description: <p>Spend 1 Ruin to roll 7d6.</p>
       display: true
       abilityType: determination
@@ -757,19 +630,19 @@ items:
         bonus: 0
         rank: none
       otherDamage:
-        mortalWounds: ''
-        wounds: ''
-        shock: ''
+        mortalWounds: ""
+        wounds: ""
+        shock: ""
       test:
         dn: null
-        type: ''
+        type: ""
     effects: []
     folder: null
     sort: 0
     ownership:
       default: 0
     flags: {}
-    _key: '!actors.items!zNIBiKn0ERPS01zV.3kMWxAzMSbO7zapu'
+    _key: "!actors.items!mrM9Numlz3lDtSdJ.78XKYTrXexjZA2Er"
 effects: []
 sort: 0
 ownership:
@@ -788,4 +661,4 @@ flags:
     autoWounded: true
     autoExhausted: true
     generateMetaCurrencies: true
-_key: '!actors!zNIBiKn0ERPS01zV'
+_key: "!actors!mrM9Numlz3lDtSdJ"
