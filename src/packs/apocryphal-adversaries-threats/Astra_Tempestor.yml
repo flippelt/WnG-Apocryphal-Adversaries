@@ -1,0 +1,899 @@
+folder: 2LklVYhzkjxDFJbd
+name: Tempestor
+type: threat
+_id: HQNomFNd13Z1lKzK
+img: icons/environment/people/charge.webp
+system:
+  attributes:
+    strength:
+      label: ATTRIBUTE.STRENGTH
+      rating: 0
+      base: 4
+      bonus: 0
+      cost: 0
+      total: 0
+    toughness:
+      label: ATTRIBUTE.TOUGHNESS
+      rating: 0
+      base: 4
+      bonus: 0
+      cost: 0
+      total: 0
+    agility:
+      label: ATTRIBUTE.AGILITY
+      rating: 0
+      base: 4
+      bonus: 0
+      cost: 0
+      total: 0
+    initiative:
+      label: ATTRIBUTE.INITIATIVE
+      rating: 0
+      base: 4
+      bonus: 0
+      cost: 0
+      total: 0
+    willpower:
+      label: ATTRIBUTE.WILLPOWER
+      rating: 0
+      base: 4
+      bonus: 0
+      cost: 0
+      total: 0
+    intellect:
+      label: ATTRIBUTE.INTELLECT
+      rating: 0
+      base: 3
+      bonus: 0
+      cost: 0
+      total: 0
+    fellowship:
+      label: ATTRIBUTE.FELLOWSHIP
+      rating: 0
+      base: 4
+      bonus: 0
+      cost: 0
+      total: 0
+  skills:
+    athletics:
+      label: SKILL.ATHLETICS
+      attribute: strength
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    awareness:
+      label: SKILL.AWARENESS
+      attribute: intellect
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    ballisticSkill:
+      label: SKILL.BALLISTIC_SKILL
+      attribute: agility
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    cunning:
+      label: SKILL.CUNNING
+      attribute: fellowship
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    deception:
+      label: SKILL.DECEPTION
+      attribute: fellowship
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    insight:
+      label: SKILL.INSIGHT
+      attribute: fellowship
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    intimidation:
+      label: SKILL.INTIMIDATION
+      attribute: willpower
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    investigation:
+      label: SKILL.INVESTIGATION
+      attribute: intellect
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    leadership:
+      label: SKILL.LEADERSHIP
+      attribute: willpower
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    medicae:
+      label: SKILL.MEDICAE
+      attribute: intellect
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    persuasion:
+      label: SKILL.PERSUASION
+      attribute: fellowship
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    pilot:
+      label: SKILL.PILOT
+      attribute: agility
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    psychicMastery:
+      label: SKILL.PSYCHIC_MASTERY
+      attribute: willpower
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    scholar:
+      label: SKILL.SCHOLAR
+      attribute: intellect
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    stealth:
+      label: SKILL.STEALTH
+      attribute: agility
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    survival:
+      label: SKILL.SURVIVAL
+      attribute: willpower
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    tech:
+      label: SKILL.TECH
+      attribute: intellect
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    weaponSkill:
+      label: SKILL.WEAPON_SKILL
+      attribute: initiative
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+  combat:
+    defense:
+      bonus: 0
+      total: 0
+    defence:
+      bonus: 0
+      total: 0
+    resilience:
+      bonus: 0
+      total: 0
+    wounds:
+      value: 0
+      bonus: 0
+      max: 8
+    determination:
+      bonus: 0
+      total: 0
+    shock:
+      value: 0
+      bonus: 0
+      max: 5
+    resolve:
+      bonus: 0
+      total: 0
+    conviction:
+      bonus: 0
+      total: 0
+    size: average
+    speed: 6
+    fly: 0
+    passiveAwareness:
+      bonus: 0
+      total: 0
+    stealth: 0
+  bio:
+    species: ""
+    faction: Astra Militarum
+    archetype: ""
+    threat:
+      first: E
+      second: E
+      third: T
+      fourth: T
+      fifth: T
+  resources:
+    ruin: 0
+  corruption:
+    current: 0
+  mob: null
+  notes: <p>Tempestor — leads a Tempestus Scion squad; may take a Bolt/Plasma Pistol and a Power Sword/Fist.</p>
+prototypeToken:
+  name: Tempestor
+  displayName: 20
+  actorLink: false
+  appendNumber: false
+  prependAdjective: false
+  texture:
+    src: icons/environment/people/charge.webp
+    scaleX: 1
+    scaleY: 1
+    offsetX: 0
+    offsetY: 0
+    rotation: 0
+  width: 1
+  height: 1
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  disposition: -1
+  displayBars: 20
+  bar1:
+    attribute: combat.wounds
+  bar2:
+    attribute: combat.shock
+  sight:
+    enabled: false
+    range: 0
+    angle: 360
+    visionMode: basic
+  detectionModes: []
+  flags: {}
+  randomImg: false
+items:
+  - name: IMPERIUM
+    type: keyword
+    _id: AuhNJQQHvWpnKaO1
+    img: icons/svg/eye.svg
+    system:
+      description: <p>A servant of the Imperium.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!HQNomFNd13Z1lKzK.AuhNJQQHvWpnKaO1"
+  - name: ASTRA MILITARUM
+    type: keyword
+    _id: 3ud5aBRdtLiR1zgY
+    img: icons/svg/eye.svg
+    system:
+      description: <p>A soldier of the Imperial Guard.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!HQNomFNd13Z1lKzK.3ud5aBRdtLiR1zgY"
+  - name: MILITARUM TEMPESTUS
+    type: keyword
+    _id: YSeu6KuHKDB4XMHS
+    img: icons/svg/eye.svg
+    system:
+      description: <p>An elite Tempestus Scion (Storm Trooper).</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!HQNomFNd13Z1lKzK.YSeu6KuHKDB4XMHS"
+  - name: Tempestus Carapace
+    type: armour
+    _id: 5LRnAVDSwQyiEaKX
+    img: modules/wng-core/assets/icons/armour/armour.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: <p>4 AR.</p>
+      value: 0
+      keywords: ""
+      equipped: true
+      rating: 4
+      base: 0
+      traits: []
+      invulnerable: false
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!HQNomFNd13Z1lKzK.5LRnAVDSwQyiEaKX"
+  - name: Hot-Shot Laspistol
+    type: weapon
+    _id: EwVpA0wa61tU9qpf
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: ""
+      value: 0
+      keywords: ""
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 7
+        bonus: 0
+        rank: none
+      ed:
+        base: 1
+        bonus: 0
+        rank: none
+      ap:
+        base: -2
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 6
+        medium: 12
+        long: 18
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: 1
+      traits:
+        - name: pistol
+        - name: reliable
+          custom: true
+          display: Reliable
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!HQNomFNd13Z1lKzK.EwVpA0wa61tU9qpf"
+  - name: Chainsword
+    type: weapon
+    _id: XTmExy1E5RAg6Rdi
+    img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: ""
+      value: 0
+      keywords: ""
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 9
+        bonus: 0
+        rank: none
+      ed:
+        base: 4
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      category: melee
+      range:
+        short: 0
+        medium: 0
+        long: 0
+        melee: 1
+        thrown: null
+      ammo: ""
+      salvo: 0
+      traits:
+        - name: brutal
+        - name: parry
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!HQNomFNd13Z1lKzK.XTmExy1E5RAg6Rdi"
+  - name: Frag Grenade
+    type: weapon
+    _id: t9Rillrk0kCYiYq1
+    img: modules/wng-core/assets/icons/weapons/grenade.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: <p>2 grenades. Thrown 16m. Salvo —.</p>
+      value: 0
+      keywords: ""
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 10
+        bonus: 0
+        rank: none
+      ed:
+        base: 4
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 0
+        medium: 0
+        long: 0
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: null
+      traits:
+        - name: blast
+          rating: 6
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!HQNomFNd13Z1lKzK.t9Rillrk0kCYiYq1"
+  - name: Krak Grenade
+    type: weapon
+    _id: SgPuKcmSscI98a5u
+    img: modules/wng-core/assets/icons/weapons/grenade.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: <p>1 grenade. Salvo —.</p>
+      value: 0
+      keywords: ""
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 14
+        bonus: 0
+        rank: none
+      ed:
+        base: 5
+        bonus: 0
+        rank: none
+      ap:
+        base: -2
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 0
+        medium: 0
+        long: 0
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: null
+      traits:
+        - name: blast
+          rating: 2
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!HQNomFNd13Z1lKzK.SgPuKcmSscI98a5u"
+  - name: Bolt Pistol
+    type: weapon
+    _id: 9wDYCZGth26wiQvy
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: <p>Sidearm option.</p>
+      value: 0
+      keywords: ""
+      equipped: false
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 10
+        bonus: 0
+        rank: none
+      ed:
+        base: 1
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 6
+        medium: 12
+        long: 18
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: 1
+      traits:
+        - name: brutal
+        - name: pistol
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!HQNomFNd13Z1lKzK.9wDYCZGth26wiQvy"
+  - name: Plasma Pistol
+    type: weapon
+    _id: Qhbwz86uC15pAuZh
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: <p>Sidearm option.</p>
+      value: 0
+      keywords: ""
+      equipped: false
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 15
+        bonus: 0
+        rank: none
+      ed:
+        base: 1
+        bonus: 0
+        rank: none
+      ap:
+        base: -3
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 6
+        medium: 12
+        long: 18
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: 1
+      traits:
+        - name: pistol
+        - name: supercharge
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!HQNomFNd13Z1lKzK.Qhbwz86uC15pAuZh"
+  - name: Power Sword
+    type: weapon
+    _id: o98xA2pwbWMquHv7
+    img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: <p>Melee option.</p>
+      value: 0
+      keywords: ""
+      equipped: false
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 9
+        bonus: 0
+        rank: none
+      ed:
+        base: 4
+        bonus: 0
+        rank: none
+      ap:
+        base: -3
+        bonus: 0
+        rank: none
+      category: melee
+      range:
+        short: 0
+        medium: 0
+        long: 0
+        melee: 1
+        thrown: null
+      ammo: ""
+      salvo: 0
+      traits:
+        - name: parry
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!HQNomFNd13Z1lKzK.o98xA2pwbWMquHv7"
+  - name: Power Fist
+    type: weapon
+    _id: 34ll2m1Rx12jRyip
+    img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: <p>Melee option.</p>
+      value: 0
+      keywords: ""
+      equipped: false
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 9
+        bonus: 0
+        rank: none
+      ed:
+        base: 5
+        bonus: 0
+        rank: none
+      ap:
+        base: -3
+        bonus: 0
+        rank: none
+      category: melee
+      range:
+        short: 0
+        medium: 0
+        long: 0
+        melee: 1
+        thrown: null
+      ammo: ""
+      salvo: 0
+      traits:
+        - name: brutal
+        - name: unwieldy
+          rating: 2
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!HQNomFNd13Z1lKzK.34ll2m1Rx12jRyip"
+  - name: Champion
+    type: talent
+    _id: A9KK02t8yMoSrw2F
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>This Threat may use Ruin Actions and has 3 Personal Ruin.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!HQNomFNd13Z1lKzK.A9KK02t8yMoSrw2F"
+  - name: Storm Trooper
+    type: talent
+    _id: AxqVSObLHcMeUO0v
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>Each time this Threat shifts an Exalted Icon for damage when making an attack, it adds +2 ED rather than +1.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!HQNomFNd13Z1lKzK.AxqVSObLHcMeUO0v"
+  - name: "Battlecry: Aerial Drop"
+    type: ability
+    _id: dKTvW32RywcfoYzn
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ""
+      specification: ""
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>If mounted in an airborne vehicle (such as a Valkyrie), disembark immediately, suffering no falling damage as they deploy.</p>
+      display: true
+      abilityType: battlecry
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ""
+        wounds: ""
+        shock: ""
+      test:
+        dn: null
+        type: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!HQNomFNd13Z1lKzK.dKTvW32RywcfoYzn"
+  - name: "Ruin: Elimination Pattern"
+    type: ability
+    _id: ydmqE6eKp2z212fb
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ""
+      specification: ""
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>As a Ruin Action, spend 1 Ruin to activate the Overcharged Las-Cells ability on all MILITARUM TEMPESTUS Threats in the Tempestor’s squad on their next turn.</p>
+      display: true
+      abilityType: ruin
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ""
+        wounds: ""
+        shock: ""
+      test:
+        dn: null
+        type: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!HQNomFNd13Z1lKzK.ydmqE6eKp2z212fb"
+  - name: Determination
+    type: ability
+    _id: BTNeWshon748LOcK
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ""
+      specification: ""
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>Spend 1 Ruin to roll 4d6.</p>
+      display: true
+      abilityType: determination
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ""
+        wounds: ""
+        shock: ""
+      test:
+        dn: null
+        type: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!HQNomFNd13Z1lKzK.BTNeWshon748LOcK"
+effects: []
+sort: 0
+ownership:
+  default: 0
+flags:
+  wrath-and-glory:
+    autoCalc:
+      defence: true
+      resilience: true
+      shock: true
+      awareness: true
+      resolve: true
+      determination: true
+      wounds: true
+      conviction: true
+    autoWounded: true
+    autoExhausted: true
+    generateMetaCurrencies: true
+_key: "!actors!HQNomFNd13Z1lKzK"
