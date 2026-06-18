@@ -1,0 +1,19 @@
+name: Armour of Abhorrence
+type: gear
+_id: mo2O9izTJv5EBGEL
+img: modules/wng-core/assets/icons/gear/gear.webp
+folder: 457Gs759CPHrbNEu
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p><em>EMPEROR’S CHILDREN Adversary only.</em> Enemies within 3m of the Adversary who attempt to Fall Back or move out of engagement range must pass a DN 2+Tier Conviction test; those who fail may not move.</p>
+  value: 0
+  keywords: ""
+  equipped: false
+  traits: []
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!mo2O9izTJv5EBGEL"

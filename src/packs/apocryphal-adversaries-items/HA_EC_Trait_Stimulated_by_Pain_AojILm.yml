@@ -1,0 +1,17 @@
+name: Stimulated by Pain
+type: talent
+_id: AojILmXigIBNUW83
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: MbW4ieMxiPy46Twv
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: "<p>This Adversary suffers no penalty for being Wounded and instead adds +Tier bonus dice to all attacks while Wounded. It also gains: ANNIHILATION — when slain, it continues to fight until the end of its next turn, at which point it finally dies.</p>"
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!AojILmXigIBNUW83"

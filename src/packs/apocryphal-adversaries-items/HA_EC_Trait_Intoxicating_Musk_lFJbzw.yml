@@ -1,0 +1,17 @@
+name: Intoxicating Musk
+type: talent
+_id: lFJbzwzQIrXrPDeK
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: MbW4ieMxiPy46Twv
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>Enemies who begin their turn within 3m of this Adversary are Hindered.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!lFJbzwzQIrXrPDeK"

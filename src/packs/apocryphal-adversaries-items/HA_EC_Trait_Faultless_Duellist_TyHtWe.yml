@@ -1,0 +1,17 @@
+name: Faultless Duellist
+type: talent
+_id: TyHtWejSyKwIvc4F
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: MbW4ieMxiPy46Twv
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>This Adversary may re-roll any dice which roll failures when making a melee attack. Enemies in engagement range at the start of their turn become Hindered.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!TyHtWejSyKwIvc4F"
