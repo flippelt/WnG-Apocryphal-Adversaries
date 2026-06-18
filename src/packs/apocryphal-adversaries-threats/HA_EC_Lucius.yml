@@ -1,0 +1,754 @@
+folder: HAEmpChildren01
+name: Lucius the Eternal
+type: threat
+_id: YC89ZgyGmRbOuLTk
+img: icons/environment/people/charge.webp
+system:
+  attributes:
+    strength:
+      label: ATTRIBUTE.STRENGTH
+      rating: 0
+      base: 11
+      bonus: 0
+      cost: 0
+      total: 0
+    toughness:
+      label: ATTRIBUTE.TOUGHNESS
+      rating: 0
+      base: 8
+      bonus: 0
+      cost: 0
+      total: 0
+    agility:
+      label: ATTRIBUTE.AGILITY
+      rating: 0
+      base: 9
+      bonus: 0
+      cost: 0
+      total: 0
+    initiative:
+      label: ATTRIBUTE.INITIATIVE
+      rating: 0
+      base: 9
+      bonus: 0
+      cost: 0
+      total: 0
+    willpower:
+      label: ATTRIBUTE.WILLPOWER
+      rating: 0
+      base: 7
+      bonus: 0
+      cost: 0
+      total: 0
+    intellect:
+      label: ATTRIBUTE.INTELLECT
+      rating: 0
+      base: 6
+      bonus: 0
+      cost: 0
+      total: 0
+    fellowship:
+      label: ATTRIBUTE.FELLOWSHIP
+      rating: 0
+      base: 7
+      bonus: 0
+      cost: 0
+      total: 0
+  skills:
+    athletics:
+      label: SKILL.ATHLETICS
+      attribute: strength
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    awareness:
+      label: SKILL.AWARENESS
+      attribute: intellect
+      rating: 6
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    ballisticSkill:
+      label: SKILL.BALLISTIC_SKILL
+      attribute: agility
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    cunning:
+      label: SKILL.CUNNING
+      attribute: fellowship
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    deception:
+      label: SKILL.DECEPTION
+      attribute: fellowship
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    insight:
+      label: SKILL.INSIGHT
+      attribute: fellowship
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    intimidation:
+      label: SKILL.INTIMIDATION
+      attribute: willpower
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    investigation:
+      label: SKILL.INVESTIGATION
+      attribute: intellect
+      rating: 5
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    leadership:
+      label: SKILL.LEADERSHIP
+      attribute: willpower
+      rating: 5
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    medicae:
+      label: SKILL.MEDICAE
+      attribute: intellect
+      rating: 5
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    persuasion:
+      label: SKILL.PERSUASION
+      attribute: fellowship
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    pilot:
+      label: SKILL.PILOT
+      attribute: agility
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    psychicMastery:
+      label: SKILL.PSYCHIC_MASTERY
+      attribute: willpower
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    scholar:
+      label: SKILL.SCHOLAR
+      attribute: intellect
+      rating: 5
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    stealth:
+      label: SKILL.STEALTH
+      attribute: agility
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    survival:
+      label: SKILL.SURVIVAL
+      attribute: willpower
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    tech:
+      label: SKILL.TECH
+      attribute: intellect
+      rating: 5
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    weaponSkill:
+      label: SKILL.WEAPON_SKILL
+      attribute: initiative
+      rating: 6
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+  combat:
+    defense:
+      bonus: 0
+      total: 0
+    defence:
+      bonus: 0
+      total: 0
+    resilience:
+      bonus: 0
+      total: 0
+    wounds:
+      value: 0
+      bonus: 0
+      max: 18
+    determination:
+      bonus: 0
+      total: 0
+    shock:
+      value: 0
+      bonus: 0
+      max: 12
+    resolve:
+      bonus: 1
+      total: 0
+    conviction:
+      bonus: 0
+      total: 0
+    size: average
+    speed: 7
+    fly: 0
+    passiveAwareness:
+      bonus: 0
+      total: 0
+    stealth: 0
+  bio:
+    species: ""
+    faction: Heretic Astartes
+    archetype: ""
+    threat:
+      first: A
+      second: A
+      third: A
+      fourth: A
+      fifth: A
+  resources:
+    ruin: 0
+  corruption:
+    current: 0
+  mob: null
+  notes: <p>Lucius the Eternal — the undefeatable swordsman-champion of Slaanesh; whoever kills him and takes pride in it becomes the next Lucius.</p>
+prototypeToken:
+  name: Lucius the Eternal
+  displayName: 20
+  actorLink: false
+  appendNumber: false
+  prependAdjective: false
+  texture:
+    src: icons/environment/people/charge.webp
+    scaleX: 1
+    scaleY: 1
+    offsetX: 0
+    offsetY: 0
+    rotation: 0
+  width: 1
+  height: 1
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  disposition: -1
+  displayBars: 20
+  bar1:
+    attribute: combat.wounds
+  bar2:
+    attribute: combat.shock
+  sight:
+    enabled: false
+    range: 0
+    angle: 360
+    visionMode: basic
+  detectionModes: []
+  flags: {}
+  randomImg: false
+items:
+  - name: CHAOS
+    type: keyword
+    _id: ufaInCIiXh9DLcST
+    img: icons/svg/eye.svg
+    system:
+      description: <p>A servant of the Dark Gods.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!YC89ZgyGmRbOuLTk.ufaInCIiXh9DLcST"
+  - name: SLAANESH
+    type: keyword
+    _id: bXI5RkVNFirY6EzO
+    img: icons/svg/eye.svg
+    system:
+      description: <p>Bears the Mark of Slaanesh.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!YC89ZgyGmRbOuLTk.bXI5RkVNFirY6EzO"
+  - name: HERETIC ASTARTES
+    type: keyword
+    _id: Tr3p4zSdyTZH0qJS
+    img: icons/svg/eye.svg
+    system:
+      description: <p>A traitor Space Marine.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!YC89ZgyGmRbOuLTk.Tr3p4zSdyTZH0qJS"
+  - name: EMPEROR'S CHILDREN
+    type: keyword
+    _id: IEnOrvahR8WKaFIi
+    img: icons/svg/eye.svg
+    system:
+      description: <p>Of the Emperor's Children Legion.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!YC89ZgyGmRbOuLTk.IEnOrvahR8WKaFIi"
+  - name: CHAMPION
+    type: keyword
+    _id: nkyYyQ94U22pdqIE
+    img: icons/svg/eye.svg
+    system:
+      description: <p>A champion who may take Ruin Actions.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!YC89ZgyGmRbOuLTk.nkyYyQ94U22pdqIE"
+  - name: Power Armour
+    type: armour
+    _id: KJzD15DGT0f5MmlA
+    img: modules/wng-core/assets/icons/armour/armour.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: <p>5 AR.</p>
+      value: 0
+      keywords: ""
+      equipped: true
+      rating: 5
+      base: 0
+      traits: []
+      invulnerable: false
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!YC89ZgyGmRbOuLTk.KJzD15DGT0f5MmlA"
+  - name: Power Sword
+    type: weapon
+    _id: H52Hzha8oxoPGG9l
+    img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: ""
+      value: 0
+      keywords: ""
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 16
+        bonus: 0
+        rank: none
+      ed:
+        base: 4
+        bonus: 0
+        rank: none
+      ap:
+        base: -3
+        bonus: 0
+        rank: none
+      category: melee
+      range:
+        short: 0
+        medium: 0
+        long: 0
+        melee: 1
+        thrown: null
+      ammo: ""
+      salvo: 0
+      traits:
+        - name: parry
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!YC89ZgyGmRbOuLTk.H52Hzha8oxoPGG9l"
+  - name: Lash of Torment
+    type: weapon
+    _id: 5oWof04IwKnBCXoQ
+    img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: <p>Range 4 (M).</p>
+      value: 0
+      keywords: ""
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 15
+        bonus: 0
+        rank: none
+      ed:
+        base: 2
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      category: melee
+      range:
+        short: 0
+        medium: 0
+        long: 0
+        melee: 4
+        thrown: null
+      ammo: ""
+      salvo: 0
+      traits:
+        - name: agonising
+        - name: inflict
+          custom: true
+          display: Inflict (Terror)
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!YC89ZgyGmRbOuLTk.5oWof04IwKnBCXoQ"
+  - name: Doom Siren
+    type: weapon
+    _id: BhIdAE1IlWkOEd8a
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: ""
+      value: 0
+      keywords: ""
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 12
+        bonus: 0
+        rank: none
+      ed:
+        base: 1
+        bonus: 0
+        rank: none
+      ap:
+        base: -2
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 4
+        medium: 8
+        long: 12
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: 1
+      traits:
+        - name: assault
+        - name: blast
+          rating: 6
+        - name: cacophony
+          custom: true
+          display: Cacophony
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!YC89ZgyGmRbOuLTk.BhIdAE1IlWkOEd8a"
+  - name: Lord of Chaos
+    type: talent
+    _id: EylEo5robsZvuAor
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>While allied EMPEROR'S CHILDREN Threats are within 6m, they add +Tier dice when making an Attack.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!YC89ZgyGmRbOuLTk.EylEo5robsZvuAor"
+  - name: Champion
+    type: talent
+    _id: QdH2rrDIZxlKUDxf
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>This Threat may use Ruin Actions and has 6 Personal Ruin. Also see Dark Pacts.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!YC89ZgyGmRbOuLTk.QdH2rrDIZxlKUDxf"
+  - name: Death to the False Emperor
+    type: talent
+    _id: 1bs1g4xCZk16MNV6
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>Each time this Threat rolls an Exalted Icon on an attack against an enemy with the IMPERIUM keyword, it may immediately roll one additional die on that attack. These additional dice cannot themselves grant extra dice.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!YC89ZgyGmRbOuLTk.1bs1g4xCZk16MNV6"
+  - name: Duellist's Pride
+    type: talent
+    _id: XWAbyv6JhhGS6fpS
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>Lucius gains 1 Ruin each time an enemy makes a successful melee attack against him.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!YC89ZgyGmRbOuLTk.XWAbyv6JhhGS6fpS"
+  - name: Faultless Duellist
+    type: talent
+    _id: ZvHdrcIzRba4uEY9
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>Lucius may re-roll any dice which roll failures when making a melee attack. Enemies in engagement range at the start of their turn become Hindered.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!YC89ZgyGmRbOuLTk.ZvHdrcIzRba4uEY9"
+  - name: Malicious Volleys
+    type: talent
+    _id: gI5uqpsRQu4HmOGE
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>When making a ranged attack with a BOLT weapon with the Rapid Fire (X) trait, the Threat increases the trait’s rating by +Tier.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!YC89ZgyGmRbOuLTk.gI5uqpsRQu4HmOGE"
+  - name: Sonic Weapons
+    type: talent
+    _id: TECeVKVMzcUnKknF
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>Sonic weapons have the Cacophony trait (attacks ignore cover bonuses to Defence). When a SLAANESH Threat with a Sonic weapon hits a target already hit by other Sonic weapons since its last turn, add +1 ED for each Sonic weapon that has hit it.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!YC89ZgyGmRbOuLTk.TECeVKVMzcUnKknF"
+  - name: Space Marine Implants
+    type: talent
+    _id: j93m5zxYTarZvAFm
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>This Threat has the bio-engineered implants of a Space Marine (W&G core rulebook), allowing unusual actions or a bonus die on certain actions.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!YC89ZgyGmRbOuLTk.j93m5zxYTarZvAFm"
+  - name: "Annihilation: Armour of Shrieking Souls"
+    type: ability
+    _id: 9pIYDatIaU91zsz9
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ""
+      specification: ""
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>When Lucius is slain, the character who struck the killing blow must pass a DN 6 Corruption Test. If this would push them to a new Corruption level, they slowly transform into Lucius over the next few days, body and soul.</p>
+      display: true
+      abilityType: annihilation
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ""
+        wounds: ""
+        shock: ""
+      test:
+        dn: null
+        type: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!YC89ZgyGmRbOuLTk.9pIYDatIaU91zsz9"
+  - name: Determination
+    type: ability
+    _id: 2Pmh9XvHo9DaiKRl
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ""
+      specification: ""
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>Spend 1 Ruin to roll 8d6. This Threat may roll Determination against Mortal Wounds.</p>
+      display: true
+      abilityType: determination
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ""
+        wounds: ""
+        shock: ""
+      test:
+        dn: null
+        type: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!YC89ZgyGmRbOuLTk.2Pmh9XvHo9DaiKRl"
+effects: []
+sort: 0
+ownership:
+  default: 0
+flags:
+  wrath-and-glory:
+    autoCalc:
+      defence: true
+      resilience: true
+      shock: true
+      awareness: true
+      resolve: true
+      determination: true
+      wounds: true
+      conviction: true
+    autoWounded: true
+    autoExhausted: true
+    generateMetaCurrencies: true
+_key: "!actors!YC89ZgyGmRbOuLTk"
