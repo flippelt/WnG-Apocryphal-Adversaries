@@ -1,0 +1,47 @@
+name: Comet's Call
+type: psychicPower
+_id: HdGikrWzKsAsxR3t
+img: modules/wng-core/assets/icons/powers/power.webp
+folder: CSSu796NEntxswQT
+sort: 0
+system:
+  dn: "6"
+  type: ""
+  specification: ""
+  description: <p>Full Action. Create a number of Blast (8) effects equal to the game’s Tier, placed anywhere on the battlefield (no blast overlapping another). Each creature within a blast suffers 13 +6ED damage, AP -1, Mortal (1). <em>Potency:</em> [2] Create 1 additional Blast. [1] +1 ED.</p>
+  effect: ""
+  cost: 0
+  activation: full
+  duration: Instant
+  range: 100m
+  multiTarget: false
+  keywords: SERAPHON, PSYCHIC
+  prerequisites: Psyker must have the SERAPHON and SLANN keywords.
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 0
+      five: 0
+      six: 0
+  otherDamage:
+    mortalWounds: ""
+    wounds: ""
+    shock: ""
+  potency: []
+  test:
+    dn: null
+    type: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!HdGikrWzKsAsxR3t"

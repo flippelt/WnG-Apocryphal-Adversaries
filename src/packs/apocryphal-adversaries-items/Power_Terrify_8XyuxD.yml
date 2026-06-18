@@ -1,0 +1,47 @@
+name: Terrify
+type: psychicPower
+_id: 8XyuxD6oWlKvVZuQ
+img: modules/wng-core/assets/icons/powers/power.webp
+folder: Uysv92KdeFkk6lnq
+sort: 0
+system:
+  dn: Target's Resolve
+  type: ""
+  specification: ""
+  description: <p>You fill your enemies’ minds with visions of torment and agony. Select a single enemy you can see within range. If successful, the enemy suffers Terror. <em>Potency:</em> *[1] The enemy cannot use Reflexive Actions while under the effects of Terror. [1] The enemy suffers 1 Shock as well.</p>
+  effect: ""
+  cost: 0
+  activation: action
+  duration: Instant
+  range: 18m
+  multiTarget: true
+  keywords: TELEPATHY, PSYCHIC
+  prerequisites: Psyker must have the INQUISITION keyword.
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 0
+      five: 0
+      six: 0
+  otherDamage:
+    mortalWounds: ""
+    wounds: ""
+    shock: ""
+  potency: []
+  test:
+    dn: null
+    type: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!8XyuxD6oWlKvVZuQ"

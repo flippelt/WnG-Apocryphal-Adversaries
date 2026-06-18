@@ -1,0 +1,47 @@
+name: Speed of Huanchi
+type: psychicPower
+_id: yCbrjIE6KZX9udpw
+img: modules/wng-core/assets/icons/powers/power.webp
+folder: CSSu796NEntxswQT
+sort: 0
+system:
+  dn: "5"
+  type: ""
+  specification: ""
+  description: <p>Select a single SKINK or KROXIGOR ally, or a single SKINK mob, within range and visible. They may make a normal move immediately. <em>Potency:</em> [1] The affected allies get +1 Speed for this move.</p>
+  effect: ""
+  cost: 0
+  activation: action
+  duration: Instant
+  range: 18m
+  multiTarget: true
+  keywords: SERAPHON, PSYCHIC
+  prerequisites: Psyker must have the SERAPHON keyword.
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 0
+      five: 0
+      six: 0
+  otherDamage:
+    mortalWounds: ""
+    wounds: ""
+    shock: ""
+  potency: []
+  test:
+    dn: null
+    type: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!yCbrjIE6KZX9udpw"

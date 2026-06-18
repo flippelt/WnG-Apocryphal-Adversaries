@@ -1,0 +1,47 @@
+name: Scorch
+type: psychicPower
+_id: fRVBqtGVKB7eJHAX
+img: modules/wng-core/assets/icons/powers/power.webp
+folder: VoUpocb26qZ7jVb7
+sort: 0
+system:
+  dn: "4"
+  type: ""
+  specification: ""
+  description: <p>A gout of sorcerous flame affects enemies in a Blast (8) within range and line of sight. All enemies in the blast suffer 13 +4ED damage with AP -2; those who suffer damage also suffer the On Fire condition. <em>Potency:</em> *[2] Each Exalted Icon rolled on the ED inflicts 1 Mortal Wound. [1] +1 ED. [1] +1 Blast rating.</p>
+  effect: ""
+  cost: 0
+  activation: action
+  duration: Instant
+  range: 13m
+  multiTarget: false
+  keywords: HRUD, MASTERCLAN, PSYCHIC, FIRE
+  prerequisites: Psyker must have the MASTERCLAN keyword.
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 0
+      five: 0
+      six: 0
+  otherDamage:
+    mortalWounds: ""
+    wounds: ""
+    shock: ""
+  potency: []
+  test:
+    dn: null
+    type: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!fRVBqtGVKB7eJHAX"
