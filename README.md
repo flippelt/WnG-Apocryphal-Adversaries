@@ -114,8 +114,19 @@ Converted faction by faction from the source PDFs. See
   eleven-unit Navis Imperialis Breacher kill team, and all four Officio
   Assassinorum temples (Callidus, Culexus, Eversor, Vindicare) — plus 27 items:
   the Warpvolt, Ruin, Celestial and Telethesia psychic disciplines.
-- ⏳ **To do:** Heretic Astartes (plus the WIP Adeptus Astartes once it is
-  finalised).
+- 🔧 **Heretic Astartes (Chaos Space Marines) — base legion done (v0.9.1):** 71
+  actors — the Legionary family, Chosen/Raptors/Warp Talons/Havocs/Obliterators/
+  Mutilators/Possessed/Terminators, the Traitor Guard regiment, Fellgor Beastmen,
+  Chaos Cultists/Hounds/Spawn, the full HQ roster (Exalted Champion, Dark Apostle,
+  Master of Executions, Warpsmith, Master of Possession, Chaos Sorcerers, Chaos
+  Lords and the Daemon Prince), the daemon engines (Helbrute, Defiler, Forgefiend,
+  Maulerfiend, Venomcrawler) and five named lords (Haarken, Abaddon the Despoiler,
+  Huron Blackheart, Fabius Bile, Vashtorr) — plus 52 items (the Dark Hereticus,
+  Malefic, Dark Commune and Fellgor disciplines, the Chaos Prayers, Adversary
+  Traits and Relics & Daemon Weapons). The **cult legions** (Death Guard,
+  Emperor's Children, Thousand Sons, World Eaters) ship next as `0.9.x` updates.
+- ⏳ **To do:** Heretic Astartes cult legions, then the WIP Adeptus Astartes once
+  it is finalised.
 
 **Versioning:** new factions get a **minor** bump (`0.8.0`, `0.9.0`, …); updates
 to an already-published faction (tracking a newer source revision) get a **patch**
