@@ -1,0 +1,19 @@
+name: Ul'o'cca, the Black
+type: gear
+_id: ALX8TsWH6bui1mT2
+img: modules/wng-core/assets/icons/gear/gear.webp
+folder: vesL6yfF4A3uItjy
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: "<p><em>UNDIVIDED Adversary only; one melee weapon becomes a Daemon Weapon.</em> The weapon gains the Mortal (1) quality.</p><p><em>Daemon Weapon: when a melee attack is made with it, the attacker converts additional dice to Wrath Dice equal to the game’s Tier; any Wrath Complication inflicts 1d3 Mortal Wounds on the wielder; the weapon inflicts a Critical Hit if any of its Wrath dice roll a 6, and each Wrath Critical after the first raises the severity as if 1 Glory were spent.</em></p>"
+  value: 0
+  keywords: ""
+  equipped: false
+  traits: []
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!ALX8TsWH6bui1mT2"

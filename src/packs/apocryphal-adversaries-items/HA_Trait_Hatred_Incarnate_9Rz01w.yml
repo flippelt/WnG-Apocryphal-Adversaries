@@ -1,0 +1,17 @@
+name: Hatred Incarnate
+type: talent
+_id: 9Rz01wIRg75gCN1g
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: fCi8IKEM1B7ILVWN
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>The Adversary may re-roll any dice which roll a 1 on his melee attacks. Further, each time this Adversary Charges, his melee attacks inflict +Tier ED.</p><p><em>One of the general Adversary Traits applicable to a CHAOS / HERETIC ASTARTES Adversary. (Legion-specific traits from the source are summarised in their legion releases.)</em></p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!9Rz01wIRg75gCN1g"

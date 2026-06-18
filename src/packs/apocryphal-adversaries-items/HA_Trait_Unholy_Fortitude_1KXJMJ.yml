@@ -1,0 +1,17 @@
+name: Unholy Fortitude
+type: talent
+_id: 1KXJMJEa7LdJIO9w
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: fCi8IKEM1B7ILVWN
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>Each time the Adversary rolls Determination, they may re-roll any die which rolls a 1.</p><p><em>One of the general Adversary Traits applicable to a CHAOS / HERETIC ASTARTES Adversary. (Legion-specific traits from the source are summarised in their legion releases.)</em></p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!1KXJMJEa7LdJIO9w"

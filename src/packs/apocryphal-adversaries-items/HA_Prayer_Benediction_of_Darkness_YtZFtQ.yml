@@ -1,0 +1,17 @@
+name: Benediction of Darkness
+type: talent
+_id: YtZFtQXDli0FeREV
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: qlyuaxDrvbFkr1Kr
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: "<p>If successful, the PRIEST and all CHAOS allies within 12m gain +Tier to Defence against ranged attacks and +Tier dice on Stealth tests while the Prayer remains in effect.</p><p><em>A PRIEST invokes a Prayer as a Simple Action: a DN 3 Persuasion test that inflicts 1d3 Shock (no Shock if the Wrath die is a 6; 1 Mortal Wound to the Priest if the Wrath die is a 1). Each Prayer lasts one round; each Exalted Icon shifted extends the duration by one round, up to the game’s Tier.</em></p>"
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!YtZFtQXDli0FeREV"

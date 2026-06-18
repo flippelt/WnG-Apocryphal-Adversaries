@@ -1,0 +1,51 @@
+name: The Warp's Malice
+type: weapon
+_id: wmFwRtLvTmQ1bO2T
+img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+folder: vesL6yfF4A3uItjy
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p><em>HERETIC ASTARTES Adversary only; replaces a Bolt Pistol.</em></p>
+  value: 0
+  keywords: ""
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 12
+    bonus: 0
+    rank: none
+  ed:
+    base: 2
+    bonus: 0
+    rank: none
+  ap:
+    base: -2
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 9
+    medium: 18
+    long: 27
+    melee: 0
+    thrown: null
+  ammo: ""
+  salvo: 4
+  traits:
+    - name: brutal
+    - name: rapidFire
+      rating: 2
+    - name: pistol
+    - name: mortal
+      rating: 1
+  upgrades: []
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!wmFwRtLvTmQ1bO2T"

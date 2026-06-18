@@ -1,0 +1,19 @@
+name: Eye of Tzeentch
+type: gear
+_id: KWgn92VLvtunSs7U
+img: modules/wng-core/assets/icons/gear/gear.webp
+folder: vesL6yfF4A3uItjy
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p><em>TZEENTCH PSYKER Adversary only.</em> Each time the bearer attempts a Psychic Mastery test, they may re-roll up to 9 dice in that pool. Further, each 6 rolled on the Wrath dice grants one bonus Exalted Icon for Potency.</p>
+  value: 0
+  keywords: ""
+  equipped: false
+  traits: []
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!KWgn92VLvtunSs7U"

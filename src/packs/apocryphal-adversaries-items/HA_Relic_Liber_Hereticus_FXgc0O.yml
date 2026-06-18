@@ -1,0 +1,19 @@
+name: Liber Hereticus
+type: gear
+_id: FXgc0OlivJ51rGvG
+img: modules/wng-core/assets/icons/gear/gear.webp
+folder: vesL6yfF4A3uItjy
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p><em>HERETIC ASTARTES PSYKER Adversary only.</em> The Adversary may attempt to activate up to two psychic powers as part of a Multi-Action. Further, any power they activate increases its range by +6m.</p>
+  value: 0
+  keywords: ""
+  equipped: false
+  traits: []
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!FXgc0OlivJ51rGvG"

@@ -1,0 +1,47 @@
+name: Weaver of Fates
+type: psychicPower
+_id: s2h5y7PpUyhDkAZB
+img: modules/wng-core/assets/icons/powers/power.webp
+folder: dhn8L7SFBOiZYf1o
+sort: 0
+system:
+  dn: "6"
+  type: ""
+  specification: ""
+  description: <p>Select a number of TZEENTCH allies within range equal to the Sorcerer’s Willpower. Until the start of the Sorcerer’s next turn, affected allies add +2 to Resilience and may roll Determination against Mortal Wounds. <em>Potency:</em> *[2] affect +Willpower more allies. [1] +1 Resilience. [2] +1 die on Determination rolls.</p>
+  effect: ""
+  cost: 0
+  activation: Action
+  duration: 1 Round
+  range: 18m
+  multiTarget: false
+  keywords: CHAOS, TZEENTCH, PSYCHIC
+  prerequisites: Psyker must have the HERETIC ASTARTES and TZEENTCH keywords.
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 0
+      five: 0
+      six: 0
+  otherDamage:
+    mortalWounds: ""
+    wounds: ""
+    shock: ""
+  potency: []
+  test:
+    dn: null
+    type: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!s2h5y7PpUyhDkAZB"

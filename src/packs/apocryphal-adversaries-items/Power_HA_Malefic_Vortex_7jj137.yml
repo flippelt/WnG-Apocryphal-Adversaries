@@ -1,0 +1,47 @@
+name: Malefic Vortex
+type: psychicPower
+_id: 7jj137Fcd44b3RlB
+img: modules/wng-core/assets/icons/powers/power.webp
+folder: jZbEC5ywpQfrsutt
+sort: 0
+system:
+  dn: "5"
+  type: ""
+  specification: ""
+  description: <p>A whirling vortex is centred on any visible point within range. Any enemy within 4m of that point suffers Tier Mortal Wounds and is Staggered. While the power remains in effect, each enemy within 4m at the start of the Mindwitch’s turn suffers a further Tier Mortal Wounds and is Staggered. <em>Potency:</em> [2] +1 Mortal Wound. [1] +1m vortex range.</p>
+  effect: ""
+  cost: 0
+  activation: Full Action
+  duration: Sustained
+  range: 18m
+  multiTarget: false
+  keywords: CHAOS, PSYCHIC
+  prerequisites: Psyker must have the CHAOS and DARK COMMUNE keywords.
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 0
+      five: 0
+      six: 0
+  otherDamage:
+    mortalWounds: ""
+    wounds: ""
+    shock: ""
+  potency: []
+  test:
+    dn: null
+    type: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!7jj137Fcd44b3RlB"

@@ -1,0 +1,17 @@
+name: Lord of Terror
+type: talent
+_id: od0acoUntO2U4Ibx
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: fCi8IKEM1B7ILVWN
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>When an enemy within 6m makes a Resolve test, they treat any Wrath die result of 1, 2, or 3 as a Complication.</p><p><em>One of the general Adversary Traits applicable to a CHAOS / HERETIC ASTARTES Adversary. (Legion-specific traits from the source are summarised in their legion releases.)</em></p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!od0acoUntO2U4Ibx"

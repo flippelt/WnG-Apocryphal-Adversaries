@@ -1,0 +1,19 @@
+name: Talisman of Burning Blood
+type: gear
+_id: y0x52rQlIReOGab0
+img: modules/wng-core/assets/icons/gear/gear.webp
+folder: vesL6yfF4A3uItjy
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p><em>KHORNE Adversary only.</em> The Adversary’s Speed is increased by +1 when they Run or Charge; this increases to +2 if the Adversary is Frenzied.</p>
+  value: 0
+  keywords: ""
+  equipped: false
+  traits: []
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!y0x52rQlIReOGab0"

@@ -1,0 +1,47 @@
+name: Curse Weapon
+type: psychicPower
+_id: K2jJKzvpzeBo7dyS
+img: modules/wng-core/assets/icons/powers/power.webp
+folder: f0ekx3YfFAiqQzzf
+sort: 0
+system:
+  dn: "4"
+  type: ""
+  specification: ""
+  description: <p>The weapon of one visible enemy within range gains the Volatile (3) trait until the start of the Shaman’s next turn. <em>Potency:</em> *[2] weapon also gains Unreliable 3. [1] increase the Volatile rating by +1.</p>
+  effect: ""
+  cost: 0
+  activation: Action
+  duration: 1 Round
+  range: 18m
+  multiTarget: true
+  keywords: CHAOS, PSYCHIC
+  prerequisites: Psyker must have the CHAOS and FELLGOR keywords.
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 0
+      five: 0
+      six: 0
+  otherDamage:
+    mortalWounds: ""
+    wounds: ""
+    shock: ""
+  potency: []
+  test:
+    dn: null
+    type: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!K2jJKzvpzeBo7dyS"

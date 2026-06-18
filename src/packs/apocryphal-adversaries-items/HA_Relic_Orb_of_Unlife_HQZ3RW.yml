@@ -1,0 +1,52 @@
+name: Orb of Unlife
+type: weapon
+_id: HQZ3RWiBVdGtsQ8g
+img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+folder: vesL6yfF4A3uItjy
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p><em>NURGLE Adversary only. A single unique grenade.</em> Thrown S×4. A diluted life-eater virus.</p>
+  value: 0
+  keywords: ""
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 7
+    bonus: 0
+    rank: none
+  ed:
+    base: 7
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 0
+    thrown: null
+  ammo: ""
+  salvo: 0
+  traits:
+    - name: blast
+      rating: 7
+    - name: fleshbane
+      custom: true
+      display: Fleshbane
+    - name: mortal
+      rating: 1
+  upgrades: []
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!HQZ3RWiBVdGtsQ8g"

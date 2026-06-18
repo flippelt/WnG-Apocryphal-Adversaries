@@ -1,0 +1,19 @@
+name: Thaa'ris and Rhi'ol, the Rapacious
+type: gear
+_id: N8ZQ59hOW3VHB6iK
+img: modules/wng-core/assets/icons/gear/gear.webp
+folder: vesL6yfF4A3uItjy
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: "<p><em>SLAANESH Adversary only; two melee weapons become Daemon Weapons and gain the Paired quality.</em> When making a melee attack with them, Wrath Criticals do not cause Critical Hits but instead let the wielder make one additional attack with one of the weapons.</p><p><em>Daemon Weapon: when a melee attack is made with it, the attacker converts additional dice to Wrath Dice equal to the game’s Tier; any Wrath Complication inflicts 1d3 Mortal Wounds on the wielder; the weapon inflicts a Critical Hit if any of its Wrath dice roll a 6, and each Wrath Critical after the first raises the severity as if 1 Glory were spent.</em></p>"
+  value: 0
+  keywords: ""
+  equipped: false
+  traits: []
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!N8ZQ59hOW3VHB6iK"

@@ -1,0 +1,47 @@
+name: Gift of Chaos
+type: psychicPower
+_id: 4Bhp5OZA63LED22F
+img: modules/wng-core/assets/icons/powers/power.webp
+folder: dhn8L7SFBOiZYf1o
+sort: 0
+system:
+  dn: Target's Toughness
+  type: ""
+  specification: ""
+  description: <p>Target a single creature within range; it suffers 1d3+3 Mortal Wounds and an equal number of Corruption points. If reduced to 0 Wounds and slain by this power, the target mutates into a Chaos Spawn instead of dying. <em>Potency:</em> [2] +1 Mortal Wound and +1 Corruption.</p>
+  effect: ""
+  cost: 0
+  activation: Action
+  duration: Instant
+  range: 6m
+  multiTarget: false
+  keywords: CHAOS, PSYCHIC
+  prerequisites: Psyker must have the HERETIC ASTARTES and CHAOS keywords.
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 0
+      five: 0
+      six: 0
+  otherDamage:
+    mortalWounds: ""
+    wounds: ""
+    shock: ""
+  potency: []
+  test:
+    dn: null
+    type: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!4Bhp5OZA63LED22F"

@@ -1,0 +1,17 @@
+name: Eternal Vendetta
+type: talent
+_id: 9LdQfwWLqTjXykqL
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: fCi8IKEM1B7ILVWN
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: "<p>BATTLECRY: Select a single enemy before the first round of combat. Any [LEGION] ally within 6m of the Adversary may re-roll failures on ED against that chosen enemy.</p><p><em>One of the general Adversary Traits applicable to a CHAOS / HERETIC ASTARTES Adversary. (Legion-specific traits from the source are summarised in their legion releases.)</em></p>"
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!9LdQfwWLqTjXykqL"
