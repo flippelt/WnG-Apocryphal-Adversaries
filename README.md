@@ -78,7 +78,17 @@ Converted faction by faction from the source PDFs. See
   Arienal, Nuadhu Fireheart and Prince Yriel — and the Engines of Vaul aircraft
   as vehicles) plus 33 items (Craftworld adaptations, Adversary Traits and
   Remnants of Glory).
-- ⏳ **To do:** Daemonic Legions · Heretic Astartes · Malicious Miscellany.
+- ✅ **Daemonic Legions (Chaos Daemons) — complete (v0.8.0):** 52 actors (47
+  threats + 5 vehicles) — Khorne (Bloodletters through Bloodthirster, Skarbrand,
+  Doombreed), Nurgle (Plaguebearers through the Great Unclean One, Rotigus,
+  Epidemius), Slaanesh (Daemonettes through the Keeper of Secrets, Shalaxi
+  Helbane), Tzeentch (Horrors through the Lord of Change, Kairos Fateweaver) and
+  the Legions of the Warp (Daemon Prince of Chaos, Chaos Furies, Be'Lakor), with
+  daemonic chariots/mounts as vehicles — plus 86 items: the four psychic
+  disciplines (Warprot, Soulstain, Pandaemoniac, Noctic) and each god's
+  Adversary Traits, Exalted Greater Daemons and Relics.
+- ⏳ **To do:** Heretic Astartes · Malicious Miscellany (plus the new Astra
+  Militarum, and the WIP Adeptus Astartes once it is finalised).
 
 **Versioning:** new factions get a **minor** bump (`0.8.0`, `0.9.0`, …); updates
 to an already-published faction (tracking a newer source revision) get a **patch**
