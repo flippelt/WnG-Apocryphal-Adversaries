@@ -1,0 +1,755 @@
+folder: grjE9QFUbAbyako0
+name: Drazhar, the Master of Blades
+type: threat
+_id: ckBG6sPHvf8ykpaE
+img: modules/wng-xenos/assets/tokens/drazhar.webp
+system:
+  attributes:
+    strength:
+      label: ATTRIBUTE.STRENGTH
+      rating: 0
+      base: 7
+      bonus: 0
+      cost: 0
+      total: 0
+    toughness:
+      label: ATTRIBUTE.TOUGHNESS
+      rating: 0
+      base: 7
+      bonus: 0
+      cost: 0
+      total: 0
+    agility:
+      label: ATTRIBUTE.AGILITY
+      rating: 0
+      base: 8
+      bonus: 0
+      cost: 0
+      total: 0
+    initiative:
+      label: ATTRIBUTE.INITIATIVE
+      rating: 0
+      base: 8
+      bonus: 0
+      cost: 0
+      total: 0
+    willpower:
+      label: ATTRIBUTE.WILLPOWER
+      rating: 0
+      base: 7
+      bonus: 0
+      cost: 0
+      total: 0
+    intellect:
+      label: ATTRIBUTE.INTELLECT
+      rating: 0
+      base: 6
+      bonus: 0
+      cost: 0
+      total: 0
+    fellowship:
+      label: ATTRIBUTE.FELLOWSHIP
+      rating: 0
+      base: 3
+      bonus: 0
+      cost: 0
+      total: 0
+  skills:
+    athletics:
+      label: SKILL.ATHLETICS
+      attribute: strength
+      rating: 7
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    awareness:
+      label: SKILL.AWARENESS
+      attribute: intellect
+      rating: 6
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    ballisticSkill:
+      label: SKILL.BALLISTIC_SKILL
+      attribute: agility
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    cunning:
+      label: SKILL.CUNNING
+      attribute: fellowship
+      rating: 7
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    deception:
+      label: SKILL.DECEPTION
+      attribute: fellowship
+      rating: 7
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    insight:
+      label: SKILL.INSIGHT
+      attribute: fellowship
+      rating: 7
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    intimidation:
+      label: SKILL.INTIMIDATION
+      attribute: willpower
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    investigation:
+      label: SKILL.INVESTIGATION
+      attribute: intellect
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    leadership:
+      label: SKILL.LEADERSHIP
+      attribute: willpower
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    medicae:
+      label: SKILL.MEDICAE
+      attribute: intellect
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    persuasion:
+      label: SKILL.PERSUASION
+      attribute: fellowship
+      rating: 7
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    pilot:
+      label: SKILL.PILOT
+      attribute: agility
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    psychicMastery:
+      label: SKILL.PSYCHIC_MASTERY
+      attribute: willpower
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    scholar:
+      label: SKILL.SCHOLAR
+      attribute: intellect
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    stealth:
+      label: SKILL.STEALTH
+      attribute: agility
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    survival:
+      label: SKILL.SURVIVAL
+      attribute: willpower
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    tech:
+      label: SKILL.TECH
+      attribute: intellect
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    weaponSkill:
+      label: SKILL.WEAPON_SKILL
+      attribute: initiative
+      rating: 9
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+  combat:
+    defense:
+      bonus: 0
+      total: 0
+    defence:
+      bonus: 0
+      total: 0
+    resilience:
+      bonus: 0
+      total: 0
+    wounds:
+      value: 0
+      bonus: 0
+      max: 15
+    determination:
+      bonus: 0
+      total: 0
+    shock:
+      value: 0
+      bonus: 0
+      max: 0
+    resolve:
+      bonus: 0
+      total: 0
+    conviction:
+      bonus: 0
+      total: 0
+    size: average
+    speed: 8
+    fly: 0
+    passiveAwareness:
+      bonus: 0
+      total: 0
+    stealth: 0
+  bio:
+    species: ""
+    faction: Drukhari
+    archetype: ""
+    threat:
+      first: "-"
+      second: "-"
+      third: "-"
+      fourth: A
+      fifth: A
+  resources:
+    ruin: 0
+  corruption:
+    current: 0
+  mob: null
+  notes: <p>Drazhar, the Master of Blades — the enigmatic Executioner of the Incubi, perhaps Arhra the Dark Father incarnate; wields the Executioner’s Demiklaive.</p>
+prototypeToken:
+  name: Drazhar, the Master of Blades
+  displayName: 20
+  actorLink: false
+  appendNumber: false
+  prependAdjective: false
+  texture:
+    src: modules/wng-xenos/assets/tokens/drazhar.webp
+    scaleX: 1
+    scaleY: 1
+    offsetX: 0
+    offsetY: 0
+    rotation: 0
+  width: 1
+  height: 1
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  disposition: -1
+  displayBars: 20
+  bar1:
+    attribute: combat.wounds
+  bar2:
+    attribute: combat.shock
+  sight:
+    enabled: false
+    range: 0
+    angle: 360
+    visionMode: basic
+  detectionModes: []
+  flags: {}
+  randomImg: false
+items:
+  - name: AELDARI
+    type: keyword
+    _id: hCtg8JU4BGgOAALt
+    img: icons/svg/eye.svg
+    system:
+      description: <p>A member of the ancient Aeldari race.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!ckBG6sPHvf8ykpaE.hCtg8JU4BGgOAALt"
+  - name: DRUKHARI
+    type: keyword
+    _id: fuKw4ggqmSFlmRP0
+    img: icons/svg/eye.svg
+    system:
+      description: <p>A Dark Eldar of Commorragh — a raider, torturer, and soul-thief.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!ckBG6sPHvf8ykpaE.fuKw4ggqmSFlmRP0"
+  - name: INCUBI
+    type: keyword
+    _id: c6pIrZQ6ogseEYQT
+    img: icons/svg/eye.svg
+    system:
+      description: <p>A warrior-monk of the Incubi shrines.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!ckBG6sPHvf8ykpaE.c6pIrZQ6ogseEYQT"
+  - name: Ancient Incubus Warsuit
+    type: armour
+    _id: FZNlS4spPIP07nV5
+    img: modules/wng-core/assets/icons/armour/armour.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: ""
+      value: 0
+      keywords: ""
+      equipped: true
+      rating: 7
+      base: 0
+      traits: []
+      invulnerable: false
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!ckBG6sPHvf8ykpaE.FZNlS4spPIP07nV5"
+  - name: Executioner's Demiklaive (Single Blade)
+    type: weapon
+    _id: VB5YPoCEiicobOhU
+    img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: ""
+      value: 0
+      keywords: ""
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 14
+        bonus: 0
+        rank: none
+      ed:
+        base: 5
+        bonus: 0
+        rank: none
+      ap:
+        base: -3
+        bonus: 0
+        rank: none
+      category: melee
+      range:
+        short: 0
+        medium: 0
+        long: 0
+        melee: 1
+        thrown: null
+      ammo: ""
+      salvo: 0
+      traits:
+        - name: parry
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!ckBG6sPHvf8ykpaE.VB5YPoCEiicobOhU"
+  - name: Executioner's Demiklaive (2 Dual Blades)
+    type: weapon
+    _id: OfNDjBZN18ZhZE66
+    img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: ""
+      value: 0
+      keywords: ""
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 12
+        bonus: 0
+        rank: none
+      ed:
+        base: 4
+        bonus: 0
+        rank: none
+      ap:
+        base: -2
+        bonus: 0
+        rank: none
+      category: melee
+      range:
+        short: 0
+        medium: 0
+        long: 0
+        melee: 1
+        thrown: null
+      ammo: ""
+      salvo: 0
+      traits:
+        - name: parry
+        - name: reaping
+          custom: true
+          display: Reaping
+        - name: paired
+          custom: true
+          display: Paired
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!ckBG6sPHvf8ykpaE.OfNDjBZN18ZhZE66"
+  - name: Ancient Warrior
+    type: talent
+    _id: gNwFCnFcMUyG3pyN
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>Drazhar can suffer a maximum of 5 Wounds in any single Round of combat and does not suffer Shock damage.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!ckBG6sPHvf8ykpaE.gNwFCnFcMUyG3pyN"
+  - name: Blade Artist
+    type: talent
+    _id: NDZHACAgsyUGrMT3
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: "<p>Blade Artist: when this Drukhari makes a melee attack, increase the weapon’s AP by 1 (e.g. −1 to −2) if they shift one or more Icons on the attack. Stacks with Rending. See page 6.</p>"
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!ckBG6sPHvf8ykpaE.NDZHACAgsyUGrMT3"
+  - name: Champion
+    type: talent
+    _id: o6dBN0YLAz2UGKNw
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>This Threat may take Ruin Actions and has 5 Personal Ruin.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!ckBG6sPHvf8ykpaE.o6dBN0YLAz2UGKNw"
+  - name: Hatred Eternal
+    type: talent
+    _id: WXApf6glCyGU6jLN
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>Each time Drazhar makes an attack, he may re-roll any failures on the attack and on the damage roll.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!ckBG6sPHvf8ykpaE.WXApf6glCyGU6jLN"
+  - name: Lethal Precision
+    type: talent
+    _id: IZFK2cuvhv4Jexxo
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>For each Exalted Icon rolled on the damage roll for a melee attack, roll one additional ED (these cannot themselves generate extra ED).</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!ckBG6sPHvf8ykpaE.IZFK2cuvhv4Jexxo"
+  - name: Master of Blades
+    type: talent
+    _id: hHzn3m3wVJ4Nzbfe
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>Friendly Incubi within 6m of Drazhar add +1 ED to all successful melee attacks.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!ckBG6sPHvf8ykpaE.hHzn3m3wVJ4Nzbfe"
+  - name: Murderous Assault
+    type: talent
+    _id: iAQFV17jNtOA5Q5h
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>If Drazhar begins a round engaged in melee, he may take two turns in combat that round, rather than one.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!ckBG6sPHvf8ykpaE.iAQFV17jNtOA5Q5h"
+  - name: Power Through Pain
+    type: talent
+    _id: YCcPDc5EY7J4yp4A
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: "<p><strong>Power Through Pain.</strong> <em>Harvesting Pain:</em> each time a DRUKHARI Threat or Mob kills an enemy, or causes one to become Wounded, Exhausted, Pinned, or to suffer the Fear or Terror condition, gain 1 Pain Token — a general pool usable by any DRUKHARI Threat or Mob in the scene (never gained from unliving enemies).</p><p><em>Spending Pain Tokens:</em> <strong>Tormentor’s Fury</strong> (charge: +Tier Speed and +Tier dice); <strong>Tormentor’s Majesty</strong> (Intimidation attack: +Tier dice and inflict Fear); <strong>Tormentor’s Might</strong> (melee: +Tier Strength); <strong>Tormentor’s Supremacy</strong> (Determination: +Tier dice, wounds negated ignored not converted to Shock); <strong>Tormentor’s Vigour</strong> (start of turn: recover 1d3+Tier Wounds and all Shock); <strong>Tormentor’s Will</strong> (Resolve/Conviction Test: auto-succeed). See page 7.</p>"
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!ckBG6sPHvf8ykpaE.YCcPDc5EY7J4yp4A"
+  - name: Second Strike
+    type: talent
+    _id: GeLv9x8fD5qlmKM5
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>When wielding two Dual Blades, reduce the Multi-Attack penalty by 2DN, as though it had the Dual Wield Talent.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!ckBG6sPHvf8ykpaE.GeLv9x8fD5qlmKM5"
+  - name: Tormentor
+    type: talent
+    _id: GR3P57djyc9Eu2px
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: "<p>The nearest enemy within 2m of this Threat acts last: it cannot take a turn until after all other characters have acted this round.</p>"
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!ckBG6sPHvf8ykpaE.GR3P57djyc9Eu2px"
+  - name: "Wrath: Onslaught"
+    type: ability
+    _id: Tx99pZmnSystlIEG
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ""
+      specification: ""
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>When Drazhar scores a Wrath Critical on a melee attack, he may immediately make another melee attack.</p>
+      display: true
+      abilityType: wrath
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ""
+        wounds: ""
+        shock: ""
+      test:
+        dn: null
+        type: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!ckBG6sPHvf8ykpaE.Tx99pZmnSystlIEG"
+  - name: "Ruin: Perfect Lethality"
+    type: ability
+    _id: WDXi8MromXJoKdMX
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ""
+      specification: ""
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>Spend 1 Ruin to add the game’s Tier as ED to all attacks this Threat makes this round.</p>
+      display: true
+      abilityType: ruin
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ""
+        wounds: ""
+        shock: ""
+      test:
+        dn: null
+        type: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!ckBG6sPHvf8ykpaE.WDXi8MromXJoKdMX"
+  - name: Determination
+    type: ability
+    _id: 1EVlZjKw8u463weW
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ""
+      specification: ""
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: "<p>Deadly Riposte: Spend 1 Ruin to roll 7d6. Drazhar may roll Determination against Mortal Wounds, and wounds negated are ignored instead of converted to Shock. If damage was inflicted in melee, each Exalted Icon Drazhar rolls for Determination also inflicts 1 Mortal Wound on the attacker.</p>"
+      display: true
+      abilityType: determination
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ""
+        wounds: ""
+        shock: ""
+      test:
+        dn: null
+        type: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!ckBG6sPHvf8ykpaE.1EVlZjKw8u463weW"
+effects: []
+sort: 0
+ownership:
+  default: 0
+flags:
+  wrath-and-glory:
+    autoCalc:
+      defence: true
+      resilience: true
+      shock: false
+      awareness: true
+      resolve: true
+      determination: true
+      wounds: true
+      conviction: true
+    autoWounded: true
+    autoExhausted: true
+    generateMetaCurrencies: true
+_key: "!actors!ckBG6sPHvf8ykpaE"

@@ -497,7 +497,7 @@ items:
       effect: ""
       cost: 0
       requirements: ""
-      description: "<p>Power Through Pain: this Drukhari cannot recover Shock by spending Ruin or via Medicae — only through the suffering of others. Escalating bonuses each round: R1 +1 Resilience; R2 +Tier Speed; R3 +Tier bonus dice to Weapon Skill; R4 +Tier Resilience; R5+ +Double Tier Resolve. See page 6.</p>"
+      description: "<p><strong>Power Through Pain.</strong> <em>Harvesting Pain:</em> each time a DRUKHARI Threat or Mob kills an enemy, or causes one to become Wounded, Exhausted, Pinned, or to suffer the Fear or Terror condition, gain 1 Pain Token — a general pool usable by any DRUKHARI Threat or Mob in the scene (never gained from unliving enemies).</p><p><em>Spending Pain Tokens:</em> <strong>Tormentor’s Fury</strong> (on a charge, 1 token: +Tier Speed and +Tier dice to the attack); <strong>Tormentor’s Majesty</strong> (Intimidation Interaction Attack, 1 token: +Tier dice and inflict Fear); <strong>Tormentor’s Might</strong> (melee attack, 1 token: +Tier Strength, increasing melee damage); <strong>Tormentor’s Supremacy</strong> (Determination, 1 token: +Tier dice, and wounds negated are ignored rather than converted to Shock); <strong>Tormentor’s Vigour</strong> (start of turn, 1 token: recover 1d3+Tier Wounds and all Shock); <strong>Tormentor’s Will</strong> (Resolve or Conviction Test, 1 token: automatically succeed). See page 7.</p>"
       display: true
     effects: []
     folder: null

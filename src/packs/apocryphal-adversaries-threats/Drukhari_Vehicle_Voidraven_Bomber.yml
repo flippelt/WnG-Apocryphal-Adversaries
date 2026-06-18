@@ -1,0 +1,527 @@
+folder: grjE9QFUbAbyako0
+name: Voidraven Bomber
+type: vehicle
+_id: UCCx4BlRJ65Jizyy
+img: icons/svg/target.svg
+system:
+  complement:
+    pilot: 1
+    crew: 1
+    passenger: 0
+    list: []
+  mnvr: 8
+  rarity: veryRare
+  value: 0
+  traits:
+    list:
+      - name: flyer
+        rating: ""
+        type: ""
+        custom: "true"
+        display: Flyer
+        description: ""
+      - name: gyrostabilised
+        rating: ""
+        type: ""
+        custom: "true"
+        display: Gyro-Stabilised
+        description: ""
+      - name: hover
+        rating: ""
+        type: ""
+        custom: "true"
+        display: Hover
+        description: ""
+      - name: sealed
+        rating: ""
+        type: ""
+        custom: "true"
+        display: Sealed
+        description: ""
+      - name: turboboost20
+        rating: ""
+        type: ""
+        custom: "true"
+        display: Turbo-Boost (20)
+        description: ""
+  combat:
+    defence:
+      bonus: 0
+    resilience:
+      bonus: 0
+      total: 14
+    wounds:
+      value: 0
+      bonus: 0
+      max: 14
+    size: huge
+    speed: 120
+    fly: 0
+  notes: <p>Voidraven Bomber — the ultimate Drukhari heavy-weapon platform, silent and agile, carrying a catastrophic Void Mine. May replace its Void Lances with Dark Scythes and be equipped with up to 4 missiles (Monoscythe, Necrotoxin, Shatterfield, Implosion).</p>
+  settings:
+    hidePassengers: false
+prototypeToken:
+  name: Voidraven Bomber
+  displayName: 20
+  actorLink: false
+  appendNumber: false
+  prependAdjective: false
+  texture:
+    src: icons/svg/target.svg
+    scaleX: 3
+    scaleY: 3
+    offsetX: 0
+    offsetY: 0
+    rotation: 0
+  width: 3
+  height: 3
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  disposition: -1
+  displayBars: 20
+  bar1:
+    attribute: combat.wounds
+  bar2:
+    attribute: ""
+  sight:
+    enabled: false
+    range: 0
+    angle: 360
+    visionMode: basic
+  detectionModes: []
+  flags: {}
+  randomImg: false
+items:
+  - name: AELDARI
+    type: keyword
+    _id: kR05A7ZRIm66TuGG
+    img: icons/svg/target.svg
+    system:
+      description: <p>A vehicle of the ancient Aeldari race.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!UCCx4BlRJ65Jizyy.kR05A7ZRIm66TuGG"
+  - name: DRUKHARI
+    type: keyword
+    _id: fAd7EGMkRGsAvHsh
+    img: icons/svg/target.svg
+    system:
+      description: <p>A vehicle of the Drukhari of Commorragh.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!UCCx4BlRJ65Jizyy.fAd7EGMkRGsAvHsh"
+  - name: FLYER
+    type: keyword
+    _id: BI6oxTAkyaQvDZ5v
+    img: icons/svg/target.svg
+    system:
+      description: <p>An aircraft / flying vehicle.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!UCCx4BlRJ65Jizyy.BI6oxTAkyaQvDZ5v"
+  - name: Void Lance
+    type: weapon
+    _id: UabFbTK3yvQ4k11L
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 2
+      rarity: rare
+      description: ""
+      value: 0
+      keywords: ""
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 18
+        bonus: 0
+        rank: none
+      ed:
+        base: 5
+        bonus: 0
+        rank: none
+      ap:
+        base: -4
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 18
+        medium: 36
+        long: 54
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: 1
+      traits:
+        - name: brutal
+        - name: lance
+          custom: true
+          display: Lance
+        - name: mounted
+          custom: true
+          display: Mounted (Huge)
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!UCCx4BlRJ65Jizyy.UabFbTK3yvQ4k11L"
+  - name: Void Mine
+    type: weapon
+    _id: zCUeKAv1hbQq8cVn
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: rare
+      description: "<p>Salvo —. Special: after completing its Movement, as a Combat Action the gunner may drop the mine at any point beneath the flight path; all attacks are made as though at short range.</p>"
+      value: 0
+      keywords: ""
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 18
+        bonus: 0
+        rank: none
+      ed:
+        base: 6
+        bonus: 0
+        rank: none
+      ap:
+        base: -4
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 12
+        medium: 24
+        long: 36
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: null
+      traits:
+        - name: blast
+          rating: 10
+        - name: brutal
+        - name: lance
+          custom: true
+          display: Lance
+        - name: mounted
+          custom: true
+          display: Mounted (Huge)
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!UCCx4BlRJ65Jizyy.zCUeKAv1hbQq8cVn"
+  - name: Dark Scythe
+    type: weapon
+    _id: wVVCvSMCRzKzmu0o
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 2
+      rarity: rare
+      description: "<p>Option: replaces the Void Lances.</p>"
+      value: 0
+      keywords: ""
+      equipped: false
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 16
+        bonus: 0
+        rank: none
+      ed:
+        base: 2
+        bonus: 0
+        rank: none
+      ap:
+        base: -4
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 12
+        medium: 24
+        long: 36
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: 3
+      traits:
+        - name: brutal
+        - name: mounted
+          custom: true
+          display: Mounted (Huge)
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!UCCx4BlRJ65Jizyy.wVVCvSMCRzKzmu0o"
+  - name: Monoscythe Missile
+    type: weapon
+    _id: kdLakXekHB1bqDZ1
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: rare
+      description: "<p>Salvo —. Special: an attacker may make Called Shots, adding +1 ED for each +1 to the DN, to a max of +3 ED for +3 DN.</p>"
+      value: 0
+      keywords: ""
+      equipped: false
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 13
+        bonus: 0
+        rank: none
+      ed:
+        base: 5
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 24
+        medium: 48
+        long: 72
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: null
+      traits:
+        - name: blast
+          rating: 10
+        - name: mounted
+          custom: true
+          display: Mounted (Huge)
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!UCCx4BlRJ65Jizyy.kdLakXekHB1bqDZ1"
+  - name: Necrotoxin Missile
+    type: weapon
+    _id: F0Qe9DTVB2KQBhZv
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: rare
+      description: <p>Salvo —. Missile option.</p>
+      value: 0
+      keywords: ""
+      equipped: false
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 5
+        bonus: 0
+        rank: none
+      ed:
+        base: 8
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 24
+        medium: 48
+        long: 72
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: null
+      traits:
+        - name: blast
+          rating: 12
+        - name: fleshbane
+          custom: true
+          display: Fleshbane
+        - name: inflict
+          custom: true
+          display: Inflict (Pinning)
+        - name: mounted
+          custom: true
+          display: Mounted (Huge)
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!UCCx4BlRJ65Jizyy.F0Qe9DTVB2KQBhZv"
+  - name: Shatterfield Missile
+    type: weapon
+    _id: 0DALDVlfqnJYzxYH
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: rare
+      description: <p>Salvo —. Missile option.</p>
+      value: 0
+      keywords: ""
+      equipped: false
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 15
+        bonus: 0
+        rank: none
+      ed:
+        base: 6
+        bonus: 0
+        rank: none
+      ap:
+        base: -2
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 24
+        medium: 48
+        long: 72
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: null
+      traits:
+        - name: blast
+          rating: 6
+        - name: inflict
+          custom: true
+          display: Inflict (Staggered)
+        - name: mounted
+          custom: true
+          display: Mounted (Huge)
+        - name: tearing
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!UCCx4BlRJ65Jizyy.0DALDVlfqnJYzxYH"
+  - name: Implosion Missile
+    type: weapon
+    _id: xhDY6pscnGftS4ft
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: rare
+      description: "<p>Salvo —. Missile option. Special: Vehicles are unaffected by Implosion Missiles.</p>"
+      value: 0
+      keywords: ""
+      equipped: false
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 13
+        bonus: 0
+        rank: none
+      ed:
+        base: 6
+        bonus: 0
+        rank: none
+      ap:
+        base: -3
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 24
+        medium: 48
+        long: 72
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: null
+      traits:
+        - name: blast
+          rating: 4
+        - name: brutal
+        - name: mortal
+          custom: true
+          display: Mortal (d3)
+        - name: mounted
+          custom: true
+          display: Mounted (Huge)
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!UCCx4BlRJ65Jizyy.xhDY6pscnGftS4ft"
+  - name: Night Shield
+    type: gear
+    _id: ZZaoRan3DmbHo8pv
+    img: modules/wng-core/assets/icons/gear/gear.webp
+    system:
+      quantity: 1
+      rarity: rare
+      description: <p>A field of shadow that shortens the range bands of attacks made against the vehicle.</p>
+      value: 0
+      keywords: ""
+      effect: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!UCCx4BlRJ65Jizyy.ZZaoRan3DmbHo8pv"
+effects: []
+sort: 0
+ownership:
+  default: 0
+flags: {}
+_key: "!actors!UCCx4BlRJ65Jizyy"

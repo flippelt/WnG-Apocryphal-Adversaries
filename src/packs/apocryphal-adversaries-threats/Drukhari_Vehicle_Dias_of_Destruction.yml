@@ -1,0 +1,262 @@
+folder: grjE9QFUbAbyako0
+name: Dias of Destruction
+type: vehicle
+_id: frLUlUE8Bp5PXNMH
+img: icons/svg/target.svg
+system:
+  complement:
+    pilot: 1
+    crew: 3
+    passenger: 10
+    list: []
+  mnvr: 8
+  rarity: veryRare
+  value: 0
+  traits:
+    list:
+      - name: gyrostabilised
+        rating: ""
+        type: ""
+        custom: "true"
+        display: Gyro-Stabilised
+        description: ""
+      - name: hover
+        rating: ""
+        type: ""
+        custom: "true"
+        display: Hover
+        description: ""
+      - name: opentopped
+        rating: ""
+        type: ""
+        custom: "true"
+        display: Open Topped
+        description: ""
+      - name: turboboost6
+        rating: ""
+        type: ""
+        custom: "true"
+        display: Turbo-Boost (6)
+        description: ""
+  combat:
+    defence:
+      bonus: 0
+    resilience:
+      bonus: 0
+      total: 19
+    wounds:
+      value: 0
+      bonus: 0
+      max: 14
+    size: huge
+    speed: 115
+    fly: 0
+  notes: "<p>The Dias of Destruction — Asdrubael Vect’s customised Raider command barge. Crew Complement: 1 Pilot, 3 Crew, 10 Passengers.</p>"
+  settings:
+    hidePassengers: false
+prototypeToken:
+  name: Dias of Destruction
+  displayName: 20
+  actorLink: false
+  appendNumber: false
+  prependAdjective: false
+  texture:
+    src: icons/svg/target.svg
+    scaleX: 3
+    scaleY: 3
+    offsetX: 0
+    offsetY: 0
+    rotation: 0
+  width: 3
+  height: 3
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  disposition: -1
+  displayBars: 20
+  bar1:
+    attribute: combat.wounds
+  bar2:
+    attribute: ""
+  sight:
+    enabled: false
+    range: 0
+    angle: 360
+    visionMode: basic
+  detectionModes: []
+  flags: {}
+  randomImg: false
+items:
+  - name: AELDARI
+    type: keyword
+    _id: MEf6S66XWrvEceVp
+    img: icons/svg/target.svg
+    system:
+      description: <p>A vehicle of the ancient Aeldari race.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!frLUlUE8Bp5PXNMH.MEf6S66XWrvEceVp"
+  - name: DRUKHARI
+    type: keyword
+    _id: u9NR5pdIyYyodgLO
+    img: icons/svg/target.svg
+    system:
+      description: <p>A vehicle of the Drukhari of Commorragh.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!frLUlUE8Bp5PXNMH.u9NR5pdIyYyodgLO"
+  - name: RAIDER
+    type: keyword
+    _id: FO4xK5WmhLy1VZrx
+    img: icons/svg/target.svg
+    system:
+      description: <p>A Drukhari open-topped raiding skimmer.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!frLUlUE8Bp5PXNMH.FO4xK5WmhLy1VZrx"
+  - name: TRANSPORT
+    type: keyword
+    _id: SRcDTB9PevUAZK9f
+    img: icons/svg/target.svg
+    system:
+      description: <p>Carries embarked passengers.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!frLUlUE8Bp5PXNMH.SRcDTB9PevUAZK9f"
+  - name: TANK
+    type: keyword
+    _id: kajTcvdTxl8wP6FR
+    img: icons/svg/target.svg
+    system:
+      description: <p>A heavy armoured vehicle.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!frLUlUE8Bp5PXNMH.kajTcvdTxl8wP6FR"
+  - name: Dark Lance
+    type: weapon
+    _id: Kfj1nTs2eRhsjMPd
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 3
+      rarity: rare
+      description: ""
+      value: 0
+      keywords: ""
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 16
+        bonus: 0
+        rank: none
+      ed:
+        base: 4
+        bonus: 0
+        rank: none
+      ap:
+        base: -4
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 18
+        medium: 36
+        long: 54
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: 1
+      traits:
+        - name: brutal
+        - name: heavy
+          rating: 4
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!frLUlUE8Bp5PXNMH.Kfj1nTs2eRhsjMPd"
+  - name: Power Field
+    type: gear
+    _id: awIHtrG6wqGmISPx
+    img: modules/wng-core/assets/icons/gear/gear.webp
+    system:
+      quantity: 1
+      rarity: rare
+      description: <p>Projects a protective energy field around the vehicle.</p>
+      value: 0
+      keywords: ""
+      effect: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!frLUlUE8Bp5PXNMH.awIHtrG6wqGmISPx"
+  - name: Night Shield
+    type: gear
+    _id: g4XuBSrJkoRECEsU
+    img: modules/wng-core/assets/icons/gear/gear.webp
+    system:
+      quantity: 1
+      rarity: rare
+      description: <p>A field of shadow that shortens the range bands of attacks made against the vehicle.</p>
+      value: 0
+      keywords: ""
+      effect: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!frLUlUE8Bp5PXNMH.g4XuBSrJkoRECEsU"
+  - name: Bladevanes
+    type: gear
+    _id: 844WiHdqwZZBxgUi
+    img: modules/wng-core/assets/icons/gear/gear.webp
+    system:
+      quantity: 1
+      rarity: rare
+      description: <p>Spinning monomolecular blades that shred enemies the vehicle passes.</p>
+      value: 0
+      keywords: ""
+      effect: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!frLUlUE8Bp5PXNMH.844WiHdqwZZBxgUi"
+effects: []
+sort: 0
+ownership:
+  default: 0
+flags: {}
+_key: "!actors!frLUlUE8Bp5PXNMH"

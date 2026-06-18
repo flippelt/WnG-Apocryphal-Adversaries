@@ -1,0 +1,782 @@
+folder: grjE9QFUbAbyako0
+name: Duke Sliscus
+type: threat
+_id: 1wthDTHlAKCfZUJU
+img: modules/wng-xenos/assets/tokens/felarch.webp
+system:
+  attributes:
+    strength:
+      label: ATTRIBUTE.STRENGTH
+      rating: 0
+      base: 4
+      bonus: 0
+      cost: 0
+      total: 0
+    toughness:
+      label: ATTRIBUTE.TOUGHNESS
+      rating: 0
+      base: 3
+      bonus: 0
+      cost: 0
+      total: 0
+    agility:
+      label: ATTRIBUTE.AGILITY
+      rating: 0
+      base: 7
+      bonus: 0
+      cost: 0
+      total: 0
+    initiative:
+      label: ATTRIBUTE.INITIATIVE
+      rating: 0
+      base: 7
+      bonus: 0
+      cost: 0
+      total: 0
+    willpower:
+      label: ATTRIBUTE.WILLPOWER
+      rating: 0
+      base: 6
+      bonus: 0
+      cost: 0
+      total: 0
+    intellect:
+      label: ATTRIBUTE.INTELLECT
+      rating: 0
+      base: 5
+      bonus: 0
+      cost: 0
+      total: 0
+    fellowship:
+      label: ATTRIBUTE.FELLOWSHIP
+      rating: 0
+      base: 5
+      bonus: 0
+      cost: 0
+      total: 0
+  skills:
+    athletics:
+      label: SKILL.ATHLETICS
+      attribute: strength
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    awareness:
+      label: SKILL.AWARENESS
+      attribute: intellect
+      rating: 5
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    ballisticSkill:
+      label: SKILL.BALLISTIC_SKILL
+      attribute: agility
+      rating: 1
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    cunning:
+      label: SKILL.CUNNING
+      attribute: fellowship
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    deception:
+      label: SKILL.DECEPTION
+      attribute: fellowship
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    insight:
+      label: SKILL.INSIGHT
+      attribute: fellowship
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    intimidation:
+      label: SKILL.INTIMIDATION
+      attribute: willpower
+      rating: 5
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    investigation:
+      label: SKILL.INVESTIGATION
+      attribute: intellect
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    leadership:
+      label: SKILL.LEADERSHIP
+      attribute: willpower
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    medicae:
+      label: SKILL.MEDICAE
+      attribute: intellect
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    persuasion:
+      label: SKILL.PERSUASION
+      attribute: fellowship
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    pilot:
+      label: SKILL.PILOT
+      attribute: agility
+      rating: 1
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    psychicMastery:
+      label: SKILL.PSYCHIC_MASTERY
+      attribute: willpower
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    scholar:
+      label: SKILL.SCHOLAR
+      attribute: intellect
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    stealth:
+      label: SKILL.STEALTH
+      attribute: agility
+      rating: 1
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    survival:
+      label: SKILL.SURVIVAL
+      attribute: willpower
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    tech:
+      label: SKILL.TECH
+      attribute: intellect
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    weaponSkill:
+      label: SKILL.WEAPON_SKILL
+      attribute: initiative
+      rating: 5
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+  combat:
+    defense:
+      bonus: 0
+      total: 0
+    defence:
+      bonus: 0
+      total: 0
+    resilience:
+      bonus: 8
+      total: 0
+    wounds:
+      value: 0
+      bonus: 0
+      max: 9
+    determination:
+      bonus: 0
+      total: 0
+    shock:
+      value: 0
+      bonus: 0
+      max: 9
+    resolve:
+      bonus: 0
+      total: 0
+    conviction:
+      bonus: 0
+      total: 0
+    size: average
+    speed: 8
+    fly: 0
+    passiveAwareness:
+      bonus: 0
+      total: 0
+    stealth: 0
+  bio:
+    species: ""
+    faction: Drukhari
+    archetype: ""
+    threat:
+      first: "-"
+      second: "-"
+      third: A
+      fourth: A
+      fifth: A
+  resources:
+    ruin: 0
+  corruption:
+    current: 0
+  mob: null
+  notes: "<p>Duke Traevelliath Sliscus, The Serpent — the most capricious of Aeldari pirate lords, commander of the Sky Serpents. Shadow Field: Resilience 12 (*8 AR), dropping to 8 (Ghostplate 4/*2) once it fails.</p>"
+prototypeToken:
+  name: Duke Sliscus
+  displayName: 20
+  actorLink: false
+  appendNumber: false
+  prependAdjective: false
+  texture:
+    src: modules/wng-xenos/assets/tokens/felarch.webp
+    scaleX: 1
+    scaleY: 1
+    offsetX: 0
+    offsetY: 0
+    rotation: 0
+  width: 1
+  height: 1
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  disposition: -1
+  displayBars: 20
+  bar1:
+    attribute: combat.wounds
+  bar2:
+    attribute: combat.shock
+  sight:
+    enabled: false
+    range: 0
+    angle: 360
+    visionMode: basic
+  detectionModes: []
+  flags: {}
+  randomImg: false
+items:
+  - name: AELDARI
+    type: keyword
+    _id: hLkzVjjZPj0O9Q9n
+    img: icons/svg/eye.svg
+    system:
+      description: <p>A member of the ancient Aeldari race.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!1wthDTHlAKCfZUJU.hLkzVjjZPj0O9Q9n"
+  - name: DRUKHARI
+    type: keyword
+    _id: 7brYOAkLEK3cYwp1
+    img: icons/svg/eye.svg
+    system:
+      description: <p>A Dark Eldar of Commorragh — a raider, torturer, and soul-thief.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!1wthDTHlAKCfZUJU.7brYOAkLEK3cYwp1"
+  - name: ANHRATHE
+    type: keyword
+    _id: XI6KGG24Ck7eGUTn
+    img: icons/svg/eye.svg
+    system:
+      description: <p>An Aeldari Corsair / Outcast.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!1wthDTHlAKCfZUJU.XI6KGG24Ck7eGUTn"
+  - name: SKY SERPENTS
+    type: keyword
+    _id: KZWy3CRgvKg4CFwn
+    img: icons/svg/eye.svg
+    system:
+      description: <p>Duke Sliscus’ Corsair coterie.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!1wthDTHlAKCfZUJU.KZWy3CRgvKg4CFwn"
+  - name: Blast Pistol
+    type: weapon
+    _id: rmyI8s731DMPsRxz
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: ""
+      value: 0
+      keywords: ""
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 16
+        bonus: 0
+        rank: none
+      ed:
+        base: 1
+        bonus: 0
+        rank: none
+      ap:
+        base: -4
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 3
+        medium: 6
+        long: 9
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: 1
+      traits:
+        - name: brutal
+        - name: pistol
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!1wthDTHlAKCfZUJU.rmyI8s731DMPsRxz"
+  - name: The Serpent's Bite
+    type: weapon
+    _id: u6cukhoB35lK7U6P
+    img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: ""
+      value: 0
+      keywords: ""
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 7
+        bonus: 0
+        rank: none
+      ed:
+        base: 6
+        bonus: 0
+        rank: none
+      ap:
+        base: -1
+        bonus: 0
+        rank: none
+      category: melee
+      range:
+        short: 0
+        medium: 0
+        long: 0
+        melee: 1
+        thrown: null
+      ammo: ""
+      salvo: 0
+      traits:
+        - name: fleshbane
+          custom: true
+          display: Fleshbane
+        - name: inflict
+          custom: true
+          display: Inflict (Poisoned 7)
+        - name: rending
+          rating: 3
+        - name: paired
+          custom: true
+          display: Paired
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!1wthDTHlAKCfZUJU.u6cukhoB35lK7U6P"
+  - name: Blade Artist
+    type: talent
+    _id: qfakgAvpFxbj5YJu
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: "<p>Blade Artist: when this Drukhari makes a melee attack, increase the weapon’s AP by 1 (e.g. −1 to −2) if they shift one or more Icons on the attack. Stacks with Rending. See page 6.</p>"
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!1wthDTHlAKCfZUJU.qfakgAvpFxbj5YJu"
+  - name: Champion
+    type: talent
+    _id: e3Xs3zJN5ZTc6V7g
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>This Threat may take Ruin Actions and has 5 Personal Ruin.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!1wthDTHlAKCfZUJU.e3Xs3zJN5ZTc6V7g"
+  - name: Immunity
+    type: talent
+    _id: rRYWTGVoyCPn0FGf
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>Sliscus dines upon poisoned food to build up an immunity to toxins. He cannot be affected by the Poisoned condition.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!1wthDTHlAKCfZUJU.rRYWTGVoyCPn0FGf"
+  - name: Pirate Lord
+    type: talent
+    _id: aruFmVqJknC4ya9k
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>Allied threats from the SKY SERPENTS coterie within 12m may re-roll rolls of 1 on all attacks and Pilot skill tests.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!1wthDTHlAKCfZUJU.aruFmVqJknC4ya9k"
+  - name: Power Through Pain
+    type: talent
+    _id: 2xjUezwkZjs9X4MG
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: "<p><strong>Power Through Pain.</strong> <em>Harvesting Pain:</em> each time a DRUKHARI Threat or Mob kills an enemy, or causes one to become Wounded, Exhausted, Pinned, or to suffer the Fear or Terror condition, gain 1 Pain Token — a general pool usable by any DRUKHARI Threat or Mob in the scene (never gained from unliving enemies).</p><p><em>Spending Pain Tokens:</em> <strong>Tormentor’s Fury</strong> (charge: +Tier Speed and +Tier dice); <strong>Tormentor’s Majesty</strong> (Intimidation attack: +Tier dice and inflict Fear); <strong>Tormentor’s Might</strong> (melee: +Tier Strength); <strong>Tormentor’s Supremacy</strong> (Determination: +Tier dice, wounds negated ignored not converted to Shock); <strong>Tormentor’s Vigour</strong> (start of turn: recover 1d3+Tier Wounds and all Shock); <strong>Tormentor’s Will</strong> (Resolve/Conviction Test: auto-succeed). See page 7.</p>"
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!1wthDTHlAKCfZUJU.2xjUezwkZjs9X4MG"
+  - name: Shadow Field
+    type: talent
+    _id: 3SB92Z1gZWj9YIVw
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>This Threat has two separate values for Resilience and Determination. At the start of a scene use the first (Shadow Field) value (shown). If, after rolling Determination, the Threat suffers any damage, the Shadow Field fails and the Threat uses the second value for the rest of the scene (see notes).</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!1wthDTHlAKCfZUJU.3SB92Z1gZWj9YIVw"
+  - name: The Serpent's Venom
+    type: talent
+    _id: NfgHKuwEP3QL0Esq
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>Sliscus is seldom without his entourage of Kabalite Warriors or Trueborn, who replace their [KABAL] keyword with ANHRATHE and SKY SERPENTS; their Splinter weapons gain the Brutal trait.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!1wthDTHlAKCfZUJU.NfgHKuwEP3QL0Esq"
+  - name: "Battlecry: Contraband"
+    type: ability
+    _id: eRztiXsxgKmrHYQi
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ""
+      specification: ""
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>Duke Sliscus chooses which Combat Drugs (see page 7) he is using.</p>
+      display: true
+      abilityType: battlecry
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ""
+        wounds: ""
+        shock: ""
+      test:
+        dn: null
+        type: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!1wthDTHlAKCfZUJU.eRztiXsxgKmrHYQi"
+  - name: "Wrath: In Style"
+    type: ability
+    _id: UaBS1wGdWCQqjhbJ
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ""
+      specification: ""
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>When Duke Sliscus scores a Wrath Critical on an attack, he immediately recovers lost Shock equal to the game’s Tier.</p>
+      display: true
+      abilityType: wrath
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ""
+        wounds: ""
+        shock: ""
+      test:
+        dn: null
+        type: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!1wthDTHlAKCfZUJU.UaBS1wGdWCQqjhbJ"
+  - name: "Ruin: Hypertoxic Onslaught"
+    type: ability
+    _id: MgAzYE8cHaWjmGbY
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ""
+      specification: ""
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>When Duke Sliscus inflicts the Poisoned condition on an enemy, he may spend 1 Ruin as a Free Action; the target immediately suffers 1d3+Tier Mortal Wounds.</p>
+      display: true
+      abilityType: ruin
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ""
+        wounds: ""
+        shock: ""
+      test:
+        dn: null
+        type: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!1wthDTHlAKCfZUJU.MgAzYE8cHaWjmGbY"
+  - name: "Annihilation: Deathless Vendetta"
+    type: ability
+    _id: GNY8Zm2shBnrVv0G
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ""
+      specification: ""
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>When this Threat dies, the GM gains 2 Ruin.</p>
+      display: true
+      abilityType: annihilation
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ""
+        wounds: ""
+        shock: ""
+      test:
+        dn: null
+        type: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!1wthDTHlAKCfZUJU.GNY8Zm2shBnrVv0G"
+  - name: Determination
+    type: ability
+    _id: fTtuOCIFywNgkrtB
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ""
+      specification: ""
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: "<p>Shadow Field: Roll 9d6; this does not cost Shock or Ruin and may cancel Mortal Wounds. (Fallback after the field fails: Ghostplate, Resilience 8.) Otherwise, spend 1 Ruin to roll 3d6.</p>"
+      display: true
+      abilityType: determination
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ""
+        wounds: ""
+        shock: ""
+      test:
+        dn: null
+        type: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!1wthDTHlAKCfZUJU.fTtuOCIFywNgkrtB"
+effects: []
+sort: 0
+ownership:
+  default: 0
+flags:
+  wrath-and-glory:
+    autoCalc:
+      defence: true
+      resilience: true
+      shock: true
+      awareness: true
+      resolve: true
+      determination: true
+      wounds: true
+      conviction: true
+    autoWounded: true
+    autoExhausted: true
+    generateMetaCurrencies: true
+_key: "!actors!1wthDTHlAKCfZUJU"

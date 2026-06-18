@@ -369,9 +369,9 @@ items:
       traits:
         - name: assault
         - &ref_0
-          name: poisonous
+          name: fleshbane
           custom: true
-          display: Poisonous
+          display: Fleshbane
       upgrades: []
     effects: []
     folder: null

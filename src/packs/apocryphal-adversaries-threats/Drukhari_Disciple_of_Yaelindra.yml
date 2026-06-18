@@ -1,0 +1,725 @@
+folder: grjE9QFUbAbyako0
+name: Disciple of Yaelindra
+type: threat
+_id: lUWLpB7VdI8YqULx
+img: modules/wng-xenos/assets/tokens/corsair.webp
+system:
+  attributes:
+    strength:
+      label: ATTRIBUTE.STRENGTH
+      rating: 0
+      base: 4
+      bonus: 0
+      cost: 0
+      total: 0
+    toughness:
+      label: ATTRIBUTE.TOUGHNESS
+      rating: 0
+      base: 3
+      bonus: 0
+      cost: 0
+      total: 0
+    agility:
+      label: ATTRIBUTE.AGILITY
+      rating: 0
+      base: 6
+      bonus: 0
+      cost: 0
+      total: 0
+    initiative:
+      label: ATTRIBUTE.INITIATIVE
+      rating: 0
+      base: 6
+      bonus: 0
+      cost: 0
+      total: 0
+    willpower:
+      label: ATTRIBUTE.WILLPOWER
+      rating: 0
+      base: 4
+      bonus: 0
+      cost: 0
+      total: 0
+    intellect:
+      label: ATTRIBUTE.INTELLECT
+      rating: 0
+      base: 3
+      bonus: 0
+      cost: 0
+      total: 0
+    fellowship:
+      label: ATTRIBUTE.FELLOWSHIP
+      rating: 0
+      base: 2
+      bonus: 0
+      cost: 0
+      total: 0
+  skills:
+    athletics:
+      label: SKILL.ATHLETICS
+      attribute: strength
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    awareness:
+      label: SKILL.AWARENESS
+      attribute: intellect
+      rating: 5
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    ballisticSkill:
+      label: SKILL.BALLISTIC_SKILL
+      attribute: agility
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    cunning:
+      label: SKILL.CUNNING
+      attribute: fellowship
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    deception:
+      label: SKILL.DECEPTION
+      attribute: fellowship
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    insight:
+      label: SKILL.INSIGHT
+      attribute: fellowship
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    intimidation:
+      label: SKILL.INTIMIDATION
+      attribute: willpower
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    investigation:
+      label: SKILL.INVESTIGATION
+      attribute: intellect
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    leadership:
+      label: SKILL.LEADERSHIP
+      attribute: willpower
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    medicae:
+      label: SKILL.MEDICAE
+      attribute: intellect
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    persuasion:
+      label: SKILL.PERSUASION
+      attribute: fellowship
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    pilot:
+      label: SKILL.PILOT
+      attribute: agility
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    psychicMastery:
+      label: SKILL.PSYCHIC_MASTERY
+      attribute: willpower
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    scholar:
+      label: SKILL.SCHOLAR
+      attribute: intellect
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    stealth:
+      label: SKILL.STEALTH
+      attribute: agility
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    survival:
+      label: SKILL.SURVIVAL
+      attribute: willpower
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    tech:
+      label: SKILL.TECH
+      attribute: intellect
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    weaponSkill:
+      label: SKILL.WEAPON_SKILL
+      attribute: initiative
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+  combat:
+    defense:
+      bonus: 0
+      total: 0
+    defence:
+      bonus: 0
+      total: 0
+    resilience:
+      bonus: 0
+      total: 0
+    wounds:
+      value: 0
+      bonus: 0
+      max: 7
+    determination:
+      bonus: 0
+      total: 0
+    shock:
+      value: 0
+      bonus: 0
+      max: 6
+    resolve:
+      bonus: 0
+      total: 0
+    conviction:
+      bonus: 0
+      total: 0
+    size: average
+    speed: 8
+    fly: 0
+    passiveAwareness:
+      bonus: 0
+      total: 0
+    stealth: 0
+  bio:
+    species: ""
+    faction: Drukhari
+    archetype: ""
+    threat:
+      first: E
+      second: E
+      third: T
+      fourth: T
+      fifth: T
+  resources:
+    ruin: 0
+  corruption:
+    current: 0
+  mob: null
+  notes: <p>Disciple of Yaelindra — an adept of the infamous poisoners’ cult, weaponising deadly venoms via stinger pistols and torment grenades.</p>
+prototypeToken:
+  name: Disciple of Yaelindra
+  displayName: 20
+  actorLink: false
+  appendNumber: false
+  prependAdjective: false
+  texture:
+    src: modules/wng-xenos/assets/tokens/corsair.webp
+    scaleX: 1
+    scaleY: 1
+    offsetX: 0
+    offsetY: 0
+    rotation: 0
+  width: 1
+  height: 1
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  disposition: -1
+  displayBars: 20
+  bar1:
+    attribute: combat.wounds
+  bar2:
+    attribute: combat.shock
+  sight:
+    enabled: false
+    range: 0
+    angle: 360
+    visionMode: basic
+  detectionModes: []
+  flags: {}
+  randomImg: false
+items:
+  - name: AELDARI
+    type: keyword
+    _id: 3TBIEVs40yZxX0zu
+    img: icons/svg/eye.svg
+    system:
+      description: <p>A member of the ancient Aeldari race.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!lUWLpB7VdI8YqULx.3TBIEVs40yZxX0zu"
+  - name: DRUKHARI
+    type: keyword
+    _id: 5LtSx8lRcVH2jUDz
+    img: icons/svg/eye.svg
+    system:
+      description: <p>A Dark Eldar of Commorragh — a raider, torturer, and soul-thief.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!lUWLpB7VdI8YqULx.5LtSx8lRcVH2jUDz"
+  - name: "[KABAL]"
+    type: keyword
+    _id: tFI84D1jaZ7jxje1
+    img: icons/svg/eye.svg
+    system:
+      description: <p>Replace with the Drukhari Kabal keyword (Black Heart, Flayed Skull, Poisoned Tongue, Obsidian Rose&hellip;).</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!lUWLpB7VdI8YqULx.tFI84D1jaZ7jxje1"
+  - name: HAND OF THE ARCHON
+    type: keyword
+    _id: HmlrsJDD4zkLXZgF
+    img: icons/svg/eye.svg
+    system:
+      description: <p>A member of an Archon's elite Kabalite retinue.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!lUWLpB7VdI8YqULx.HmlrsJDD4zkLXZgF"
+  - name: Kabalite Armour
+    type: armour
+    _id: 1DA7wVgWGLX6neDi
+    img: modules/wng-core/assets/icons/armour/armour.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: ""
+      value: 0
+      keywords: ""
+      equipped: true
+      rating: 4
+      base: 0
+      traits: []
+      invulnerable: false
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!lUWLpB7VdI8YqULx.1DA7wVgWGLX6neDi"
+  - name: Stinger Pistol
+    type: weapon
+    _id: ZUBNM5QfEsb3Z58i
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: ""
+      value: 0
+      keywords: ""
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 5
+        bonus: 0
+        rank: none
+      ed:
+        base: 4
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 6
+        medium: 12
+        long: 18
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: 1
+      traits:
+        - name: pistol
+        - name: fleshbane
+          custom: true
+          display: Fleshbane
+        - name: inflict
+          custom: true
+          display: Inflict (Poisoned 7)
+        - name: tearing
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!lUWLpB7VdI8YqULx.ZUBNM5QfEsb3Z58i"
+  - name: Many Blades
+    type: weapon
+    _id: G1PVJ1VVBV1UpVLF
+    img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: ""
+      value: 0
+      keywords: ""
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 6
+        bonus: 0
+        rank: none
+      ed:
+        base: 2
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      category: melee
+      range:
+        short: 0
+        medium: 0
+        long: 0
+        melee: 1
+        thrown: null
+      ammo: ""
+      salvo: 0
+      traits: []
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!lUWLpB7VdI8YqULx.G1PVJ1VVBV1UpVLF"
+  - name: Torment Grenade
+    type: weapon
+    _id: yY9ohH9MZDgf2XIW
+    img: modules/wng-core/assets/icons/weapons/grenade.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: <p>1 grenade. Thrown 12m.</p>
+      value: 0
+      keywords: ""
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 4
+        bonus: 0
+        rank: none
+      ed:
+        base: 5
+        bonus: 0
+        rank: none
+      ap:
+        base: -1
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 0
+        medium: 0
+        long: 0
+        melee: 0
+        thrown: 12
+      ammo: ""
+      salvo: 0
+      traits:
+        - name: fleshbane
+          custom: true
+          display: Fleshbane
+        - name: gas
+          custom: true
+          display: Gas
+        - name: blast
+          rating: 8
+        - name: mortal
+          custom: true
+          display: Mortal (1)
+        - name: inflict
+          custom: true
+          display: Inflict (Poisoned 5)
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!lUWLpB7VdI8YqULx.yY9ohH9MZDgf2XIW"
+  - name: Blade Artist
+    type: talent
+    _id: nHtzVbYKLvgnxx99
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: "<p>Blade Artist: when this Drukhari makes a melee attack, increase the weapon’s AP by 1 (e.g. −1 to −2) if they shift one or more Icons on the attack. Stacks with Rending. See page 6.</p>"
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!lUWLpB7VdI8YqULx.nHtzVbYKLvgnxx99"
+  - name: Bio-Explosive Serum
+    type: talent
+    _id: np3vIaLFbb6DM5BT
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>A character Poisoned by a Stinger is also Staggered and suffers 1d3 Mortal Wounds at the start of each of their turns. If slain by this damage, they explode with Blast (6), inflicting 10 +6ED to anyone within; the victim’s allies within 15m must attempt a Terror test (DN 7).</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!lUWLpB7VdI8YqULx.np3vIaLFbb6DM5BT"
+  - name: Champion
+    type: talent
+    _id: a9AHjKZcsjnuogbs
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>This Threat may use Ruin Actions and has 1 Personal Ruin.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!lUWLpB7VdI8YqULx.a9AHjKZcsjnuogbs"
+  - name: Power Through Pain
+    type: talent
+    _id: 2wKRj2OXF9n8msje
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: "<p><strong>Power Through Pain.</strong> <em>Harvesting Pain:</em> each time a DRUKHARI Threat or Mob kills an enemy, or causes one to become Wounded, Exhausted, Pinned, or to suffer the Fear or Terror condition, gain 1 Pain Token — a general pool usable by any DRUKHARI Threat or Mob in the scene (never gained from unliving enemies).</p><p><em>Spending Pain Tokens:</em> <strong>Tormentor’s Fury</strong> (on a charge, 1 token: +Tier Speed and +Tier dice to the attack); <strong>Tormentor’s Majesty</strong> (Intimidation Interaction Attack, 1 token: +Tier dice and inflict Fear); <strong>Tormentor’s Might</strong> (melee attack, 1 token: +Tier Strength, increasing melee damage); <strong>Tormentor’s Supremacy</strong> (Determination, 1 token: +Tier dice, and wounds negated are ignored rather than converted to Shock); <strong>Tormentor’s Vigour</strong> (start of turn, 1 token: recover 1d3+Tier Wounds and all Shock); <strong>Tormentor’s Will</strong> (Resolve or Conviction Test, 1 token: automatically succeed). See page 7.</p>"
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!lUWLpB7VdI8YqULx.2wKRj2OXF9n8msje"
+  - name: "Wrath: Never Stationary"
+    type: ability
+    _id: YoaROKBsirZ3boKt
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ""
+      specification: ""
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>If this Threat rolls a Wrath Critical on any Test, it may move up to double its Speed after the Test resolves.</p>
+      display: true
+      abilityType: wrath
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ""
+        wounds: ""
+        shock: ""
+      test:
+        dn: null
+        type: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!lUWLpB7VdI8YqULx.YoaROKBsirZ3boKt"
+  - name: "Ruin: Cruel Deception"
+    type: ability
+    _id: 8DIqkap6YEc2i3fA
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ""
+      specification: ""
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>Spend 1 Ruin to allow the Threat to Fall Back and move up to its Speed as a Ruin Action.</p>
+      display: true
+      abilityType: ruin
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ""
+        wounds: ""
+        shock: ""
+      test:
+        dn: null
+        type: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!lUWLpB7VdI8YqULx.8DIqkap6YEc2i3fA"
+  - name: Determination
+    type: ability
+    _id: QYdgPB9c1mql1YJV
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ""
+      specification: ""
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>Spend 1 Ruin to roll 3d6.</p>
+      display: true
+      abilityType: determination
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ""
+        wounds: ""
+        shock: ""
+      test:
+        dn: null
+        type: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!lUWLpB7VdI8YqULx.QYdgPB9c1mql1YJV"
+effects: []
+sort: 0
+ownership:
+  default: 0
+flags:
+  wrath-and-glory:
+    autoCalc:
+      defence: true
+      resilience: true
+      shock: true
+      awareness: true
+      resolve: true
+      determination: true
+      wounds: true
+      conviction: true
+    autoWounded: true
+    autoExhausted: true
+    generateMetaCurrencies: true
+_key: "!actors!lUWLpB7VdI8YqULx"

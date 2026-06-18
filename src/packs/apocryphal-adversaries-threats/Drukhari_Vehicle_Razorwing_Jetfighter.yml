@@ -1,0 +1,466 @@
+folder: grjE9QFUbAbyako0
+name: Razorwing Jetfighter
+type: vehicle
+_id: uqIm3LzHgKADdb0X
+img: icons/svg/target.svg
+system:
+  complement:
+    pilot: 1
+    crew: 0
+    passenger: 0
+    list: []
+  mnvr: 8
+  rarity: veryRare
+  value: 0
+  traits:
+    list:
+      - name: flyer
+        rating: ""
+        type: ""
+        custom: "true"
+        display: Flyer
+        description: ""
+      - name: gyrostabilised
+        rating: ""
+        type: ""
+        custom: "true"
+        display: Gyro-Stabilised
+        description: ""
+      - name: hover
+        rating: ""
+        type: ""
+        custom: "true"
+        display: Hover
+        description: ""
+      - name: sealed
+        rating: ""
+        type: ""
+        custom: "true"
+        display: Sealed
+        description: ""
+      - name: turboboost20
+        rating: ""
+        type: ""
+        custom: "true"
+        display: Turbo-Boost (20)
+        description: ""
+  combat:
+    defence:
+      bonus: 0
+    resilience:
+      bonus: 0
+      total: 13
+    wounds:
+      value: 0
+      bonus: 0
+      max: 12
+    size: huge
+    speed: 120
+    fly: 0
+  notes: <p>Razorwing Jetfighter — a Drukhari fighter craft flown by former Reaver elite. May exchange its Dark Lances for Disintegrator Cannons (profile not given in the supplement), its Splinter Rifles for a single Splinter Cannon, and any Monoscythe missiles for Necrotoxin or Shatterfield missiles.</p>
+  settings:
+    hidePassengers: false
+prototypeToken:
+  name: Razorwing Jetfighter
+  displayName: 20
+  actorLink: false
+  appendNumber: false
+  prependAdjective: false
+  texture:
+    src: icons/svg/target.svg
+    scaleX: 3
+    scaleY: 3
+    offsetX: 0
+    offsetY: 0
+    rotation: 0
+  width: 3
+  height: 3
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  disposition: -1
+  displayBars: 20
+  bar1:
+    attribute: combat.wounds
+  bar2:
+    attribute: ""
+  sight:
+    enabled: false
+    range: 0
+    angle: 360
+    visionMode: basic
+  detectionModes: []
+  flags: {}
+  randomImg: false
+items:
+  - name: AELDARI
+    type: keyword
+    _id: SIdcei899kXSkSo3
+    img: icons/svg/target.svg
+    system:
+      description: <p>A vehicle of the ancient Aeldari race.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!uqIm3LzHgKADdb0X.SIdcei899kXSkSo3"
+  - name: DRUKHARI
+    type: keyword
+    _id: 1Ldze2iHQ12O1EYr
+    img: icons/svg/target.svg
+    system:
+      description: <p>A vehicle of the Drukhari of Commorragh.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!uqIm3LzHgKADdb0X.1Ldze2iHQ12O1EYr"
+  - name: FLYER
+    type: keyword
+    _id: ARmNssCxkFNkODfO
+    img: icons/svg/target.svg
+    system:
+      description: <p>An aircraft / flying vehicle.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!uqIm3LzHgKADdb0X.ARmNssCxkFNkODfO"
+  - name: Splinter Rifle
+    type: weapon
+    _id: 6xc5QdR4lGhYCxSP
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 2
+      rarity: rare
+      description: ""
+      value: 0
+      keywords: ""
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 5
+        bonus: 0
+        rank: none
+      ed:
+        base: 2
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 12
+        medium: 24
+        long: 36
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: 2
+      traits:
+        - name: fleshbane
+          custom: true
+          display: Fleshbane
+        - name: rapidFire
+          rating: 2
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!uqIm3LzHgKADdb0X.6xc5QdR4lGhYCxSP"
+  - name: Dark Lance
+    type: weapon
+    _id: MnSs9gE9Qr9J32Vk
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 2
+      rarity: rare
+      description: ""
+      value: 0
+      keywords: ""
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 16
+        bonus: 0
+        rank: none
+      ed:
+        base: 4
+        bonus: 0
+        rank: none
+      ap:
+        base: -4
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 18
+        medium: 36
+        long: 54
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: 1
+      traits:
+        - name: brutal
+        - name: heavy
+          rating: 4
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!uqIm3LzHgKADdb0X.MnSs9gE9Qr9J32Vk"
+  - name: Monoscythe Missile
+    type: weapon
+    _id: Fe4KRmpcJr4OG5QC
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 4
+      rarity: rare
+      description: "<p>Salvo —. Special: an attacker may make Called Shots, adding +1 ED for each +1 to the DN, to a max of +3 ED for +3 DN.</p>"
+      value: 0
+      keywords: ""
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 13
+        bonus: 0
+        rank: none
+      ed:
+        base: 5
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 24
+        medium: 48
+        long: 72
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: null
+      traits:
+        - name: blast
+          rating: 10
+        - name: mounted
+          custom: true
+          display: Mounted (Huge)
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!uqIm3LzHgKADdb0X.Fe4KRmpcJr4OG5QC"
+  - name: Splinter Cannon
+    type: weapon
+    _id: X4ReLNFpOjOFH0Yy
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: rare
+      description: "<p>Option: replaces the Splinter Rifles.</p>"
+      value: 0
+      keywords: ""
+      equipped: false
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 5
+        bonus: 0
+        rank: none
+      ed:
+        base: 3
+        bonus: 0
+        rank: none
+      ap:
+        base: -1
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 18
+        medium: 36
+        long: 54
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: 6
+      traits:
+        - name: heavy
+          rating: 4
+        - name: fleshbane
+          custom: true
+          display: Fleshbane
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!uqIm3LzHgKADdb0X.X4ReLNFpOjOFH0Yy"
+  - name: Necrotoxin Missile
+    type: weapon
+    _id: KwonaJKZpsBdh6DC
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: rare
+      description: <p>Salvo —. Missile option.</p>
+      value: 0
+      keywords: ""
+      equipped: false
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 5
+        bonus: 0
+        rank: none
+      ed:
+        base: 8
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 24
+        medium: 48
+        long: 72
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: null
+      traits:
+        - name: blast
+          rating: 12
+        - name: fleshbane
+          custom: true
+          display: Fleshbane
+        - name: inflict
+          custom: true
+          display: Inflict (Pinning)
+        - name: mounted
+          custom: true
+          display: Mounted (Huge)
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!uqIm3LzHgKADdb0X.KwonaJKZpsBdh6DC"
+  - name: Shatterfield Missile
+    type: weapon
+    _id: 8sOVrBOVZqgu3GET
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: rare
+      description: <p>Salvo —. Missile option.</p>
+      value: 0
+      keywords: ""
+      equipped: false
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 15
+        bonus: 0
+        rank: none
+      ed:
+        base: 6
+        bonus: 0
+        rank: none
+      ap:
+        base: -2
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 24
+        medium: 48
+        long: 72
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: null
+      traits:
+        - name: blast
+          rating: 6
+        - name: inflict
+          custom: true
+          display: Inflict (Staggered)
+        - name: mounted
+          custom: true
+          display: Mounted (Huge)
+        - name: tearing
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!uqIm3LzHgKADdb0X.8sOVrBOVZqgu3GET"
+  - name: Night Shield
+    type: gear
+    _id: YYDs77bNz9VIpy4p
+    img: modules/wng-core/assets/icons/gear/gear.webp
+    system:
+      quantity: 1
+      rarity: rare
+      description: <p>A field of shadow that shortens the range bands of attacks made against the vehicle.</p>
+      value: 0
+      keywords: ""
+      effect: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!uqIm3LzHgKADdb0X.YYDs77bNz9VIpy4p"
+effects: []
+sort: 0
+ownership:
+  default: 0
+flags: {}
+_key: "!actors!uqIm3LzHgKADdb0X"
