@@ -1,0 +1,17 @@
+name: Hulking Physique
+type: talent
+_id: vsyYWYbWmHwJgNVS
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: ZfO4YNgvu4T8p4lG
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>The Adversary’s Maximum Wounds are increased by +Tier. The maximum Wounds the Adversary can lose to a single attack equals the total Icons rolled on the attack’s ED. If Average, its Size becomes Large.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!vsyYWYbWmHwJgNVS"

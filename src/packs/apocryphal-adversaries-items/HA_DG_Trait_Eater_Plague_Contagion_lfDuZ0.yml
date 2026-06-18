@@ -1,0 +1,17 @@
+name: Eater Plague [Contagion]
+type: talent
+_id: lfDuZ02aWw8ckVhQ
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: ZfO4YNgvu4T8p4lG
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>Each time a DEATH GUARD Threat attacks an enemy within Contagion Range, the attack inflicts a minimum of 1 Wound for each Exalted Icon rolled.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!lfDuZ02aWw8ckVhQ"

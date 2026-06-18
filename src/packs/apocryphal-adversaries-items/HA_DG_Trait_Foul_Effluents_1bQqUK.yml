@@ -1,0 +1,17 @@
+name: Foul Effluents
+type: talent
+_id: 1bQqUKLMGG0KQAFR
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: ZfO4YNgvu4T8p4lG
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: "<p>Any enemy who begins their turn within 7m of the Adversary must roll 1d6: on a 4-6, that enemy suffers one Mortal Wound.</p>"
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!1bQqUKLMGG0KQAFR"

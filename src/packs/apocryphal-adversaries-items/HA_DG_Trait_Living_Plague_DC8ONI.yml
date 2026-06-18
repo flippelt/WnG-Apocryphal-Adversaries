@@ -1,0 +1,17 @@
+name: Living Plague
+type: talent
+_id: DC8ONIsCz11vOI6x
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: ZfO4YNgvu4T8p4lG
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: <p>Enemies within 3m of the Adversary cannot benefit from any bonuses granted to them by other characters, other than psychic powers.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!DC8ONIsCz11vOI6x"

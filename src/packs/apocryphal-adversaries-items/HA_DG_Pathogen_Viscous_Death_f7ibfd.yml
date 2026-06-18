@@ -1,0 +1,17 @@
+name: Viscous Death
+type: talent
+_id: f7ibfdywjD1WaoNu
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: PZdgV88Y8dGl6hGt
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: "<p>If the weapon has Blast (X), increase the Blast rating by +2. If it has Flamer, count the wielder’s Ballistic Skill as 2 higher.</p><p><em>A Deadly Pathogen upgrades a single Plague Weapon (not a Relic of Decay or grenade): increase its damage by +1ED and apply this effect.</em></p>"
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!f7ibfdywjD1WaoNu"

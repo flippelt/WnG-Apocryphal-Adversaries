@@ -1,0 +1,47 @@
+name: Curse of the Leper
+type: psychicPower
+_id: f6LCVjbjAX8rMxm3
+img: modules/wng-core/assets/icons/powers/power.webp
+folder: FNFrMBmsnEnDKY8P
+sort: 0
+system:
+  dn: Target's Toughness
+  type: ""
+  specification: ""
+  description: "<p>Targets the nearest enemy within range and line of sight. Roll seven d6: for each Icon, the target suffers 1 Shock and is Staggered. <em>Potency:</em> [1] +1 Shock per Icon. [2] If a target becomes Exhausted, they suffer 1d3 Mortal Wounds immediately.</p>"
+  effect: ""
+  cost: 0
+  activation: Action
+  duration: 1 Round
+  range: 18m
+  multiTarget: true
+  keywords: CHAOS, NURGLE, PSYCHIC
+  prerequisites: Psyker must have the HERETIC ASTARTES and NURGLE keywords.
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 0
+      five: 0
+      six: 0
+  otherDamage:
+    mortalWounds: ""
+    wounds: ""
+    shock: ""
+  potency: []
+  test:
+    dn: null
+    type: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!f6LCVjbjAX8rMxm3"

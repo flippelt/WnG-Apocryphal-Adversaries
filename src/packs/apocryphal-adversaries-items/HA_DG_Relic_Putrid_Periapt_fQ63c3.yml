@@ -1,0 +1,19 @@
+name: Putrid Periapt
+type: gear
+_id: fQ63c3aOCXJ4gmYE
+img: modules/wng-core/assets/icons/gear/gear.webp
+folder: FdbVd4tQgWD4UhGI
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p><em>DEATH GUARD PSYKER only.</em> The bearer knows one additional Contagion power. When activating a Contagion power, up to one Exalted Icon may be shifted to heal Wounds equal to the game’s Tier.</p>
+  value: 0
+  keywords: ""
+  equipped: false
+  traits: []
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!fQ63c3aOCXJ4gmYE"

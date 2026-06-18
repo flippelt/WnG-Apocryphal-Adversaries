@@ -1,0 +1,19 @@
+name: Leechspore Casket
+type: gear
+_id: pW2jXHVx34pPvPS2
+img: modules/wng-core/assets/icons/gear/gear.webp
+folder: FdbVd4tQgWD4UhGI
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p>Each time the bearer kills an enemy with a melee attack, a friendly DEATH GUARD vehicle (DREADNOUGHT or DAEMON ENGINE) within 18m recovers Wounds equal to the game’s Tier.</p>
+  value: 0
+  keywords: ""
+  equipped: false
+  traits: []
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!pW2jXHVx34pPvPS2"

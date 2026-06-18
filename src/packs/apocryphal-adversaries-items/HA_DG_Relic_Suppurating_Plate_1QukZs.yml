@@ -1,0 +1,19 @@
+name: Suppurating Plate
+type: gear
+_id: 1QukZs4iNBLYarBe
+img: modules/wng-core/assets/icons/gear/gear.webp
+folder: FdbVd4tQgWD4UhGI
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: "<p><em>Not for TERMINATOR Adversaries.</em> The bearer’s AR is increased to 7. Each time the bearer is damaged by a melee attack, roll d6s equal to the attack’s ED: inflict 1 Mortal Wound per Icon rolled to the attacker.</p>"
+  value: 0
+  keywords: ""
+  equipped: false
+  traits: []
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!1QukZs4iNBLYarBe"

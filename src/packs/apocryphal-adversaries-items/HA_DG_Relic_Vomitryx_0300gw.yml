@@ -1,0 +1,50 @@
+name: Vomitryx
+type: weapon
+_id: 0300gwdDxXC7ORIg
+img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+folder: FdbVd4tQgWD4UhGI
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p>Replaces a Plague Sprayer. A microscopic warp-portal into Ku’gath’s guts spews corrosive bile.</p>
+  value: 0
+  keywords: ""
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 14
+    bonus: 0
+    rank: none
+  ed:
+    base: 3
+    bonus: 0
+    rank: none
+  ap:
+    base: -3
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 7
+    medium: 14
+    long: 21
+    melee: 0
+    thrown: null
+  ammo: ""
+  salvo: 0
+  traits:
+    - name: assault
+    - name: flamer
+    - name: inflict
+      custom: true
+      display: Inflict (Poisoned 7)
+  upgrades: []
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!0300gwdDxXC7ORIg"

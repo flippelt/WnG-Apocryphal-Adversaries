@@ -1,0 +1,17 @@
+name: Virulent Fever
+type: talent
+_id: xN21pUiX34VAhXSY
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: PZdgV88Y8dGl6hGt
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: "<p>The weapon gains the Mortal (1) quality.</p><p><em>A Deadly Pathogen upgrades a single Plague Weapon (not a Relic of Decay or grenade): increase its damage by +1ED and apply this effect.</em></p>"
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!xN21pUiX34VAhXSY"

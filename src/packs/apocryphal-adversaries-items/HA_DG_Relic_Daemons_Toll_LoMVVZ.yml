@@ -1,0 +1,19 @@
+name: Daemon's Toll
+type: gear
+_id: LoMVVZUZv3z9TAw1
+img: modules/wng-core/assets/icons/gear/gear.webp
+folder: FdbVd4tQgWD4UhGI
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p><em>Noxious Blightbringer only.</em> When the Adversary makes an Intimidation Interaction Attack against an enemy, two shifts may be spent to inflict the Restrained condition.</p>
+  value: 0
+  keywords: ""
+  equipped: false
+  traits: []
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!LoMVVZUZv3z9TAw1"

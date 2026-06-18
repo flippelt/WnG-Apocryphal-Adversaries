@@ -1,0 +1,17 @@
+name: Shamblerot [Contagion]
+type: talent
+_id: GTxldBs9NtiMHWBX
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: ZfO4YNgvu4T8p4lG
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: ""
+  description: "<p>Any creature within Contagion Range at the start of their turn rolls 1d6: an Icon = 1 Mortal Wound; an Exalted Icon = 1d3 Mortal Wounds.</p>"
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!GTxldBs9NtiMHWBX"

@@ -1,0 +1,19 @@
+name: Revolting Stench-Vats
+type: gear
+_id: g3UA4nmwiMGRUrOR
+img: modules/wng-core/assets/icons/gear/gear.webp
+folder: FdbVd4tQgWD4UhGI
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p><em>Foul Blightspawn only.</em> Enemies within 7m of the bearer cannot Keep the Initiative and gain no benefits from Charging.</p>
+  value: 0
+  keywords: ""
+  equipped: false
+  traits: []
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!g3UA4nmwiMGRUrOR"

@@ -1,0 +1,19 @@
+name: Ironclot Furnace
+type: gear
+_id: OE8CgVziHldodz0l
+img: modules/wng-core/assets/icons/gear/gear.webp
+folder: FdbVd4tQgWD4UhGI
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p>As a simple action, select a DEATH GUARD DAEMON ENGINE within 7m. Until the start of your next turn, that engine’s Armour Rating is Invulnerable and cannot be modified by an attack’s AP.</p>
+  value: 0
+  keywords: ""
+  equipped: false
+  traits: []
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!OE8CgVziHldodz0l"
