@@ -1,0 +1,19 @@
+name: Helm of Brazen Ire
+type: gear
+_id: T22r0vnVffH06vsy
+img: modules/wng-core/assets/icons/gear/gear.webp
+folder: vjyef2nTb77M5Wpf
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p>Forged from unbreakable brass of the Blood God’s throne. Each time an attack is made against the bearer, re-roll any ED which roll a 6; the second result stands.</p>
+  value: 0
+  keywords: ""
+  equipped: false
+  traits: []
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!T22r0vnVffH06vsy"

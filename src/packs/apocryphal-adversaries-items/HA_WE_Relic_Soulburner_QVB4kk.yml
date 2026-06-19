@@ -1,0 +1,47 @@
+name: Soulburner
+type: weapon
+_id: QVB4kkSJEwYeEDjg
+img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+folder: vjyef2nTb77M5Wpf
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p><em>Replaces an Infernal Cannon.</em> Draws its unnatural ammunition from the boiling blood at the base of Khorne’s throne. 14 +3ED / AP -2 / Range 6-12-18 / Salvo 3 / Assault, Flamer.</p>
+  value: 0
+  keywords: ""
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 14
+    bonus: 0
+    rank: none
+  ed:
+    base: 3
+    bonus: 0
+    rank: none
+  ap:
+    base: -2
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 6
+    medium: 12
+    long: 18
+    melee: 0
+    thrown: null
+  ammo: ""
+  salvo: 3
+  traits:
+    - name: assault
+    - name: flamer
+  upgrades: []
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!QVB4kkSJEwYeEDjg"

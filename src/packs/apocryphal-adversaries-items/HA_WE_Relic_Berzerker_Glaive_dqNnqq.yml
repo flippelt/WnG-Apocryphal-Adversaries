@@ -1,0 +1,47 @@
+name: Berzerker Glaive
+type: weapon
+_id: dqNnqqD4wlf3WVPP
+img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+folder: vjyef2nTb77M5Wpf
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p><em>Replaces a Chainaxe, Power Axe, or Axe of Dismemberment.</em> A daemon-infested weapon that drives its bearer to apoplectic frenzy. (S) +6 +5ED / AP -3 / Range 2 [M] / Brutal, Sustained.</p>
+  value: 0
+  keywords: ""
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 6
+    bonus: 0
+    rank: none
+  ed:
+    base: 5
+    bonus: 0
+    rank: none
+  ap:
+    base: -3
+    bonus: 0
+    rank: none
+  category: melee
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 1
+    thrown: null
+  ammo: ""
+  salvo: 0
+  traits:
+    - name: brutal
+    - name: sustained
+  upgrades: []
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!dqNnqqD4wlf3WVPP"

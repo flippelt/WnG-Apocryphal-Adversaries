@@ -1,0 +1,17 @@
+name: Favoured of Khorne
+type: talent
+_id: mpViMUtuN7xHjYlx
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: 2oSECbNUHW61a1yY
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: WORLD EATERS Adversary only.
+  description: <p>The Adversary adds 1 Blood Tithe point on each turn.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!mpViMUtuN7xHjYlx"
