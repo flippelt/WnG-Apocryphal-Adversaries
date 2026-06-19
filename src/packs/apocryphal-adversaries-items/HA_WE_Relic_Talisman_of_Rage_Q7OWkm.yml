@@ -1,0 +1,19 @@
+name: Talisman of Rage
+type: gear
+_id: Q7OWkmhykUNuwdv1
+img: modules/wng-core/assets/icons/gear/gear.webp
+folder: vjyef2nTb77M5Wpf
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p>As a Free Action at the start of the bearer’s turn, select a number of WORLD EATERS Threats equal to the game’s Tier within 9m. Until the start of the bearer’s next turn, each time an affected Threat inflicts damage with a melee attack, each Exalted Icon shifted adds +2ED instead of 1.</p>
+  value: 0
+  keywords: ""
+  equipped: false
+  traits: []
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!Q7OWkmhykUNuwdv1"

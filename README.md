@@ -140,9 +140,14 @@ Converted faction by faction from the source PDFs. See
   Exalted Sorcerer, Infernal Master, **Ahriman** and the Daemon Primarch
   **Magnus the Red** — plus 68 items (the Discipline of Change, the Discipline of
   Vengeance, the Cult Psychic Powers, Adversary Traits and Sorcerous Arcana).
-  World Eaters → `1.0.0` ships next.
-- ⏳ **To do:** the final Heretic Astartes cult legion (World Eaters), then
-  the WIP Adeptus Astartes once it is finalised.
+- ✅ **— World Eaters (Khorne) cult legion done (v1.0.0):** 8 actors — Khorne
+  Berzerkers, Jakhals, the Eightbound and Exalted Eightbound, the Juggernaut of
+  Khorne, Lord Invocatus, **Khârn the Betrayer** and the Daemon Primarch
+  **Angron** — plus 9 items (the Blood Tithe / Mark of Khorne Adversary Traits and
+  the Gore-Caked Relics). **This completes the Heretic Astartes faction and every
+  supplement in the series.**
+- 🎉 **v1.0.0 — all ten factions complete.** Only the WIP Adeptus Astartes
+  supplement remains, to be added once it is finalised.
 
 **Versioning:** new factions get a **minor** bump (`0.8.0`, `0.9.0`, …); updates
 to an already-published faction (tracking a newer source revision) get a **patch**

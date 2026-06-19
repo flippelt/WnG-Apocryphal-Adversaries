@@ -1,0 +1,17 @@
+name: Battle Lust
+type: talent
+_id: nhFtOuIUQwbMaMfS
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: 2oSECbNUHW61a1yY
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: WORLD EATERS Adversary only.
+  description: <p>This trait grants the following ability. <strong>REACTION:</strong> When an enemy finishes a Charge action within 6m, the Adversary may take a Charge action against that enemy as a Reflexive Action.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!nhFtOuIUQwbMaMfS"
