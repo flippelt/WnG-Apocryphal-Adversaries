@@ -1,0 +1,17 @@
+name: Lord of Forbidden Lore
+type: talent
+_id: 5tdTLvqZ5yUxfdwB
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: X86LWrl0ItZv5CWY
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: THOUSAND SONS Adversary only.
+  description: <p>This Adversary knows additional Psychic Powers equal to the game’s Tier. In the case of Magnus the Red, he knows all powers from his known psychic disciplines.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!5tdTLvqZ5yUxfdwB"

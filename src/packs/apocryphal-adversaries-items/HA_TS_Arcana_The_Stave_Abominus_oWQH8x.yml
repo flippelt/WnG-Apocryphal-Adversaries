@@ -1,0 +1,48 @@
+name: The Stave Abominus
+type: weapon
+_id: oWQH8xVjxLRgFiVE
+img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+folder: saQHWYxGc1SXQ2AU
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p><em>Adversary equipped with a Force Staff only; replaces it.</em> A runically imprisoned warp rift; every blow lets tentacular horrors lash out. (S) +4 +2ED / AP -1 / Range 2 [M] / Brutal, Force, Reaping.</p>
+  value: 0
+  keywords: ""
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 4
+    bonus: 0
+    rank: none
+  ed:
+    base: 2
+    bonus: 0
+    rank: none
+  ap:
+    base: -1
+    bonus: 0
+    rank: none
+  category: melee
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 1
+    thrown: null
+  ammo: ""
+  salvo: 0
+  traits:
+    - name: brutal
+    - name: force
+    - name: reaping
+  upgrades: []
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!oWQH8xVjxLRgFiVE"

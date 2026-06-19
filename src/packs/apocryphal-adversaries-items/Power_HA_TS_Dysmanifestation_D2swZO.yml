@@ -1,0 +1,47 @@
+name: Dysmanifestation
+type: psychicPower
+_id: D2swZO5ikqgBOVu7
+img: modules/wng-core/assets/icons/powers/power.webp
+folder: KRpt4qMzVOwmRqKC
+sort: 0
+system:
+  dn: "5"
+  type: ""
+  specification: ""
+  description: <p>Select a visible enemy within range; until the start of the psyker’s next turn, the enemy is Hindered (2). <em>Potency:</em> [1] The Hindered condition increases by +1. *[2] The enemy must pass a DN 3 Fear test.</p>
+  effect: ""
+  cost: 0
+  activation: Action
+  duration: 1 Round
+  range: 18m
+  multiTarget: true
+  keywords: CHAOS, TZEENTCH, PSYCHIC
+  prerequisites: Psyker must have the CHAOS and TZEENTCH keywords.
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 0
+      five: 0
+      six: 0
+  otherDamage:
+    mortalWounds: ""
+    wounds: ""
+    shock: ""
+  potency: []
+  test:
+    dn: null
+    type: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!D2swZO5ikqgBOVu7"

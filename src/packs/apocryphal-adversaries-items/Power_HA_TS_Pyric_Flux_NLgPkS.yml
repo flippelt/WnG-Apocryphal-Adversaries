@@ -1,0 +1,47 @@
+name: Pyric Flux
+type: psychicPower
+_id: NLgPkSItm1iGs3YE
+img: modules/wng-core/assets/icons/powers/power.webp
+folder: 2j4UgYad04b3TxRM
+sort: 0
+system:
+  dn: "4"
+  type: ""
+  specification: ""
+  description: <p>You become a font of unholy warpflame. Until the start of your next turn, all TZEENTCH FIRE weapons within range gain +2ED. <em>Potency:</em> [1] Affected weapons gain an additional +1ED.</p>
+  effect: ""
+  cost: 0
+  activation: Action
+  duration: Instant
+  range: 12m
+  multiTarget: false
+  keywords: CHAOS, TZEENTCH, PSYCHIC, FIRE
+  prerequisites: Psyker must have the CHAOS and TZEENTCH keywords.
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 0
+      five: 0
+      six: 0
+  otherDamage:
+    mortalWounds: ""
+    wounds: ""
+    shock: ""
+  potency: []
+  test:
+    dn: null
+    type: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!NLgPkSItm1iGs3YE"

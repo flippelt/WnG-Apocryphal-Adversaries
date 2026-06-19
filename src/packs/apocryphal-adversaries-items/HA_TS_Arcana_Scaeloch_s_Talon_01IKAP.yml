@@ -1,0 +1,51 @@
+name: Scaeloch’s Talon
+type: weapon
+_id: 01IKAPg5HKmI08R1
+img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+folder: saQHWYxGc1SXQ2AU
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p><em>Adversary equipped with a Force Staff only; replaces it.</em> The slightest touch triggers rampant mutation. (S) +8 +6ED / AP — / Range 2 [M] / Brutal, Corrupting, Force, Mortal (1d3).</p>
+  value: 0
+  keywords: ""
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 8
+    bonus: 0
+    rank: none
+  ed:
+    base: 6
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  category: melee
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 1
+    thrown: null
+  ammo: ""
+  salvo: 0
+  traits:
+    - name: brutal
+    - name: corrupting
+    - name: force
+    - name: mortal
+      custom: true
+      display: Mortal (1d3)
+  upgrades: []
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!01IKAPg5HKmI08R1"

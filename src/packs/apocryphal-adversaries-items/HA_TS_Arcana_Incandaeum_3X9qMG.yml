@@ -1,0 +1,50 @@
+name: Incandaeum
+type: weapon
+_id: 3X9qMGA0FNHMy92h
+img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+folder: saQHWYxGc1SXQ2AU
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p><em>Adversary equipped with a Force Staff only; replaces it.</em> Used for both melee and shooting. <strong>Melee:</strong> (S) +4 +4ED / AP -1 / Range 2 [M] / Brutal, Force, Inflict (On Fire). <strong>Shooting:</strong> 10 +2ED / AP -2 / Range 6-12-18 / Salvo 2 / Assault, Flamer, Force.</p>
+  value: 0
+  keywords: ""
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 4
+    bonus: 0
+    rank: none
+  ed:
+    base: 4
+    bonus: 0
+    rank: none
+  ap:
+    base: -1
+    bonus: 0
+    rank: none
+  category: melee
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 1
+    thrown: null
+  ammo: ""
+  salvo: 0
+  traits:
+    - name: brutal
+    - name: force
+    - name: inflict
+      custom: true
+      display: Inflict (On Fire)
+  upgrades: []
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!3X9qMGA0FNHMy92h"

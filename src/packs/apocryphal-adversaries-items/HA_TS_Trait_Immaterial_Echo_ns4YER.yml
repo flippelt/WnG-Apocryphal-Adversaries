@@ -1,0 +1,17 @@
+name: Immaterial Echo
+type: talent
+_id: ns4YERktEzl5VsNH
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: X86LWrl0ItZv5CWY
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: THOUSAND SONS Adversary only.
+  description: <p>When this Adversary activates a psychic power and rolls one or more 6s on their Wrath dice, he may attempt to activate another psychic power immediately.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!ns4YERktEzl5VsNH"

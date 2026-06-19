@@ -1,0 +1,19 @@
+name: Thrydderghyre
+type: gear
+_id: Z4c4ON784xbpQaso
+img: modules/wng-core/assets/icons/gear/gear.webp
+folder: saQHWYxGc1SXQ2AU
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p><em>Adversary mounted upon a Disc of Tzeentch only.</em> The Adversary may Fall Back as a Free Action at the start of his turn. In addition, each time the Adversary makes a melee attack, they may move up to 6m after it resolves.</p>
+  value: 0
+  keywords: ""
+  equipped: false
+  traits: []
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!Z4c4ON784xbpQaso"

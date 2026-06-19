@@ -1,0 +1,17 @@
+name: Beguiling Influence
+type: talent
+_id: qedoxrMcY2MvYUYa
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: X86LWrl0ItZv5CWY
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: THOUSAND SONS Adversary only.
+  description: <p>Enemies may not re-roll any dice on an attack or damage roll against this Adversary.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!qedoxrMcY2MvYUYa"

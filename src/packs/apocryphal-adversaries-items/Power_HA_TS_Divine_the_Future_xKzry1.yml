@@ -1,0 +1,47 @@
+name: Divine the Future
+type: psychicPower
+_id: xKzry1StcM4YiCPE
+img: modules/wng-core/assets/icons/powers/power.webp
+folder: KRpt4qMzVOwmRqKC
+sort: 0
+system:
+  dn: "5"
+  type: ""
+  specification: ""
+  description: <p>Roll a number of dice equal to the game’s Tier and set them aside. Until the start of the psyker’s next turn, use the set-aside dice to replace dice rolled for a single test, damage roll or Determination roll made by any CHAOS ally present. <em>Potency:</em> [1] Roll 1 additional dice.</p>
+  effect: ""
+  cost: 0
+  activation: Action
+  duration: 1 Round
+  range: Self
+  multiTarget: false
+  keywords: CHAOS, TZEENTCH, PSYCHIC
+  prerequisites: Psyker must have the CHAOS and TZEENTCH keywords.
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 0
+      five: 0
+      six: 0
+  otherDamage:
+    mortalWounds: ""
+    wounds: ""
+    shock: ""
+  potency: []
+  test:
+    dn: null
+    type: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!xKzry1StcM4YiCPE"

@@ -1,0 +1,19 @@
+name: Exalted Mutation
+type: gear
+_id: Brp2XUdVbszP79Im
+img: modules/wng-core/assets/icons/gear/gear.webp
+folder: saQHWYxGc1SXQ2AU
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p><em>THOUSAND SONS PSYKER only.</em> The Adversary’s Strength and Toughness are both increased by +2 (increasing melee damage, Resilience, Wounds and Determination accordingly).</p>
+  value: 0
+  keywords: ""
+  equipped: false
+  traits: []
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!Brp2XUdVbszP79Im"

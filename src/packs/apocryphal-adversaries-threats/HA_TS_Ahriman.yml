@@ -1,0 +1,874 @@
+folder: HAThousandSons1
+name: Ahriman
+type: threat
+_id: TOpbyleZsyx8isq0
+img: icons/environment/people/charge.webp
+system:
+  attributes:
+    strength:
+      label: ATTRIBUTE.STRENGTH
+      rating: 0
+      base: 10
+      bonus: 0
+      cost: 0
+      total: 0
+    toughness:
+      label: ATTRIBUTE.TOUGHNESS
+      rating: 0
+      base: 8
+      bonus: 0
+      cost: 0
+      total: 0
+    agility:
+      label: ATTRIBUTE.AGILITY
+      rating: 0
+      base: 8
+      bonus: 0
+      cost: 0
+      total: 0
+    initiative:
+      label: ATTRIBUTE.INITIATIVE
+      rating: 0
+      base: 8
+      bonus: 0
+      cost: 0
+      total: 0
+    willpower:
+      label: ATTRIBUTE.WILLPOWER
+      rating: 0
+      base: 9
+      bonus: 0
+      cost: 0
+      total: 0
+    intellect:
+      label: ATTRIBUTE.INTELLECT
+      rating: 0
+      base: 9
+      bonus: 0
+      cost: 0
+      total: 0
+    fellowship:
+      label: ATTRIBUTE.FELLOWSHIP
+      rating: 0
+      base: 6
+      bonus: 0
+      cost: 0
+      total: 0
+  skills:
+    athletics:
+      label: SKILL.ATHLETICS
+      attribute: strength
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    awareness:
+      label: SKILL.AWARENESS
+      attribute: intellect
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    ballisticSkill:
+      label: SKILL.BALLISTIC_SKILL
+      attribute: agility
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    cunning:
+      label: SKILL.CUNNING
+      attribute: fellowship
+      rating: 1
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    deception:
+      label: SKILL.DECEPTION
+      attribute: fellowship
+      rating: 1
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    insight:
+      label: SKILL.INSIGHT
+      attribute: fellowship
+      rating: 1
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    intimidation:
+      label: SKILL.INTIMIDATION
+      attribute: willpower
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    investigation:
+      label: SKILL.INVESTIGATION
+      attribute: intellect
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    leadership:
+      label: SKILL.LEADERSHIP
+      attribute: willpower
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    medicae:
+      label: SKILL.MEDICAE
+      attribute: intellect
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    persuasion:
+      label: SKILL.PERSUASION
+      attribute: fellowship
+      rating: 1
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    pilot:
+      label: SKILL.PILOT
+      attribute: agility
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    psychicMastery:
+      label: SKILL.PSYCHIC_MASTERY
+      attribute: willpower
+      rating: 6
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    scholar:
+      label: SKILL.SCHOLAR
+      attribute: intellect
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    stealth:
+      label: SKILL.STEALTH
+      attribute: agility
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    survival:
+      label: SKILL.SURVIVAL
+      attribute: willpower
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    tech:
+      label: SKILL.TECH
+      attribute: intellect
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    weaponSkill:
+      label: SKILL.WEAPON_SKILL
+      attribute: initiative
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+  combat:
+    defense:
+      bonus: 0
+      total: 0
+    defence:
+      bonus: 0
+      total: 0
+    resilience:
+      bonus: 0
+      total: 0
+    wounds:
+      value: 0
+      bonus: 0
+      max: 18
+    determination:
+      bonus: 2
+      total: 0
+    shock:
+      value: 0
+      bonus: 0
+      max: 12
+    resolve:
+      bonus: 1
+      total: 0
+    conviction:
+      bonus: 0
+      total: 0
+    size: average
+    speed: 7
+    fly: 0
+    passiveAwareness:
+      bonus: 0
+      total: 0
+    stealth: 0
+  bio:
+    species: ""
+    faction: Heretic Astartes
+    archetype: ""
+    threat:
+      first: A
+      second: A
+      third: A
+      fourth: A
+      fifth: A
+  resources:
+    ruin: 0
+  corruption:
+    current: 0
+  mob: null
+  notes: <p>Ahzek Ahriman — Chief Sorcerer of the Thousand Sons, architect of the Rubric, eternal wanderer in pursuit of the deepest knowledge of Chaos.</p>
+prototypeToken:
+  name: Ahriman
+  displayName: 20
+  actorLink: false
+  appendNumber: false
+  prependAdjective: false
+  texture:
+    src: icons/environment/people/charge.webp
+    scaleX: 1
+    scaleY: 1
+    offsetX: 0
+    offsetY: 0
+    rotation: 0
+  width: 1
+  height: 1
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  disposition: -1
+  displayBars: 20
+  bar1:
+    attribute: combat.wounds
+  bar2:
+    attribute: combat.shock
+  sight:
+    enabled: false
+    range: 0
+    angle: 360
+    visionMode: basic
+  detectionModes: []
+  flags: {}
+  randomImg: false
+items:
+  - name: CHAOS
+    type: keyword
+    _id: 0Rd6ICXz8vCpRRf6
+    img: icons/svg/eye.svg
+    system:
+      description: <p>A servant of the Dark Gods.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!TOpbyleZsyx8isq0.0Rd6ICXz8vCpRRf6"
+  - name: TZEENTCH
+    type: keyword
+    _id: 3AH8hOTTnF5wwiMh
+    img: icons/svg/eye.svg
+    system:
+      description: <p>Bears the Mark of Tzeentch.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!TOpbyleZsyx8isq0.3AH8hOTTnF5wwiMh"
+  - name: HERETIC ASTARTES
+    type: keyword
+    _id: bDrCgB3VT5IGoGMZ
+    img: icons/svg/eye.svg
+    system:
+      description: <p>A traitor Space Marine.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!TOpbyleZsyx8isq0.bDrCgB3VT5IGoGMZ"
+  - name: THOUSAND SONS
+    type: keyword
+    _id: joaJ1MJMmTadSckU
+    img: icons/svg/eye.svg
+    system:
+      description: <p>Of the Thousand Sons Legion.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!TOpbyleZsyx8isq0.joaJ1MJMmTadSckU"
+  - name: CHAMPION
+    type: keyword
+    _id: 1E4rQ64DwNCJtkrT
+    img: icons/svg/eye.svg
+    system:
+      description: <p>A champion who may take Ruin Actions.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!TOpbyleZsyx8isq0.1E4rQ64DwNCJtkrT"
+  - name: PSYKER
+    type: keyword
+    _id: DU06N176F0B1hfOp
+    img: icons/svg/eye.svg
+    system:
+      description: <p>A psyker who may manifest psychic powers.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!TOpbyleZsyx8isq0.DU06N176F0B1hfOp"
+  - name: Power Armour
+    type: armour
+    _id: 6bhZ2ECXIdZBYF97
+    img: modules/wng-core/assets/icons/armour/armour.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: <p>5 AR.</p>
+      value: 0
+      keywords: ""
+      equipped: true
+      rating: 5
+      base: 0
+      traits: []
+      invulnerable: false
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!TOpbyleZsyx8isq0.6bhZ2ECXIdZBYF97"
+  - name: Inferno Bolt Pistol
+    type: weapon
+    _id: ysD0GI8wv94x4PKz
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: ""
+      value: 0
+      keywords: ""
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 10
+        bonus: 0
+        rank: none
+      ed:
+        base: 1
+        bonus: 0
+        rank: none
+      ap:
+        base: -2
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 6
+        medium: 12
+        long: 18
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: 1
+      traits:
+        - name: brutal
+        - name: pistol
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!TOpbyleZsyx8isq0.ysD0GI8wv94x4PKz"
+  - name: Black Staff of Ahriman
+    type: weapon
+    _id: 5u8IVjFYEF4XWZR9
+    img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: <p>Range 2 (M).</p>
+      value: 0
+      keywords: ""
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 19
+        bonus: 0
+        rank: none
+      ed:
+        base: 2
+        bonus: 0
+        rank: none
+      ap:
+        base: -1
+        bonus: 0
+        rank: none
+      category: melee
+      range:
+        short: 0
+        medium: 0
+        long: 0
+        melee: 2
+        thrown: null
+      ammo: ""
+      salvo: 0
+      traits:
+        - name: brutal
+        - name: force
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!TOpbyleZsyx8isq0.5u8IVjFYEF4XWZR9"
+  - name: Frag Grenade
+    type: weapon
+    _id: 7Sxobe9zjX3mxeKI
+    img: modules/wng-core/assets/icons/weapons/grenade.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: <p>2 grenades. Thrown 2m.</p>
+      value: 0
+      keywords: ""
+      equipped: 40
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 10
+        bonus: 0
+        rank: none
+      ed:
+        base: 4
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 0
+        medium: 0
+        long: 0
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: null
+      traits:
+        - name: blast
+          rating: 6
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!TOpbyleZsyx8isq0.7Sxobe9zjX3mxeKI"
+  - name: Krak Grenade
+    type: weapon
+    _id: SF2ok796yDEyDxPd
+    img: modules/wng-core/assets/icons/weapons/grenade.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: <p>2 grenades. Thrown 2m.</p>
+      value: 0
+      keywords: ""
+      equipped: 40
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 14
+        bonus: 0
+        rank: none
+      ed:
+        base: 5
+        bonus: 0
+        rank: none
+      ap:
+        base: -2
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 0
+        medium: 0
+        long: 0
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: null
+      traits:
+        - name: blast
+          rating: 4
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!TOpbyleZsyx8isq0.SF2ok796yDEyDxPd"
+  - name: Lord of the Thousand Sons
+    type: talent
+    _id: jLk8pShef16gUr8t
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>While allied THOUSAND SONS Threats are within 6m of this Threat, they add +Tier dice when making an Attack.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!TOpbyleZsyx8isq0.jLk8pShef16gUr8t"
+  - name: Champion
+    type: talent
+    _id: YFzDztLkjKw2NsEA
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>This Threat may use Ruin Actions and has 7 Personal Ruin. Also see Dark Pacts.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!TOpbyleZsyx8isq0.YFzDztLkjKw2NsEA"
+  - name: Cabbalistic Rituals
+    type: talent
+    _id: AhL0mDETs7NazBv1
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>This Threat may spend a full action performing arcane rituals, generating 3 Ritual Point(s) each time. TZEENTCH PSYKERS may spend Ritual Points on Ritual Effects (see common rules).</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!TOpbyleZsyx8isq0.AhL0mDETs7NazBv1"
+  - name: Malicious Volleys
+    type: talent
+    _id: ybUNirjxvmC2yJ0b
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>When making a ranged attack with a BOLT weapon with the Rapid Fire (X) trait, the Threat increases the trait’s rating by +Tier.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!TOpbyleZsyx8isq0.ybUNirjxvmC2yJ0b"
+  - name: Mark of Tzeentch
+    type: talent
+    _id: Fj3XtGMhGYLbWTyc
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>Once per scene, when rolling Determination, a TZEENTCH Threat may instantly reduce an attack’s damage to 0 without rolling. TZEENTCH PSYKERS know one additional psychic power.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!TOpbyleZsyx8isq0.Fj3XtGMhGYLbWTyc"
+  - name: Thousand Sons [Legion]
+    type: talent
+    _id: akH44AHaMcrL9nrP
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>A THOUSAND SONS Threat adds +2 to its Psychic Mastery skill, +2 dice to its Determination, and may roll Determination against Mortal Wounds.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!TOpbyleZsyx8isq0.akH44AHaMcrL9nrP"
+  - name: Space Marine Implants
+    type: talent
+    _id: C9gE33dYelMy9ljh
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>This Threat has the bio-engineered implants of a Space Marine (W&G core rulebook), allowing unusual actions or a bonus die on certain actions.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!TOpbyleZsyx8isq0.C9gE33dYelMy9ljh"
+  - name: Arch-Sorcerer
+    type: ability
+    _id: wYkkBnW9k441cMQL
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ""
+      specification: ""
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>Ahriman attempts to activate a psychic power. He knows Smite, Deny the Witch, Psyniscience, and three powers from the Discipline of Change or the Discipline of Vengeance (items pack). Due to the Black Staff of Ahriman, he may attempt to use up to two psychic powers as a multi-action, adding +2 to the DN of each.</p>
+      display: true
+      abilityType: action
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ""
+        wounds: ""
+        shock: ""
+      test:
+        dn: null
+        type: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!TOpbyleZsyx8isq0.wYkkBnW9k441cMQL"
+  - name: "Ruin: Sorcerous Might"
+    type: ability
+    _id: Rvm0cUt7zAKYTtCl
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ""
+      specification: ""
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>Spend 1 Ruin to attempt to activate a psychic power or Deny the Witch as a Ruin Action.</p>
+      display: true
+      abilityType: ruin
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ""
+        wounds: ""
+        shock: ""
+      test:
+        dn: null
+        type: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!TOpbyleZsyx8isq0.Rvm0cUt7zAKYTtCl"
+  - name: "Annihilation: You Have Not Seen the Last…"
+    type: ability
+    _id: bsIDCzs3k9iZbN8x
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ""
+      specification: ""
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>If Ahriman would be slain, he vanishes by sorcerous means, plotting revenge. Add 2 to Ruin.</p>
+      display: true
+      abilityType: annihilation
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ""
+        wounds: ""
+        shock: ""
+      test:
+        dn: null
+        type: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!TOpbyleZsyx8isq0.bsIDCzs3k9iZbN8x"
+  - name: Determination
+    type: ability
+    _id: vfmGE1NeBSYJSSu7
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ""
+      specification: ""
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>Otherworldly Prescience. Spend 1 Ruin to roll 10d6. He may roll Determination against Mortal Wounds. Once per scene when rolling Determination, Wounds are negated rather than converted to Shock.</p>
+      display: true
+      abilityType: determination
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ""
+        wounds: ""
+        shock: ""
+      test:
+        dn: null
+        type: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!TOpbyleZsyx8isq0.vfmGE1NeBSYJSSu7"
+effects: []
+sort: 0
+ownership:
+  default: 0
+flags:
+  wrath-and-glory:
+    autoCalc:
+      defence: true
+      resilience: true
+      shock: true
+      awareness: true
+      resolve: true
+      determination: true
+      wounds: true
+      conviction: true
+    autoWounded: true
+    autoExhausted: true
+    generateMetaCurrencies: true
+_key: "!actors!TOpbyleZsyx8isq0"

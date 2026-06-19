@@ -1,0 +1,19 @@
+name: Pentakairic Armour
+type: gear
+_id: iLjlgvLhQSINdys4
+img: modules/wng-core/assets/icons/gear/gear.webp
+folder: saQHWYxGc1SXQ2AU
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p><em>Infernal Master only.</em> The Adversary knows one additional Infernal Pact. In addition, the first time this Adversary rolls Determination each round, the attack’s damage is reduced to 0 without a roll (replaces the once-per-scene effect from the Mark of Tzeentch).</p>
+  value: 0
+  keywords: ""
+  equipped: false
+  traits: []
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!iLjlgvLhQSINdys4"

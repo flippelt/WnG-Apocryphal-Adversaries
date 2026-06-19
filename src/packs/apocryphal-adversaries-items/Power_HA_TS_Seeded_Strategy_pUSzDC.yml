@@ -1,0 +1,47 @@
+name: Seeded Strategy
+type: psychicPower
+_id: pUSzDCho2kCOdvL9
+img: modules/wng-core/assets/icons/powers/power.webp
+folder: KRpt4qMzVOwmRqKC
+sort: 0
+system:
+  dn: "6"
+  type: ""
+  specification: ""
+  description: <p>Choose a CHAOS ally within range. Until the start of the psyker’s next turn, the ally may Fall Back as a free action at the start of their turn. <em>Potency:</em> *[2] May be activated as a Simple Action instead. [1] The psyker may Keep the Initiative for free once before their next turn.</p>
+  effect: ""
+  cost: 0
+  activation: Action
+  duration: 1 Round
+  range: 25m
+  multiTarget: true
+  keywords: CHAOS, TZEENTCH, PSYCHIC
+  prerequisites: Psyker must have the CHAOS and TZEENTCH keywords.
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 0
+      five: 0
+      six: 0
+  otherDamage:
+    mortalWounds: ""
+    wounds: ""
+    shock: ""
+  potency: []
+  test:
+    dn: null
+    type: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!pUSzDCho2kCOdvL9"

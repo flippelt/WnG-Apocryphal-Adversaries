@@ -1,0 +1,17 @@
+name: Arrogance of Aeons
+type: talent
+_id: MNUccmHw5Dg7Stvg
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: X86LWrl0ItZv5CWY
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: THOUSAND SONS Adversary only.
+  description: <p>This trait grants the following Ruin ability, which replaces any Ruin ability the Adversary already possesses. <strong>RUIN:</strong> Spend 1 Ruin as a Ruin Action. The Adversary may attempt to activate a psychic power, Deny the Witch, or perform a ritual.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!MNUccmHw5Dg7Stvg"

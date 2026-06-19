@@ -1,0 +1,17 @@
+name: Master Misinformator
+type: talent
+_id: OcgksNHpwdzXkTvk
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: X86LWrl0ItZv5CWY
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: THOUSAND SONS Adversary only.
+  description: <p>This trait grants a new Battlecry ability. <strong>BATTLECRY:</strong> Select a number of THOUSAND SONS Threats equal to the Adversary’s Intellect. Remove them from the battlefield and redeploy them anywhere not visible to the enemy.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!OcgksNHpwdzXkTvk"

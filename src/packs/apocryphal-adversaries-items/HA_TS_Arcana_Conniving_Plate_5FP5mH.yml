@@ -1,0 +1,19 @@
+name: Conniving Plate
+type: gear
+_id: 5FP5mH26hNILGFU1
+img: modules/wng-core/assets/icons/gear/gear.webp
+folder: saQHWYxGc1SXQ2AU
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p><em>HERETIC ASTARTES Adversaries only.</em> The bearer’s Armour Rating is increased to 7. The bearer’s Defence is increased by +2 against melee attacks.</p>
+  value: 0
+  keywords: ""
+  equipped: false
+  traits: []
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!5FP5mH26hNILGFU1"

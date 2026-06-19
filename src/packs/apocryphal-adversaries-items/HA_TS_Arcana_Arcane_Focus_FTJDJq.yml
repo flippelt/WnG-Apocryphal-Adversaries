@@ -1,0 +1,19 @@
+name: Arcane Focus
+type: gear
+_id: FTJDJqMYKmpZNgCR
+img: modules/wng-core/assets/icons/gear/gear.webp
+folder: saQHWYxGc1SXQ2AU
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p>As a Simple Action, this Adversary may activate the Arcane Focus and choose a single THOUSAND SONS PSYKER within 6m. Until the start of the Adversary’s next turn, the chosen PSYKER may reduce the cost of any Ritual Effect it uses by 1.</p>
+  value: 0
+  keywords: ""
+  equipped: false
+  traits: []
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!FTJDJqMYKmpZNgCR"

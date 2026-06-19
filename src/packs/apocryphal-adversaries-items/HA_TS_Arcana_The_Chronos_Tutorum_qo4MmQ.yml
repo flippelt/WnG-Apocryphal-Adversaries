@@ -1,0 +1,19 @@
+name: The Chronos Tutorum
+type: gear
+_id: qo4MmQT9iboFt8Hf
+img: modules/wng-core/assets/icons/gear/gear.webp
+folder: saQHWYxGc1SXQ2AU
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p><em>May only be given to an Adversary who has an Adversary Trait.</em> Once per scene, as a free action on their turn, the Adversary may spend 1 Ruin to grant themselves one additional Adversary Trait for the remainder of the scene.</p>
+  value: 0
+  keywords: ""
+  equipped: false
+  traits: []
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!qo4MmQT9iboFt8Hf"

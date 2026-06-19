@@ -1,0 +1,47 @@
+name: Desecration of Worlds
+type: psychicPower
+_id: P8Skyv8BSxzSvbiI
+img: modules/wng-core/assets/icons/powers/power.webp
+folder: 3S0toEP6OP6Nubcd
+sort: 0
+system:
+  dn: "6"
+  type: ""
+  specification: ""
+  description: "<p>Select a single point on the ground within range. While in effect, any enemy who enters or begins a move within 6m of that point must roll 1d6: on an Exalted Icon they suffer 1 Mortal Wound and are Staggered. <em>Potency:</em> [2] Enemies roll +1d6. [1] The area increases by +1m.</p>"
+  effect: ""
+  cost: 0
+  activation: Full Action
+  duration: Sustained
+  range: 25m
+  multiTarget: false
+  keywords: CHAOS, TZEENTCH, PSYCHIC
+  prerequisites: Psyker must have the HERETIC ASTARTES and TZEENTCH keywords.
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 0
+      five: 0
+      six: 0
+  otherDamage:
+    mortalWounds: ""
+    wounds: ""
+    shock: ""
+  potency: []
+  test:
+    dn: null
+    type: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!P8Skyv8BSxzSvbiI"

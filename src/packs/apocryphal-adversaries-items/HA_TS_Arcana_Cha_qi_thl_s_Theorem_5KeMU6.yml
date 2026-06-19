@@ -1,0 +1,19 @@
+name: Cha’qi’thl’s Theorem
+type: gear
+_id: 5KeMU6Dr2dw0wIrE
+img: modules/wng-core/assets/icons/gear/gear.webp
+folder: saQHWYxGc1SXQ2AU
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p>Once per scene, at the start of their turn, the Adversary may choose a single Ruin Action option. Until the start of the Adversary’s next turn, the first time that Ruin Action is used (by anyone in the scene), its cost is reduced to 0.</p>
+  value: 0
+  keywords: ""
+  equipped: false
+  traits: []
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!5KeMU6Dr2dw0wIrE"

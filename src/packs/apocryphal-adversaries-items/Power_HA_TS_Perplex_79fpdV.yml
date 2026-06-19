@@ -1,0 +1,47 @@
+name: Perplex
+type: psychicPower
+_id: 79fpdVQNxpB1xzU8
+img: modules/wng-core/assets/icons/powers/power.webp
+folder: 2j4UgYad04b3TxRM
+sort: 0
+system:
+  dn: "6"
+  type: ""
+  specification: ""
+  description: <p>Targets enemies within a Blast (6) within range and line of sight. Affected enemies cannot see enemies or make ranged attacks against targets more distant than 25m away. <em>Potency:</em> [2] Increase the size of the Blast by +2.</p>
+  effect: ""
+  cost: 0
+  activation: Action
+  duration: Instant
+  range: 25m
+  multiTarget: false
+  keywords: CHAOS, TZEENTCH, PSYCHIC
+  prerequisites: Psyker must have the CHAOS and TZEENTCH keywords.
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 0
+      five: 0
+      six: 0
+  otherDamage:
+    mortalWounds: ""
+    wounds: ""
+    shock: ""
+  potency: []
+  test:
+    dn: null
+    type: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!79fpdVQNxpB1xzU8"

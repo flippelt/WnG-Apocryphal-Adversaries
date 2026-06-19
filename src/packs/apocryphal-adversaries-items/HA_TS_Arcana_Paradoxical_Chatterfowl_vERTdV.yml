@@ -1,0 +1,19 @@
+name: Paradoxical Chatterfowl
+type: gear
+_id: vERTdVzgDmeewSJb
+img: modules/wng-core/assets/icons/gear/gear.webp
+folder: saQHWYxGc1SXQ2AU
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p>When an enemy moves within 3m of the Adversary, or begins their turn within 3m, they must pass a DN 3 Conviction Test or become Hindered.</p>
+  value: 0
+  keywords: ""
+  equipped: false
+  traits: []
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!vERTdVzgDmeewSJb"

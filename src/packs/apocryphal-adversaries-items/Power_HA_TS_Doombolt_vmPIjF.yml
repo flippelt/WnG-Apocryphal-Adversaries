@@ -1,0 +1,47 @@
+name: Doombolt
+type: psychicPower
+_id: vmPIjFKjpQyEDU7d
+img: modules/wng-core/assets/icons/powers/power.webp
+folder: 2j4UgYad04b3TxRM
+sort: 0
+system:
+  dn: Target's Defence
+  type: ""
+  specification: ""
+  description: <p>A psychic ranged attack against the nearest enemy within range and line of sight; inflicts Willpower +9 +3ED damage with AP -2 and the Agonizing and Corrupting traits. <em>Potency:</em> [1] +1ED.</p>
+  effect: ""
+  cost: 0
+  activation: Action
+  duration: Instant
+  range: 18m
+  multiTarget: false
+  keywords: CHAOS, TZEENTCH, PSYCHIC
+  prerequisites: Psyker must have the CHAOS and TZEENTCH keywords.
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 0
+      five: 0
+      six: 0
+  otherDamage:
+    mortalWounds: ""
+    wounds: ""
+    shock: ""
+  potency: []
+  test:
+    dn: null
+    type: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!vmPIjFKjpQyEDU7d"
