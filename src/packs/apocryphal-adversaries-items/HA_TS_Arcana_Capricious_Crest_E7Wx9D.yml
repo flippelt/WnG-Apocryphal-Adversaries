@@ -1,0 +1,19 @@
+name: Capricious Crest
+type: gear
+_id: E7Wx9DGNVllRXr1O
+img: modules/wng-core/assets/icons/gear/gear.webp
+folder: saQHWYxGc1SXQ2AU
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p>Once per round, when any character or Threat attempts to activate a psychic power within 18m of this Adversary, the Adversary may change all 6s in the Psychic Mastery test to 1s, or change all 1s in the test to 6s.</p>
+  value: 0
+  keywords: ""
+  equipped: false
+  traits: []
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!E7Wx9DGNVllRXr1O"

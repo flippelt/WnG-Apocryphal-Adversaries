@@ -1,0 +1,48 @@
+name: Incaladion’s Cry
+type: weapon
+_id: zEnSe6fdRc55nLg0
+img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+folder: saQHWYxGc1SXQ2AU
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p><em>Adversary equipped with a Warpflame Pistol only; replaces it.</em> Bound with the souls of Incaladion’s slaughtered defenders. 13 +3ED / AP -3 / Range 6-12-18 / Salvo 2 / Agonizing, Flamer, Pistol.</p>
+  value: 0
+  keywords: ""
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 13
+    bonus: 0
+    rank: none
+  ed:
+    base: 3
+    bonus: 0
+    rank: none
+  ap:
+    base: -3
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 6
+    medium: 12
+    long: 18
+    melee: 0
+    thrown: null
+  ammo: ""
+  salvo: 2
+  traits:
+    - name: agonizing
+    - name: flamer
+    - name: pistol
+  upgrades: []
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!zEnSe6fdRc55nLg0"

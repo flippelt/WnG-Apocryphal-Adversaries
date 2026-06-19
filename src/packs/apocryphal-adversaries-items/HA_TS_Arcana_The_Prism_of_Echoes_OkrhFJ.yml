@@ -1,0 +1,19 @@
+name: The Prism of Echoes
+type: gear
+_id: OkrhFJWobNUYtDvd
+img: modules/wng-core/assets/icons/gear/gear.webp
+folder: saQHWYxGc1SXQ2AU
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p><em>THOUSAND SONS PSYKER Adversary only.</em> Each time the Adversary successfully activates a psychic power which grants a bonus to one or more allies, double the power’s listed range.</p>
+  value: 0
+  keywords: ""
+  equipped: false
+  traits: []
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!OkrhFJWobNUYtDvd"

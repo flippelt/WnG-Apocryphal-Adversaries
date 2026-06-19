@@ -1,0 +1,19 @@
+name: Hourglass of Manat
+type: gear
+_id: KgyVHtJLJM3oUWY1
+img: modules/wng-core/assets/icons/gear/gear.webp
+folder: saQHWYxGc1SXQ2AU
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p>The Adversary gains the following ability. <strong>ANNIHILATION:</strong> The first time this Threat is killed, they vanish. They reappear near their original position but outside engagement range of any enemy, having recovered all Shock and healed Wounds equal to twice the game’s Tier.</p>
+  value: 0
+  keywords: ""
+  equipped: false
+  traits: []
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!KgyVHtJLJM3oUWY1"

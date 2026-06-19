@@ -1,0 +1,47 @@
+name: Tzeentch's Firestorm
+type: psychicPower
+_id: Cjfjiot7JZupH7Ou
+img: modules/wng-core/assets/icons/powers/power.webp
+folder: 2j4UgYad04b3TxRM
+sort: 0
+system:
+  dn: Target's Defence
+  type: ""
+  specification: ""
+  description: "<p>Targets an enemy within range and line of sight. If successful, roll nine d6: each Icon inflicts 1 Mortal Wound; each Exalted Icon inflicts 1d3 Mortal Wounds. <em>Potency:</em> *[3] Increase the number rolled on each d6 by 1 (3–4 = Icon, 5–6 = Exalted Icon). [1] If a target is killed by this power, a single Pink Horror of Tzeentch is summoned on its spot.</p>"
+  effect: ""
+  cost: 0
+  activation: Action
+  duration: Instant
+  range: 18m
+  multiTarget: true
+  keywords: CHAOS, TZEENTCH, PSYCHIC, FIRE
+  prerequisites: Psyker must have the CHAOS and TZEENTCH keywords.
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 0
+      five: 0
+      six: 0
+  otherDamage:
+    mortalWounds: ""
+    wounds: ""
+    shock: ""
+  potency: []
+  test:
+    dn: null
+    type: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!Cjfjiot7JZupH7Ou"

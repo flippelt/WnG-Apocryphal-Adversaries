@@ -1,0 +1,19 @@
+name: Warpweave Mantle
+type: gear
+_id: iiE1CpHRTdeXxD2q
+img: modules/wng-core/assets/icons/gear/gear.webp
+folder: saQHWYxGc1SXQ2AU
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: "<p>Each time the Adversary is the target of a Charge action, roll 1d6: the charging enemy’s total movement distance is reduced by the number rolled. In addition, if the Adversary is Wounded, they add +2 dice to all Psychic Mastery tests they attempt.</p>"
+  value: 0
+  keywords: ""
+  equipped: false
+  traits: []
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!iiE1CpHRTdeXxD2q"

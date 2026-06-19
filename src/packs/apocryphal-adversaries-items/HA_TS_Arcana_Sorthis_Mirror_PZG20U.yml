@@ -1,0 +1,19 @@
+name: Sorthis’ Mirror
+type: gear
+_id: PZG20USiloOjZpXq
+img: modules/wng-core/assets/icons/gear/gear.webp
+folder: saQHWYxGc1SXQ2AU
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p>You may make a Persuasion Interaction Attack against a single enemy in engagement range. If successful, that enemy immediately makes a melee attack against a target of your choice.</p>
+  value: 0
+  keywords: ""
+  equipped: false
+  traits: []
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!PZG20USiloOjZpXq"

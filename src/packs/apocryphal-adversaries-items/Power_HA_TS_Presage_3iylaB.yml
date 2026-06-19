@@ -1,0 +1,47 @@
+name: Presage
+type: psychicPower
+_id: 3iylaBMAEXqMnk6P
+img: modules/wng-core/assets/icons/powers/power.webp
+folder: 3S0toEP6OP6Nubcd
+sort: 0
+system:
+  dn: "6"
+  type: ""
+  specification: ""
+  description: <p>Select a number of CHAOS allies equal to the psyker’s Intellect within range. Until the start of the psyker’s next turn, the allies add +2 dice to all attacks. <em>Potency:</em> [1] Affected allies gain an extra +1 dice. [2] Affected allies gain +1 Defence.</p>
+  effect: ""
+  cost: 0
+  activation: Action
+  duration: 1 Round
+  range: 18m
+  multiTarget: false
+  keywords: CHAOS, TZEENTCH, PSYCHIC
+  prerequisites: Psyker must have the HERETIC ASTARTES and TZEENTCH keywords.
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 0
+      five: 0
+      six: 0
+  otherDamage:
+    mortalWounds: ""
+    wounds: ""
+    shock: ""
+  potency: []
+  test:
+    dn: null
+    type: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!3iylaBMAEXqMnk6P"

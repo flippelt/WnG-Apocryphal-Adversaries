@@ -1,0 +1,19 @@
+name: Helm of the Daemon’s Eye
+type: gear
+_id: dYXSbRkt4XupAEA5
+img: modules/wng-core/assets/icons/gear/gear.webp
+folder: saQHWYxGc1SXQ2AU
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p>Each time the PCs spend a Wrath Point or a Glory Point while the Adversary is on the battlefield, roll 1d6; on a 5 or 6, gain 1 Ruin.</p>
+  value: 0
+  keywords: ""
+  equipped: false
+  traits: []
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!dYXSbRkt4XupAEA5"

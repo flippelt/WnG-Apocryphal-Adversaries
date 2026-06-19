@@ -1,0 +1,19 @@
+name: Egleighen’s Orrery
+type: gear
+_id: ojh47WP0Bl7Gcqup
+img: modules/wng-core/assets/icons/gear/gear.webp
+folder: saQHWYxGc1SXQ2AU
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p>As a Simple Action, the Adversary may select a single enemy they can see. Until the start of the Adversary’s next turn, they and all THOUSAND SONS allies within 6m may ignore any additional penalties or DN increases that apply on attacks against that target.</p>
+  value: 0
+  keywords: ""
+  equipped: false
+  traits: []
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!ojh47WP0Bl7Gcqup"

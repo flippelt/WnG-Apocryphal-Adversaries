@@ -1,0 +1,49 @@
+name: Seer’s Bane
+type: weapon
+_id: kqQnkyyarvijpzAb
+img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+folder: saQHWYxGc1SXQ2AU
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p><em>Adversary equipped with a force sword or Prosperine khopesh only; replaces it.</em> A daemon weapon imprisoning the Lord of Change Malach’raccatax — bane of learned foes. (S) +6 +5ED / AP -4 / Bane (PSYKER), Parry.</p>
+  value: 0
+  keywords: ""
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 6
+    bonus: 0
+    rank: none
+  ed:
+    base: 5
+    bonus: 0
+    rank: none
+  ap:
+    base: -4
+    bonus: 0
+    rank: none
+  category: melee
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 1
+    thrown: null
+  ammo: ""
+  salvo: 0
+  traits:
+    - name: bane
+      custom: true
+      display: Bane (PSYKER)
+    - name: parry
+  upgrades: []
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!kqQnkyyarvijpzAb"

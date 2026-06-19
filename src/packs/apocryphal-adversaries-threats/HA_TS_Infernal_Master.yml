@@ -1,0 +1,904 @@
+folder: HAThousandSons1
+name: Infernal Master
+type: threat
+_id: uIUIO473kAfu6anY
+img: icons/environment/people/cleric-orange.webp
+system:
+  attributes:
+    strength:
+      label: ATTRIBUTE.STRENGTH
+      rating: 0
+      base: 8
+      bonus: 0
+      cost: 0
+      total: 0
+    toughness:
+      label: ATTRIBUTE.TOUGHNESS
+      rating: 0
+      base: 7
+      bonus: 0
+      cost: 0
+      total: 0
+    agility:
+      label: ATTRIBUTE.AGILITY
+      rating: 0
+      base: 6
+      bonus: 0
+      cost: 0
+      total: 0
+    initiative:
+      label: ATTRIBUTE.INITIATIVE
+      rating: 0
+      base: 7
+      bonus: 0
+      cost: 0
+      total: 0
+    willpower:
+      label: ATTRIBUTE.WILLPOWER
+      rating: 0
+      base: 7
+      bonus: 0
+      cost: 0
+      total: 0
+    intellect:
+      label: ATTRIBUTE.INTELLECT
+      rating: 0
+      base: 6
+      bonus: 0
+      cost: 0
+      total: 0
+    fellowship:
+      label: ATTRIBUTE.FELLOWSHIP
+      rating: 0
+      base: 6
+      bonus: 0
+      cost: 0
+      total: 0
+  skills:
+    athletics:
+      label: SKILL.ATHLETICS
+      attribute: strength
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    awareness:
+      label: SKILL.AWARENESS
+      attribute: intellect
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    ballisticSkill:
+      label: SKILL.BALLISTIC_SKILL
+      attribute: agility
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    cunning:
+      label: SKILL.CUNNING
+      attribute: fellowship
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    deception:
+      label: SKILL.DECEPTION
+      attribute: fellowship
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    insight:
+      label: SKILL.INSIGHT
+      attribute: fellowship
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    intimidation:
+      label: SKILL.INTIMIDATION
+      attribute: willpower
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    investigation:
+      label: SKILL.INVESTIGATION
+      attribute: intellect
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    leadership:
+      label: SKILL.LEADERSHIP
+      attribute: willpower
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    medicae:
+      label: SKILL.MEDICAE
+      attribute: intellect
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    persuasion:
+      label: SKILL.PERSUASION
+      attribute: fellowship
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    pilot:
+      label: SKILL.PILOT
+      attribute: agility
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    psychicMastery:
+      label: SKILL.PSYCHIC_MASTERY
+      attribute: willpower
+      rating: 5
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    scholar:
+      label: SKILL.SCHOLAR
+      attribute: intellect
+      rating: 5
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    stealth:
+      label: SKILL.STEALTH
+      attribute: agility
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    survival:
+      label: SKILL.SURVIVAL
+      attribute: willpower
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    tech:
+      label: SKILL.TECH
+      attribute: intellect
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    weaponSkill:
+      label: SKILL.WEAPON_SKILL
+      attribute: initiative
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+  combat:
+    defense:
+      bonus: 0
+      total: 0
+    defence:
+      bonus: 0
+      total: 0
+    resilience:
+      bonus: 0
+      total: 0
+    wounds:
+      value: 0
+      bonus: 0
+      max: 17
+    determination:
+      bonus: 2
+      total: 0
+    shock:
+      value: 0
+      bonus: 0
+      max: 12
+    resolve:
+      bonus: 1
+      total: 0
+    conviction:
+      bonus: 0
+      total: 0
+    size: average
+    speed: 7
+    fly: 0
+    passiveAwareness:
+      bonus: 0
+      total: 0
+    stealth: 0
+  bio:
+    species: ""
+    faction: Heretic Astartes
+    archetype: ""
+    threat:
+      first: A
+      second: A
+      third: A
+      fourth: A
+      fifth: A
+  resources:
+    ruin: 0
+  corruption:
+    current: 0
+  mob: null
+  notes: <p>Infernal Master — sorcerer-priests specialising in daemonology, binding Tutelary spirits through Infernal Pacts to slay, confound or empower.</p>
+prototypeToken:
+  name: Infernal Master
+  displayName: 20
+  actorLink: false
+  appendNumber: false
+  prependAdjective: false
+  texture:
+    src: icons/environment/people/cleric-orange.webp
+    scaleX: 1
+    scaleY: 1
+    offsetX: 0
+    offsetY: 0
+    rotation: 0
+  width: 1
+  height: 1
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  disposition: -1
+  displayBars: 20
+  bar1:
+    attribute: combat.wounds
+  bar2:
+    attribute: combat.shock
+  sight:
+    enabled: false
+    range: 0
+    angle: 360
+    visionMode: basic
+  detectionModes: []
+  flags: {}
+  randomImg: false
+items:
+  - name: CHAOS
+    type: keyword
+    _id: 6SbEKserFFPDTBvD
+    img: icons/svg/eye.svg
+    system:
+      description: <p>A servant of the Dark Gods.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!uIUIO473kAfu6anY.6SbEKserFFPDTBvD"
+  - name: TZEENTCH
+    type: keyword
+    _id: qoYrPa5I9h82PbJa
+    img: icons/svg/eye.svg
+    system:
+      description: <p>Bears the Mark of Tzeentch.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!uIUIO473kAfu6anY.qoYrPa5I9h82PbJa"
+  - name: HERETIC ASTARTES
+    type: keyword
+    _id: Glg7A6fBEN0aH1cH
+    img: icons/svg/eye.svg
+    system:
+      description: <p>A traitor Space Marine.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!uIUIO473kAfu6anY.Glg7A6fBEN0aH1cH"
+  - name: THOUSAND SONS
+    type: keyword
+    _id: IQx8Vff8PJs7lG94
+    img: icons/svg/eye.svg
+    system:
+      description: <p>Of the Thousand Sons Legion.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!uIUIO473kAfu6anY.IQx8Vff8PJs7lG94"
+  - name: PRIEST
+    type: keyword
+    _id: XvqvILXGYSXA9AbQ
+    img: icons/svg/eye.svg
+    system:
+      description: <p>A dark priest of Chaos.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!uIUIO473kAfu6anY.XvqvILXGYSXA9AbQ"
+  - name: PSYKER
+    type: keyword
+    _id: aUVvfGcYFlLL2QvN
+    img: icons/svg/eye.svg
+    system:
+      description: <p>A psyker who may manifest psychic powers.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!uIUIO473kAfu6anY.aUVvfGcYFlLL2QvN"
+  - name: CHAMPION
+    type: keyword
+    _id: Sr8tTPDi0BEcoux2
+    img: icons/svg/eye.svg
+    system:
+      description: <p>A champion who may take Ruin Actions.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!uIUIO473kAfu6anY.Sr8tTPDi0BEcoux2"
+  - name: Power Armour
+    type: armour
+    _id: GoF1kdohT20hq1vx
+    img: modules/wng-core/assets/icons/armour/armour.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: <p>5 AR.</p>
+      value: 0
+      keywords: ""
+      equipped: true
+      rating: 5
+      base: 0
+      traits: []
+      invulnerable: false
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!uIUIO473kAfu6anY.GoF1kdohT20hq1vx"
+  - name: Inferno Bolt Pistol
+    type: weapon
+    _id: cV8ZHmGMmOIG4i1a
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: ""
+      value: 0
+      keywords: ""
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 10
+        bonus: 0
+        rank: none
+      ed:
+        base: 1
+        bonus: 0
+        rank: none
+      ap:
+        base: -2
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 6
+        medium: 12
+        long: 18
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: 1
+      traits:
+        - name: brutal
+        - name: pistol
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!uIUIO473kAfu6anY.cV8ZHmGMmOIG4i1a"
+  - name: Force Staff
+    type: weapon
+    _id: AgxwZzw5VkxJDujg
+    img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: <p>Range 2 (M).</p>
+      value: 0
+      keywords: ""
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 17
+        bonus: 0
+        rank: none
+      ed:
+        base: 2
+        bonus: 0
+        rank: none
+      ap:
+        base: -1
+        bonus: 0
+        rank: none
+      category: melee
+      range:
+        short: 0
+        medium: 0
+        long: 0
+        melee: 2
+        thrown: null
+      ammo: ""
+      salvo: 0
+      traits:
+        - name: brutal
+        - name: force
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!uIUIO473kAfu6anY.AgxwZzw5VkxJDujg"
+  - name: Frag Grenade
+    type: weapon
+    _id: mk8h7MChvLigFumo
+    img: modules/wng-core/assets/icons/weapons/grenade.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: <p>2 grenades. Thrown 2m.</p>
+      value: 0
+      keywords: ""
+      equipped: 32
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 10
+        bonus: 0
+        rank: none
+      ed:
+        base: 4
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 0
+        medium: 0
+        long: 0
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: null
+      traits:
+        - name: blast
+          rating: 6
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!uIUIO473kAfu6anY.mk8h7MChvLigFumo"
+  - name: Krak Grenade
+    type: weapon
+    _id: qZo8bDTqEZq25N3o
+    img: modules/wng-core/assets/icons/weapons/grenade.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: <p>2 grenades. Thrown 2m.</p>
+      value: 0
+      keywords: ""
+      equipped: 32
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 14
+        bonus: 0
+        rank: none
+      ed:
+        base: 5
+        bonus: 0
+        rank: none
+      ap:
+        base: -2
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 0
+        medium: 0
+        long: 0
+        melee: 0
+        thrown: null
+      ammo: ""
+      salvo: null
+      traits:
+        - name: blast
+          rating: 4
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!uIUIO473kAfu6anY.qZo8bDTqEZq25N3o"
+  - name: Cabbalistic Rituals
+    type: talent
+    _id: OoTSyIj8qdwbkJ1w
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>This Threat may spend a full action performing arcane rituals, generating 2 Ritual Point(s) each time. TZEENTCH PSYKERS may spend Ritual Points on Ritual Effects (see common rules).</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!uIUIO473kAfu6anY.OoTSyIj8qdwbkJ1w"
+  - name: Champion
+    type: talent
+    _id: m1UIbaVwTtYFtWc0
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>This Threat may use Ruin Actions and has 3 Personal Ruin. Also see Dark Pacts.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!uIUIO473kAfu6anY.m1UIbaVwTtYFtWc0"
+  - name: Death to the False Emperor
+    type: talent
+    _id: 06uRSpzA4r8zWQjr
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>Each time this Threat rolls an Exalted Icon on an attack against an enemy with the IMPERIUM keyword, it may immediately roll one additional die on that attack. These additional dice cannot themselves grant extra dice.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!uIUIO473kAfu6anY.06uRSpzA4r8zWQjr"
+  - name: Malicious Volleys
+    type: talent
+    _id: PrEueQWhPEqcNKIi
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>When making a ranged attack with a BOLT weapon with the Rapid Fire (X) trait, the Threat increases the trait’s rating by +Tier.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!uIUIO473kAfu6anY.PrEueQWhPEqcNKIi"
+  - name: Mark of Tzeentch
+    type: talent
+    _id: CLqDEjMrbWp5ubHs
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>Once per scene, when rolling Determination, a TZEENTCH Threat may instantly reduce an attack’s damage to 0 without rolling. TZEENTCH PSYKERS know one additional psychic power.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!uIUIO473kAfu6anY.CLqDEjMrbWp5ubHs"
+  - name: Thousand Sons [Legion]
+    type: talent
+    _id: VXVIPr9YQiFNwT2G
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>A THOUSAND SONS Threat adds +2 to its Psychic Mastery skill, +2 dice to its Determination, and may roll Determination against Mortal Wounds.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!uIUIO473kAfu6anY.VXVIPr9YQiFNwT2G"
+  - name: Space Marine Implants
+    type: talent
+    _id: czueyQHs0sGKZGOY
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>This Threat has the bio-engineered implants of a Space Marine (W&G core rulebook), allowing unusual actions or a bonus die on certain actions.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!uIUIO473kAfu6anY.czueyQHs0sGKZGOY"
+  - name: Infernal Pacts
+    type: talent
+    _id: DwLP5VkUm2UFnIul
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>This Threat knows two Infernal Pacts. Each Pact (Bladed Maelstrom, Fires of the Abyss, Capering Imps, Diabolic Savant, Glimpse of Eternity, Malefic Maelstrom) produces a different malefic effect when invoked.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!uIUIO473kAfu6anY.DwLP5VkUm2UFnIul"
+  - name: "Battlecry: Deal With a Daemon"
+    type: ability
+    _id: bDy1bKD97myjDqJK
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ""
+      specification: ""
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>The Infernal Master invokes an Infernal Pact he knows.</p>
+      display: true
+      abilityType: battlecry
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ""
+        wounds: ""
+        shock: ""
+      test:
+        dn: null
+        type: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!uIUIO473kAfu6anY.bDy1bKD97myjDqJK"
+  - name: Sorcery
+    type: ability
+    _id: TMf93ZsoYwdjk4pB
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ""
+      specification: ""
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>The Infernal Master attempts to activate a psychic power. It knows Smite, Deny the Witch, Psyniscience, and three powers from the Discipline of Change or the Discipline of Vengeance (items pack).</p>
+      display: true
+      abilityType: action
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ""
+        wounds: ""
+        shock: ""
+      test:
+        dn: null
+        type: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!uIUIO473kAfu6anY.TMf93ZsoYwdjk4pB"
+  - name: "Ruin: Infernal Pact"
+    type: ability
+    _id: XERmaLrmQXcXZg4I
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ""
+      specification: ""
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>The Infernal Master attempts to invoke a single Infernal Pact he knows as a Ruin Action.</p>
+      display: true
+      abilityType: ruin
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ""
+        wounds: ""
+        shock: ""
+      test:
+        dn: null
+        type: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!uIUIO473kAfu6anY.XERmaLrmQXcXZg4I"
+  - name: Determination
+    type: ability
+    _id: Rra52CYK7H15RBch
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ""
+      specification: ""
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>Spend 1 Ruin to roll 9d6. This Threat may roll Determination against Mortal Wounds.</p>
+      display: true
+      abilityType: determination
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ""
+        wounds: ""
+        shock: ""
+      test:
+        dn: null
+        type: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!uIUIO473kAfu6anY.Rra52CYK7H15RBch"
+effects: []
+sort: 0
+ownership:
+  default: 0
+flags:
+  wrath-and-glory:
+    autoCalc:
+      defence: true
+      resilience: true
+      shock: true
+      awareness: true
+      resolve: true
+      determination: true
+      wounds: true
+      conviction: true
+    autoWounded: true
+    autoExhausted: true
+    generateMetaCurrencies: true
+_key: "!actors!uIUIO473kAfu6anY"

@@ -1,0 +1,17 @@
+name: Undying Form
+type: talent
+_id: 9pcFTyHuu3owMd17
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: X86LWrl0ItZv5CWY
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: THOUSAND SONS Adversary only.
+  description: <p>Each time this Adversary rolls Determination, they may re-roll a number of dice equal to the game’s Tier.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!9pcFTyHuu3owMd17"

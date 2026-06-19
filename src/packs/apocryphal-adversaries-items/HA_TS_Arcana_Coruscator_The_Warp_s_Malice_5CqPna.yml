@@ -1,0 +1,49 @@
+name: Coruscator (The Warp’s Malice)
+type: weapon
+_id: 5CqPnat7LPCaXVCA
+img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+folder: saQHWYxGc1SXQ2AU
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p><em>Adversary equipped with an Inferno Bolt Pistol only; replaces it.</em> The Warp’s Malice — a revered daemonic weapon of the Thousand Sons.</p>
+  value: 0
+  keywords: ""
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 12
+    bonus: 0
+    rank: none
+  ed:
+    base: 2
+    bonus: 0
+    rank: none
+  ap:
+    base: -2
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 9
+    medium: 18
+    long: 27
+    melee: 0
+    thrown: null
+  ammo: ""
+  salvo: 3
+  traits:
+    - name: brutal
+    - name: rapidFire
+      rating: 3
+    - name: pistol
+  upgrades: []
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!5CqPnat7LPCaXVCA"

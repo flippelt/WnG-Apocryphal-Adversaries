@@ -1,0 +1,831 @@
+folder: HAThousandSons1
+name: Magnus the Red
+type: threat
+_id: 6FrU12ttlgkpYGaO
+img: icons/creatures/magical/spirit-fire-orange.webp
+system:
+  attributes:
+    strength:
+      label: ATTRIBUTE.STRENGTH
+      rating: 0
+      base: 14
+      bonus: 0
+      cost: 0
+      total: 0
+    toughness:
+      label: ATTRIBUTE.TOUGHNESS
+      rating: 0
+      base: 12
+      bonus: 0
+      cost: 0
+      total: 0
+    agility:
+      label: ATTRIBUTE.AGILITY
+      rating: 0
+      base: 8
+      bonus: 0
+      cost: 0
+      total: 0
+    initiative:
+      label: ATTRIBUTE.INITIATIVE
+      rating: 0
+      base: 8
+      bonus: 0
+      cost: 0
+      total: 0
+    willpower:
+      label: ATTRIBUTE.WILLPOWER
+      rating: 0
+      base: 10
+      bonus: 0
+      cost: 0
+      total: 0
+    intellect:
+      label: ATTRIBUTE.INTELLECT
+      rating: 0
+      base: 10
+      bonus: 0
+      cost: 0
+      total: 0
+    fellowship:
+      label: ATTRIBUTE.FELLOWSHIP
+      rating: 0
+      base: 7
+      bonus: 0
+      cost: 0
+      total: 0
+  skills:
+    athletics:
+      label: SKILL.ATHLETICS
+      attribute: strength
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    awareness:
+      label: SKILL.AWARENESS
+      attribute: intellect
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    ballisticSkill:
+      label: SKILL.BALLISTIC_SKILL
+      attribute: agility
+      rating: 5
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    cunning:
+      label: SKILL.CUNNING
+      attribute: fellowship
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    deception:
+      label: SKILL.DECEPTION
+      attribute: fellowship
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    insight:
+      label: SKILL.INSIGHT
+      attribute: fellowship
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    intimidation:
+      label: SKILL.INTIMIDATION
+      attribute: willpower
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    investigation:
+      label: SKILL.INVESTIGATION
+      attribute: intellect
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    leadership:
+      label: SKILL.LEADERSHIP
+      attribute: willpower
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    medicae:
+      label: SKILL.MEDICAE
+      attribute: intellect
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    persuasion:
+      label: SKILL.PERSUASION
+      attribute: fellowship
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    pilot:
+      label: SKILL.PILOT
+      attribute: agility
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    psychicMastery:
+      label: SKILL.PSYCHIC_MASTERY
+      attribute: willpower
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    scholar:
+      label: SKILL.SCHOLAR
+      attribute: intellect
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    stealth:
+      label: SKILL.STEALTH
+      attribute: agility
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    survival:
+      label: SKILL.SURVIVAL
+      attribute: willpower
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    tech:
+      label: SKILL.TECH
+      attribute: intellect
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    weaponSkill:
+      label: SKILL.WEAPON_SKILL
+      attribute: initiative
+      rating: 10
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+  combat:
+    defense:
+      bonus: 0
+      total: 0
+    defence:
+      bonus: 0
+      total: 0
+    resilience:
+      bonus: 0
+      total: 0
+    wounds:
+      value: 0
+      bonus: 0
+      max: 24
+    determination:
+      bonus: 2
+      total: 0
+    shock:
+      value: 0
+      bonus: 0
+      max: 0
+    resolve:
+      bonus: 1
+      total: 0
+    conviction:
+      bonus: 0
+      total: 0
+    size: huge
+    speed: 16
+    fly: 0
+    passiveAwareness:
+      bonus: 0
+      total: 0
+    stealth: 0
+  bio:
+    species: ""
+    faction: Heretic Astartes
+    archetype: ""
+    threat:
+      first: A
+      second: A
+      third: A
+      fourth: A
+      fifth: A
+  resources:
+    ruin: 0
+  corruption:
+    current: 0
+  mob: null
+  notes: <p>Magnus the Red, the Crimson King — Daemon Primarch of Tzeentch, master of the Thousand Sons and one of the mightiest psykers in the galaxy. Speed 16 (Flight), Huge.</p>
+prototypeToken:
+  name: Magnus the Red
+  displayName: 20
+  actorLink: false
+  appendNumber: false
+  prependAdjective: false
+  texture:
+    src: icons/creatures/magical/spirit-fire-orange.webp
+    scaleX: 3
+    scaleY: 3
+    offsetX: 0
+    offsetY: 0
+    rotation: 0
+  width: 3
+  height: 3
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  disposition: -1
+  displayBars: 20
+  bar1:
+    attribute: combat.wounds
+  bar2:
+    attribute: combat.shock
+  sight:
+    enabled: false
+    range: 0
+    angle: 360
+    visionMode: basic
+  detectionModes: []
+  flags: {}
+  randomImg: false
+items:
+  - name: CHAOS
+    type: keyword
+    _id: L7DeYg1tkkeb3BJM
+    img: icons/svg/eye.svg
+    system:
+      description: <p>A servant of the Dark Gods.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!6FrU12ttlgkpYGaO.L7DeYg1tkkeb3BJM"
+  - name: TZEENTCH
+    type: keyword
+    _id: SgUMHhhITTqYr8S7
+    img: icons/svg/eye.svg
+    system:
+      description: <p>Bears the Mark of Tzeentch.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!6FrU12ttlgkpYGaO.SgUMHhhITTqYr8S7"
+  - name: HERETIC ASTARTES
+    type: keyword
+    _id: l9SvyjNPqEPutlxg
+    img: icons/svg/eye.svg
+    system:
+      description: <p>A traitor Space Marine.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!6FrU12ttlgkpYGaO.l9SvyjNPqEPutlxg"
+  - name: THOUSAND SONS
+    type: keyword
+    _id: ZsnBCbINMaOPExzm
+    img: icons/svg/eye.svg
+    system:
+      description: <p>Of the Thousand Sons Legion.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!6FrU12ttlgkpYGaO.ZsnBCbINMaOPExzm"
+  - name: PSYKER
+    type: keyword
+    _id: Ne4myHGlfOghIJSU
+    img: icons/svg/eye.svg
+    system:
+      description: <p>A psyker who may manifest psychic powers.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!6FrU12ttlgkpYGaO.Ne4myHGlfOghIJSU"
+  - name: CHAMPION
+    type: keyword
+    _id: VpUG2NueUx3VWQVC
+    img: icons/svg/eye.svg
+    system:
+      description: <p>A champion who may take Ruin Actions.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!6FrU12ttlgkpYGaO.VpUG2NueUx3VWQVC"
+  - name: PRIMARCH
+    type: keyword
+    _id: 1Q47Ntpi9Ghs4PNl
+    img: icons/svg/eye.svg
+    system:
+      description: <p>A Primarch of the Legions.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!6FrU12ttlgkpYGaO.1Q47Ntpi9Ghs4PNl"
+  - name: DAEMON
+    type: keyword
+    _id: dN0dUD8LPhHpILBi
+    img: icons/svg/eye.svg
+    system:
+      description: <p>A daemon of the warp.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!6FrU12ttlgkpYGaO.dN0dUD8LPhHpILBi"
+  - name: MONSTER
+    type: keyword
+    _id: T3fFtvQ8hTPAteTS
+    img: icons/svg/eye.svg
+    system:
+      description: <p>A monstrous Threat.</p>
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!6FrU12ttlgkpYGaO.T3fFtvQ8hTPAteTS"
+  - name: The Horned Raiment
+    type: armour
+    _id: RcEP2LBRGqIK6dYu
+    img: modules/wng-core/assets/icons/armour/armour.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: <p>6 AR.</p>
+      value: 0
+      keywords: ""
+      equipped: true
+      rating: 6
+      base: 0
+      traits: []
+      invulnerable: false
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!6FrU12ttlgkpYGaO.RcEP2LBRGqIK6dYu"
+  - name: The Blade of Magnus
+    type: weapon
+    _id: hLsqm6Vm3ovtEVho
+    img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: ""
+      value: 0
+      keywords: ""
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 22
+        bonus: 0
+        rank: none
+      ed:
+        base: 6
+        bonus: 0
+        rank: none
+      ap:
+        base: -4
+        bonus: 0
+        rank: none
+      category: melee
+      range:
+        short: 0
+        medium: 0
+        long: 0
+        melee: 1
+        thrown: null
+      ammo: ""
+      salvo: 0
+      traits:
+        - name: brutal
+        - name: mortal
+          rating: 1
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!6FrU12ttlgkpYGaO.hLsqm6Vm3ovtEVho"
+  - name: Champion
+    type: talent
+    _id: 0TrCwuA3w7Ek8XlR
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>This Threat may use Ruin Actions and has 9 Personal Ruin. Also see Dark Pacts.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!6FrU12ttlgkpYGaO.0TrCwuA3w7Ek8XlR"
+  - name: Crown of the Crimson King
+    type: talent
+    _id: SroBrgZmQngdwqDZ
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>Magnus’ Resilience cannot be reduced below 17, and he cannot suffer Perils of the Warp.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!6FrU12ttlgkpYGaO.SroBrgZmQngdwqDZ"
+  - name: Cabbalistic Rituals
+    type: talent
+    _id: XN1boR7RxIZDTdi0
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>This Threat may spend a full action performing arcane rituals, generating 4 Ritual Point(s) each time. TZEENTCH PSYKERS may spend Ritual Points on Ritual Effects (see common rules).</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!6FrU12ttlgkpYGaO.XN1boR7RxIZDTdi0"
+  - name: Gaze of Magnus
+    type: talent
+    _id: yhxpp9hCw2jFFMDg
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>Whenever Magnus manifests the Smite psychic power, it inflicts 3d3 Mortal Wounds.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!6FrU12ttlgkpYGaO.yhxpp9hCw2jFFMDg"
+  - name: Monstrous Creature
+    type: talent
+    _id: TrJONBeVAf6qRs54
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>This Threat is immune to the Fear, Pinned, and Staggered conditions.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!6FrU12ttlgkpYGaO.TrJONBeVAf6qRs54"
+  - name: Primarch of the Thousand Sons
+    type: talent
+    _id: dCrf8RhuOOAWHxl5
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>While allied THOUSAND SONS Threats are within 9m of Magnus, they add +Tier dice when making an Attack, and may re-roll any failures.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!6FrU12ttlgkpYGaO.dCrf8RhuOOAWHxl5"
+  - name: Unearthly Power
+    type: talent
+    _id: whKQkRpzBxRixOhX
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>Magnus may re-roll any failures on Psychic Mastery tests and may spend 1 Ruin to add +Tier additional Exalted Icons to a successful Psychic Mastery test.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!6FrU12ttlgkpYGaO.whKQkRpzBxRixOhX"
+  - name: Mark of Tzeentch
+    type: talent
+    _id: rKji9MyKymvUG7cf
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>Once per scene, when rolling Determination, a TZEENTCH Threat may instantly reduce an attack’s damage to 0 without rolling. TZEENTCH PSYKERS know one additional psychic power.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!6FrU12ttlgkpYGaO.rKji9MyKymvUG7cf"
+  - name: "Battlecry: Arcane Power"
+    type: ability
+    _id: ckxsML0HM2ek6Byb
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ""
+      specification: ""
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>Magnus attempts to activate a single psychic power or performs a ritual. Anyone that can see Magnus must make a DN 7 Terror Test.</p>
+      display: true
+      abilityType: battlecry
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ""
+        wounds: ""
+        shock: ""
+      test:
+        dn: null
+        type: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!6FrU12ttlgkpYGaO.ckxsML0HM2ek6Byb"
+  - name: Lord of Forbidden Lore
+    type: ability
+    _id: vYCbmGPf7mfepIOI
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ""
+      specification: ""
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>Magnus attempts to activate a psychic power. He knows Smite, Deny the Witch, Psyniscience, and all powers from the Discipline of Change or the Discipline of Vengeance (items pack).</p>
+      display: true
+      abilityType: action
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ""
+        wounds: ""
+        shock: ""
+      test:
+        dn: null
+        type: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!6FrU12ttlgkpYGaO.vYCbmGPf7mfepIOI"
+  - name: "Ruin: Arrogance of Aeons"
+    type: ability
+    _id: tMHZtgGzE1JfsU9B
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ""
+      specification: ""
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>Spend 1 Ruin as a Ruin Action. Magnus may attempt to activate a psychic power, Deny the Witch, or perform a ritual.</p>
+      display: true
+      abilityType: ruin
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ""
+        wounds: ""
+        shock: ""
+      test:
+        dn: null
+        type: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!6FrU12ttlgkpYGaO.tMHZtgGzE1JfsU9B"
+  - name: "Annihilation: Banishment"
+    type: ability
+    _id: HAPb0kpc4aF7BoFS
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ""
+      specification: ""
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>If Magnus would be slain, he is banished to the Warp. Add 2 to Ruin.</p>
+      display: true
+      abilityType: annihilation
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ""
+        wounds: ""
+        shock: ""
+      test:
+        dn: null
+        type: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!6FrU12ttlgkpYGaO.HAPb0kpc4aF7BoFS"
+  - name: Determination
+    type: ability
+    _id: Pzx91OGVDP9iYSN7
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ""
+      specification: ""
+      effect: ""
+      cost: 0
+      requirements: ""
+      description: <p>Undying Form (page 91). Spend 1 Ruin to roll 14d6 and re-roll a number of dice equal to the game’s Tier. Magnus may roll Determination against Mortal Wounds.</p>
+      display: true
+      abilityType: determination
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ""
+        wounds: ""
+        shock: ""
+      test:
+        dn: null
+        type: ""
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+    flags: {}
+    _key: "!actors.items!6FrU12ttlgkpYGaO.Pzx91OGVDP9iYSN7"
+effects: []
+sort: 0
+ownership:
+  default: 0
+flags:
+  wrath-and-glory:
+    autoCalc:
+      defence: true
+      resilience: true
+      shock: false
+      awareness: true
+      resolve: true
+      determination: true
+      wounds: true
+      conviction: true
+    autoWounded: true
+    autoExhausted: true
+    generateMetaCurrencies: true
+_key: "!actors!6FrU12ttlgkpYGaO"

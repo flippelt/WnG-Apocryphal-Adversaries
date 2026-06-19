@@ -1,0 +1,19 @@
+name: Oraculae Brazier
+type: gear
+_id: u8wLbbwxmPBRj3Kx
+img: modules/wng-core/assets/icons/gear/gear.webp
+folder: saQHWYxGc1SXQ2AU
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p>As a Simple Action, the Adversary may select one THOUSAND SONS mob or Threat within 6m. Until the start of the Adversary’s next turn, the chosen Threat may re-roll a number of dice equal to the game’s Tier on a single attack.</p>
+  value: 0
+  keywords: ""
+  equipped: false
+  traits: []
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!u8wLbbwxmPBRj3Kx"

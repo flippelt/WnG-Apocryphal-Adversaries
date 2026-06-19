@@ -133,9 +133,15 @@ Converted faction by faction from the source PDFs. See
   Contagion discipline, Adversary Traits, Relics of Decay and Deadly Pathogens).
 - 🔧 **— Emperor's Children (Slaanesh) cult legion done (v0.9.6):** the Noise
   Marine, Slaangor Fiendbloods and **Lucius the Eternal** — plus 12 items
-  (Adversary Traits and Relics of Excess). Thousand Sons → `0.9.8`, World Eaters →
-  `1.0.0` ship next.
-- ⏳ **To do:** Heretic Astartes cult legions (Thousand Sons, World Eaters), then
+  (Adversary Traits and Relics of Excess).
+- 🔧 **— Thousand Sons (Tzeentch) cult legion done (v0.9.8):** 12 actors — Rubric
+  Marines and their Aspiring Sorcerer, the Scarab Occult Terminators and Sorcerer,
+  the Tzaangor herd (Tzaangors, Shaman, Enlightened) and Disc of Tzeentch, the
+  Exalted Sorcerer, Infernal Master, **Ahriman** and the Daemon Primarch
+  **Magnus the Red** — plus 68 items (the Discipline of Change, the Discipline of
+  Vengeance, the Cult Psychic Powers, Adversary Traits and Sorcerous Arcana).
+  World Eaters → `1.0.0` ships next.
+- ⏳ **To do:** the final Heretic Astartes cult legion (World Eaters), then
   the WIP Adeptus Astartes once it is finalised.
 
 **Versioning:** new factions get a **minor** bump (`0.8.0`, `0.9.0`, …); updates

@@ -1,0 +1,47 @@
+name: Temporal Surge
+type: psychicPower
+_id: VG9uwxUXEiyyf3qZ
+img: modules/wng-core/assets/icons/powers/power.webp
+folder: 3S0toEP6OP6Nubcd
+sort: 0
+system:
+  dn: "6"
+  type: ""
+  specification: ""
+  description: <p>All CHAOS allies within range immediately make a normal move. <em>Potency:</em> [1] Affected allies add +1 to Speed. *[2] Affected allies make a Run move instead of a normal move.</p>
+  effect: ""
+  cost: 0
+  activation: Action
+  duration: Instant
+  range: 6m
+  multiTarget: false
+  keywords: CHAOS, TZEENTCH, PSYCHIC
+  prerequisites: Psyker must have the HERETIC ASTARTES and TZEENTCH keywords.
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 0
+      five: 0
+      six: 0
+  otherDamage:
+    mortalWounds: ""
+    wounds: ""
+    shock: ""
+  potency: []
+  test:
+    dn: null
+    type: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!VG9uwxUXEiyyf3qZ"

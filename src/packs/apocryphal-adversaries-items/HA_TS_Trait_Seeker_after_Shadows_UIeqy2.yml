@@ -1,0 +1,17 @@
+name: Seeker after Shadows
+type: talent
+_id: UIeqy2wmi0aP6RqM
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: X86LWrl0ItZv5CWY
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: THOUSAND SONS Adversary only.
+  description: <p>Each time this Adversary attempts to activate a psychic power as part of a Multi-Action, reduce the DN penalty by 2. In addition, when performing a ritual, this Adversary generates one additional Ritual Point.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!UIeqy2wmi0aP6RqM"

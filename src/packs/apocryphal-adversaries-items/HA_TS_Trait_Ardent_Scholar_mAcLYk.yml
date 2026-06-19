@@ -1,0 +1,17 @@
+name: Ardent Scholar
+type: talent
+_id: mAcLYk8aX9Db4FhX
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: X86LWrl0ItZv5CWY
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: THOUSAND SONS Adversary only.
+  description: <p>Each time the Adversary attempts a Psychic Mastery or Scholar test, they may re-roll any dice which roll a 1.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!mAcLYk8aX9Db4FhX"

@@ -1,0 +1,47 @@
+name: Astral Blast
+type: psychicPower
+_id: S8X6EzXU6dVbsrHL
+img: modules/wng-core/assets/icons/powers/power.webp
+folder: KRpt4qMzVOwmRqKC
+sort: 0
+system:
+  dn: "5"
+  type: ""
+  specification: ""
+  description: <p>Select a single visible enemy within range. That enemy suffers 3d3 Mortal Wounds; any other enemy within 3m suffers 1d3 Mortal Wounds. <em>Potency:</em> [3] The initial target suffers +1d3 Mortal Wounds. [1] The splash distance increases by +1.</p>
+  effect: ""
+  cost: 0
+  activation: Action
+  duration: Instant
+  range: 12m
+  multiTarget: false
+  keywords: CHAOS, TZEENTCH, PSYCHIC
+  prerequisites: Psyker must have the CHAOS and TZEENTCH keywords.
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 0
+      five: 0
+      six: 0
+  otherDamage:
+    mortalWounds: ""
+    wounds: ""
+    shock: ""
+  potency: []
+  test:
+    dn: null
+    type: ""
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!S8X6EzXU6dVbsrHL"

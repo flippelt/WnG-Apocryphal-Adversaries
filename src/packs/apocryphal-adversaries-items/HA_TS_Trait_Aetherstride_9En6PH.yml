@@ -1,0 +1,17 @@
+name: Aetherstride
+type: talent
+_id: 9En6PHkE7VqBgesk
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: X86LWrl0ItZv5CWY
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: THOUSAND SONS Adversary only.
+  description: <p>The Adversary’s Speed is increased by +3. When the Adversary moves, they may instantly vanish from one spot and appear at their destination (the distance is unchanged, but they teleport rather than walk/run), ignoring intervening terrain, and may leave Engagement range without provoking a reaction attack.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!9En6PHkE7VqBgesk"

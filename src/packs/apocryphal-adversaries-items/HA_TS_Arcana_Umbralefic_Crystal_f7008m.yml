@@ -1,0 +1,19 @@
+name: Umbralefic Crystal
+type: gear
+_id: f7008ml5AWuGq4hv
+img: modules/wng-core/assets/icons/gear/gear.webp
+folder: saQHWYxGc1SXQ2AU
+sort: 0
+system:
+  quantity: 1
+  rarity: unique
+  description: <p>Once per scene, instead of moving, select the Adversary or a group of up to nine THOUSAND SONS allies within 6m. The selected Threats vanish and reappear anywhere on the battlefield more than 9m from an enemy.</p>
+  value: 0
+  keywords: ""
+  equipped: false
+  traits: []
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!f7008ml5AWuGq4hv"

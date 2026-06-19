@@ -1,0 +1,17 @@
+name: Grand Schemer
+type: talent
+_id: DIL6h9hC6WlJPmBb
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: X86LWrl0ItZv5CWY
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: THOUSAND SONS Adversary only.
+  description: <p>While within 3m of this Adversary, THOUSAND SONS Threats reduce the DN penalty of a Multi-Action by 2.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!DIL6h9hC6WlJPmBb"

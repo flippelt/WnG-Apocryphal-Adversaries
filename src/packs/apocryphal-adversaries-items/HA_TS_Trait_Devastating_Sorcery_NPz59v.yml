@@ -1,0 +1,17 @@
+name: Devastating Sorcery
+type: talent
+_id: NPz59vtrlR0Ss2fr
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: X86LWrl0ItZv5CWY
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: THOUSAND SONS Adversary only.
+  description: <p>When attempting to activate Smite or another psychic power which directly inflicts damage, the Adversary may re-roll failures on the Psychic Mastery test.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!NPz59vtrlR0Ss2fr"

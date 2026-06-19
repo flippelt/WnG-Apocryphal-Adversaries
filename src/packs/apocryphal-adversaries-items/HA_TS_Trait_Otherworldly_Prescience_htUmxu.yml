@@ -1,0 +1,17 @@
+name: Otherworldly Prescience
+type: talent
+_id: htUmxuE7DjngQp5P
+img: modules/wng-core/assets/icons/talents/talent.webp
+folder: X86LWrl0ItZv5CWY
+sort: 0
+system:
+  effect: ""
+  cost: 0
+  requirements: THOUSAND SONS Adversary only.
+  description: <p>Once per scene when rolling Determination for this Adversary, Wounds are negated rather than converted to Shock.</p>
+  display: true
+effects: []
+ownership:
+  default: 0
+flags: {}
+_key: "!items!htUmxuE7DjngQp5P"
