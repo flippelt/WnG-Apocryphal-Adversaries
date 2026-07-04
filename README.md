@@ -1,5 +1,7 @@
 # An Abundance of Apocryphal Adversaries for Foundry VTT
 
+[![Last commit](https://img.shields.io/github/last-commit/flippelt/WnG-Apocryphal-Adversaries)](https://github.com/flippelt/WnG-Apocryphal-Adversaries/commits)
+
 A bestiary module for the **Wrath & Glory** system (Cubicle 7) on Foundry VTT,
 adapting the **threats** from Nathan Dowdell's *An Abundance of Apocryphal
 Adversaries* — the bestiary companion to *An Abundance of Apocrypha* — converted
