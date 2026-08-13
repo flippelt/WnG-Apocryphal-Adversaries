@@ -24,10 +24,11 @@ const fail = (where, message) => errors.push(`${where}: ${message}`);
 
 // `!<collection>!<id>` for top-level documents; embedded docs use a longer key.
 const KEY_COLLECTION = { Actor: "actors", Item: "items" };
-// Foundry generates 16-character ids, but hand-written mnemonic ones are valid
-// too (several Heretic Astartes folders use 15) — what matters is that an id is
-// alphanumeric, plausible, and unique, not that it is exactly 16 long.
-const ID_PATTERN = /^[A-Za-z0-9]{8,16}$/;
+// Foundry v14 validates document ids strictly: exactly 16 alphanumeric
+// characters, no more, no less. Hand-written mnemonic ids are fine so long as
+// they hit that length — shorter ones (three Heretic Astartes folders used 15)
+// throw a DataModelValidationError and abort loading the whole compendium.
+const ID_PATTERN = /^[A-Za-z0-9]{16}$/;
 
 const module = JSON.parse(await readFile(join(root, "module.json"), "utf8"));
 const declared = module.packs ?? [];
