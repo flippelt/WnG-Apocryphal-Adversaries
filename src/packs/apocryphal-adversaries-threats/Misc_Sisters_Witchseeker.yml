@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Anathema Psykana Witchseeker — flamer-armed Sisters of Silence deployed for close-range purging of psykers, abhumans and criminals.</p>
 prototypeToken:
   name: Anathema Psykana Witchseeker

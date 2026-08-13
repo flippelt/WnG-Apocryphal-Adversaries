@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Longstrike (T’au Sha’ng) — the Fire Caste’s most heralded tank ace, piloting a TX-7 Hammerhead via a unique XV02 Pilot Battlesuit with no need for crew.</p>
 prototypeToken:
   name: Longstrike

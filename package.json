@@ -10,7 +10,7 @@
     "validate": "node tools/validate.mjs"
   },
   "devDependencies": {
-    "@foundryvtt/foundryvtt-cli": "^1.0.4",
+    "@foundryvtt/foundryvtt-cli": "^3.0.4",
     "js-yaml": "^4.3.1"
   }
 }

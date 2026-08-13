@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Bloodthirster — the Greater Daemon of Khorne, a towering winged avatar of rage and total war.</p>
 prototypeToken:
   name: Bloodthirster, Greater Daemon of Khorne

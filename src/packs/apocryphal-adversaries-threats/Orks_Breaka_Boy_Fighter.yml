@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Breaka Boy Fighter — gets up close and personal, pulping anything the boss points at with a smash hammer.</p>
 prototypeToken:
   name: Breaka Boy Fighter

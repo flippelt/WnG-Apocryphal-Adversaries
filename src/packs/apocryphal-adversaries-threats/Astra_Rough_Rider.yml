@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Rough Rider — mounted cavalry from feral/feudal/frontier worlds; charges with a one-use Hunting Lance, then fights with lasgun and laspistol.</p>
 prototypeToken:
   name: Rough Rider

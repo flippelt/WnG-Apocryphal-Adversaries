@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Malignant Plaguecaster — a warp-rotted Death Guard sorcerer who belches lethal plague-clouds across the battlefield.</p>
 prototypeToken:
   name: Malignant Plaguecaster

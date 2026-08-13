@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>MV84 Shielded Missile Drone — supports the experimental XV104 Riptide, combining a missile system and shield generator in a Tactical Drone chassis.</p>
 prototypeToken:
   name: MV84 Shielded Missile Drone

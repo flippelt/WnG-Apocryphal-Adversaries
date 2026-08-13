@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Rubric Marine — a disembodied Thousand Sons spirit trapped in sealed power armour, animated only at a sorcerer’s command.</p>
 prototypeToken:
   name: Rubric Marine

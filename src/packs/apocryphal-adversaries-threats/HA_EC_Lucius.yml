@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Lucius the Eternal — the undefeatable swordsman-champion of Slaanesh; whoever kills him and takes pride in it becomes the next Lucius.</p>
 prototypeToken:
   name: Lucius the Eternal

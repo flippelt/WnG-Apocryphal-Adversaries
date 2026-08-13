@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Juggernaut of Khorne — a daemonic beast of brass and iron, nigh-unstoppable, that crushes foes beneath brazen hooves and bladed horns.</p>
 prototypeToken:
   name: Juggernaut of Khorne

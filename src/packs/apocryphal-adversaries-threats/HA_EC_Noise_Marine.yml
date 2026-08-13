@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Noise Marine — a Slaanesh-devoted hedonist who tears the foe apart with deafening Sonic Weapons.</p>
 prototypeToken:
   name: Noise Marine

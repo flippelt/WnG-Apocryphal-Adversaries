@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Stumper Muckstart — a Ratling trick-shooter and gambler turned regimental sharpshooter, the best shot in his regiment.</p>
 prototypeToken:
   name: Stumper Muckstart

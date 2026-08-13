@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Neurothrope — an alpha Zoanthrope that leeches the life force of its foes to fuel its attacks and stave off the psychic overload that kills lesser Zoanthropes; said to descend from the Doom of Malan’tai.</p>
 prototypeToken:
   name: Neurothrope

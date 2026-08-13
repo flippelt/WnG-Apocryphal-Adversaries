@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Comms Veteran — a consummate professional carrying heavy vox equipment to coordinate the squad amidst the confusion of battle.</p>
 prototypeToken:
   name: Comms Veteran

@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Kommando Dakka Boy — lays down a hail of automatic fire from his Dakka Shoota.</p>
 prototypeToken:
   name: Kommando Dakka Boy

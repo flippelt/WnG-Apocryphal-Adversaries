@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Hrud Verminkin — the rank-and-file of a Hrud migration, herded into battle in great numbers and reinforced as a seething swarm.</p>
 prototypeToken:
   name: Hrud Verminkin

@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Blightlord Terminator — elite Death Guard shock troops in Cataphractii warplate, terrifyingly hard to kill.</p>
 prototypeToken:
   name: Blightlord Terminator

@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Abaddon the Despoiler, Warmaster of Chaos — master of the Black Legion and greatest Champion of Chaos Undivided; arguably a Tier 6 adversary.</p>
 prototypeToken:
   name: Abaddon the Despoiler

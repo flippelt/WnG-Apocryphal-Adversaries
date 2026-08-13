@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Exalted Sorcerer — the most favoured of Tzeentch’s mortal servants, warlords commanding the Legion’s armies from their Silver Towers. May be mounted on a Disc of Tzeentch.</p>
 prototypeToken:
   name: Exalted Sorcerer

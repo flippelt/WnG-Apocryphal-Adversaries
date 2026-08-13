@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Fellgor Fluxbray — gifted with an extra limb to wield a multitude of cleavers; its blows are all but impossible to evade.</p>
 prototypeToken:
   name: Fellgor Fluxbray

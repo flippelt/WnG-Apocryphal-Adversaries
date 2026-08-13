@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Wrack — a Drukhari dissected and refashioned by the Haemonculi into a masked living instrument of torture, serving as their assistant and bodyguard.</p>
 prototypeToken:
   name: Wrack

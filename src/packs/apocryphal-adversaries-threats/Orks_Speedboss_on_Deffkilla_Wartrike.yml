@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: "<p>Fast-moving fighting platforms favoured by some Speed Freek Warbosses, Deffkilla Wartrikes make little concession to armour: scythe-wheeled, with an enormous rokkit-engine afterburner, they move at a vulgar pace and pack enough firepower to be extra killy. The Speedboss and driver alike are completely exposed, but happy to prove their toughness by ploughing headlong into the biggest enemy formation they can find.</p><p><em>The Speedboss is mounted on a Deffkilla Wartrike (Church of Steel, p.104 &mdash; use that vehicle, e.g. from the wng-cos module, if available).</em></p>"
 prototypeToken:
   name: Speedboss on Deffkilla Wartrike

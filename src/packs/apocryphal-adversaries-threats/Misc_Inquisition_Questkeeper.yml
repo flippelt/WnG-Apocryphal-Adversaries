@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Inquisition Questkeeper — fanatical Knights-Errant who execute sworn quests to slaughter heretics and traitors.</p>
 prototypeToken:
   name: Inquisition Questkeeper

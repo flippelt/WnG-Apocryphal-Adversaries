@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Arbites Vox-Signifier — listens for coded missives on a precinct vox-relay and calls in reinforcements.</p>
 prototypeToken:
   name: Arbites Vox-Signifier

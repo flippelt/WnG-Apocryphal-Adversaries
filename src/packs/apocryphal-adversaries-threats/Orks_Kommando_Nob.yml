@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Kommando Nob — the sneakiest of sneaky gits, brutal and cunning enough to boss about the most conniving of his kind.</p>
 prototypeToken:
   name: Kommando Nob

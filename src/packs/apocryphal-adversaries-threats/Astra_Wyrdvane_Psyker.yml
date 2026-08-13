@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Wyrdvane Psyker — a low-level sanctioned psyker who draws strength from a choir of his fellows; fights in mobs.</p>
 prototypeToken:
   name: Wyrdvane Psyker

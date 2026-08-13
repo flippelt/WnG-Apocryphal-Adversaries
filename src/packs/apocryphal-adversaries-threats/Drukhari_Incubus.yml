@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Incubus — a mercenary devotee of Khaine who has perfected the killing strike with the klaive; sells his loyalty as bodyguard or shock trooper to any who can pay.</p>
 prototypeToken:
   name: Incubus

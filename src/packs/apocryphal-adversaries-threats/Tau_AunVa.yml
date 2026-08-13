@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Aun’Va — the Ethereal Supreme and head of state of the T’au Empire, the “Master of the Undying Spirit,” borne into battle upon a Hover Throne.</p>
 prototypeToken:
   name: Aun’Va

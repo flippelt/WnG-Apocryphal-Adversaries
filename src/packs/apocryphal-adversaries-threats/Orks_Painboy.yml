@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: >-
     <p>An Ork Painboy (also Mad Dok, or just Dok) is the Oddboy who fixes injuries
     even the regenerative Ork physiology cannot repair &mdash; severed limbs,

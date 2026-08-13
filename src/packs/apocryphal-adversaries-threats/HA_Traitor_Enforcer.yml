@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Traitor Enforcer — a sadistic discipline officer (a mockery of a Commissar) who drives the Traitor Guard on through fear. (Printed Resilience 7.)</p>
 prototypeToken:
   name: Traitor Enforcer

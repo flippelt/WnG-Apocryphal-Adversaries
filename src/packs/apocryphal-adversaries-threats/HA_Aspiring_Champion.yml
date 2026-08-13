@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Legionary Aspiring Champion — the strongest and most merciless of their brothers, seeking to become favoured of the gods.</p>
 prototypeToken:
   name: Legionary Aspiring Champion

@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Skysplinter Assassin — hunts with a linked Razorwing, marking prey for the kill from the skies.</p>
 prototypeToken:
   name: Skysplinter Assassin

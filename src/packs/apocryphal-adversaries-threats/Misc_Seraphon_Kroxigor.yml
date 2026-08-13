@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Kroxigor — a monstrously strong crocodilian Seraphon brute that wades into battle alongside massed skink cohorts.</p>
 prototypeToken:
   name: Kroxigor

@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Canoptek Reanimators stalk the battlefield projecting nano-scarab beams that rapidly repair and reanimate the Necron forces around them.</p>
 prototypeToken:
   name: Canoptek Reanimator

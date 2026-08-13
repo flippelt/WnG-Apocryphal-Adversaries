@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Foetid Bloat-drone — a buzzing Nurgle Daemon Engine that drifts over the battlefield spraying hyper-toxic slime or mulching foes with a Fleshmower. Speed 10 (Flight).</p>
 prototypeToken:
   name: Foetid Bloat-drone

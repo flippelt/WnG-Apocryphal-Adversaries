@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Maulerfiend — a wall-climbing "Stalker-tank" Daemon Engine built for close combat, ending in prehensile clawed power fists.</p>
 prototypeToken:
   name: Maulerfiend

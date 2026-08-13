@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Tempestor Prime — a grizzled officer leading a Militarum Tempestus platoon, promoted on battlefield record alone. (Printed Conviction 3 / Resolve 2 reproduced via −2 bonuses.)</p>
 prototypeToken:
   name: Tempestor Prime

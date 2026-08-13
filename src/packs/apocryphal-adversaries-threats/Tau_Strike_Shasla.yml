@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: "<p>Strike Shas’la — the most common Fire Warrior deployment: shock troops who lay down sheets of withering pulse rifle fire, throwing photon grenades and calling in support turrets.</p>"
 prototypeToken:
   name: Strike Shas’la

@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Saurian — a mighty predatory reptile mount of considerable strength and ferocity.</p>
 prototypeToken:
   name: Saurian

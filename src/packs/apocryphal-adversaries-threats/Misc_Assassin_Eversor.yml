@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Eversor Assassin — a drug-fuelled engine of shock and terror that detonates in a bio-meltdown when finally slain.</p>
 prototypeToken:
   name: Eversor Assassin

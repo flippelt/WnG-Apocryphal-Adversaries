@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Howling Banshee Exarch — a master duellist who may wield an Executioner, paired Mirrorswords, or a Triskele; her war shout is even more devastating than her sisters’.</p>
 prototypeToken:
   name: Howling Banshee Exarch

@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Khârn the Betrayer — the greatest mortal Champion of Khorne, wielding the chainaxe Gorechild; second only to Angron in aggression and bloodlust.</p>
 prototypeToken:
   name: Khârn the Betrayer

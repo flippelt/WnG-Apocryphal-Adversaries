@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Imotekh the Stormlord — Phaeron of the Sautekh Dynasty and perhaps the most accomplished Overlord in the galaxy, ruling a stellar empire of eighty Tomb Worlds.</p>
 prototypeToken:
   name: Imotekh the Stormlord

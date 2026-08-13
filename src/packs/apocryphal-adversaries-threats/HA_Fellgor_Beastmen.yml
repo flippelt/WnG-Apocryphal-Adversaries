@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Fellgor Beastmen — ill-disciplined Abhuman brutes who follow only the strong; keen-sensed hunters convinced the gods favour them.</p>
 prototypeToken:
   name: Fellgor Beastmen

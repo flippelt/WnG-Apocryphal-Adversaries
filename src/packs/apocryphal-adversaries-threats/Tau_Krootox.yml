@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Krootox — a massive, dead-end Kroot evolution used as a mobile weapons platform, carrying a Kroot Gun and a Kroot rider.</p>
 prototypeToken:
   name: Krootox

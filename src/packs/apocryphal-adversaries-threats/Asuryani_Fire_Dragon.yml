@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Fire Dragon — Aspect Warriors of pure destruction wielding fusion guns and melta bombs to annihilate enemy armour and strongpoints.</p>
 prototypeToken:
   name: Fire Dragon

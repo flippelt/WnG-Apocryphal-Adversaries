@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Traitor Chieftain — rules a Traitor Guard warband through will, violence and charisma, claiming the pick of the battlefield’s spoils.</p>
 prototypeToken:
   name: Traitor Chieftain

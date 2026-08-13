@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Maugan Ra, the Harvester of Souls — founder of the Dark Reapers and last survivor of doomed Altansar, wielding the Maugetar.</p>
 prototypeToken:
   name: Maugan Ra, The Harvester of Souls

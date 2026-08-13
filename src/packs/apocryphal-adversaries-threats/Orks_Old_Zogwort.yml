@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Old Zogwort is the greatest of all Ork Weirdboyz, having lost one eye in a blast that destroyed an entire Imperial Guard company (though he claims Mork guided him). Born under a total eclipse in a nest of bloodvipers that bit him until he bit back, no snake will touch him; he left his Feral Ork tribe with his squig-snake pets to form the Weirdwaaagh!. He knows Smite, the WAAAGH! discipline and the Beasthead discipline (all included).</p>
 prototypeToken:
   name: Old Zogwort

@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: "<p>Astra Militarum Infantry — the generic Guardsman squad: disciplined, expendable lasgun-armed soldiers whose strength is massed firepower. One trooper in ten may take a special weapon or a Vox-Caster.</p>"
 prototypeToken:
   name: Astra Militarum Infantry

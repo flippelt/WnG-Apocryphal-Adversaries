@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Fluxmaster — a Herald of Tzeentch who rides a Disc of Tzeentch, reshaping reality in his wake. Knows 2 Pandaemoniac powers.</p>
 prototypeToken:
   name: Fluxmaster, Herald of Tzeentch

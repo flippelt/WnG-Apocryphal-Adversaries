@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Trygon — a colossal serpentine burrower wreathed in bio-static lightning that towers over a Carnifex; it tunnels behind enemy lines, heralding a larger attack through the passages left in its wake.</p>
 prototypeToken:
   name: Trygon

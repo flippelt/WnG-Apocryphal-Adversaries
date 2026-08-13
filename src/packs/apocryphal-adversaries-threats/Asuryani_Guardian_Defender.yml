@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: "<p>Guardian Defender — the militia infantry of a craftworld: civilians who don their war masks and take up shuriken catapults, supported by anti-grav heavy weapons platforms.</p>"
 prototypeToken:
   name: Guardian Defender

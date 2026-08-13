@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>The Nightbringer — Aza’gorod — the first and most powerful of the C’Tan, the Star God of death and darkness, manifesting as a towering reaper that even the Necrons fear.</p>
 prototypeToken:
   name: C’Tan Shard of the Nightbringer

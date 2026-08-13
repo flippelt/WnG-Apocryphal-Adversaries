@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Sslyth — a four-armed, serpentine mercenary xenos, all but inured to pain and happy to be paid in slaves and gratification; the most reliable bodyguard an Archon can buy.</p>
 prototypeToken:
   name: Sslyth

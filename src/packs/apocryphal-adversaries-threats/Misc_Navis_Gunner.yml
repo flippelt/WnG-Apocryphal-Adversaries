@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Navis Gunner — carries the squad’s heaviest ranged weapons, from las-volleys to meltaguns and plasma guns.</p>
 prototypeToken:
   name: Navis Gunner

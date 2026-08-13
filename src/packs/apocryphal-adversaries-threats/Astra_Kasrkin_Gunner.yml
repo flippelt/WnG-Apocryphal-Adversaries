@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Kasrkin Gunner — special-weapon expert (Flamer, Hot-Shot Volley Gun, Meltagun, Plasma Gun, or Grenade Launcher).</p>
 prototypeToken:
   name: Kasrkin Gunner

@@ -7,7 +7,11 @@ adapting the **threats** from Nathan Dowdell's *An Abundance of Apocryphal
 Adversaries* — the bestiary companion to *An Abundance of Apocrypha* — converted
 here **with his permission**.
 
-> Compatible with Foundry VTT **v11–v14**. Module id: `wng-apocryphal-adversaries`.
+> Compatible with Foundry VTT **v11 and later**, verified on **v14**. Module id: `wng-apocryphal-adversaries`.
+>
+> Note: Wrath & Glory system **8.0.0 and later is Foundry v14 exclusive**, so on a
+> current system install you will be on v14. Older Foundry generations still work
+> with correspondingly older system releases.
 >
 > Companion to the [An Abundance of Apocrypha](https://github.com/flippelt/WnG-Apocrypha-FoundryVTT)
 > module (archetypes, talents, wargear, etc.).

@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Fellgor Herd-Goad — drives its fellows to fury with an empyric crackthorn whip, harming the enemy with the same lash.</p>
 prototypeToken:
   name: Fellgor Herd-Goad

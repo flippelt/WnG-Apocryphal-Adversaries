@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>MV-8 Missile Drone — found supporting heavy units such as XV88 Broadside Battlesuits.</p>
 prototypeToken:
   name: MV-8 Missile Drone

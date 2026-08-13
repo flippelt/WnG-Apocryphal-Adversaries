@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Cadre Fireblade — a grizzled Fire Warrior leader who eschews battlesuit tech to direct infantry firepower, drilling overlapping fields of merciless pulse fire.</p>
 prototypeToken:
   name: Fire Caste Cadre Fireblade

@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Tankbusta Rokkiteer — spends all its teef on rokkit racks and pulsa rokkitz that knock the enemy flat.</p>
 prototypeToken:
   name: Tankbusta Rokkiteer

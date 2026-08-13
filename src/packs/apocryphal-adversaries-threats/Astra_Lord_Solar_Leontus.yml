@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Lord Commander Solar Arcadian Leontus — supreme commander of the Astra Militarum in the Segmentum Solar, who rides to war on his cybernetic stallion Konstantin.</p>
 prototypeToken:
   name: Lord Commander Solar Leontus

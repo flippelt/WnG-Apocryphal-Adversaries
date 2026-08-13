@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Venomthrope — a floating chemical-weapon dispenser whose whip-tendrils drip lethal toxins and whose shrouding spore cloud grants nearby Tyranids cover; deadliest in enclosed spaces.</p>
 prototypeToken:
   name: Venomthrope

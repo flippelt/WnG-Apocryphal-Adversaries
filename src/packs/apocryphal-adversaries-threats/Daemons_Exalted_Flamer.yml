@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Exalted Flamer of Tzeentch — a champion Flamer wielding Blue and Pink Fire; sometimes crews a Burning Chariot.</p>
 prototypeToken:
   name: Exalted Flamer of Tzeentch

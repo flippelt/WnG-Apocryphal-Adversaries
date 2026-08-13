@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Hardened Veteran — steel in body and mind, fighting on through horrific wounds with bionic replacements (Resilience 9).</p>
 prototypeToken:
   name: Hardened Veteran

@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Obliterator — a monstrous Human/Daemon/machine hybrid fused to its armour, conjuring heavy weapons from its titanium-laced flesh.</p>
 prototypeToken:
   name: Obliterator

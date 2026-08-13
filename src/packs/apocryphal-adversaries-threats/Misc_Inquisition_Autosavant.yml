@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Inquisition Autosavant — a heavily bionic recorder who never ceases scribbling every word and deed it witnesses.</p>
 prototypeToken:
   name: Inquisition Autosavant

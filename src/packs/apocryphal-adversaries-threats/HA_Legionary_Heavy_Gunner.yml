@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Legionary Heavy Gunner — provides devastating anti-infantry and anti-armour firepower with a heavy weapon.</p>
 prototypeToken:
   name: Legionary Heavy Gunner

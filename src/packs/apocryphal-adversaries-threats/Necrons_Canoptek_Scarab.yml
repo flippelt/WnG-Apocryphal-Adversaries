@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>A Canoptek Scarab is a small, beetle-like Necron construct that breaks organic and inorganic matter into raw energy; deadly only in all-devouring swarms.</p>
 prototypeToken:
   name: Canoptek Scarab

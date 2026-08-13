@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Dark Reaper Exarch — lays down a lethal hail of fire without loss of accuracy, wielding a variety of heavy weapons.</p>
 prototypeToken:
   name: Dark Reaper Exarch

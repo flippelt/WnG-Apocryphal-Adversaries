@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Kroot Carnivore — a savage avian-descended mercenary that evolves by eating its prey; an arboreal ambush hunter armed with a bladed Kroot rifle.</p>
 prototypeToken:
   name: Kroot Carnivore

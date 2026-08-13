@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Fabius Bile — the Clone Lord and Manflayer; a Chaos Space Marine Apothecary obsessed with perfecting the Human form.</p>
 prototypeToken:
   name: Fabius Bile

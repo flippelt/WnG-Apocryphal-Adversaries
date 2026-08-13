@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: "<p>Bloodcrusher — the shock cavalry of Khorne: a battle-frenzied Bloodletter astride an unstoppable brass Juggernaut. (Rider’s Hellblade included.)</p>"
 prototypeToken:
   name: Bloodcrusher of Khorne

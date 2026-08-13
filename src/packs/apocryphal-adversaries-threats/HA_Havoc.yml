@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Havoc — a heavy-weapons specialist who lays down devastating supporting fire and dominates whole swathes of the battlefield.</p>
 prototypeToken:
   name: Havoc

@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>DS8 Tactical Support Turret — a light drone-operated turret air-dropped to support Fire Warrior teams, armed with a Missile Pod or Smart Missile System and rigged to self-destruct if abandoned.</p>
 prototypeToken:
   name: DS8 Tactical Support Turret

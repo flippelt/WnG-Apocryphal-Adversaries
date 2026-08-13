@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Wraithguard — wraithbone Ghost Warrior constructs housing the spirit of an elite Aeldari, wielding reality-tearing Wraithcannons or D-Scythes.</p>
 prototypeToken:
   name: Wraithguard

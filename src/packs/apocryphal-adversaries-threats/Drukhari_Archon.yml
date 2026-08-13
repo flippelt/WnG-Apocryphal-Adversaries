@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Archon — the lord of a Drukhari Kabal and a true power of Commorragh, surviving the byzantine intrigues of the Dark City through cunning and cruelty; shielded by an invulnerable Shadow Field.</p>
 prototypeToken:
   name: Archon

@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Blue Horror — a sullen, malicious replica spawned when a Pink Horror dies; splits into two Brimstone Horrors when slain.</p>
 prototypeToken:
   name: Blue Horror of Tzeentch

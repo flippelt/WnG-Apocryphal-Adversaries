@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Daemonette — the lithe, dexterous Maiden of Ecstasy, a Lesser Daemon of Slaanesh that tears foes apart with piercing claws.</p>
 prototypeToken:
   name: Daemonette of Slaanesh

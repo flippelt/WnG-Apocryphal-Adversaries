@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Hive Tyrant (Tyranicus praefactor) — the massive, self-aware battlefield commander of a swarm; a potent psyker whose experiences are stored in the Hive Mind, making it effectively immortal.</p>
 prototypeToken:
   name: Hive Tyrant

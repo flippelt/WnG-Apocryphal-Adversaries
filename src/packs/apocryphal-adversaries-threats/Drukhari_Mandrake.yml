@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Mandrake — a living shadow that pulls itself through other beings’ shadows to sink frigid claws into flesh; secretly feared even by other Drukhari, dwelling in the shadow-realm of Aelindrach.</p>
 prototypeToken:
   name: Mandrake

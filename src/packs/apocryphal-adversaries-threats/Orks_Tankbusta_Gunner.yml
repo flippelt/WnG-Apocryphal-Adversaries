@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Tankbusta Gunner — a Wrecka armed with a rokkit launcha and an incredibly itchy trigger finger for armoured vehicles.</p>
 prototypeToken:
   name: Tankbusta Gunner

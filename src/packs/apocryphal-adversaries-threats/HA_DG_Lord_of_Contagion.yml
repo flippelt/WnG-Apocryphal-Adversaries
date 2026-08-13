@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Lord of Contagion — a pugnacious Death Guard lord of the Mantle of Contagion, advancing relentlessly with a giant Plaguereaper Axe.</p>
 prototypeToken:
   name: Lord of Contagion

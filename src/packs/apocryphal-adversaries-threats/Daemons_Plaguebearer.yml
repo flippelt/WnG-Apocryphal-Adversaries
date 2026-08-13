@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Plaguebearer — the droning Tallyman foot soldier of Nurgle’s Plague Legions, bearing a Plague Sword.</p>
 prototypeToken:
   name: Plaguebearer of Nurgle

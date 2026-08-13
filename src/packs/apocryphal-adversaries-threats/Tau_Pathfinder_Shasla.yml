@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Pathfinder Shas’la — light reconnaissance scouts who designate priority targets with markerlights and guide the fire of their Hunter Cadre.</p>
 prototypeToken:
   name: Pathfinder Shas’la

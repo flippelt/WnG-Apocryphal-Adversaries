@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Mozrog has always preferred the company of Squigs to other Orks, spending his life hunting one monstrous beast after another in self-imposed exile. After being swallowed by a Gutmaw and clawing his way out (dragging the creature's eyeballs behind him), Warboss Gobgrinda had the best Painboyz rebuild him with bioniks. His primary companion is the great albino Squig <strong>Big Chompa</strong>, the untameable badbeast he quelled over three days of bludgeoning and wrestling.</p>
 prototypeToken:
   name: Mozrog Skragbad

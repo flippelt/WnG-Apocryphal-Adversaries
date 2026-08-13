@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Storm Guardian — craftworld militia drawn to close combat, wading in with shuriken pistols and blades; rare but graceful assault troops supporting the Aspect Warriors.</p>
 prototypeToken:
   name: Storm Guardian

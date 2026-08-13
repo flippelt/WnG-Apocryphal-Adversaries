@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Eightbound — World Eaters possessed by eight daemons at once, locked in a constant battle for their souls; among the most terrifying combatants in the galaxy. Printed Resilience 12.</p>
 prototypeToken:
   name: Eightbound

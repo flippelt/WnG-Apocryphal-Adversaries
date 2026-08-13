@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Canoptek Spyders are massive anti-grav constructs that build Scarabs, repair tomb systems and guard their slumbering masters with Fabricator Claws.</p>
 prototypeToken:
   name: Canoptek Spyder

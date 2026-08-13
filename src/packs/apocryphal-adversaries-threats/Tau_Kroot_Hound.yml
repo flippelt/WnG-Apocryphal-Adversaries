@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Kroot Hound — a quadrupedal, canine evolution of the Kroot that runs down prey; ferocious, bad-tempered and able to take terrible punishment.</p>
 prototypeToken:
   name: Kroot Hound

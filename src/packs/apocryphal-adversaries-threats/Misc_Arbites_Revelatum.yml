@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Arbites Revelatum — scouts who reconnoitre targets in advance and use soulguilt scanners to lead Arbitrators to the guilty.</p>
 prototypeToken:
   name: Arbites Revelatum

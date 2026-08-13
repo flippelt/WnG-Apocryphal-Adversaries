@@ -56,6 +56,9 @@ jobs:
           [ -d assets ] && cp -r assets "dist/$ID/" || true
           for d in packs/*/; do [ -d "$d" ] && cp -r "$d" "dist/$ID/packs/" || true; done
           find "dist/$ID/packs" -name "*.db" -delete 2>/dev/null || true
+          # LevelDB runtime artefacts: Foundry recreates these on first open,
+          # and a stale LOCK/LOG only bloats the download.
+          find "dist/$ID/packs" \( -name "LOCK" -o -name "LOG" -o -name "LOG.old" \) -delete 2>/dev/null || true
           find "dist/$ID/packs" -type d -name lost -exec rm -rf {} + 2>/dev/null || true
           (cd dist && zip -qr "../$ID.zip" "$ID")
           ls -la "$ID.zip"

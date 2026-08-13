@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Commander Kubrik Chenkov — the ruthless Valhallan 18th “Tundra Wolves” commander who feeds endless conscript waves into the meat-grinder.</p>
 prototypeToken:
   name: Commander Kubrik Chenkov

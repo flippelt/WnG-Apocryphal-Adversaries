@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Skryre Warplock-Engineer — a Clan Skryre techno-sorcerer who scurries to war with arcane warp-engines strapped to its back.</p>
 prototypeToken:
   name: Skryre Warplock-Engineer

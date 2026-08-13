@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Aspiring Sorcerer — leads the marching Rubricae and funnels Tzaangors and cultists towards the foe; aspires to become an Exalted Sorcerer.</p>
 prototypeToken:
   name: Aspiring Sorcerer

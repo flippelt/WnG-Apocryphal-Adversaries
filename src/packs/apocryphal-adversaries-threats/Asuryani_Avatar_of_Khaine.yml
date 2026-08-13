@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Avatar of Kaela Mensha Khaine — the incarnation of the Bloody-Handed God of war, a god made manifest at the heart of a Craftworld. (Printed Conviction 6 / Resolve 5 reproduced via −3 bonuses; the Avatar auto-passes via Khaine Awakened.)</p>
 prototypeToken:
   name: Avatar of Kaela Mensha Khaine

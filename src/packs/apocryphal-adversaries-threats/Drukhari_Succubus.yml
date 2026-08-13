@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Succubus — the ruling elite of a Wych Cult, a hypnotically graceful avatar of murder who feeds on fear and slaughter to preserve her perfect beauty.</p>
 prototypeToken:
   name: Succubus

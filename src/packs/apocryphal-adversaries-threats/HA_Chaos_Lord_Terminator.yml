@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Chaos Lord in Terminator Armour — a conqueror of worlds in ancient Tactical Dreadnought plate, leading from the front.</p>
 prototypeToken:
   name: Chaos Lord in Terminator Armour

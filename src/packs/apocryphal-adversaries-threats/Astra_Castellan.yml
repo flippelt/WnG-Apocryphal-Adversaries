@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Castellan — a senior Astra Militarum officer (Captain/Major/Colonel) who issues one or two Regimental Orders. May take a Bolt Pistol/Boltgun/Plasma Pistol and a Power Sword/Power Fist.</p>
 prototypeToken:
   name: Castellan

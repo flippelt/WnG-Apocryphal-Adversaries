@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Warp Talon — a Raptor warped by long exposure to the Immaterium, striking from nowhere with daemonic warp-claws. Speed 14 (Flight).</p>
 prototypeToken:
   name: Warp Talon

@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Pyrovore — a stomach-laden Tyranid that pre-digests biomass and spews a searing Flamespurt; its acidic blood scalds attackers and its volatile innards can erupt when it dies. Its weapon-symbiote has a mind of its own.</p>
 prototypeToken:
   name: Pyrovore

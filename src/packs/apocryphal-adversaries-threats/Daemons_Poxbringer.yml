@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Poxbringer — a Herald of Nurgle, a champion Plaguebearer who projects an aura of disease and wields a Foul Balesword. Knows 1 Warprot power.</p>
 prototypeToken:
   name: Poxbringer, Herald of Nurgle

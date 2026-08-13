@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Firesight Marksman Shas’la — the brains behind a Sniper Drone team, masked by a stealth field and commanding three MV-71 Sniper Drones via a drone controller.</p>
 prototypeToken:
   name: Firesight Marksman Shas’la

@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Skryre Acolyte — a masked Clan Skryre grenadier who hurls volleys of volatile poison-globes.</p>
 prototypeToken:
   name: Skryre Acolyte

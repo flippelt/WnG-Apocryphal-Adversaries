@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: >-
     <p>Lootas are the thieves and scavengers of Ork society &mdash; light-fingered
     villains who will pinch anything that isn't nailed down, and so efficient some

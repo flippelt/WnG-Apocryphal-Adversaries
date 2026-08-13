@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Scarab Occult Sorcerer — a Sekhmet warrior-mage who survived the Rubric, commanding a force of warrior-automata.</p>
 prototypeToken:
   name: Scarab Occult Sorcerer

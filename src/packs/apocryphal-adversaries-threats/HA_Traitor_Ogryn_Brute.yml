@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Traitor Ogryn Brute — a corrupted Abhuman shock-trooper driven into the enemy by drugs and dark rituals.</p>
 prototypeToken:
   name: Traitor Ogryn Brute

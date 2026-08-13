@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: "<p>Duke Traevelliath Sliscus, The Serpent — the most capricious of Aeldari pirate lords, commander of the Sky Serpents. Shadow Field: Resilience 12 (*8 AR), dropping to 8 (Ghostplate 4/*2) once it fails.</p>"
 prototypeToken:
   name: Duke Sliscus

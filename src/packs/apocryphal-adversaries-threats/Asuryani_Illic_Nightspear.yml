@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Illic Nightspear — the Sentinel of the Stars, master Ranger of Alaitoc and walker of the Path of the Outcast; deadliest sniper of the Aeldari. (Printed Conviction 4 / Resolve 3 reproduced via −2 bonuses.)</p>
 prototypeToken:
   name: Illic Nightspear

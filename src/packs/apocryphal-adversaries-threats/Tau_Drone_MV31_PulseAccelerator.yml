@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>MV-31 Pulse Accelerator Drone — augments the AP of nearby pulse weaponry; favoured by Pathfinder teams.</p>
 prototypeToken:
   name: MV-31 Pulse Accelerator Drone

@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: "<p>The greatest Ork Bikeboy ever known, Wazdakka Gutzmek sits astride a turbo-powered monstrosity that was once an Ork Warbike. Kept awake continuously by the concoctions of outlaw Mad Doks, he is rarely out of his bike's seat except to upgrade his machine. His sense of drama is second to none among the Greenskins, and his intervention has turned many close-fought battles in the Orks' favour.</p><p><em>Mounted on his unique vehicle, the <strong>Warbike ov da Aporkalypse</strong> (Huge; ORK, EVIL SUNZ, RAIDER; Traits: Bike, Open-Topped, Turbo-Boost (3); weapon: Dakkakannons; wargear: Grot Riggers).</em></p>"
 prototypeToken:
   name: Wazdakka Gutzmek

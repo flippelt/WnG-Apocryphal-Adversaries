@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: >-
     <p>Shoota Boyz are those Orks who prefer the "shooty" side of combat and
     serve solely as ranged infantry with no melee component like the standard

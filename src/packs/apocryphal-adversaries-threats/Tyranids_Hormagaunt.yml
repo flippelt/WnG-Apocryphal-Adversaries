@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Hormagaunt (Gaunti gladius) — a fast, expendable Gaunt armed with Scything Talons that bounds ahead of the swarm on powerful hind legs; reproduces independently and hunts with little need for synaptic direction.</p>
 prototypeToken:
   name: Hormagaunt

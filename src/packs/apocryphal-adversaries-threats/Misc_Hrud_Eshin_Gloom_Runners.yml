@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Eshin Gloom-Runners — silent Clan Eshin enforcers, scouts and saboteurs; the Hrud most commonly encountered outside mass migrations.</p>
 prototypeToken:
   name: Eshin Gloom-Runners

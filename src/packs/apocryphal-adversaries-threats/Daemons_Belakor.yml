@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Be’Lakor, The Dark Master — the First-Damned, the very first Daemon Prince, beholden to all four Chaos Gods equally; a master of shadows. Knows all Noctic powers.</p>
 prototypeToken:
   name: Be’Lakor, The Dark Master

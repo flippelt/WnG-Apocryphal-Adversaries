@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Astra Militarum Officer — a regimental leader whose Voice of Command issues battlefield Orders. May take a Bolt Pistol/Boltgun/Plasma Pistol and a Chainsword/Power Sword/Power Fist.</p>
 prototypeToken:
   name: Astra Militarum Officer

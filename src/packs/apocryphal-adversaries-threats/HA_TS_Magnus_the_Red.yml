@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Magnus the Red, the Crimson King — Daemon Primarch of Tzeentch, master of the Thousand Sons and one of the mightiest psykers in the galaxy. Speed 16 (Flight), Huge.</p>
 prototypeToken:
   name: Magnus the Red

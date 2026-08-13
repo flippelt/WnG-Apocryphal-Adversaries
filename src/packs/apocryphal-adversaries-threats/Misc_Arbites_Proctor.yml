@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Arbites Proctor — ruthless tacticians who lead Arbites squads and broadcast cowing orations through nuncio-aquilas.</p>
 prototypeToken:
   name: Arbites Proctor

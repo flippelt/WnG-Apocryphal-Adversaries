@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Shas’vre in XV-104 Riptide Battlesuit — a gargantuan battlesuit powered by an experimental Dark Matter Nova Reactor; the pinnacle of T’au battlesuit technology.</p>
 prototypeToken:
   name: Shas’vre in XV-104 Riptide Battlesuit

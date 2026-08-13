@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Aquilon Grenadier — the team’s explosives specialist, wielding krak charges and melta bombs.</p>
 prototypeToken:
   name: Aquilon Grenadier

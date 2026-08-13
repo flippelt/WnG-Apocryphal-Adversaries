@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Jakhals — fanatical World Eaters cultists resembling a pack of wild dogs, driven to frenzy by stimm-tanks and World Eaters blood. Massive ones are Dishonoured Champions.</p>
 prototypeToken:
   name: Jakhals

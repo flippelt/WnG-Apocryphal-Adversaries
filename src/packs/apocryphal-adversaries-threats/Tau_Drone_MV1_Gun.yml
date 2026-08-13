@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>MV-1 Tactical Drone (Gun Drone) — the ubiquitous combat drone supporting Fire Warrior teams and vehicles.</p>
 prototypeToken:
   name: MV-1 Tactical (Gun) Drone

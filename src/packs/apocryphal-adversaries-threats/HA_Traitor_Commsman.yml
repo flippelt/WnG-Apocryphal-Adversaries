@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Traitor Commsman — spits relayed orders through corrupted vox networks to drive their comrades on.</p>
 prototypeToken:
   name: Traitor Commsman

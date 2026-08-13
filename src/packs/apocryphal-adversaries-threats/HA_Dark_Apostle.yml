@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Dark Apostle — the priesthood of the Dark Gods, spreading the unholy word and acting as conduits for the Ruinous Powers.</p>
 prototypeToken:
   name: Dark Apostle

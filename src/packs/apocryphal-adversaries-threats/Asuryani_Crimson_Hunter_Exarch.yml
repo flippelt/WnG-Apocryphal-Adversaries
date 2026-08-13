@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: "<p>Crimson Hunter Exarch — a fighter ace of centuries’ experience in a master-crafted Nightshade Interceptor (CoS p95): Speed 143, Manoeuvrability 10.</p>"
 prototypeToken:
   name: Crimson Hunter Exarch

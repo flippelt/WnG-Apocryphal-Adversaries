@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Traitor Butcher — a humanity-shorn renegade who hacks enemies apart and devours their flesh.</p>
 prototypeToken:
   name: Traitor Butcher

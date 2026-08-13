@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Skullmaster — a Herald of Khorne mounted on a Juggernaut, leading Bloodcrusher cavalry charges.</p>
 prototypeToken:
   name: Skullmaster, Herald of Khorne

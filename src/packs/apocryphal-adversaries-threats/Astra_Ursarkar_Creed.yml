@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Lord Castellan Ursarkar E. Creed — the tactical-genius supreme commander of Cadia, now missing (captured by Trazyn the Infinite) since the Fall of Cadia.</p>
 prototypeToken:
   name: Lord Castellan Ursarkar E. Creed

@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Shadeweaver — a Mandrake that leeches away light, plunging areas into impenetrable gloom and boring shadow-tunnels through reality.</p>
 prototypeToken:
   name: Shadeweaver

@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Cyber-Horse — the Adeptus Mechanicus cybernetic steed gifted to Mogul Kamir, one that never tires, flinches or bleeds.</p>
 prototypeToken:
   name: Cyber-Horse

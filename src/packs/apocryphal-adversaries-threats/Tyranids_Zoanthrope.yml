@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Zoanthrope (Tyranicus animus-aborrens) — a levitating psyker-beast, apparently engineered from Aeldari DNA, that channels the Hive Mind into devastating Warp blasts and extended synaptic control.</p>
 prototypeToken:
   name: Zoanthrope

@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Aquilon Precursor — drops first, fast and stealthy, to knock out the most dangerous ground defences before the team deploys.</p>
 prototypeToken:
   name: Aquilon Precursor

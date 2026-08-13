@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Ur-Ghul — a lanky, eyeless carnivorous hunter from Shaa-Dom that tracks prey for kilometres and erupts into a fury of claws and teeth, feeding while its victim still lives.</p>
 prototypeToken:
   name: Ur-Ghul

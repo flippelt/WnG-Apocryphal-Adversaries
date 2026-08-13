@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>MV-36 Guardian Drone — generates a protective energy field around nearby allies, especially Breacher Teams.</p>
 prototypeToken:
   name: MV-36 Guardian Drone

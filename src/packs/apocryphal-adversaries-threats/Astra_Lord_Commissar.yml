@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Lord Commissar — a legendary paragon of the Officio Prefectus who leads from the front, a fearsome warrior and grim arbiter of discipline.</p>
 prototypeToken:
   name: Lord Commissar

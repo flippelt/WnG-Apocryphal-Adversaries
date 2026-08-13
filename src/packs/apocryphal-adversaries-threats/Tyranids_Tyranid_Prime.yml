@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Tyranid Prime (Tyranicus gladius primus) — an elevated Warrior genus serving as a junior officer of the swarm, just as capable of projecting the Hive Mind and leading lesser bioforms as a Hive Tyrant.</p>
 prototypeToken:
   name: Tyranid Prime

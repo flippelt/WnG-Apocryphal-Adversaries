@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Lord Invocatus — the “Horseman of the Apocalypse,” a World Eaters Chaos Lord who leads thunderous charges from atop his Khornate Juggernaut.</p>
 prototypeToken:
   name: Lord Invocatus

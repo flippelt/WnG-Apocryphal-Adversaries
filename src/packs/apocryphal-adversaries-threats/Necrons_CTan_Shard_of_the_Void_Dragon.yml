@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>The Void Dragon — Mag’ladroth — the C’Tan master of the material realm and machine, possibly the same entity imprisoned beneath Mars. Its warriors were near-invincible during the War in Heaven.</p>
 prototypeToken:
   name: C’Tan Shard of the Void Dragon

@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Tyrant Guard — near-mindless blind bodyguards bonded to a Hive Tyrant, hurling themselves into incoming fire; directed entirely by their master’s synaptic control.</p>
 prototypeToken:
   name: Tyrant Guard

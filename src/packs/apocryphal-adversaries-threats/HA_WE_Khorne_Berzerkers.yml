@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Khorne Berzerkers — Chaos Space Marines who glorify Khorne through brutal melee, refusing ranged weapons in favour of the chainaxe.</p>
 prototypeToken:
   name: Khorne Berzerkers

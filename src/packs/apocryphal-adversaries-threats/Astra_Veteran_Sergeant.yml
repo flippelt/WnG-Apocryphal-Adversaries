@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Veteran Sergeant — a solid combat leader who commands a squad of Veterans; may swap to a pistol + Chainsword/Power Sword.</p>
 prototypeToken:
   name: Veteran Sergeant

@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Chaos Furies — winged, gargoyle-like Daemonic Beasts of Chaos Undivided, the lowliest denizens of the Realm of Chaos, formed from selfish souls no god will claim.</p>
 prototypeToken:
   name: Chaos Furies

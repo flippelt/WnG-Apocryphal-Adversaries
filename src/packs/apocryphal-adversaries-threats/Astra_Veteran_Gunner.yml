@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Veteran Gunner — a specialist-weapon expert wielding a Flamer (or Meltagun/Plasma Gun/Grenade Launcher).</p>
 prototypeToken:
   name: Veteran Gunner

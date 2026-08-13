@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Fire Caste Team Leader Shas’ui — a veteran Shas’ui who leads a Fire Warriors team rather than piloting a battlesuit (the Strike chassis with leadership and a markerlight option).</p>
 prototypeToken:
   name: Fire Caste Team Leader Shas’ui

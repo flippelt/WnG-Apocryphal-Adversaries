@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Swooping Hawk Exarch — leads devastating fly-by attacks and teaches skyleaps and aerial guerrilla tactics.</p>
 prototypeToken:
   name: Swooping Hawk Exarch

@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>U’zuhl the Skulltaker — Khorne’s Sacred Executioner, an infamous Bloodletter Herald who seeks single combat with the greatest champions. (Printed Conviction 5 / Resolve 4 reproduced via −1 bonuses.)</p>
 prototypeToken:
   name: U’zuhl the Skulltaker

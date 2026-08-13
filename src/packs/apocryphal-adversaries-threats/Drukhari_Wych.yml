@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Wych (Hekatarii) — a gladiatorial Drukhari athlete of breathtaking, lethal grace, fighting with blades and combat drugs. May adopt a specialist fighting style (Lacerai/Yraqnae/Hydrae) in place of its normal weapons.</p>
 prototypeToken:
   name: Wych

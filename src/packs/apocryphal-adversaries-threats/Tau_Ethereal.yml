@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Ethereal Caste Advisor (Aun) — a member of the revered ruling caste whose mere presence steels every T’au; commands near-total loyalty and performs Invocations to inspire the host.</p>
 prototypeToken:
   name: Ethereal Caste Advisor

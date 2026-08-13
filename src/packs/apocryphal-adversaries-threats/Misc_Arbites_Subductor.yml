@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Arbites Subductor — brutal front-line brawlers bearing Subjugation-pattern assault shields and crackling shock mauls.</p>
 prototypeToken:
   name: Arbites Subductor

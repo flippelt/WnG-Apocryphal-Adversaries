@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Navis Sergeant-at-Arms — disciplined leaders of Imperial Navy Breacher squads, as skilled in close-quarters fighting as in battle tactics.</p>
 prototypeToken:
   name: Navis Sergeant-at-Arms

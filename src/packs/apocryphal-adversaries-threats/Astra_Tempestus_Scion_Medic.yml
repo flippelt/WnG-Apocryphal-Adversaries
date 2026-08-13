@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Tempestus Scion Medic — provides life-saving aid far behind enemy lines.</p>
 prototypeToken:
   name: Tempestus Scion Medic

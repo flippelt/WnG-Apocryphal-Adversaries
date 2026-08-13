@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: >-
     <p>A Squig ("Squiggly Beast") is the simplest known form of Orkoid life,
     filling countless roles in the Ork ecosystem &mdash; food, hair, medical,

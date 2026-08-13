@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Chaos Sorcerer in Terminator Armour — a sorcerer-lord clad in ancient Tactical Dreadnought plate.</p>
 prototypeToken:
   name: Chaos Sorcerer in Terminator Armour

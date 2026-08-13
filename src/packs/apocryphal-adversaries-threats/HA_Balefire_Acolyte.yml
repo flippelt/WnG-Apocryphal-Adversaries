@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Balefire Acolyte — a petty sorcerer blessed with the dark power of the empyrean, turning warpflame indiscriminately on the foe.</p>
 prototypeToken:
   name: Balefire Acolyte

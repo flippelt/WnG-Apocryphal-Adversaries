@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Hekatrix — the veteran Wych who leads a squad of Wyches and reports to the Cult’s Succubus (the Wych chassis with leadership and finer wargear).</p>
 prototypeToken:
   name: Hekatrix

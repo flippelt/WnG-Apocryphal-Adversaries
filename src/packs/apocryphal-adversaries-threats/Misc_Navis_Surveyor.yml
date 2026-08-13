@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Navis Surveyor — directs CAT units to scout ahead and mark enemies for the kill team.</p>
 prototypeToken:
   name: Navis Surveyor

@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Crimson Duellist — a vicious murder-artist who hunts with the ostentatious razorflail, performing signature kills.</p>
 prototypeToken:
   name: Crimson Duellist

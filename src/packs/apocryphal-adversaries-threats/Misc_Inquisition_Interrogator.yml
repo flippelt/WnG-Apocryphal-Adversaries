@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Inquisition Interrogator — ruthless, loyal agents on the path to becoming Inquisitors themselves.</p>
 prototypeToken:
   name: Inquisition Interrogator

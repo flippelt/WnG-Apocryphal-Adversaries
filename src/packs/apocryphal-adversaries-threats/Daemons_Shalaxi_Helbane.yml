@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Shalaxi Helbane, the Monarch of the Hunt — a Keeper of Secrets created to hunt the greatest champions of the other Dark Gods, especially Khorne’s. Knows 2 Soulstain powers.</p>
 prototypeToken:
   name: Shalaxi Helbane

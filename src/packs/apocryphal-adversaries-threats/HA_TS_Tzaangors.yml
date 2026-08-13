@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Tzaangors — bright, sharp-witted Tzeentchian beastmen who hunger for arcane knowledge and power.</p>
 prototypeToken:
   name: Tzaangors

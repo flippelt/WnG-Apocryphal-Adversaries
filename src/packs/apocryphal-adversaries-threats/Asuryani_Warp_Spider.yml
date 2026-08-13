@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Warp Spider — the bravest Aspect Warriors, teleporting through the Immaterium to strike with monofilament Death Spinners and vanish before retaliation.</p>
 prototypeToken:
   name: Warp Spider

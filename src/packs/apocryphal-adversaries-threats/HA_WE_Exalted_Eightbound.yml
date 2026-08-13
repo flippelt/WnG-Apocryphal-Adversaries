@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Exalted Eightbound — Eightbound whose mortal soul has conquered and merged with the eight daemons, exhibiting a purer, more focused rage. Printed Resilience 12.</p>
 prototypeToken:
   name: Exalted Eightbound

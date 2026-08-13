@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Howling Banshee — swift melee Aspect Warriors whose psychosonic Banshee Mask scream paralyses the foe; almost always female, as the war-mask itself is female.</p>
 prototypeToken:
   name: Howling Banshee

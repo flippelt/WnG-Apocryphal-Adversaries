@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Inquisition Enlightener — sadistic Excruciators (“Truth-Peelers”) prized for their utter lack of mercy in extracting information.</p>
 prototypeToken:
   name: Inquisition Enlightener

@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Kabalite Trueborn — naturally-born Drukhari elites who escort their Archon into battle, arrogant toward the tube-grown “Halfborn” and armed with the finest weapons.</p>
 prototypeToken:
   name: Kabalite Trueborn

@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Navis Gheistskull — a flying servo-skull (often made from a dead Breacher’s head) carrying a vox disruptor and an explosive charge for a final act of defiance.</p>
 prototypeToken:
   name: Navis Gheistskull

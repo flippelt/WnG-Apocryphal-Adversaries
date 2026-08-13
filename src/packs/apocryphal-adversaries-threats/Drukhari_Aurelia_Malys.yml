@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Aurelia Malys, Archon of the Poisoned Tongue — the only Archon to match Vect’s intellect, bearer of a crystal heart that grants uncanny foresight.</p>
 prototypeToken:
   name: Aurelia Malys

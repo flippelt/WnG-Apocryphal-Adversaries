@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Defiler — a tank-sized six-legged Daemon Engine of utter devastation, wielding a battle cannon and massive rending claws.</p>
 prototypeToken:
   name: Defiler

@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>A Necron Overlord rules many Tomb Worlds, a masterful general bedecked in ancient battle-gear potent enough to seem magical. The mightiest rise to Phaeron.</p>
 prototypeToken:
   name: Necron Overlord
