@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Gunner — a specialist who revels in unleashing torment on the move with shredders or blasters.</p>
 prototypeToken:
   name: Gunner

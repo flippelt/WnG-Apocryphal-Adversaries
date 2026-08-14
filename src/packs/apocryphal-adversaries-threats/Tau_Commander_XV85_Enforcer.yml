@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Fire Caste Commander in XV85 Enforcer Suit — a larger, better-protected Crisis variant issued almost exclusively to Commanders; may mount up to four weapons.</p>
 prototypeToken:
   name: Commander in XV85 Enforcer Suit

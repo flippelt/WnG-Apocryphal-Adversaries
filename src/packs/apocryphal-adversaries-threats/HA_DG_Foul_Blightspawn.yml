@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Foul Blightspawn — wields a churning Plague Sprayer of corrosive slime that melts flesh, armour and soul alike.</p>
 prototypeToken:
   name: Foul Blightspawn

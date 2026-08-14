@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>MB-3 Recon Drone — accompanies Pathfinder teams, providing supporting firepower and sensor data.</p>
 prototypeToken:
   name: MB-3 Recon Drone

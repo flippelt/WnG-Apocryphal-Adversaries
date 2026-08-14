@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Disciple of Yaelindra — an adept of the infamous poisoners’ cult, weaponising deadly venoms via stinger pistols and torment grenades.</p>
 prototypeToken:
   name: Disciple of Yaelindra

@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Chaos Lord with Jump Pack — a warlord who descends on screaming jets to lead the assault. Speed 14 (Flight).</p>
 prototypeToken:
   name: Chaos Lord with Jump Pack

@@ -58,7 +58,7 @@ system:
     athletics:
       label: SKILL.ATHLETICS
       attribute: strength
-      rating: .nan
+      rating: 0
       base: 0
       bonus: 0
       cost: 0
@@ -82,7 +82,7 @@ system:
     cunning:
       label: SKILL.CUNNING
       attribute: fellowship
-      rating: .nan
+      rating: 0
       base: 0
       bonus: 0
       cost: 0
@@ -90,7 +90,7 @@ system:
     deception:
       label: SKILL.DECEPTION
       attribute: fellowship
-      rating: .nan
+      rating: 0
       base: 0
       bonus: 0
       cost: 0
@@ -98,7 +98,7 @@ system:
     insight:
       label: SKILL.INSIGHT
       attribute: fellowship
-      rating: .nan
+      rating: 0
       base: 0
       bonus: 0
       cost: 0
@@ -106,7 +106,7 @@ system:
     intimidation:
       label: SKILL.INTIMIDATION
       attribute: willpower
-      rating: .nan
+      rating: 0
       base: 0
       bonus: 0
       cost: 0
@@ -114,7 +114,7 @@ system:
     investigation:
       label: SKILL.INVESTIGATION
       attribute: intellect
-      rating: .nan
+      rating: 0
       base: 0
       bonus: 0
       cost: 0
@@ -122,7 +122,7 @@ system:
     leadership:
       label: SKILL.LEADERSHIP
       attribute: willpower
-      rating: .nan
+      rating: 0
       base: 0
       bonus: 0
       cost: 0
@@ -130,7 +130,7 @@ system:
     medicae:
       label: SKILL.MEDICAE
       attribute: intellect
-      rating: .nan
+      rating: 0
       base: 0
       bonus: 0
       cost: 0
@@ -138,7 +138,7 @@ system:
     persuasion:
       label: SKILL.PERSUASION
       attribute: fellowship
-      rating: .nan
+      rating: 0
       base: 0
       bonus: 0
       cost: 0
@@ -146,7 +146,7 @@ system:
     pilot:
       label: SKILL.PILOT
       attribute: agility
-      rating: .nan
+      rating: 0
       base: 0
       bonus: 0
       cost: 0
@@ -154,7 +154,7 @@ system:
     psychicMastery:
       label: SKILL.PSYCHIC_MASTERY
       attribute: willpower
-      rating: .nan
+      rating: 0
       base: 0
       bonus: 0
       cost: 0
@@ -162,7 +162,7 @@ system:
     scholar:
       label: SKILL.SCHOLAR
       attribute: intellect
-      rating: .nan
+      rating: 0
       base: 0
       bonus: 0
       cost: 0
@@ -170,7 +170,7 @@ system:
     stealth:
       label: SKILL.STEALTH
       attribute: agility
-      rating: .nan
+      rating: 0
       base: 0
       bonus: 0
       cost: 0
@@ -178,7 +178,7 @@ system:
     survival:
       label: SKILL.SURVIVAL
       attribute: willpower
-      rating: .nan
+      rating: 0
       base: 0
       bonus: 0
       cost: 0
@@ -186,7 +186,7 @@ system:
     tech:
       label: SKILL.TECH
       attribute: intellect
-      rating: .nan
+      rating: 0
       base: 0
       bonus: 0
       cost: 0
@@ -194,7 +194,7 @@ system:
     weaponSkill:
       label: SKILL.WEAPON_SKILL
       attribute: initiative
-      rating: .nan
+      rating: 0
       base: 0
       bonus: 0
       cost: 0
@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Deathmarks are the master snipers of the Necrons, phasing out of normal space-time to wait for the perfect moment to slaughter a marked target.</p>
 prototypeToken:
   name: Deathmark

@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: "<p>Nemesor Zahndrekh — Overlord of Gidrim and one of Sautekh’s mightiest generals, his mind lost in the Wars of Secession: he sees only rebellious Necrontyr kinsmen, never the xenos he truly fights.</p>"
 prototypeToken:
   name: Nemesor Zahndrekh

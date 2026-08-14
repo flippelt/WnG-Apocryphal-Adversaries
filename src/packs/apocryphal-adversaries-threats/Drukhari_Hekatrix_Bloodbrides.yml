@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Hekatrix Bloodbrides — an elite clique of the most skilled Hekatarii, anointing themselves in spilled blood; deadlier than common Wyches (Deadly Grace replaces Blade Artist).</p>
 prototypeToken:
   name: Hekatrix Bloodbrides

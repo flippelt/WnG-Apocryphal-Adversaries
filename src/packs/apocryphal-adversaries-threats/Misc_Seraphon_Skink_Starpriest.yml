@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Skink Starpriest — a talented Seraphon psyker who provides front-line psychic support, wielding the scouring power of the deep warp.</p>
 prototypeToken:
   name: Skink Starpriest

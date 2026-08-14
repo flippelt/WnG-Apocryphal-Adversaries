@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Culexus Assassin — a soulless Pariah whose mere touch can extinguish a victim’s soul; a nigh-invisible terror to psykers and daemons.</p>
 prototypeToken:
   name: Culexus Assassin

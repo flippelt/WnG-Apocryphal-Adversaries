@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Guardian Windrider — Guardian jetbike squadrons; fast forward scouts and rapid-response units that strike the enemy’s rear and speed away.</p>
 prototypeToken:
   name: Guardian Windrider

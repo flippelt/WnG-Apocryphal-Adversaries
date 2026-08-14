@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Beastmaster — a masked Wych-Cult houndmaster who hovers above his herd on a modified skyboard, driving Clawed Fiends, Khymerae and Razorwings into a bloodlust.</p>
 prototypeToken:
   name: Beastmaster

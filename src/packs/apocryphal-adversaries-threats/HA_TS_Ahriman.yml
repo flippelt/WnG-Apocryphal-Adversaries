@@ -1,4 +1,4 @@
-folder: HAThousandSons1
+folder: HAThousandSons01
 name: Ahriman
 type: threat
 _id: TOpbyleZsyx8isq0
@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Ahzek Ahriman — Chief Sorcerer of the Thousand Sons, architect of the Rubric, eternal wanderer in pursuit of the deepest knowledge of Chaos.</p>
 prototypeToken:
   name: Ahriman

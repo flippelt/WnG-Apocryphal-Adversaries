@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Asurmen, the Hand of Asuryan — the first Phoenix Lord, founder of the Path of the Warrior and the Dire Avenger shrine.</p>
 prototypeToken:
   name: Asurmen, The Hand of Asuryan

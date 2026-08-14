@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Tempestus Scion (Storm Trooper) — an elite Schola-trained soldier with a Hot-Shot Lasgun and Carapace Armour.</p>
 prototypeToken:
   name: Tempestus Scion

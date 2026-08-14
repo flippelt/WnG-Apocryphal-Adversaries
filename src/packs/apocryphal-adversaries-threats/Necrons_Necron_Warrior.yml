@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Necron Warriors are the primary infantry of the Necron legions &mdash; implacable, emotionless automatons, their living-metal bodies repairing almost any harm.</p>
 prototypeToken:
   name: Necron Warrior

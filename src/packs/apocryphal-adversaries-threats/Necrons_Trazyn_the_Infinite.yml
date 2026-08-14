@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Trazyn the Infinite — self-proclaimed Archaeovist of the Solemnace Galleries, who “liberates” treasures across the galaxy and often sends surrogate hosts disguised as himself to do his work.</p>
 prototypeToken:
   name: Trazyn the Infinite

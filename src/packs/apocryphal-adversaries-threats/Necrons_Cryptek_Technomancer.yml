@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Technomancers are the Crypteks who repair and augment Necrons in battle &mdash; the implacable combat-medics of the legions.</p>
 prototypeToken:
   name: Cryptek Technomancer

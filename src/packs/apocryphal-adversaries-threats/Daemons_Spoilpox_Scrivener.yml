@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Spoilpox Scrivener — a Herald who audits the Tallyband’s endless count, browbeating Plaguebearers into greater haste with a quill plucked from a Lord of Change.</p>
 prototypeToken:
   name: Spoilpox Scrivener, Herald of Nurgle

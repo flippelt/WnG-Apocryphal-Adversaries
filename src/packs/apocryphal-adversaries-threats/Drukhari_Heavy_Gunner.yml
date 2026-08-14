@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: "<p>Heavy Gunner — wields armaments of hellish power: dark lances that vaporise foes, or splinter cannons that scythe through the enemy.</p>"
 prototypeToken:
   name: Heavy Gunner

@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Medusae — a parasitic Webway organism bonded to a visored host, recording and spewing the roiling emotions of the battlefield as contraempathic anti-light.</p>
 prototypeToken:
   name: Medusae

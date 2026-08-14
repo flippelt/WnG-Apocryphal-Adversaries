@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Tempestus Scion Comms — relays orders and tactical data, extending the Tempestor’s command across the squad.</p>
 prototypeToken:
   name: Tempestus Scion Comms

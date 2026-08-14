@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Striking Scorpion — the most skilled close-assault Aspect, stalking from shadow with mandiblasters and chainswords to fall on the foe with savage surprise.</p>
 prototypeToken:
   name: Striking Scorpion

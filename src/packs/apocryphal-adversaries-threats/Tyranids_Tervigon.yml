@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Tervigon — a gargantuan living incubator that spawns broods of Termagants at will; its death sends a synaptic backlash that kills its nearby spawn.</p>
 prototypeToken:
   name: Tervigon

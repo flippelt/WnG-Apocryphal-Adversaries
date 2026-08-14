@@ -1,4 +1,4 @@
-folder: HAWorldEaters01
+folder: HAWorldEaters001
 name: Angron
 type: threat
 _id: heNoOBUVfp7FavOt
@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Angron, the Red Angel — Daemon Primarch of Khorne and the most bloody-handed of the primarchs. Speed 16 (Flight), Huge. Printed Resilience 19.</p>
 prototypeToken:
   name: Angron

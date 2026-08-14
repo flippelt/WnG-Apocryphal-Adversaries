@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Karandras, the Shadow Hunter — the most mysterious Phoenix Lord, master of the Striking Scorpions; pupil of the Fallen Phoenix Arhra.</p>
 prototypeToken:
   name: Karandras, The Shadow Hunter

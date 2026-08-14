@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Hover Drone Platform — a larger anti-grav transport used by important personages such as Ethereals.</p>
 prototypeToken:
   name: Hover Drone Platform

@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Colonel “Iron Hand” Straken — the irascible, bionics-laden commander of the Catachan II “Green Vipers”, always where the fighting is thickest.</p>
 prototypeToken:
   name: Colonel 'Iron Hand' Straken

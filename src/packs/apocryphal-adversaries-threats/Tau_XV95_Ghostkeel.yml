@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: "<p>Shas’vre in XV-95 Ghostkeel Battlesuit — the pinnacle of T’au stealth tech: a huge ambush battlesuit cloaked by stealth drones, virtually invisible even in the open.</p>"
 prototypeToken:
   name: Shas’vre in XV-95 Ghostkeel Battlesuit

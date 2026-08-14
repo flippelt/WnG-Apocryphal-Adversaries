@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Legionary Shrivetalon — a torture-addicted Heretic Astartes who stalks the battlefield looking for enemies to torment.</p>
 prototypeToken:
   name: Legionary Shrivetalon

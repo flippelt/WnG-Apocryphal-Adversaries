@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Konstantin — Lord Solar Leontus’ largely cybernetic warhorse, clad in gleaming carapace barding.</p>
 prototypeToken:
   name: Konstantin

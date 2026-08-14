@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>MV-33 Grav-Inhibitor Drone — projects gravity waves that hinder enemies closing with the team.</p>
 prototypeToken:
   name: MV-33 Grav-Inhibitor Drone

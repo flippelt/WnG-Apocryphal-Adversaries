@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Air Caste Pilot (Kor’la) — a slender void-dwelling pilot of the T’au fleets; rarely fights on foot, but carries a sidearm for boarding actions and crash-landings.</p>
 prototypeToken:
   name: Air Caste Pilot Kor’la

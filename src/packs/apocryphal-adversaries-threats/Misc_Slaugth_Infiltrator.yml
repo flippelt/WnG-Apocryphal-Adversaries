@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Slaugth Infiltrator — rank-and-file worm-mass xenos that infiltrate isolated outposts to feed; a psychic-null horror that regenerates and cannot be detected by auspex.</p>
 prototypeToken:
   name: Slaugth Infiltrator

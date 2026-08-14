@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Sergeant Lukas Bastonne — the public face of the Cadian Shock Troops; a prodigious memory and brilliant strategist, later martyred holding back the 13th Black Crusade.</p>
 prototypeToken:
   name: Sergeant Lukas Bastonne

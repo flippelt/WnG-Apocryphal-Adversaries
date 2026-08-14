@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Anrakyr the Traveller — a nomadic Overlord who rose from the Great Sleep with his mind intact, wandering Tomb World to Tomb World to reunite the Necron dynasties.</p>
 prototypeToken:
   name: Anrakyr the Traveller

@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Biologus Putrifier — refines plague-batches to lethal potency and showers the foe with empowered Blight Grenades.</p>
 prototypeToken:
   name: Biologus Putrifier

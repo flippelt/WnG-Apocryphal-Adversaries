@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Spore Mine (Boletus minoris) — a living, floating mine grown and launched by Biovores; drifts mindlessly toward heat and sound and detonates within 2m of any non-Tyranid. Speed is Special (Mindless Drifting, 2d6m).</p>
 prototypeToken:
   name: Spore Mine

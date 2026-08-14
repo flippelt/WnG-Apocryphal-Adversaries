@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Saurus Oldblood — a veteran of centuries of bloodshed and the greatest of Seraphon commanders, enacting the Slann’s designs with savage precision.</p>
 prototypeToken:
   name: Saurus Oldblood

@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Moulder Beastmaster — the twisted, cruel mind behind Clan Moulder’s war-beasts, driving pack after pack upon the foe.</p>
 prototypeToken:
   name: Moulder Beastmaster

@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Tyranid Warrior (Tyranicus gladius) — a large, adaptable synapse creature and focal point of the Hive Mind’s telepathic command; over 212 known variants combine flying, walking and leaping biomorphs with ranged or assault symbiotes.</p>
 prototypeToken:
   name: Tyranid Warrior

@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Poxwalker — a plague-zombie husk of Nurgle’s Rot, shambling in reeking, self-replenishing hordes.</p>
 prototypeToken:
   name: Poxwalker

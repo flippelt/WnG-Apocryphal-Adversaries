@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Grox — an enormous, aggressive reptilian beast used as a dangerous (and edible) Rough Rider mount.</p>
 prototypeToken:
   name: Grox

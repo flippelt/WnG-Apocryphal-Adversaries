@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Chaos Terminator — a Chosen warrior in Tactical Dreadnought Armour; nothing short of dedicated anti-tank fire stops one in full stride. (Stats follow the Chosen chassis in Terminator plate.)</p>
 prototypeToken:
   name: Chaos Terminator

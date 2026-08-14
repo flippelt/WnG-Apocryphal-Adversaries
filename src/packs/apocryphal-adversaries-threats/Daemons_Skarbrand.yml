@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Skarbrand, The Exiled One — the mightiest Bloodthirster, exiled for striking at Khorne himself; wrath incarnate.</p>
 prototypeToken:
   name: Skarbrand, The Exiled One

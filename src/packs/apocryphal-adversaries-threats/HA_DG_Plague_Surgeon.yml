@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Plague Surgeon — a corrupted Death Guard Apothecary who tends the diseases his brothers carry and infects all who touch him.</p>
 prototypeToken:
   name: Plague Surgeon

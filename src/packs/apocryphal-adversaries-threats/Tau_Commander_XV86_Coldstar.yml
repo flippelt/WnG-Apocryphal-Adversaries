@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Fire Caste Commander in XV86 Coldstar Battlesuit — a fin-streamlined Enforcer variant built for super-fast movement (Speed 14, Sprint ×5).</p>
 prototypeToken:
   name: Commander in XV86 Coldstar Battlesuit

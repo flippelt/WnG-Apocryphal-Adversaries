@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Navis Hatchcutter — Breachers who cut through barricades with chainfists and plasma torches, and seal shut the paths the foe might use.</p>
 prototypeToken:
   name: Navis Hatchcutter

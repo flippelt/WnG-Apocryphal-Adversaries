@@ -1,4 +1,4 @@
-folder: HAThousandSons1
+folder: HAThousandSons01
 name: Tzaangors
 type: threat
 _id: sZEPP2w5j6Kt00Ed
@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Tzaangors — bright, sharp-witted Tzeentchian beastmen who hunger for arcane knowledge and power.</p>
 prototypeToken:
   name: Tzaangors

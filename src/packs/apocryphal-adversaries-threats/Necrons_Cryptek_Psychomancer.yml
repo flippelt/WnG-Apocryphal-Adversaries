@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Psychomancers &mdash; Harbingers of Despair &mdash; shroud themselves in neurostatic phantasms and project fear across the battlefield as a weapon.</p>
 prototypeToken:
   name: Cryptek Psychomancer

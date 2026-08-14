@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: "<p>These huge squigs are a favoured mount for some Beast Snagga Warbosses, the only Orks strong and belligerent enough to bully a Squigosaur into allowing a rider. This profile is the combined Cavalry unit of the Mounted Beastboss and his Squigosaur (Cavalry rule).</p><p><em>The Squigosaur mount itself is a separate body: Huge, S13 T13 A4 I4 W6 INT1 FEL1, Resilience 18 (Scaly Hide 4 AR), Defence 3, Wounds 21, Shock 10; Squigosaur Jaws 16 +5ED AP-3 Brutal; Determination Thick Hide (roll 13d6, re-roll 1s). If the rider is slain it becomes Frenzied.</em></p>"
 prototypeToken:
   name: Beast Boss on Squigosaur

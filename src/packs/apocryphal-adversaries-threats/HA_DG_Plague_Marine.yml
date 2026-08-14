@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Plague Marine — a Death Guard legionary bloated with disease, immune to pain and gifted with Nurgle’s rot.</p>
 prototypeToken:
   name: Plague Marine

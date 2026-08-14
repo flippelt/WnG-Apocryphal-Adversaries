@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Pestilens Plague Monks — frenzied Clan Pestilens fanatics who overwhelm the foe in a pestilential mass of foetid blades.</p>
 prototypeToken:
   name: Pestilens Plague Monks

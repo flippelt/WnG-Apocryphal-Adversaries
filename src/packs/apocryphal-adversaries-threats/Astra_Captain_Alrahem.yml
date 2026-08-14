@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Captain Al’rahem — daring commander of the Tallarn 3rd “Desert Tigers”, a master of hit-and-run guerrilla warfare. (Printed Defence 3.)</p>
 prototypeToken:
   name: Captain Al'rahem

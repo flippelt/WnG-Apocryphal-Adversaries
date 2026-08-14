@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Tyrannofex — a living battle-fortress clad in a dozen layers of ablative chitin, mounting the largest bio-cannon of any non-titanic Tyranid; ungainly in melee but devastating at range.</p>
 prototypeToken:
   name: Tyrannofex

@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Lictor (Tyranicus chameleo) — a specialised vanguard scout that stalks unseen through any terrain via chameleonic skin, impaling prey and exuding pheromones to lure the swarm; operates outside the synaptic web.</p>
 prototypeToken:
   name: Lictor

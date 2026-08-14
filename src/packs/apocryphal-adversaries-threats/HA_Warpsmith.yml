@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Warpsmith — a fallen Techmarine of the Dark Mechanicum, master of daemon-engines and battlefield mechamorphosis.</p>
 prototypeToken:
   name: Warpsmith

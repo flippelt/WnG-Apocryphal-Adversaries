@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Mortarion, the Lord of Death — Daemon Primarch of Nurgle; the Pale King, a huge winged engine of pestilence wielding the great scythe Silence. (Printed Conviction 8.)</p>
 prototypeToken:
   name: Mortarion

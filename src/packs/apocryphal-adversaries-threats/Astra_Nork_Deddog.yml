@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Nork Deddog — the most famous (and unusually clever) Ogryn bodyguard in the Imperium, whose loyalty and headbutt are both legendary.</p>
 prototypeToken:
   name: Nork Deddog

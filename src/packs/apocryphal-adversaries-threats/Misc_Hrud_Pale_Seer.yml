@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Pale Seer — a deranged Hrud Masterclan sorcerer who devours raw Warp-stuff to supercharge his powers. (Printed Resilience 6, unusually low for its Toughness — reproduced as printed.)</p>
 prototypeToken:
   name: Pale Seer

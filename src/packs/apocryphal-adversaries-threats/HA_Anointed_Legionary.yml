@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Anointed Legionary — a willing host to a warp creature, partway through the painful daemonic transformation.</p>
 prototypeToken:
   name: Anointed Legionary

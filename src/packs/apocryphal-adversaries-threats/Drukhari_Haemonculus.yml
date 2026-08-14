@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: "<p>Haemonculus — a Lord of Pain: an ancient, insane Drukhari flesh-sculptor and master torturer who can reshape body and soul, and who returns from death to wreak inventive revenge.</p>"
 prototypeToken:
   name: Haemonculus

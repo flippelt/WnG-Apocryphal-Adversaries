@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Navis C.A.T. — a tracked Cyber-Altered Task reconnaissance unit with pict-recorders and frequency-scanning augurs; unarmed.</p>
 prototypeToken:
   name: Navis C.A.T.

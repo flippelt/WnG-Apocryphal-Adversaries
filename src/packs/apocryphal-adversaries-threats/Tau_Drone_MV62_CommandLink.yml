@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>MV-62 Command-link Drone — networks a commander to their officers, extending the reach of their command abilities.</p>
 prototypeToken:
   name: MV-62 Command-link Drone

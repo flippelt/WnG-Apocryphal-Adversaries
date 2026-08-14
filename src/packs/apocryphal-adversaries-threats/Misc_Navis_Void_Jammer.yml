@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Navis Void-Jammer — operates the kill team’s gheistskulls, jamming enemy vox and detonating charges deep in the foe’s lines.</p>
 prototypeToken:
   name: Navis Void-Jammer

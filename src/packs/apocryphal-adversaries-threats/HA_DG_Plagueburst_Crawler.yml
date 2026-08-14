@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Plagueburst Crawler — Mortarion’s own siege-tank Daemon Engine, lobbing parabolic plague-mortar shells of corrosive spores.</p>
 prototypeToken:
   name: Plagueburst Crawler

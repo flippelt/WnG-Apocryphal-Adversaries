@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Vashtorr the Arkifane — the daemon demigod of the Forge of Souls, master of Daemon Engines and weapons; serves Chaos Undivided. (Printed Resilience 14, low for its Toughness/armour — reproduced as printed; Daemonic Aura adds a *4 invulnerable AR.)</p>
 prototypeToken:
   name: Vashtorr the Arkifane

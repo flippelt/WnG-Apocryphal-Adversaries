@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Officer of the Fleet — coordinates Aeronautica Imperialis air support and orbital strikes for ground troops.</p>
 prototypeToken:
   name: Officer of the Fleet

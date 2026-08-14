@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Bloodmaster — a Herald of Khorne who directs the massacre, imbuing nearby Bloodletters with murderous fervour.</p>
 prototypeToken:
   name: Bloodmaster, Herald of Khorne

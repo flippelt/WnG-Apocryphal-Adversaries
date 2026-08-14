@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Traitor Flenser — a stalking close-quarters killer who skins victims with paired blades.</p>
 prototypeToken:
   name: Traitor Flenser

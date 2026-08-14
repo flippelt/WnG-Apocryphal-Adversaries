@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Legionary Gunner — a special-weapon trooper with flamer, meltagun or plasma gun.</p>
 prototypeToken:
   name: Legionary Gunner

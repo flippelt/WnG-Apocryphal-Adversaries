@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Flamer of Tzeentch — a bounding, headless pyrodaemon that hoses the foe with multicoloured Warpflame.</p>
 prototypeToken:
   name: Flamer of Tzeentch

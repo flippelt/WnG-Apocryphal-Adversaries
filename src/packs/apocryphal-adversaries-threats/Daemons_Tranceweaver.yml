@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Tranceweaver — a Herald of Slaanesh, a raw manifestation of sensory excess who exhorts Daemonettes to greater cruelty. Knows 1 Soulstain power.</p>
 prototypeToken:
   name: Tranceweaver, Herald of Slaanesh

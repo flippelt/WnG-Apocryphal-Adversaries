@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Brimstone Horror — the final spiteful incarnation, hurling magical flame; named for a stench that offends even other daemons.</p>
 prototypeToken:
   name: Brimstone Horror of Tzeentch

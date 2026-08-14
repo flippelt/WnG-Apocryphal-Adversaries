@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Astra Militarum Standard Bearer — bears the Company or Regimental Standard, steadying nearby troops to fight with duty and honour.</p>
 prototypeToken:
   name: Astra Militarum Standard Bearer

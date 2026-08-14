@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Scourge — a winged Drukhari mercenary serving as jump infantry and message-runner, clad in porous Ghostplate and laying down punishing salvos before wheeling away.</p>
 prototypeToken:
   name: Scourge

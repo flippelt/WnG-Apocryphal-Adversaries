@@ -1,4 +1,4 @@
-folder: HAThousandSons1
+folder: HAThousandSons01
 name: Scarab Occult Terminator
 type: threat
 _id: a7quceEAjUGUBrBJ
@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Scarab Occult Terminator — the Sekhmet, Magnus’ elite Honour Guard, now dust-and-armour automata in Tartaros plate wielding Prosperine khopeshes.</p>
 prototypeToken:
   name: Scarab Occult Terminator

@@ -2,8 +2,8 @@ name: Heretic Astartes — Thousand Sons
 sorting: a
 folder: null
 type: Actor
-_id: HAThousandSons1
+_id: HAThousandSons01
 sort: 930000
 color: null
 flags: {}
-_key: "!folders!HAThousandSons1"
+_key: "!folders!HAThousandSons01"

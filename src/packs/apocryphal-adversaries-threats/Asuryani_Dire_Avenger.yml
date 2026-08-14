@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Dire Avenger — the first and most flexible of the Aspect Warriors; elite shuriken-armed infantry, the Farseers’ chosen for the most important missions.</p>
 prototypeToken:
   name: Dire Avenger

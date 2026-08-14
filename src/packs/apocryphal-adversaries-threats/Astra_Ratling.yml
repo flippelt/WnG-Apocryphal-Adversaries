@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Ratling — a diminutive Abhuman sniper of uncanny aim who fires and flees before the enemy can respond.</p>
 prototypeToken:
   name: Ratling

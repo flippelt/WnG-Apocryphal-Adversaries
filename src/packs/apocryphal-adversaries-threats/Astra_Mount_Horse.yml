@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Horse — the rugged, reliable mainstay Rough Rider steed.</p>
 prototypeToken:
   name: Horse

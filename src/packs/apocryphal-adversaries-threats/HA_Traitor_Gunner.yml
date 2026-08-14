@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Traitor Gunner — bears a looted special weapon (baleflamer, grenade launcher, plasma gun or meltagun) as a trophy of status.</p>
 prototypeToken:
   name: Traitor Gunner

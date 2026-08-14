@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Wrecka Boss Nob — the biggest, nastiest Tankbusta or Breaka Boy, leading a Wrecka Krew through sheer force of will.</p>
 prototypeToken:
   name: Wrecka Boss Nob

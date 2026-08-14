@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Autarch — supreme commander of a Craftworld warhost, master of many Aeldari Paths. May take a Banshee Mask, Mandiblasters, Swooping Hawk wings, a Warp Jump Generator, or an Aeldari Jetbike.</p>
 prototypeToken:
   name: Autarch

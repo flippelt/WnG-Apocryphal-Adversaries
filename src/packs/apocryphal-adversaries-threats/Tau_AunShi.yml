@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Aun’Shi — a martial Ethereal of Vior’la, a master of the Honour Staff and a living good-luck charm to the Fire Caste. (Printed Conviction 5 / Resolve 4 reproduced via −2 bonuses despite WIL 7.)</p>
 prototypeToken:
   name: Aun’Shi

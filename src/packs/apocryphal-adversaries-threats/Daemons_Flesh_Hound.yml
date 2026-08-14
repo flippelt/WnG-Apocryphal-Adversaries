@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Flesh Hound of Khorne — a great wolf-like daemonic beast that hunts the Blood God’s foes across interstellar distances; its Collar of Khorne wards against psykers.</p>
 prototypeToken:
   name: Flesh Hound of Khorne

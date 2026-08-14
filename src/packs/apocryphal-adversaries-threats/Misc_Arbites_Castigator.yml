@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Arbites Castigator — charged with subduing the guilty by any means, their hood-like helms steeling them against curse and plea alike.</p>
 prototypeToken:
   name: Arbites Castigator

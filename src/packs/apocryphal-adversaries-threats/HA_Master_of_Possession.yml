@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Master of Possession — a Chaos Sorcerer expert in binding daemons into living hosts and machine chassis; leader of Daemonkin warbands.</p>
 prototypeToken:
   name: Master of Possession

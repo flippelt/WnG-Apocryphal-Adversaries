@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Anathema Psykana Knight-Centura — the null-witch leaders of the Sisters of Silence, peerless hunters of the witch and the sorcerer.</p>
 prototypeToken:
   name: Anathema Psykana Knight-Centura

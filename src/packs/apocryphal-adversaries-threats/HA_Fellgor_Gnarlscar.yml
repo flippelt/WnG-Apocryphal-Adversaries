@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Fellgor Gnarlscar — heavily scarred survivors fitted with crude bionics, all the more fearsome for it.</p>
 prototypeToken:
   name: Fellgor Gnarlscar

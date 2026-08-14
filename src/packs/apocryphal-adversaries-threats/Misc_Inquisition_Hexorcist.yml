@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Inquisition Hexorcist — gun-toting holy warriors who believe the Imperial Faith is spread at the barrel of a gun.</p>
 prototypeToken:
   name: Inquisition Hexorcist

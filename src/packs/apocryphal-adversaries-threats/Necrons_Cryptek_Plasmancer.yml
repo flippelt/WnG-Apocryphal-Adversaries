@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Plasmancers wreath themselves in coruscating lightning and unleash devastating blasts of raw energy upon the foe.</p>
 prototypeToken:
   name: Cryptek Plasmancer

@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Arbites Leashmaster — specialists who command the caniform Cyber-Mastiff servitors and broadcast shouted orders to their prey.</p>
 prototypeToken:
   name: Arbites Leashmaster

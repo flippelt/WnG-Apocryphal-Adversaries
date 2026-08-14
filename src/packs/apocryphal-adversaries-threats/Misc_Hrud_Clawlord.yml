@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Hrud Clawlord — the brutal, underhanded leader of a common Vermin Clan, swaggering yet ever ready to flee. (Printed Conviction 1 / Resolve 1.)</p>
 prototypeToken:
   name: Hrud Clawlord

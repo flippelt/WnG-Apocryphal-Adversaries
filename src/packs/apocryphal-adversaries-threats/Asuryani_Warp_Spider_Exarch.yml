@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Warp Spider Exarch — a master ambusher who may wield twin Death Spinners, Powerblades, or a Spinneret Rifle.</p>
 prototypeToken:
   name: Warp Spider Exarch

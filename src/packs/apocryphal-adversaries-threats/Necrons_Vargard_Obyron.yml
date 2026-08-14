@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Vargard Obyron — Nemesor Zahndrekh’s devoted Lychguard bodyguard, the primary reason the old general still endures despite the Lords who covet his throne.</p>
 prototypeToken:
   name: Vargard Obyron

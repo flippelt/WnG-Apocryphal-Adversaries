@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Shining Spear Exarch — a peerless lancer leading hit-and-run jetbike charges; may wield a Star Lance or Paragon Sabre.</p>
 prototypeToken:
   name: Shining Spear Exarch

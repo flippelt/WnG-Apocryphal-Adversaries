@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Abyssal — a Mandrake conduit for the energies of Aelindrach, master of a leaping, furious balefire.</p>
 prototypeToken:
   name: Abyssal

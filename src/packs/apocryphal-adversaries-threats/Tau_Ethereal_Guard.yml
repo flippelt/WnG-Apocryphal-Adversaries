@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Ethereal Guard — elite warriors charged with the protection of a Supreme Ethereal such as Aun’Va.</p>
 prototypeToken:
   name: Ethereal Guard

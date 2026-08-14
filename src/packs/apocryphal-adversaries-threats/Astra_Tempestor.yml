@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Tempestor — leads a Tempestus Scion squad; may take a Bolt/Plasma Pistol and a Power Sword/Fist.</p>
 prototypeToken:
   name: Tempestor

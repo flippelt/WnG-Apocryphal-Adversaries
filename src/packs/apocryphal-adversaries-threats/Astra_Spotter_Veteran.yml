@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Spotter Veteran — a forward observer who guides mortar salvoes with great focus, pinning the enemy from safe lines.</p>
 prototypeToken:
   name: Spotter Veteran

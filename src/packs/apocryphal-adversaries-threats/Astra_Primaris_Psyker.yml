@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Primaris Psyker — a powerful sanctioned battle-psyker who smites the Emperor’s foes with bolts of warp-lightning.</p>
 prototypeToken:
   name: Primaris Psyker

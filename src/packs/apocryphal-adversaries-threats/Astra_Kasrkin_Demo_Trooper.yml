@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Kasrkin Demo-Trooper — places and detonates melta mines to breach bunkers and fortress walls.</p>
 prototypeToken:
   name: Kasrkin Demo-Trooper

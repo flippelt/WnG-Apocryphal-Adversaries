@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Kommando Rokkit Boy — fires rockets at bunkers, fuel silos and unsuspecting enemies with a broad grin.</p>
 prototypeToken:
   name: Kommando Rokkit Boy

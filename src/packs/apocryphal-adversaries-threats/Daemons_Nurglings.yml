@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Nurglings — tiny, giggling Mites of Nurgle that erupt from the boils of Great Unclean Ones; fielded as a swarming mob.</p>
 prototypeToken:
   name: Nurglings

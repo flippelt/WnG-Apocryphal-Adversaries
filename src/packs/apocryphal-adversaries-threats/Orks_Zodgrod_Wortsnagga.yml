@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Zodgrod started as the Runtherd of the Snakebites "Chargerz", unusually effective at training his Gretchin ("Kommando Runtz") to follow orders and act aggressively &mdash; and fanatically protective of them, to the point he once fired a Mek through his own Shokk Attack Gun for mistreating them. Banished for the recklessness, he took to the spacelanes as a Freebooter Runtherd, breeding his own "Super-Runtz" via Pavlovian conditioning and hiring them out to any Warboss who can pay.</p><p><em>Printed Defence 3 / Conviction 4 / Resolve 3 reproduced as written (minor book inconsistency vs the attribute row).</em></p>
 prototypeToken:
   name: Zodgrod Wortsnagga

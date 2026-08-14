@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Legionary — the rank-and-file traitor Space Marine of a Chaos Legion or renegade warband.</p>
 prototypeToken:
   name: Legionary

@@ -1,4 +1,4 @@
-folder: HAThousandSons1
+folder: HAThousandSons01
 name: Aspiring Sorcerer
 type: threat
 _id: PySL518GQN0gJZMS
@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Aspiring Sorcerer — leads the marching Rubricae and funnels Tzaangors and cultists towards the foe; aspires to become an Exalted Sorcerer.</p>
 prototypeToken:
   name: Aspiring Sorcerer

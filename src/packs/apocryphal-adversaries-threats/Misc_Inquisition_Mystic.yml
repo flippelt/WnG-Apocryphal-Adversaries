@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Inquisition Mystic — an empyric seer who scries the future for dangers and weaves shields of psychic energy to support their team.</p>
 prototypeToken:
   name: Inquisition Mystic

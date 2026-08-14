@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Kommando Slasha Boy — festooned with blades, hacking and slashing through enemy after enemy.</p>
 prototypeToken:
   name: Kommando Slasha Boy

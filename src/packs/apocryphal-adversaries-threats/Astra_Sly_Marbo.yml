@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>“Sly” Marbo — the legendary one-man army of the Catachan Jungle Fighters; a near-mythical lone operative.</p>
 prototypeToken:
   name: "\"Sly\" Marbo"

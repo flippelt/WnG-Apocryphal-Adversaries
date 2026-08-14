@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Shas’ui in XV15 Stealthsuit — the smallest T’au battlesuit, a Fire Caste infiltrator/saboteur with light-bending camouflage; being phased out for the XV25.</p>
 prototypeToken:
   name: Shas’ui in XV15 Stealthsuit

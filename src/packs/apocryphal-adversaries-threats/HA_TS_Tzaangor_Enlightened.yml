@@ -1,4 +1,4 @@
-folder: HAThousandSons1
+folder: HAThousandSons01
 name: Tzaangor Enlightened
 type: threat
 _id: 63xwag4amYiY2Ta6
@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Tzaangor Enlightened — Tzeentch-blessed Tzaangors who soar on Discs and strike where fate decrees the most damage.</p>
 prototypeToken:
   name: Tzaangor Enlightened

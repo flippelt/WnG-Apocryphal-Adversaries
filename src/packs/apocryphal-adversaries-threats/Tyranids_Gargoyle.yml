@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Gargoyle — a winged Gaunt derived from the Termagant, spitting death from its Fleshborer and blinding venom as it precedes the horde; flies on leathery wings (Speed 12 Flight).</p>
 prototypeToken:
   name: Gargoyle

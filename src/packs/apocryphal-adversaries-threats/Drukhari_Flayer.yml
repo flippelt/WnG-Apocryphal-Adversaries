@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Flayer — a murder-artist who works with a gory palette of viscera, wielding paired pain sculptors.</p>
 prototypeToken:
   name: Flayer

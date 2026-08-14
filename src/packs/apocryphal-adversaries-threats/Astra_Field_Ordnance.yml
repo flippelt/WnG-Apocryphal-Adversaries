@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Field Ordnance Crew — three Guardsmen who tow and operate a heavy gun on a Gun Carriage (Bombast Field Gun, Malleus Rocket Launcher, or Heavy Lascannon).</p>
 prototypeToken:
   name: Field Ordnance Crew

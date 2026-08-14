@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Kasrkin Sharpshooter — a patient sniper who kills key targets with a hot-shot marksman rifle from camo-cloaked concealment.</p>
 prototypeToken:
   name: Kasrkin Sharpshooter

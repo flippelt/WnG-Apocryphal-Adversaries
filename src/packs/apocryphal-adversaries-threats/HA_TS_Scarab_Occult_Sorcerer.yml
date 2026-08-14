@@ -1,4 +1,4 @@
-folder: HAThousandSons1
+folder: HAThousandSons01
 name: Scarab Occult Sorcerer
 type: threat
 _id: oDGXp101xYxrzLSV
@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Scarab Occult Sorcerer — a Sekhmet warrior-mage who survived the Rubric, commanding a force of warrior-automata.</p>
 prototypeToken:
   name: Scarab Occult Sorcerer

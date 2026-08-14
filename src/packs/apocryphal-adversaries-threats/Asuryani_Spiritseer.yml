@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Spiritseer — a Seer who communes with the dead in the Infinity Circuit, guiding and empowering Wraith Constructs. Knows a Runes of Battle power (wng-apocrypha).</p>
 prototypeToken:
   name: Spiritseer

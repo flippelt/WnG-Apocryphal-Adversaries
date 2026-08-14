@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Commander Farsight (O’Shovah) — the legendary, centuries-old leader of the breakaway Farsight Enclaves, wielding the alien Dawn Blade; a master of the Mont’ka.</p>
 prototypeToken:
   name: Commander Farsight

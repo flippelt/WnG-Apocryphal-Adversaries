@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Reaver — a Drukhari obsessed with high-speed killing, mounted on a Reaver Jetbike (Church of Steel, p100). May take a Grav-Talon and/or Cluster Caltrops.</p>
 prototypeToken:
   name: Reaver

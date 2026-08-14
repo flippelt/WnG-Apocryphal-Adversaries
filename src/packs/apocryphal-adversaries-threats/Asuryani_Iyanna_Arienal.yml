@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Iyanna Arienal, the Angel of Iyanden — the foremost Spiritseer of Iyanden, champion of the Ynnari prophecy, clad in the Armour of Vaul.</p>
 prototypeToken:
   name: Iyanna Arienal, Angel of Iyanden

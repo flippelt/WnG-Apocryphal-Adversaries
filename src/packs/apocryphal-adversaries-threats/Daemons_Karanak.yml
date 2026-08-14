@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Karanak, the Hound of Vengeance — Khorne’s three-headed favoured hound, the incarnation of the Blood God’s vengeance.</p>
 prototypeToken:
   name: Karanak, the Hound of Vengeance

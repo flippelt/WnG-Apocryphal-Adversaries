@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Navis Armsman — the rank-and-file of Imperial Navy Breacher kill teams, deadly in the close confines of ship-to-ship boarding actions.</p>
 prototypeToken:
   name: Navis Armsman

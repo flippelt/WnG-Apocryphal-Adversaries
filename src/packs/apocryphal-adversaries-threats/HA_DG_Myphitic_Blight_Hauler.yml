@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Myphitic Blight-hauler — a light tracked Nurgle Daemon Engine providing tank-hunting firepower and rolling banks of obscuring smog.</p>
 prototypeToken:
   name: Myphitic Blight-hauler

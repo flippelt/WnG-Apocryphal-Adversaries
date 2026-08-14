@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Bruiser Veteran — a born fighter who bludgeons the galaxy’s horrors to death with a trench club.</p>
 prototypeToken:
   name: Bruiser Veteran

@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Ogryn — a hulking Abhuman shock trooper of the Militarum Auxilia, deployed to smash the enemy line apart.</p>
 prototypeToken:
   name: Ogryn

@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Cronos Parasite Engine — a hovering biomechanical Engine of Pain that drains the life essence of its victims, feeding that stolen vitality to nearby Drukhari.</p>
 prototypeToken:
   name: Cronos Parasite Engine

@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Farseer — the most potent Asuryani psyker, wielding the Runes of Fate to bend the threads of destiny. Knows powers from the Runes of Fate discipline (wng-apocrypha).</p>
 prototypeToken:
   name: Farseer

@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Navis Grenadier — Breachers who carry demolition charges to crack open bulkheads and sealed doors.</p>
 prototypeToken:
   name: Navis Grenadier

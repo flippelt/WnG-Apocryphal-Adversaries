@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Kasrkin Combat Medic — patches up wounded Kasrkin and returns them to the fight.</p>
 prototypeToken:
   name: Kasrkin Combat Medic

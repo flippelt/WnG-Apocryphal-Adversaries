@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Pestilens Plague Priest — a shrieking Clan Pestilens cleric of decay who unleashes dark diseases upon the foe.</p>
 prototypeToken:
   name: Pestilens Plague Priest

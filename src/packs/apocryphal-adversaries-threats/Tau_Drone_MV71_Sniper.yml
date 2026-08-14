@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>MV-71 Sniper Drone — armed with a Longshot pulse rifle; operates in small groups directed by a Firesight Marksman.</p>
 prototypeToken:
   name: MV-71 Sniper Drone

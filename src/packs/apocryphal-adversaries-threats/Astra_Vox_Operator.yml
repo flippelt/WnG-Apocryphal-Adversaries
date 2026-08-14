@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Astra Militarum Vox-Operator — relays orders and coordinates fire; can call down a final artillery strike when slain.</p>
 prototypeToken:
   name: Astra Militarum Vox-Operator

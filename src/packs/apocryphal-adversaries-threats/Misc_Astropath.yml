@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Astropath — an Astro-telepath who carries the superluminal communications that bind the Imperium together; soul-bound and permanently blinded.</p>
 prototypeToken:
   name: Astropath

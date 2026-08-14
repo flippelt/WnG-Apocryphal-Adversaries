@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Biovore (Tyranicus patris-boletus) — living artillery that nurtures and launches Spore Mines from a dorsal aperture to neutralise enemy long-range firepower; thought to incorporate Orkoid genetic material.</p>
 prototypeToken:
   name: Biovore

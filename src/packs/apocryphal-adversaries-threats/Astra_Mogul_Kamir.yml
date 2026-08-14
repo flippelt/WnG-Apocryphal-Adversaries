@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Mogul Kamir — the bloodthirsty Attilan Rough Rider warlord who rides his tireless Cyber-Horse into headlong charges. (Printed Resilience 9; two cybernetic bonuses reconstructed from garbled source text.)</p>
 prototypeToken:
   name: Mogul Kamir

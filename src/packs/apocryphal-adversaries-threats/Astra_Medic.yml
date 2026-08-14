@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Astra Militarum Medic — a Guardsman trained in frontline medical care, fighting alongside the Command Squad.</p>
 prototypeToken:
   name: Astra Militarum Medic

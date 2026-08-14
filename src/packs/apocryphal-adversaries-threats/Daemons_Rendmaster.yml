@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Rendmaster — a Herald of Khorne who rides a Blood Throne, ploughing through enemy formations.</p>
 prototypeToken:
   name: Rendmaster, Herald of Khorne

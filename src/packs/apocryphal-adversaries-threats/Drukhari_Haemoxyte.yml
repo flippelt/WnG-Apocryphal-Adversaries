@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Haemoxyte — an augmented Wrack grafted with gene-stock from many races, considered the pinnacle of the fleshcrafting art and tasked with vital duties.</p>
 prototypeToken:
   name: Haemoxyte

@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Hive Guard — heavily-armoured sentry beasts spawned to defend capillary towers and spore chimneys; their Impaler Cannons strike unerringly through cover via the swarm’s shared sight.</p>
 prototypeToken:
   name: Hive Guard

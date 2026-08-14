@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Kroot Shaper — the leader of a Kroot kindred who guides their evolution, deciding which prey to consume; commands and steadies the warband in battle.</p>
 prototypeToken:
   name: Kroot Shaper

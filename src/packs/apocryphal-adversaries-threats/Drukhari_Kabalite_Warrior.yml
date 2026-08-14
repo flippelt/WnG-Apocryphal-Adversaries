@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Kabalite Warrior — the cruel, ambitious core of every Drukhari raiding force, wielding splinter weaponry that unleashes hails of envenomed crystalline shards.</p>
 prototypeToken:
   name: Kabalite Warrior

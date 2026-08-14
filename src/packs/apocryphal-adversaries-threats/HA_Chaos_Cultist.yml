@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Chaos Cultist — the warped men and women who have sold their souls to the Dark Gods; the rank-and-file of any Chaos force.</p>
 prototypeToken:
   name: Chaos Cultist

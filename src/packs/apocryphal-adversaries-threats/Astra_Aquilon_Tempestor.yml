@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Aquilon Tempestor — leads an Aquilon team with agency and improvisation; may take a Bolt Pistol/Hot-Shot Lascarbine and a Power Sword. (Printed Defence 3.)</p>
 prototypeToken:
   name: Aquilon Tempestor

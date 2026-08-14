@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Commissar — a stern political officer of the Officio Prefectus who maintains discipline through fear, even by summary execution.</p>
 prototypeToken:
   name: Commissar

@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Kasrkin Vox-Trooper — the kill team’s link to high command, relaying orders and intelligence across the vox-net.</p>
 prototypeToken:
   name: Kasrkin Vox-Trooper

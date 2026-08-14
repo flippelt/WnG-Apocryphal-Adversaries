@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Daemon Prince — a Chaos Champion ascended to immortal daemonhood; a huge, winged engine of ruin. (Printed Resilience 14; Daemonic Aura adds a *4 invulnerable AR.)</p>
 prototypeToken:
   name: Daemon Prince

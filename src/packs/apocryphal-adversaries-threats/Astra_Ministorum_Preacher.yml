@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Ministorum Preacher — a fiery Ecclesiarchy cleric who inspires the faithful with Hymns of Battle and a Rosarius conversion field.</p>
 prototypeToken:
   name: Ministorum Preacher

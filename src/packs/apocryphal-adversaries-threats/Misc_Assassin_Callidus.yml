@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Callidus Assassin — the most subtle of Imperial assassins, masters of deceit and the shape-changing Polymorphine drug.</p>
 prototypeToken:
   name: Callidus Assassin

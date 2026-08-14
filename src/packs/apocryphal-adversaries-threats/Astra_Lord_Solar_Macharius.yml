@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Lord Commander Solar Macharius — the legendary warmaster of the Macharian Crusade, later canonised; perhaps the most famous commander of the Astra Militarum.</p>
 prototypeToken:
   name: Lord Commander Solar Macharius

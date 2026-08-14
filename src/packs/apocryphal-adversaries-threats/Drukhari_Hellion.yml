@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Hellion — a feral skyboard-riding Drukhari gang-fighter who descends in a flurry of hellglaive blades before soaring out of reach (Speed 14 Flying).</p>
 prototypeToken:
   name: Hellion

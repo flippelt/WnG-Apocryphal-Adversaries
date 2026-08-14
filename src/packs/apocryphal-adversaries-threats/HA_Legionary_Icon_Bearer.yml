@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Legionary Icon Bearer — carries a totem or banner dedicated to the Dark Gods, empowering nearby Marked warriors.</p>
 prototypeToken:
   name: Legionary Icon Bearer

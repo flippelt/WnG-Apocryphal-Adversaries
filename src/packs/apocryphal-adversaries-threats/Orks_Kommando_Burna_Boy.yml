@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Kommando Burna Boy — a patient pyromaniac who waits to wreak maximum devastation with his burna.</p>
 prototypeToken:
   name: Kommando Burna Boy

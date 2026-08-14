@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Jain Zar, the Storm of Silence — founder of the Howling Banshees and first of the Exarchs; an acrobatic warrior whose mask liquefies the foe’s mind.</p>
 prototypeToken:
   name: Jain Zar, the Storm of Silence

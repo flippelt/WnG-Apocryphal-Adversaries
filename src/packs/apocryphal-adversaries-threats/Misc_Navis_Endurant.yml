@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Navis Endurant — the biggest Armsmen, carrying an Endurant shield and heavy shotgun to take point or guard the squad’s rear.</p>
 prototypeToken:
   name: Navis Endurant

@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Toxicrene — a tentacled spore-beast whose hypertoxic miasma chokes even armoured foes; it thrashes nearby prey and seeds the air with predatory poison clouds.</p>
 prototypeToken:
   name: Toxicrene

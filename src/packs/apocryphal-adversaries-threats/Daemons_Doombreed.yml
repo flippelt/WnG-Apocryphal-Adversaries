@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Doombreed, the Skull Lord — Khorne’s first Daemon Prince, an ancient warlord of Terra who rivals even Angron in fury.</p>
 prototypeToken:
   name: Doombreed, Daemon Prince of Khorne

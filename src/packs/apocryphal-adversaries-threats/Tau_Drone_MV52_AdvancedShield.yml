@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>MV-52 Advanced Shield Drone — an upgraded prototype Shield Drone issued to the highest-priority VIPs and field commanders.</p>
 prototypeToken:
   name: MV-52 Advanced Shield Drone

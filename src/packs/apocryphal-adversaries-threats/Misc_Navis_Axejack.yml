@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Navis Axejack — Breachers who wield heavy two-handed power axes to smash through obstacles and hack apart any enemy in their way.</p>
 prototypeToken:
   name: Navis Axejack

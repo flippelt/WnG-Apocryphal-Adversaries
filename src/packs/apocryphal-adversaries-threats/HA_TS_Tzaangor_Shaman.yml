@@ -1,4 +1,4 @@
-folder: HAThousandSons1
+folder: HAThousandSons01
 name: Tzaangor Shaman
 type: threat
 _id: idAvlPqk4FichJBG
@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Tzaangor Shaman — oracle-prophets of the Tzaangors, preaching atop flying Discs of Tzeentch.</p>
 prototypeToken:
   name: Tzaangor Shaman

@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Lord of Virulence — a Death Guard lord of the Mantle of Virulence, a master of massed plague-bombardment.</p>
 prototypeToken:
   name: Lord of Virulence

@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Noxious Blightbringer — tolls a cursed plague-bell that saps enemy will and instils fresh vigour in the Death Guard.</p>
 prototypeToken:
   name: Noxious Blightbringer

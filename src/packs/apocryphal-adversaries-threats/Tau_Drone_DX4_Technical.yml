@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>DX-4 Technical Drone — a mobile engineering unit/sentry carrying repair and sensor equipment instead of weapons.</p>
 prototypeToken:
   name: DX-4 Technical Drone

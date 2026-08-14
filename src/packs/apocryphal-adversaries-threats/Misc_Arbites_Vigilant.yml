@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Arbites Vigilant — grim shotgun-wielders ever-alert to malfeasance, unleashing devastating close-range blasts.</p>
 prototypeToken:
   name: Arbites Vigilant

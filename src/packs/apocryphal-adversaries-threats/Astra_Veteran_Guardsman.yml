@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Veteran Guardsman — the base battle-hardened veteran; deadeye shots who function best with free rein. May take any special weapon.</p>
 prototypeToken:
   name: Veteran Guardsman

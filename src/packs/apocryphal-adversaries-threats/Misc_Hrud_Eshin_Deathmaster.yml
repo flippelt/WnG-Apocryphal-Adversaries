@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Eshin Deathmaster — a supernaturally dexterous Hrud assassin whose poisoned weeping blades have slain kings and warlords beyond count.</p>
 prototypeToken:
   name: Eshin Deathmaster

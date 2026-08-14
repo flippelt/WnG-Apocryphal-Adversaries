@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Aquilon Marksman — a sharpshooter whose Hot-Shot Long-las picks off elite operatives and completes assassinations.</p>
 prototypeToken:
   name: Aquilon Marksman

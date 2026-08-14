@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Raptor — the dedicated jump-pack assault infantry of the Traitor Legions; vicious hunters who plummet screaming from the skies. Speed 14 (Flight).</p>
 prototypeToken:
   name: Raptor

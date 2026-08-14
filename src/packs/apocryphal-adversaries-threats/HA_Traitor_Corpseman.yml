@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Traitor Corpseman — a twisted field surgeon doling out addictive combat stimms to drive comrades into battle-frenzy.</p>
 prototypeToken:
   name: Traitor Corpseman

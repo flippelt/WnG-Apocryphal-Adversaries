@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Anathema Psykana Prosecutor — a bolter-armed Sister of Silence who lays down disciplined fire on witch and daemon alike.</p>
 prototypeToken:
   name: Anathema Psykana Prosecutor

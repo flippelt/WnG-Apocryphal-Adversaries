@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Baharroth, the Cry of the Wind — the "winged phoenix", finest student of Asurmen and founder of the Swooping Hawks; fastest of all the Aeldari.</p>
 prototypeToken:
   name: Baharroth, The Cry of the Wind

@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Medic Veteran — keeps the squad alive with little more than basic medical equipment in the most hazardous conditions.</p>
 prototypeToken:
   name: Medic Veteran
