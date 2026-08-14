@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Slann Starmaster — an ancient toad-mage created to serve the Old Ones; among the greatest psychic minds in the galaxy. (Shield of the Old Ones supplies +5 Defence and +5 Determination, included.)</p>
 prototypeToken:
   name: Slann Starmaster

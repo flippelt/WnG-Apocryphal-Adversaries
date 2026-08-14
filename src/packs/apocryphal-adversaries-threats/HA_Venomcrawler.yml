@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Venomcrawler — a scuttling Daemon Engine of metal, flesh and bound daemons that flenses souls and replenishes the warp-stores used to summon more daemons.</p>
 prototypeToken:
   name: Venomcrawler

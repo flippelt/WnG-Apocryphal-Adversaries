@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Colour Sergeant Jarran Kell — Creed’s booming-voiced bodyguard and bearer of the Cadian 8th’s banner; died at Abaddon’s hands with the words “Cadia stands!”</p>
 prototypeToken:
   name: Colour Sergeant Jarran Kell

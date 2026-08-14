@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Plague Drones — high-ranking Plaguebearers astride monstrous Rot Flies, the airborne cavalry of Nurgle. (Rider’s Plague Sword and Death’s Heads included.)</p>
 prototypeToken:
   name: Plague Drones

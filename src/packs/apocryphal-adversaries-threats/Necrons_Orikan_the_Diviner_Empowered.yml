@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Orikan Empowered — the ascendant form Orikan the Diviner assumes once the stars are right, his living-metal frame swollen with temporal power. Wounds and spent Personal Ruin carry over from his base form.</p>
 prototypeToken:
   name: Orikan the Diviner (Empowered)

@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Commander Shadowsun (O’Shaserra) — the Spearhead of the Greater Good, supreme commander of the Third Sphere Expansion, fighting from a stealthy XV22 Stalker battlesuit.</p>
 prototypeToken:
   name: Commander Shadowsun

@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Knight-Commander Pask — Cadia’s most renowned Leman Russ tank ace, who fights as an extension of his war machine. (Printed Defence 3, Resilience 7.)</p>
 prototypeToken:
   name: Knight-Commander Pask

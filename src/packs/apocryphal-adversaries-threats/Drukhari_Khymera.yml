@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Khymera — a Warp-beast coalesced from nightmares into a long-fanged, many-eyed cat-like form, hunted in dream-quests by Beastmasters and bound into realspace as a half-real terror.</p>
 prototypeToken:
   name: Khymera

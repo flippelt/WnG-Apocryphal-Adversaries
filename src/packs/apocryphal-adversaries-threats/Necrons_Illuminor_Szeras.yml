@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Illuminor Szeras — the reviled Cryptek Technomancer whose twisted genius made biotransference real; he labours still toward his own ascension to C’Tan-like godhood.</p>
 prototypeToken:
   name: Illuminor Szeras

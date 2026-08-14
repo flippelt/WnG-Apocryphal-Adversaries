@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Astra Militarum Veteran — a battle-tested survivor with improved stats; may take any special weapon or a Long Las.</p>
 prototypeToken:
   name: Astra Militarum Veteran

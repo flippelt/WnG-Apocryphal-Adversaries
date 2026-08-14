@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Arbites Malocator — technically gifted investigators who scrutinise evidence through a veriscant multi-lens array to expose enemy weaknesses.</p>
 prototypeToken:
   name: Arbites Malocator

@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Wraithblades — the most feared Wraithguard, wielding twin Ghostswords; or a Ghostaxe and Forceshield (raises Resilience to 16 *3 AR, Defence to 8, and allows Determination vs Mortal Wounds).</p>
 prototypeToken:
   name: Wraithblades

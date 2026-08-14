@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Dire Avenger Exarch — the undying high priest of Khaine leading a Dire Avenger shrine, his Shimmershield protecting the squad.</p>
 prototypeToken:
   name: Dire Avenger Exarch

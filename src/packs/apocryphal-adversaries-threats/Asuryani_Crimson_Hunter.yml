@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Crimson Hunter — an Aspect Warrior fighter ace piloting a Nightshade Interceptor (CoS p95), built to hunt and destroy enemy aircraft.</p>
 prototypeToken:
   name: Crimson Hunter

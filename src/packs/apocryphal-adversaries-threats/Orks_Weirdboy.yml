@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>A Weirdboy is one of the Orks' psykers, acting as a psychic sponge that absorbs and channels the natural psychic energies constantly emanated by other Orks. Unless he releases this pent-up power in a searing energy blast, his head &mdash; and the heads of nearby Orks &mdash; will explode. Most Weirdboyz must be dragged to the battlefield by burly minders and pointed at the foe; the rare "Warpheads" actually revel in spewing WAAAGH! energy.</p>
 prototypeToken:
   name: Weirdboy

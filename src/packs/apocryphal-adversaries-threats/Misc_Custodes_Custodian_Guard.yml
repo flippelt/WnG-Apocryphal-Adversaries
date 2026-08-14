@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Custodian Guard — a golden demigod-warrior of the Adeptus Custodes, the finest individual fighters in the Imperium.</p>
 prototypeToken:
   name: Custodian Guard

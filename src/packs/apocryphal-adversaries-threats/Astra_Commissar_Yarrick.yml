@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Commissar Sebastian Yarrick — the Hero of Hades Hive and nemesis of Ghazghkull Thraka; a peerless Imperial hero of the Armageddon Wars.</p>
 prototypeToken:
   name: Commissar Sebastian Yarrick

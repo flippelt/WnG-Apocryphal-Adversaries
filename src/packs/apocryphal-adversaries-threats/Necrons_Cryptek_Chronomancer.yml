@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Chronomancers manipulate the flow of time, diverting attacks into alternate timelines and accelerating decay upon their foes.</p>
 prototypeToken:
   name: Cryptek Chronomancer

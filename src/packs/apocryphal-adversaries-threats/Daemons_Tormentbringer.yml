@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Tormentbringer — a Herald of Slaanesh who rides the Chariots of Slaanesh into the foe with joyous abandon. Knows 1 Soulstain power.</p>
 prototypeToken:
   name: Tormentbringer, Herald of Slaanesh

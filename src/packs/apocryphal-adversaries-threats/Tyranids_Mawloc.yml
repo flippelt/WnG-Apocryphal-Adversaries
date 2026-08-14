@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Mawloc — a huge worm-like outrider that bursts from underground (Terror from the Deep) to devastate supply lines and command posts, then vanishes back into the earth.</p>
 prototypeToken:
   name: Mawloc

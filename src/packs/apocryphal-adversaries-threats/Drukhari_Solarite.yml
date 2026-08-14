@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Solarite — a veteran Scourge who leads winged mercenary flights (the Scourge chassis with leadership and a wider choice of close-combat wargear).</p>
 prototypeToken:
   name: Solarite

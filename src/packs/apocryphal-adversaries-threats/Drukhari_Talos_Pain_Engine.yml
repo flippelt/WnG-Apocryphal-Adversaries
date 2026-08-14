@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: "<p>Talos Pain Engine — the most widespread Drukhari Engine of Pain: a part-organic, part-mechanical guardian and mobile torture chamber bristling with macro-scalpels and high-tech weaponry.</p>"
 prototypeToken:
   name: Talos Pain Engine

@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Mindwitch — a disembodied wyrd, a swollen head of formidable psychic power wired to a mindless slave-body.</p>
 prototypeToken:
   name: Mindwitch

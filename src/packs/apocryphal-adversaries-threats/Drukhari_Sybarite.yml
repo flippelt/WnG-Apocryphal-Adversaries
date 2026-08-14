@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Sybarite — the veteran leader of a band of Kabalite Warriors, master of the brutal craft of war (same chassis as the Kabalite Warrior, with leadership and finer wargear).</p>
 prototypeToken:
   name: Sybarite

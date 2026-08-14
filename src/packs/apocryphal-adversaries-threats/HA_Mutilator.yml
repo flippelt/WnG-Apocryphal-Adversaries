@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Mutilator — a melee-obsessed Heretic Astartes fused body and soul with its close-combat weaponry; a living weapon.</p>
 prototypeToken:
   name: Mutilator

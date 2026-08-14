@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>In many ways Nazdreg is a typical Bad Moon Warlord &mdash; rich, ostentatious and overindulgent &mdash; but he is remarkable for being one of the most intelligent and cunning battlefield commanders in all of Orkdom. Fortunately for the Imperium he is primarily concerned with wealth; were he ever to lead a full WAAAGH! he would be every bit as formidable as Ghazghkull. His warband has laid waste to at least 11 Imperial worlds from his space hulk "Scylla".</p><p><em>Printed Resilience 17 (one below the Mega Armour formula) reproduced as written.</em></p>
 prototypeToken:
   name: Nazdreg Ug Urdgrub

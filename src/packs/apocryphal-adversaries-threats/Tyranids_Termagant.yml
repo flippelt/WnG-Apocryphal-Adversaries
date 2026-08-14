@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Termagant (Gaunti virago) — the standard ranged infantry of a Tyranid swarm, most often carrying a Fleshborer; cunning and self-preserving, it lurks and ambushes when cut off from the Hive Mind.</p>
 prototypeToken:
   name: Termagant

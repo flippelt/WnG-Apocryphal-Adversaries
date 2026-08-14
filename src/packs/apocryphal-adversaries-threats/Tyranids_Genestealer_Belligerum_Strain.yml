@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Genestealer, Belligerum-Strain (Corporaptor hominis) — the bulky, hardy front-line strain of the Hive Fleets’ vanguard infiltrators; a shock-assault hunter with Rending Claws and lightning reflexes.</p>
 prototypeToken:
   name: Genestealer, Belligerum-Strain

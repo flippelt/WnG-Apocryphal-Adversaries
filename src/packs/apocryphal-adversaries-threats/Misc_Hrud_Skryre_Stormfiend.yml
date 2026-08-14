@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Skryre Stormfiend — a monstrous fusion of vat-bred Moulder Behemoth and Skryre wonder-weapons; a lumbering Clan Skryre shock-trooper.</p>
 prototypeToken:
   name: Skryre Stormfiend

@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Warlock — an Aeldari Seer who once walked the Path of the Warrior, channelling psychic runes through a Witchblade; aggressive battle-psykers who may rise to become Farseers.</p>
 prototypeToken:
   name: Warlock

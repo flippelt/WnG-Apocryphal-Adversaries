@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Veteran Sniper — an expert marksman who cuts down key enemy troops at extreme range, unseen.</p>
 prototypeToken:
   name: Veteran Sniper

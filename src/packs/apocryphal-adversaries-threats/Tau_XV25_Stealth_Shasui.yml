@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Shas’ui in XV25 Stealthsuit — the modern T’au stealth battlesuit; one in three may swap its burst cannon for a Fusion Blaster, and may take a Drone Controller or Target Lock.</p>
 prototypeToken:
   name: Shas’ui in XV25 Stealthsuit

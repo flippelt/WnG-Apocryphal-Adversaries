@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Traitor Thug — a brutal near-ogre risen through the ranks by savagery and the taint of heresy.</p>
 prototypeToken:
   name: Traitor Thug

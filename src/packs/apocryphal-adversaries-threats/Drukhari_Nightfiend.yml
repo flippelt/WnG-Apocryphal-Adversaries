@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Nightfiend — a Mandrake champion whose oubliex fetishes trap tormented souls to suffer in its place.</p>
 prototypeToken:
   name: Nightfiend

@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Kasrkin Sergeant — leads a Kasrkin kill team from the front; may carry officer-grade wargear.</p>
 prototypeToken:
   name: Kasrkin Sergeant

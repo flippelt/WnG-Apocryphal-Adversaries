@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Shas’vre in XV8 Crisis Suit — a veteran Crisis Team leader (or lone Monat / Commander’s bodyguard) with Sworn Protector.</p>
 prototypeToken:
   name: Shas’vre in XV8 Crisis Suit

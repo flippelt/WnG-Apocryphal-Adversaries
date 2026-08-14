@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Kommando Snipa Boy — picks off targets from afar with a scoped big shoota.</p>
 prototypeToken:
   name: Kommando Snipa Boy

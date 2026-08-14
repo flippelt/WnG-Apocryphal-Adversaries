@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Skryre Gunner — a burly Clan Skryre acolyte hauling a Warpshot Gatling Gun (or Warpfire Thrower) into battle.</p>
 prototypeToken:
   name: Skryre Gunner

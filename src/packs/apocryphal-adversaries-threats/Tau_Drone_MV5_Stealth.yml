@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>MV-5 Stealth Drone — projects adaptive holographic camouflage; used by XV95 Ghostkeel pilots (Speed 12).</p>
 prototypeToken:
   name: MV-5 Stealth Drone

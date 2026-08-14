@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Pink Horror — capering Warpfire-flinging Lesser Daemon of Tzeentch; when slain it splits into two Blue Horrors.</p>
 prototypeToken:
   name: Pink Horror of Tzeentch

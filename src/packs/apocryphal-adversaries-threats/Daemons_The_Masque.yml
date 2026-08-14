@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>The Masque of Slaanesh — the most infamous Daemonette, cursed to dance forever; she forces those she seduces to dance until they drop dead.</p>
 prototypeToken:
   name: The Masque of Slaanesh

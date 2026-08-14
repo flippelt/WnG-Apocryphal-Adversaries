@@ -1,4 +1,4 @@
-folder: HAThousandSons1
+folder: HAThousandSons01
 name: Infernal Master
 type: threat
 _id: uIUIO473kAfu6anY
@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Infernal Master — sorcerer-priests specialising in daemonology, binding Tutelary spirits through Infernal Pacts to slay, confound or empower.</p>
 prototypeToken:
   name: Infernal Master

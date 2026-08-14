@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>A Necron Lord is a high-ranking noble who rules an entire Tomb World, directing his Warriors in unnatural silence amid arcs of viridian energy.</p>
 prototypeToken:
   name: Necron Lord

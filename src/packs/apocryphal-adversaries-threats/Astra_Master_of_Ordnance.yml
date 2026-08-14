@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Master of Ordnance — calls in and directs artillery bombardments to support the regiment.</p>
 prototypeToken:
   name: Master of Ordnance

@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Wurrboyz are unsavoury Beast Snagga Weirdboyz who channel WAAAGH! energy in its most primal, animalistic form, leaving their foes as shrivelled husks or mindless Squigs. Off the battlefield they receive visions from Gork and Mork, relaying them to their fellow Beast Snaggas as barely-coherent prophecies that spur the hunters towards the biggest prey. So vital is this role that Beast Snaggas treat Wurrboyz as divine oracles rather than the ticking time-bombs other Orks see in Weirdboyz.</p><p><em>The printed profile lists Resolve 3 (as a Weirdboy's Reluctant); reproduced here.</em></p>
 prototypeToken:
   name: Wurrboy

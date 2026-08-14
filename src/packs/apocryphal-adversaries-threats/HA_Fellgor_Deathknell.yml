@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Fellgor Deathknell — carries a great war-gong to beat the hunt, signal the pack and herald the enemy’s doom.</p>
 prototypeToken:
   name: Fellgor Deathknell

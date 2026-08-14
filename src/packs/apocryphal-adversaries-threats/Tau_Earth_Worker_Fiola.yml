@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Earth Caste Worker (Fio’la) — a skilled labourer/technician, not trained to fight but dangerous with field tools and able to repair T’au war-machines.</p>
 prototypeToken:
   name: Earth Caste Worker Fio’la

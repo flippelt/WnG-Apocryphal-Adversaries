@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Kommando Comms Boy — relays the boss' instructions so no Ork 'forgets' their orders on the field.</p>
 prototypeToken:
   name: Kommando Comms Boy

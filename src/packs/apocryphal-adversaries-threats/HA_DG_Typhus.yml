@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Typhus, Herald of Nurgle — host of the Destroyer Hive and lord of the Death Guard’s 1st Plague Company; the most feared of Plague Fleet commanders.</p>
 prototypeToken:
   name: Typhus, Herald of Nurgle

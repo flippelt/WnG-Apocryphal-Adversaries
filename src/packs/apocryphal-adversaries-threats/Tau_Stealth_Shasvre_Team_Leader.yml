@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Stealthsuit Shas’vre Team Leader — the veteran who leads a Stealth Team (the XV25 chassis with leadership, a markerlight and a target lock).</p>
 prototypeToken:
   name: Shas’vre in XV-15/XV-25 Stealthsuit

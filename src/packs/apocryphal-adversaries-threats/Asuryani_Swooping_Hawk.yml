@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Swooping Hawk — aerial Aspect Warriors on anti-gravitic wings, raining lasblaster fire and grenades in lightning fly-by attacks.</p>
 prototypeToken:
   name: Swooping Hawk

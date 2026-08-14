@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Ranger — craftworld scouts and master marksmen who harry the foe with Long Rifles, finding eye-sockets and neck-joints; some ride Raptor jetbikes as Shroud Runners.</p>
 prototypeToken:
   name: Ranger

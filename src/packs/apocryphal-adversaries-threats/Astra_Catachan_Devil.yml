@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Catachan Devil — elite Catachan jungle fighters lethal in close combat and masters of deep-penetration raids and ambushes.</p>
 prototypeToken:
   name: Catachan Devil

@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Maleceptor — a gargantuan embodiment of the Hive Mind’s psychic power, its ethereal pseudopods overloading victims’ minds; a focal point that intensifies the Shadow in the Warp.</p>
 prototypeToken:
   name: Maleceptor

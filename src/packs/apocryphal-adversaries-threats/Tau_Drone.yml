@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: "<p>The base T’au Drone (Kor’vesa) profile: a disk-shaped anti-gravitic AI helper. Configured into one of the variants in this folder when fielded.</p>"
 prototypeToken:
   name: T’au Drone

@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Hrud Stormvermin — bigger, stronger Hrud recruited as enforcers, bodyguards and elite shock troops.</p>
 prototypeToken:
   name: Hrud Stormvermin

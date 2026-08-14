@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: "<p>Broodlord (Corporaptor Primus) — the apex of Genestealer evolution: a frontline warrior and synapse-bearing commander that leads infiltrating vanguard broods.</p>"
 prototypeToken:
   name: Broodlord

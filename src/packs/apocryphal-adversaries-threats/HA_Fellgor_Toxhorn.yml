@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Fellgor Toxhorn — revel in decay, unleashing toxins and chemicals against machine and living being alike.</p>
 prototypeToken:
   name: Fellgor Toxhorn

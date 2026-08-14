@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Vespid Stingwing (Mal’kor) — an insectile flying auxiliary armed with armour-shredding neutron blasters; communicates with the T’au only via Communion Helm-equipped Strain Leaders.</p>
 prototypeToken:
   name: Vespid Stingwing

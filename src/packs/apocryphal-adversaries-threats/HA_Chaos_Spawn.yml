@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Chaos Spawn — a mindless, ever-mutating abomination; the fate of failed aspirants to daemonhood.</p>
 prototypeToken:
   name: Chaos Spawn

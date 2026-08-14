@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Ogryn Bodyguard — an oath-bound Abhuman shock trooper who shields an Imperial officer with its own bulk.</p>
 prototypeToken:
   name: Ogryn Bodyguard

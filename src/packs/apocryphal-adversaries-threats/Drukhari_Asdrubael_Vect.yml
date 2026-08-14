@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: "<p>Asdrubael Vect — Supreme Overlord of Commorragh, the most devious Drukhari ever to live. Shadow Field: Resilience 13 (*8 AR), dropping to 9 (Ghostplate 4/*2) once it fails. Often rides the Dias of Destruction (a customised Raider).</p>"
 prototypeToken:
   name: Asdrubael Vect

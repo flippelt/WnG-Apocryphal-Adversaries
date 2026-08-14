@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Bloodletter — the eager daemonic foot soldier of Khorne’s Blood Legions, wielding a Warp-metal Hellblade.</p>
 prototypeToken:
   name: Bloodletter of Khorne

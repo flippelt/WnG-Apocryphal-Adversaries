@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Lord of Change — the Greater Daemon of Tzeentch, an immense bird-like Supreme Mutator weaving eon-spanning schemes. Knows 2 Pandaemoniac powers.</p>
 prototypeToken:
   name: Lord of Change

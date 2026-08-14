@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Forgefiend — a centauroid Daemon Engine bristling with hell-forged autocannons to sow death from afar.</p>
 prototypeToken:
   name: Forgefiend

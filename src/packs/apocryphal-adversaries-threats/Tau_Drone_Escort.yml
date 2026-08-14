@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: "<p>Escort Drone — a small Water Caste drone that protects and aids negotiators, armed with twin pulse pistols. (Small: +1 Defence.)</p>"
 prototypeToken:
   name: Escort Drone

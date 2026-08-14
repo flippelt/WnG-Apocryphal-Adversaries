@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Grotesque — a hulking, musclebound horror fleshcrafted from captured slaves and disgraced Drukhari, used as a frenzied shock-assault beast led by its Haemonculus creator.</p>
 prototypeToken:
   name: Grotesque

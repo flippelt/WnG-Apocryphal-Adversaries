@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Kommando Grot — a sneaky, cowardly Gretchin attached to a Kommando kill team.</p>
 prototypeToken:
   name: Kommando Grot

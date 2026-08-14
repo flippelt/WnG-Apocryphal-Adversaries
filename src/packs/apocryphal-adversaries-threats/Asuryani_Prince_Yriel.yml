@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Prince Yriel of Iyanden — High Admiral and Autarch of Iyanden, leader of the Eldritch Raiders Corsair fleet, bearer of the cursed Spear of Twilight.</p>
 prototypeToken:
   name: Prince Yriel of Iyanden

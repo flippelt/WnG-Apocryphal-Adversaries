@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Kasrkin Trooper — Cadian special-forces elite (Storm Trooper equivalent) with hot-shot lasguns and minor biological enhancement.</p>
 prototypeToken:
   name: Kasrkin Trooper

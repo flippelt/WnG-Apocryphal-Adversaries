@@ -2,8 +2,8 @@ name: Heretic Astartes — Emperor's Children
 sorting: a
 folder: null
 type: Actor
-_id: HAEmpChildren01
+_id: HAEmpChildren001
 sort: 920000
 color: null
 flags: {}
-_key: "!folders!HAEmpChildren01"
+_key: "!folders!HAEmpChildren001"

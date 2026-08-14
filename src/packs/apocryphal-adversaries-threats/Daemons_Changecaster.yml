@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Changecaster — the most common Herald of Tzeentch, an elevated Pink Horror wielding mutating magics. Knows 2 Pandaemoniac powers.</p>
 prototypeToken:
   name: Changecaster, Herald of Tzeentch

@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Exalted Champion — the most elite of common Chaos Champions, leaving a trail of slain enemy champions to draw the eye of the gods.</p>
 prototypeToken:
   name: Exalted Champion

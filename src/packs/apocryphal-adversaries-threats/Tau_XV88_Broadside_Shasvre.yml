@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Shas’vre in XV88 Broadside Suit — the veteran leader of a Broadside team (or lone Monat).</p>
 prototypeToken:
   name: Shas’vre in XV88 Broadside Suit

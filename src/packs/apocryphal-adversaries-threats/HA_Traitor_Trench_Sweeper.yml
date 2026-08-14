@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Traitor Trench Sweeper — a rare traitor still loyal to his comrades, shielding superiors before clearing trenches with a shotgun.</p>
 prototypeToken:
   name: Traitor Trench Sweeper

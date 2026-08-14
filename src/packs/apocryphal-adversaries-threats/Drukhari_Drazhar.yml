@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Drazhar, the Master of Blades — the enigmatic Executioner of the Incubi, perhaps Arhra the Dark Father incarnate; wields the Executioner’s Demiklaive.</p>
 prototypeToken:
   name: Drazhar, the Master of Blades

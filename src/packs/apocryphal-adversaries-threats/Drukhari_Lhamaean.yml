@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Lhamaean — a poisoner of the Sisterhood of Lhilitu who attends an Archon, among the foremost venom-crafters of Commorragh, devotees of Shaimesh, Father of Poisons.</p>
 prototypeToken:
   name: Lhamaean

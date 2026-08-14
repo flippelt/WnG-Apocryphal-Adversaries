@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Haruspex — a ravenous beast that devours platoons whole, dragging restrained prey into its three-jawed craw and healing as it feeds; its acidic blood scalds melee attackers.</p>
 prototypeToken:
   name: Haruspex

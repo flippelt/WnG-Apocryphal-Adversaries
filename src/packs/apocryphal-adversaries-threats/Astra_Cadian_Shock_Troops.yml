@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Cadian Shock Troops — born soldiers drilled into expert sharpshooters; the archetypal Imperial Guard. Up to two in ten may take special weapons.</p>
 prototypeToken:
   name: Cadian Shock Troops

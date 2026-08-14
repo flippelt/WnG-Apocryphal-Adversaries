@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Orikan the Diviner — the Necrontyr Triarch’s astromancer and a potent Chronomancer, the lone voice who foresaw biotransference would end in disaster. As combat drags on, the stars align and he ascends to his Empowered form.</p>
 prototypeToken:
   name: Orikan the Diviner

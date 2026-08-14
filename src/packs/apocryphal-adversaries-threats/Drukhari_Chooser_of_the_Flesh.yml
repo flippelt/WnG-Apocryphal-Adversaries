@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Chooser of the Flesh — a Mandrake that ritually claims the dismembered limbs of its victims with cold-fired baleblades.</p>
 prototypeToken:
   name: Chooser of the Flesh

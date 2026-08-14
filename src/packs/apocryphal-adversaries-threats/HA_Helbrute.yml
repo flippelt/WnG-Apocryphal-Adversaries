@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Helbrute — a twisted mockery of a Space Marine Dreadnought, piloted by a maimed warrior bound in an amniotic sarcophagus.</p>
 prototypeToken:
   name: Helbrute

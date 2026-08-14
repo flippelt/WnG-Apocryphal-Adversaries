@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Tank Crew — the dedicated operators of an Astra Militarum war machine, functioning as a single well-oiled entity.</p>
 prototypeToken:
   name: Tank Crew

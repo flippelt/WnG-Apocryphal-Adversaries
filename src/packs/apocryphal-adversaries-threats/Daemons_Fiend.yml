@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Fiend of Slaanesh — a chimerical daemon-beast that exudes a soporific musk to immobilise prey before rending it apart.</p>
 prototypeToken:
   name: Fiend of Slaanesh

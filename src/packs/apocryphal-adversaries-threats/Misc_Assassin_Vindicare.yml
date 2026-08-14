@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Vindicare Assassin — cold, calculating marksmen who bring inglorious death to the Emperor’s enemies with a single Exitus round.</p>
 prototypeToken:
   name: Vindicare Assassin

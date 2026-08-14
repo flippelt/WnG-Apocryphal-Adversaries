@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: "<p>Dark Reaper — the Destroyer aspect: skull-masked heavy-weapons specialists whose Reaper Launchers rarely miss.</p>"
 prototypeToken:
   name: Dark Reaper

@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Haarken Worldclaimer, Herald of the Apocalypse — Abaddon’s mouthpiece, who proclaims the death of worlds and leads the Black Legion’s Raptor hosts. Speed 14 (Flight).</p>
 prototypeToken:
   name: Haarken Worldclaimer

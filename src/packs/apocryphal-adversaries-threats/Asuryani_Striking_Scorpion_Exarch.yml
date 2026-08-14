@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Striking Scorpion Exarch — leads the shrine from the shadows with the Biting Blade or Scorpion’s Claw, flowing silently through dense terrain.</p>
 prototypeToken:
   name: Striking Scorpion Exarch

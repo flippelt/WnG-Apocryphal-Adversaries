@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Shining Spears — rare jetbike-mounted Aspect Warriors who charge like thunderbolts with Laser Lances; warrior-heroes of the craftworlds.</p>
 prototypeToken:
   name: Shining Spears

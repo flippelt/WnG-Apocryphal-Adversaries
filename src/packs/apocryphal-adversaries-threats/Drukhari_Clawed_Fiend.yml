@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Clawed Fiend — a hulking, fur-covered Webway monster used as a Beastmaster war-beast, most dangerous once wounded as the scent of its own ichor drives it berserk. (Source prints Wounds 1 and the AELDARI/DRUKHARI keywords; BEAST keyword added so Beastmaster abilities apply.)</p>
 prototypeToken:
   name: Clawed Fiend

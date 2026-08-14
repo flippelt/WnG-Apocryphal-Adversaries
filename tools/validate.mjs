@@ -24,10 +24,11 @@ const fail = (where, message) => errors.push(`${where}: ${message}`);
 
 // `!<collection>!<id>` for top-level documents; embedded docs use a longer key.
 const KEY_COLLECTION = { Actor: "actors", Item: "items" };
-// Foundry generates 16-character ids, but hand-written mnemonic ones are valid
-// too (several Heretic Astartes folders use 15) — what matters is that an id is
-// alphanumeric, plausible, and unique, not that it is exactly 16 long.
-const ID_PATTERN = /^[A-Za-z0-9]{8,16}$/;
+// Foundry v14 DocumentIdField is exactly 16 alphanumeric characters. Shorter
+// mnemonic ids (the three Heretic Astartes cult-legion folders used 15) throw
+// DataModelValidationError and abort the whole compendium. Pad, don't invent
+// a new id, when touching a published folder.
+const ID_PATTERN = /^[A-Za-z0-9]{16}$/;
 
 const module = JSON.parse(await readFile(join(root, "module.json"), "utf8"));
 const declared = module.packs ?? [];

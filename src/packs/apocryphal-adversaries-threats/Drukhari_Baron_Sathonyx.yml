@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: "<p>Baron Sathonyx, the Lord Hellion — self-styled king of Commorragh’s outcasts, riding a Skyboard. Shadow Field: Resilience 13 (*8 AR), dropping to 8 (Skyboard 3 AR) once it fails.</p>"
 prototypeToken:
   name: Baron Sathonyx

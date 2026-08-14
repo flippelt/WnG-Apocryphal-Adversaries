@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>A Skorpekh Destroyer Lord lurches forward on a tripod body, Enmitic Annihilator blasting victims apart as its blades reap a crimson harvest.</p>
 prototypeToken:
   name: Skorpekh Destroyer Lord

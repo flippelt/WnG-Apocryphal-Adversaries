@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Conscripts ("Whiteshields") — barely-trained Imperial citizens thrown into battle as expendable manpower, eager to earn the title of Guardsman.</p>
 prototypeToken:
   name: Astra Militarum Conscripts

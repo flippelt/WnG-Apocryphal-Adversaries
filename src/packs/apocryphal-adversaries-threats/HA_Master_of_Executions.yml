@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Master of Executions — a warp-sighted headsman who hunts and slays enemy champions, sacrificing them to the Dark Gods.</p>
 prototypeToken:
   name: Master of Executions

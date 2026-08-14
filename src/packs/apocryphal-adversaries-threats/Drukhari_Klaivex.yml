@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Klaivex — the master of an Incubi war-shrine, wielding a demiklaive that splits into paired blades and leading lesser Incubi into battle.</p>
 prototypeToken:
   name: Klaivex

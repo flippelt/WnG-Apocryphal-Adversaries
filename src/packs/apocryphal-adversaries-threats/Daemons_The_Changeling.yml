@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>The Changeling — the Trickster of Tzeentch, a shape-stealing Horror who sows discord and wears its foes’ own forms. Knows 2 Pandaemoniac powers.</p>
 prototypeToken:
   name: The Changeling

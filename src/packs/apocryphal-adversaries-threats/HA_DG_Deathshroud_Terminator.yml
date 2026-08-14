@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Deathshroud Terminator — Mortarion’s handpicked “Pale Harvestmen”, wielding cursed Manreaper scythes amid clouds of plague-flies.</p>
 prototypeToken:
   name: Deathshroud Terminator

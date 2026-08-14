@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Inquisition Pistolier — “Desperadoes”; skilled killers honed in the underbowels of hive worlds, masters of the quick draw and the silent kill.</p>
 prototypeToken:
   name: Inquisition Pistolier

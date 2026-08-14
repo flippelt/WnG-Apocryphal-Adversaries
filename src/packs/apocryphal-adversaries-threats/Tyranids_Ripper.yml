@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Ripper (Minoris omniphagea) — a small, maggot-like Tyranid that strips a world of biomass; mindless and helpless without synaptic link, but relentless and horrifying in great swarms. Printed Defence 4 reproduced with a −1 bonus (tiny size adds +2 to the formula).</p>
 prototypeToken:
   name: Ripper

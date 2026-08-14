@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Moulder Behemoth — an Ogryn-sized vat-bred war-beast of Clan Moulder that rips through enemy ranks in a storm of flying limbs.</p>
 prototypeToken:
   name: Moulder Behemoth

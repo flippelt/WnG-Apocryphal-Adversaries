@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Skinks — small, swift Seraphon warriors who swarm as a scaly mass to unleash a storm of poison-tipped projectiles.</p>
 prototypeToken:
   name: Skinks

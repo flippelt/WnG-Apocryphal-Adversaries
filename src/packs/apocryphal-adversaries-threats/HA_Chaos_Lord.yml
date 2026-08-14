@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Chaos Lord — a tyrannical warrior-king who commands a Chaos warband and lives to bathe in the blood of worlds.</p>
 prototypeToken:
   name: Chaos Lord

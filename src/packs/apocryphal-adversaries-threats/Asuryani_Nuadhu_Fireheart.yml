@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Nuadhu “Fireheart” — a Wild Rider Chieftain of Saim-Hann who rides Alean, a custom Vyper jetbike (see the Alean vehicle). KEYWORD SAIM-HANN.</p>
 prototypeToken:
   name: Nuadhu ‘Fireheart’

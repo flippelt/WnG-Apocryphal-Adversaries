@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Daemon Prince of Chaos — a mortal Champion elevated to daemonhood; assign a Mark of Chaos for its god-specific gifts. May take a Daemonic Axe, paired Malefic Talons, or Wings (Speed 12 Fly).</p>
 prototypeToken:
   name: Daemon Prince of Chaos

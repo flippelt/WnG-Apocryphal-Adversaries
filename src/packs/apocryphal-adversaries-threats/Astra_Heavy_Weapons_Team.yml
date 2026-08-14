@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Heavy Weapons Team — a gunner-and-loader pair providing heavy fire support; the gunner wields a Heavy Bolter (or Autocannon/Lascannon/Mortar/Missile Launcher).</p>
 prototypeToken:
   name: Heavy Weapons Team

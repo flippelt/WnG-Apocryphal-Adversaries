@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Lord Castellan Ursula J. Creed — daughter of Ursarkar Creed and current Lord Castellan of Cadia, a ruthless and intuitive strategist.</p>
 prototypeToken:
   name: Lord Castellan Ursula J. Creed

@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Screamer of Tzeentch — a daemonic sky-shark that swims through Warp energy, emitting a soul-disconcerting whine.</p>
 prototypeToken:
   name: Screamer of Tzeentch

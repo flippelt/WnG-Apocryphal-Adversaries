@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Fellgor Ironhorn — the vicious, cunning leaders of a Fellgor warband, having fought to the top of the pack.</p>
 prototypeToken:
   name: Fellgor Ironhorn

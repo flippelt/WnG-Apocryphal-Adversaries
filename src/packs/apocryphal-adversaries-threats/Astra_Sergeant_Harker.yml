@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Gunnery Sergeant “Stonetooth” Harker — the impossibly resilient Catachan heavy-weapon specialist who wields his Heavy Bolter “Payback” one-handed.</p>
 prototypeToken:
   name: Gunnery Sergeant "Stonetooth" Harker

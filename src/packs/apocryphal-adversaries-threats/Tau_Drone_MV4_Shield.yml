@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>MV-4 Shield Drone — an unarmed drone whose invulnerable shield generator protects VIPs, battlesuits and squads.</p>
 prototypeToken:
   name: MV-4 Shield Drone

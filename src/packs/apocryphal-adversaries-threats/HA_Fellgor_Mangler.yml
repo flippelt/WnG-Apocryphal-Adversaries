@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Fellgor Mangler — warp-enraged brutes who smash through bulkheads and deliver skull-crushing headbutts.</p>
 prototypeToken:
   name: Fellgor Mangler

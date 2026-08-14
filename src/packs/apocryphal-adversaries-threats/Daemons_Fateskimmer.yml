@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Fateskimmer — a Herald of Tzeentch who rides a Burning Chariot, hurling sorceries from on high. Knows 2 Pandaemoniac powers.</p>
 prototypeToken:
   name: Fateskimmer, Herald of Tzeentch

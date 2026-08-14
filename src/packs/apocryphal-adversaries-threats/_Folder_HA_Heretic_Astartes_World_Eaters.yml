@@ -2,8 +2,8 @@ name: Heretic Astartes — World Eaters
 sorting: a
 folder: null
 type: Actor
-_id: HAWorldEaters01
+_id: HAWorldEaters001
 sort: 940000
 color: null
 flags: {}
-_key: "!folders!HAWorldEaters01"
+_key: "!folders!HAWorldEaters001"

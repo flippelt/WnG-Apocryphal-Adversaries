@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Exocrine — a living artillery platform controlled by the brain of its Bio-Plasmic Cannon; the most feared gun-beast of the swarm when it stops to focus its fire.</p>
 prototypeToken:
   name: Exocrine

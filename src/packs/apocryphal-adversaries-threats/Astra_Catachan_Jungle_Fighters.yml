@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Catachan Jungle Fighters — heavily muscled death-world warriors, skilled infiltrators and trackers. One in five may take a Flamer or Long Las.</p>
 prototypeToken:
   name: Catachan Jungle Fighters

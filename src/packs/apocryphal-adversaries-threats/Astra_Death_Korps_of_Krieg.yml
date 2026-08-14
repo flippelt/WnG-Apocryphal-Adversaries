@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Death Korps of Krieg — grim, dour siege-soldiers of a pitiless cult of sacrifice; legendary endurance. One in ten may take a special weapon or a Long Las.</p>
 prototypeToken:
   name: Death Korps of Krieg

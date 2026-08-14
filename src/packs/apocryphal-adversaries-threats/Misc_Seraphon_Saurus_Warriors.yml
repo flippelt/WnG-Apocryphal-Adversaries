@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Saurus Warriors — the brutal heart of the Seraphon armies, advancing in disciplined lockstep and unleashing cold-blooded savagery.</p>
 prototypeToken:
   name: Saurus Warriors

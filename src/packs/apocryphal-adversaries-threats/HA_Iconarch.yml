@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Iconarch — bears the cult’s flame-billowing censer-icon, radiating the mutating power of the warp over friend and foe.</p>
 prototypeToken:
   name: Iconarch

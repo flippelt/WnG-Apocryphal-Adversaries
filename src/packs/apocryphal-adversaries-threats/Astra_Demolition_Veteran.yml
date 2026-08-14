@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Demolition Veteran — an explosives expert who plants remote mines at the optimum point to obliterate targets.</p>
 prototypeToken:
   name: Demolition Veteran

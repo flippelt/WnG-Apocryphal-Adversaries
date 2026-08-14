@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Beast of Nurgle — an immense, affectionate slug-daemon that lovingly poisons and crushes everything it touches.</p>
 prototypeToken:
   name: Beast of Nurgle

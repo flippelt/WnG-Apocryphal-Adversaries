@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Kasrkin Recon Trooper — the kill team’s eyes and ears, using advanced auspex to strip the enemy of concealment.</p>
 prototypeToken:
   name: Kasrkin Recon Trooper

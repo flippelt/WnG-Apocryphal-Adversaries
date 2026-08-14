@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Arbites R-VR Cyber-Mastiff — a Rantal-class Venatus Reclamator hunting construct whose iron jaws break bones or kill on command.</p>
 prototypeToken:
   name: Arbites R-VR Cyber-Mastiff

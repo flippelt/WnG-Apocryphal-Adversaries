@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Fellgor Gorehorn — blood-maddened Ravagers who hurl themselves into battle, hacking off heads and arms in sprays of viscera.</p>
 prototypeToken:
   name: Fellgor Gorehorn

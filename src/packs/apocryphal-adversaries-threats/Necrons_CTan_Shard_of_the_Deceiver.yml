@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: "<p>The Deceiver — Mephet’ran — is the C’Tan Star God of trickery, lies, and manipulation: the one who tricked the Necrontyr into biotransference, only to be shattered and enslaved like his kin.</p>"
 prototypeToken:
   name: C’Tan Shard of the Deceiver

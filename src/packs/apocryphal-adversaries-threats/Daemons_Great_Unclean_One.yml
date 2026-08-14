@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Great Unclean One — the corpulent Greater Daemon of Nurgle, harbinger of plagues, spilling Nurglings from its rotting belly. Knows 2 Warprot powers.</p>
 prototypeToken:
   name: Great Unclean One

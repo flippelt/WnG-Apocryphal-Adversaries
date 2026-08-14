@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Breaka Boy Demolisha — straps explosive rockets to its hammer for a one-shot, target-obliterating swing.</p>
 prototypeToken:
   name: Breaka Boy Demolisha

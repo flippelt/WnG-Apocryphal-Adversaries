@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Possessed — a Chaos Space Marine whose body has been wholly given over to an inhabiting daemon; a feeling-no-pain monster.</p>
 prototypeToken:
   name: Possessed

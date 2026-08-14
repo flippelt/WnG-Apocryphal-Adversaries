@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Zealot Veteran — a deeply spiritual warrior who inspires fellow Veterans, crediting their survival to the Emperor’s intervention.</p>
 prototypeToken:
   name: Zealot Veteran

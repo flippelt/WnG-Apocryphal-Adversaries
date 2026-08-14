@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Sloppity Bilepiper — a Herald infected with the Chortling Murrain, capering to amuse Nurgle’s Tallybands and infecting foes with deadly mirth.</p>
 prototypeToken:
   name: Sloppity Bilepiper, Herald of Nurgle

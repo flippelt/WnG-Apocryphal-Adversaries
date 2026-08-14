@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Traitor Guard Trooper — a disloyal mortal of the Militarum Traitoris; the reliable core of the Lost and Damned.</p>
 prototypeToken:
   name: Traitor Guard Trooper

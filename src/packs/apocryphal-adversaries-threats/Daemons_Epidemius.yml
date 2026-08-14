@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Epidemius, the Tallyman of Nurgle — borne aloft on a Nurgling palanquin, cataloguing every plague; his Tally empowers Nurgle’s legions.</p>
 prototypeToken:
   name: Epidemius, Tallyman of Nurgle

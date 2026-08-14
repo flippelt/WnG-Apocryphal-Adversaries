@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Acothyst — a Wrack of authority (a captain among Wracks), sometimes rewarded with unique Haemonculi weapons such as the Hexrifle.</p>
 prototypeToken:
   name: Acothyst

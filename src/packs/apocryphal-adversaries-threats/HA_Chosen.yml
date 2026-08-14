@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Chosen — the most battle-hardened of the Heretic Astartes, equivalent to Veteran Marines, fighting from the vanguard for glory and spoils.</p>
 prototypeToken:
   name: Chosen

@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>The Blue Scribes — P’tarix and Xirat’p, a pair of Blue Horrors on a Disc, recording every spell in creation; they syphon enemy psykers’ powers.</p>
 prototypeToken:
   name: The Blue Scribes

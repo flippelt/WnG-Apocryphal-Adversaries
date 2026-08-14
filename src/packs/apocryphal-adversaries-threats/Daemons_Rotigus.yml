@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Rotigus, the Generous One — a Great Unclean One, the Rainfather who answers the desperate with toxic deluges. Knows 2 Warprot powers.</p>
 prototypeToken:
   name: Rotigus, the Generous One

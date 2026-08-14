@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Tallyman — a festering preacher of Nurgle’s sacred number seven who chants the foe to ruin and empowers the faithful.</p>
 prototypeToken:
   name: Tallyman

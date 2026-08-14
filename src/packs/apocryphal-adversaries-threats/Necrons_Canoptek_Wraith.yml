@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Canoptek Wraiths flit silently through tomb worlds, phasing their claws inside intruders and resolidifying them to sever vital pathways.</p>
 prototypeToken:
   name: Canoptek Wraith

@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Triarch Praetorians are the judges and enforcers of ancient Necrontyr law, beholden to no dynasty, striving to see the old empire restored.</p>
 prototypeToken:
   name: Triarch Praetorians

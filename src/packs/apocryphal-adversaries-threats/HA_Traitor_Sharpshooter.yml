@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Traitor Sharpshooter — a camo-cloaked marksman who picks off targets from a hidden nest.</p>
 prototypeToken:
   name: Traitor Sharpshooter

@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Darkstrider (El’Myamoto) — an unconventional Pathfinder sub-commander who attacks from unexpected angles and exposes enemy weaknesses with his Structural Analyser; a favourite of Shadowsun.</p>
 prototypeToken:
   name: Darkstrider

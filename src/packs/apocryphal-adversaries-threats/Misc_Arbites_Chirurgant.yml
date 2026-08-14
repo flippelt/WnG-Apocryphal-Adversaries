@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Arbites Chirurgant — medical specialists who treat wounds and conduct the tactical interrogation of prisoners.</p>
 prototypeToken:
   name: Arbites Chirurgant

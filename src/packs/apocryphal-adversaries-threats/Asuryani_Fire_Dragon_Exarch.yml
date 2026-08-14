@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Fire Dragon Exarch — master of demolition, generating a corona of flame; trains the shrine to stalk and crack open armoured vehicles.</p>
 prototypeToken:
   name: Fire Dragon Exarch

@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Accursed Mutant — heavily Chaos-warped cultists herded into battle as regenerating shock troops.</p>
 prototypeToken:
   name: Accursed Mutant

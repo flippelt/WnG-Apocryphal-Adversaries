@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Tech-Priest Enginseer — an Adeptus Mechanicus engineer-mystic attached to the regiment to maintain its war machines.</p>
 prototypeToken:
   name: Tech-Priest Enginseer

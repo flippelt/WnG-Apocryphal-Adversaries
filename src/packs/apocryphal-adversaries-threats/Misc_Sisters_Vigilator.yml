@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Anathema Psykana Vigilator — the most experienced Sisters of Silence, entrusted with slaying the most dangerous targets in close combat.</p>
 prototypeToken:
   name: Anathema Psykana Vigilator

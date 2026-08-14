@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Wraithlord — a towering wraithbone war-walker animated by the soul of a dead Aeldari hero; the "Eldar Dreadnought".</p>
 prototypeToken:
   name: Wraithlord

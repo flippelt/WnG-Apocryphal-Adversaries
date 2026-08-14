@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Razorwing Flock — large razor-feathered birds of prey with eerie intelligence, swarming prey in a hurricane of knife-like feathers; a favourite terror of Beastmasters.</p>
 prototypeToken:
   name: Razorwing Flock

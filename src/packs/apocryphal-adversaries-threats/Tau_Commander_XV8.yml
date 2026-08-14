@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Fire Caste Commander in XV8 Crisis Battlesuit — a Shas’O/Shas’el hero of the Greater Good leading a Hunter Cadre, with access to special-issue wargear.</p>
 prototypeToken:
   name: Commander in XV8 Crisis Battlesuit

@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Kheradruakh, the Decapitator — the Mandrake who hunts heads, whose skull-claiming opened the shadow-realm into the Dark City. Resilience 9 (Umbral Form *3 AR); +2 Defence from Umbral Entities is included.</p>
 prototypeToken:
   name: Kheradruakh, the Decapitator

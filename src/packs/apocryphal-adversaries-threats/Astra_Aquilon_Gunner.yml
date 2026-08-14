@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Aquilon Gunner — tackles vehicles and elites with a Plasma Carbine or Melta Carbine.</p>
 prototypeToken:
   name: Aquilon Gunner

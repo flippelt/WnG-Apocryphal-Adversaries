@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Disc of Tzeentch — a Screamer forged into a lethally fast daemonic mount of flashing blades and burnished metal.</p>
 prototypeToken:
   name: Disc of Tzeentch

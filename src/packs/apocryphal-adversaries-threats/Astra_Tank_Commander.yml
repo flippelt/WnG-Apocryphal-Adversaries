@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>Tank Commander — a steely-eyed armoured ace who issues Mechanised Orders from the cupola of a Leman Russ, leading a tank company.</p>
 prototypeToken:
   name: Tank Commander

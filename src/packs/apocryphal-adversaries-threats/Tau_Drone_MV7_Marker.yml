@@ -247,7 +247,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: <p>MV-7 Marker Drone — fitted with a markerlight projector to mark priority targets for the Cadre.</p>
 prototypeToken:
   name: MV-7 Marker Drone
