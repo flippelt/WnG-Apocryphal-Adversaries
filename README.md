@@ -86,15 +86,6 @@ Source PDF revisions and per-faction conversion notes live in
 The Adeptus Astartes supplement (loyalist Space Marines) is **deferred** until
 Nathan publishes a complete version.
 
-## Status
-
-**Complete** as of **v1.0.0**. Current release is **v1.1.0** (Foundry v14
-compatibility).
-
-**Versioning:** a new faction (when Adeptus Astartes is ready) is a **minor**
-bump. Tracking a newer source-PDF revision of an already-shipped faction is a
-**patch**. Compatibility work follows the same scheme.
-
 ## Development
 
 You do not need this section to play. The compendium ships as LevelDB under
