@@ -1,190 +1,148 @@
 # An Abundance of Apocryphal Adversaries for Foundry VTT
 
-[![Release](https://img.shields.io/github/v/release/flippelt/WnG-Apocryphal-Adversaries)](https://github.com/flippelt/WnG-Apocryphal-Adversaries/releases) ![Release date](https://img.shields.io/github/release-date/flippelt/WnG-Apocryphal-Adversaries) ![Foundry](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fflippelt%2FWnG-Apocryphal-Adversaries%2Fmain%2Fmodule.json&query=%24.compatibility.verified&label=Foundry&color=fe6a1f) [![Last commit](https://img.shields.io/github/last-commit/flippelt/WnG-Apocryphal-Adversaries)](https://github.com/flippelt/WnG-Apocryphal-Adversaries/commits) [![License](https://img.shields.io/badge/license-MIT-blue)](https://github.com/flippelt/WnG-Apocryphal-Adversaries/blob/main/LICENSE) ![Top language](https://img.shields.io/github/languages/top/flippelt/WnG-Apocryphal-Adversaries) ![Repo size](https://img.shields.io/github/repo-size/flippelt/WnG-Apocryphal-Adversaries) ![Issues](https://img.shields.io/github/issues/flippelt/WnG-Apocryphal-Adversaries)
+[![Release](https://img.shields.io/github/v/release/flippelt/WnG-Apocryphal-Adversaries)](https://github.com/flippelt/WnG-Apocryphal-Adversaries/releases) ![Foundry](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fflippelt%2FWnG-Apocryphal-Adversaries%2Fmain%2Fmodule.json&query=%24.compatibility.verified&prefix=v&label=Foundry&color=fe6a1f) [![CI](https://img.shields.io/github/actions/workflow/status/flippelt/WnG-Apocryphal-Adversaries/ci.yml?label=CI)](https://github.com/flippelt/WnG-Apocryphal-Adversaries/actions/workflows/ci.yml) [![Last commit](https://img.shields.io/github/last-commit/flippelt/WnG-Apocryphal-Adversaries)](https://github.com/flippelt/WnG-Apocryphal-Adversaries/commits) [![License](https://img.shields.io/badge/license-MIT-blue)](https://github.com/flippelt/WnG-Apocryphal-Adversaries/blob/main/LICENSE)
 
-A bestiary module for the **Wrath & Glory** system (Cubicle 7) on Foundry VTT,
-adapting the **threats** from Nathan Dowdell's *An Abundance of Apocryphal
-Adversaries* — the bestiary companion to *An Abundance of Apocrypha* — converted
-here **with his permission**.
+A bestiary module for **Wrath & Glory** (Cubicle 7) on Foundry VTT. It converts
+the threats from Nathan Dowdell's *An Abundance of Apocryphal Adversaries* — the
+bestiary companion to *An Abundance of Apocrypha* — **with his permission**.
 
-> Compatible with Foundry VTT **v11–v14**, verified on **v14**. Module id: `wng-apocryphal-adversaries`.
+Drop ready-to-play enemies onto the map: infantry, walkers, grav-tanks, psykers,
+C'tan, daemon primarchs and named warlords, each with weapons, talents, abilities
+and threat-tier options.
+
+**Ten factions, complete.** 594 actors and 580 items in two compendia. The only
+outstanding supplement is the work-in-progress Adeptus Astartes, which will be
+added once Nathan finalises it.
+
+> Compatible with Foundry VTT **v11–v14**, verified on **v14**. Module id:
+> `wng-apocryphal-adversaries`.
 >
 > Wrath & Glory **8.0.0+ is Foundry v14 exclusive**, so a current system install
 > is on v14. Older Foundry generations still work with correspondingly older
 > system releases.
 >
-> Companion to the [An Abundance of Apocrypha](https://github.com/flippelt/WnG-Apocrypha-FoundryVTT)
-> module (archetypes, talents, wargear, etc.).
->
-> ⚠️ **Recommended companions (optional but strongly advised).** These are listed
-> as `recommends`, so this module installs and runs without them, **but elements
-> will break without them:**
->
-> - **`wng-core`** supplies item icons and the **Smite** psychic power some threats
->   link to. Without it, those icons are missing and the Smite link shows as
->   "unlinked".
-> - **`wng-apocrypha`** supplies the Ork **WAAAGH! psychic powers** (and other
->   shared content) that the psyker threats link to. Without it, those linked
->   powers show as "unlinked".
-> - **`wng-xenos`** supplies the **Necron tokens**. Without it, Necron threats fall
->   back to a default token image.
-> - Some mounted Ork bosses reference **Church of Steel (`wng-cos`)** for their
->   vehicles.
->
-> Install them for the full, linked experience.
+> Companion to
+> [An Abundance of Apocrypha](https://github.com/flippelt/WnG-Apocrypha-FoundryVTT)
+> (archetypes, talents, wargear).
 
-## Status / Progress
+## Install
 
-Converted faction by faction from the source PDFs. See
+This module is **not yet listed** in the Foundry package browser. Install it
+from the manifest:
+
+1. In Foundry, open **Add-on Modules** → **Install Module**.
+2. Paste this **Manifest URL**:
+
+```
+https://github.com/flippelt/WnG-Apocryphal-Adversaries/releases/latest/download/module.json
+```
+
+3. Install, then enable **Wrath & Glory - An Abundance of Apocryphal Adversaries**
+   in the world.
+4. Open the **Apocryphal Adversaries** folder in the compendium directory and
+   drag threats onto the canvas.
+
+Requires the [Wrath & Glory](https://github.com/moo-man/WrathAndGlory-FoundryVTT)
+system (`wrath-and-glory`, 4.0.1+, verified on 8.1.2).
+
+Most entries are `threat` actors. Grav-tanks, aircraft and war machines that
+the source prints as vehicles are `vehicle` actors. Adversary traits, relics and
+psychic disciplines live in the items pack — drop them onto an NPC or keep them
+as reference.
+
+## Recommended companions
+
+These are listed as `recommends` in `module.json`, so this module **installs and
+runs without them**. Without them, some icons, tokens and linked powers break:
+
+| Module | What it supplies | Without it |
+| --- | --- | --- |
+| **`wng-core`** | Item icons and the **Smite** psychic power | Missing icons; Smite shows as unlinked |
+| **`wng-apocrypha`** | Ork **WAAAGH!** and Aeldari **Runes** psychic powers | Those linked powers show as unlinked |
+| **`wng-xenos`** | Necron, T'au and Aeldari tokens | Those threats fall back to a default token |
+| **`wng-cos`** (Church of Steel) | Vehicles ridden by some mounted Ork bosses | Those mounts are missing |
+
+Install them for the full, linked experience.
+
+## Contents
+
+| Faction | Actors | Items | Highlights |
+| --- | ---: | ---: | --- |
+| Orks | 55 | 34 | Boyz through Ghazghkull; Kommandos and Wrecka Krews; Shiny Gubbinz |
+| Necrons | 39 | 38 | C'tan Shards; Annihilation Barge, Night Scythe, Monolith |
+| Tyranids | 28 | 39 | Synapse psykers; Powers of the Hive Mind; bio-weapons |
+| Drukhari | 54 | 50 | Kabals, Wych Cults, Covens, Mandrakes; Pain Tokens |
+| T'au Empire | 59 | 50 | Battlesuits, drones, Kroot and Vespid; grav-tanks |
+| Asuryani | 45 | 33 | Aspect shrines, Phoenix Lords, Engines of Vaul |
+| Daemonic Legions | 52 | 86 | Four gods and Be'Lakor; four psychic disciplines |
+| Astra Militarum | 88 | 42 | Cadia, Catachan, Krieg; Tempestus; named heroes |
+| Malicious Miscellany | 63 | 27 | Slaugth, Hrud, Seraphon, Agents of the Imperium |
+| Heretic Astartes | 111 | 181 | Base legion plus Death Guard, Emperor's Children, Thousand Sons, World Eaters |
+| **Total** | **594** | **580** | |
+
+Source PDF revisions and per-faction conversion notes live in
 [CONVERSION-STATUS.md](CONVERSION-STATUS.md).
 
-- ✅ **Orks — complete (v0.2.0; updated to source v2 in v0.7.1):** 55 threats
-  (Boyz, Nobz, walkers, psykers and every named Warlord up to Ghazghkull, plus
-  the full Kommando specialists — Breacha/Burna/Comms/Dakka/Grot/Nob/Rokkit/
-  Slasha/Snipa Boyz — and the Wrecka Krews: Tankbusta Gunners & Rokkiteers,
-  Wrecka Boss Nob, and Breaka Boy Demolishas/Fighters/Krushas) plus a companion
-  items compendium of 19 Adversary Traits and 15 Shiny Gubbinz relics.
-- ✅ **Necrons — complete (v0.3.0):** 39 actors (Warriors, Immortals, Flayed Ones,
-  Destroyers, Crypteks, Canoptek constructs, the three C'Tan Shards, every named
-  Overlord and Lord from Imotekh the Stormlord to Trazyn the Infinite, and the
-  Annihilation Barge, Night Scythe and Monolith war machines) plus 38 *Lords of
-  the Necrontyr* items: Adversary Traits, Cryptek Arcana and Relics of the Aeons.
-- ✅ **Tyranids — complete (v0.4.0):** all 28 threats (Hormagaunts and Termagants
-  through Genestealers, Lictor, Carnifex, the synapse psykers — Broodlord, Hive
-  Tyrant, Tervigon, Zoanthrope, Neurothrope, Maleceptor — and the big monsters
-  Tyrannofex, Haruspex, Exocrine, Toxicrene, Trygon and Mawloc) plus the 13
-  Powers of the Hive Mind, a full Bio-Weapons armoury and the seven Hive Fleet
-  adaptations.
-- ✅ **Drukhari — complete (v0.5.0; updated to source v3 in v0.7.2):** 54 actors
-  (51 threats + 3 vehicles) — the Kabals (Kabalite Warrior, Archon and court, and
-  the full **Hand of the Archon** retinue: Archsybarite, Crimson Duellist, Disciple
-  of Yaelindra, Elixicant, Flayer, Gunner, Heavy Gunner, Skysplinter Assassin),
-  Wych Cults (Wyches, **Reavers**, Hellions, Beastmasters and beasts, Succubus),
-  Haemonculi Covens (Wracks, Grotesques, Cronos/Talos Pain Engines, Haemonculus),
-  Incubi/Klaivex, Scourges, and the **Mandrakes** with all variants (Nightfiend,
-  Abyssal, Chooser of the Flesh, Dirgemaw, Shadeweaver); **eight named lords**
-  (Asdrubael Vect, Aurelia Malys, Baron Sathonyx, Drazhar, Duke Sliscus, Lelith
-  Hesperax, Kheradruakh, Urien Rakarth); and **three vehicles** (Razorwing
-  Jetfighter, Voidraven Bomber, the Dias of Destruction) — with 50 *Lords of the
-  Dark City* items. **Power Through Pain** updated to the v3 Pain Token economy.
-- ✅ **T'au Empire — complete (v0.6.0):** 59 actors (Fire Caste infantry, the
-  full drone range, Stealth/Crisis/Broadside suits and Commanders, the
-  Ethereal/Earth/Air/Water castes, Kroot and Vespid auxiliaries, the Ghostkeel
-  and Riptide, the named heroes — Aun'Shi, Aun'Va, Farsight, Shadowsun,
-  Darkstrider, Longstrike — and the seven grav-tanks/aircraft as vehicles) plus
-  50 items (Sept adaptations, Battlesuit Support Systems, Adversary Traits and
-  Prototype & Signature Systems).
-- ✅ **Asuryani (Craftworld Aeldari) — complete (v0.7.0):** 45 actors (Guardians,
-  Warlocks and Rangers; the full Aspect Warrior shrines — Dire Avengers, Fire
-  Dragons, Striking Scorpions, Howling Banshees, Swooping Hawks, Warp Spiders,
-  Dark Reapers, Shining Spears and the Crimson Hunter — with their Exarchs; the
-  Autarch, Farseer and Spiritseer; the Wraith constructs — Wraithguard,
-  Wraithblades, Wraithlord; the Avatar of Kaela Mensha Khaine; eleven named
-  heroes — Eldrad Ulthran, the six Phoenix Lords, Illic Nightspear, Iyanna
-  Arienal, Nuadhu Fireheart and Prince Yriel — and the Engines of Vaul aircraft
-  as vehicles) plus 33 items (Craftworld adaptations, Adversary Traits and
-  Remnants of Glory).
-- ✅ **Daemonic Legions (Chaos Daemons) — complete (v0.8.0):** 52 actors (47
-  threats + 5 vehicles) — Khorne (Bloodletters through Bloodthirster, Skarbrand,
-  Doombreed), Nurgle (Plaguebearers through the Great Unclean One, Rotigus,
-  Epidemius), Slaanesh (Daemonettes through the Keeper of Secrets, Shalaxi
-  Helbane), Tzeentch (Horrors through the Lord of Change, Kairos Fateweaver) and
-  the Legions of the Warp (Daemon Prince of Chaos, Chaos Furies, Be'Lakor), with
-  daemonic chariots/mounts as vehicles — plus 86 items: the four psychic
-  disciplines (Warprot, Soulstain, Pandaemoniac, Noctic) and each god's
-  Adversary Traits, Exalted Greater Daemons and Relics.
-- ✅ **Astra Militarum (Imperial Guard) — complete (v0.8.5):** 88 actors (85
-  threats + 3 vehicles) — core infantry of Cadia, Catachan and Krieg (plus
-  Conscripts), officers, commissars, standard/vox/medic, the twelve Veteran
-  specialists, Tank Crew/Commanders and Field Ordnance, Rough Riders with their
-  Grox/Horse/Mukaali/Saurian mounts, the full Militarum Tempestus (Scions,
-  Aquilons and the Tempestor Prime), the Wyrdvane and Primaris psykers,
-  Ogryns/Bullgryns/Ratlings, the Kasrkin kill team and Catachan Devils, sixteen
-  named heroes (“Sly” Marbo, Captain Al’rahem, Colonel Straken, Commander
-  Chenkov, Commissar Yarrick, Sgt Harker, Knight-Commander Pask, Lord Solars
-  Leontus and Macharius with Konstantin, both Lord Castellan Creeds and Colour
-  Sergeant Kell, Mogul Kamir with his Cyber-Horse, Nork Deddog, Sergeant
-  Bastonne and Stumper Muckstart) and the Rogal Dorn, Salamander Command and
-  Salamander Scout tanks — plus 42 items: the Psykana psychic discipline, the
-  Hymns of Battle, Adversary Traits and the Heirlooms of Conquest.
-- ✅ **Malicious Miscellany — complete (v0.9.0):** 63 actors across four
-  unrelated groups — the worm-mass **Slaugth** (Infiltrator, Overseer); the
-  rat-like **Hrud Skavengers** (Verminkin, Stormvermin, Clawlord, the Eshin
-  assassins, Moulder beasts, Skryre engineers, Pestilens plague-priests and the
-  Pale Seer); the **Seraphon** (Skinks, Saurus Warriors, Kroxigor, Skink
-  Starpriest, Saurus Oldblood, Slann Starmaster); and a large **Agents of the
-  Imperium** block — an Adeptus Custodes Custodian Guard, the four Sisters of
-  Silence, the full twelve-strong Adeptus Arbites precinct (with the R-VR
-  Cyber-Mastiff), the Inquisition (Mystic, Autosavant, Enlightener, Hexorcist,
-  Interrogator, Pistolier, Questkeeper and the Inquisitor) and an Astropath, the
-  eleven-unit Navis Imperialis Breacher kill team, and all four Officio
-  Assassinorum temples (Callidus, Culexus, Eversor, Vindicare) — plus 27 items:
-  the Warpvolt, Ruin, Celestial and Telethesia psychic disciplines.
-- 🔧 **Heretic Astartes (Chaos Space Marines) — base legion done (v0.9.1):** 71
-  actors — the Legionary family, Chosen/Raptors/Warp Talons/Havocs/Obliterators/
-  Mutilators/Possessed/Terminators, the Traitor Guard regiment, Fellgor Beastmen,
-  Chaos Cultists/Hounds/Spawn, the full HQ roster (Exalted Champion, Dark Apostle,
-  Master of Executions, Warpsmith, Master of Possession, Chaos Sorcerers, Chaos
-  Lords and the Daemon Prince), the daemon engines (Helbrute, Defiler, Forgefiend,
-  Maulerfiend, Venomcrawler) and five named lords (Haarken, Abaddon the Despoiler,
-  Huron Blackheart, Fabius Bile, Vashtorr) — plus 52 items (the Dark Hereticus,
-  Malefic, Dark Commune and Fellgor disciplines, the Chaos Prayers, Adversary
-  Traits and Relics & Daemon Weapons).
-- 🔧 **— Death Guard (Nurgle) cult legion done (v0.9.4):** 17 actors — Plague
-  Marines, Poxwalkers, Blightlord & Deathshroud Terminators, the specialists
-  (Biologus Putrifier, Foul Blightspawn, Noxious Blightbringer, Plague Surgeon,
-  Tallyman, Malignant Plaguecaster), the Lords of Contagion and Virulence, the
-  daemon engines (Foetid Bloat-drone, Myphitic Blight-hauler, Plagueburst
-  Crawler), Typhus and the Daemon Primarch **Mortarion** — plus 40 items (the
-  Contagion discipline, Adversary Traits, Relics of Decay and Deadly Pathogens).
-- 🔧 **— Emperor's Children (Slaanesh) cult legion done (v0.9.6):** the Noise
-  Marine, Slaangor Fiendbloods and **Lucius the Eternal** — plus 12 items
-  (Adversary Traits and Relics of Excess).
-- 🔧 **— Thousand Sons (Tzeentch) cult legion done (v0.9.8):** 12 actors — Rubric
-  Marines and their Aspiring Sorcerer, the Scarab Occult Terminators and Sorcerer,
-  the Tzaangor herd (Tzaangors, Shaman, Enlightened) and Disc of Tzeentch, the
-  Exalted Sorcerer, Infernal Master, **Ahriman** and the Daemon Primarch
-  **Magnus the Red** — plus 68 items (the Discipline of Change, the Discipline of
-  Vengeance, the Cult Psychic Powers, Adversary Traits and Sorcerous Arcana).
-- ✅ **— World Eaters (Khorne) cult legion done (v1.0.0):** 8 actors — Khorne
-  Berzerkers, Jakhals, the Eightbound and Exalted Eightbound, the Juggernaut of
-  Khorne, Lord Invocatus, **Khârn the Betrayer** and the Daemon Primarch
-  **Angron** — plus 9 items (the Blood Tithe / Mark of Khorne Adversary Traits and
-  the Gore-Caked Relics). **This completes the Heretic Astartes faction and every
-  supplement in the series.**
-- 🎉 **v1.0.0 — all ten factions complete.** Only the WIP Adeptus Astartes
-  supplement remains, to be added once it is finalised.
+The Adeptus Astartes supplement (loyalist Space Marines) is **deferred** until
+Nathan publishes a complete version.
 
-**Versioning:** new factions get a **minor** bump (`0.8.0`, `0.9.0`, …); updates
-to an already-published faction (tracking a newer source revision) get a **patch**
-bump (`0.7.1`, …). **`v1.0.0` is reserved for when every faction PDF is converted.**
+## Status
+
+**Complete** as of **v1.0.0**. Current release is **v1.1.0** (Foundry v14
+compatibility).
+
+**Versioning:** a new faction (when Adeptus Astartes is ready) is a **minor**
+bump. Tracking a newer source-PDF revision of an already-shipped faction is a
+**patch**. Compatibility work follows the same scheme.
 
 ## Development
 
-The compendium ships as a LevelDB database under `packs/`, not meant to be
-hand-edited. The editable source lives under `src/packs/` as YAML, with a small
-build step (the [Foundry CLI](https://github.com/foundryvtt/foundryvtt-cli)):
+You do not need this section to play. The compendium ships as LevelDB under
+`packs/` (not meant to be hand-edited). Editable source lives under `src/packs/`
+as YAML, compiled with the
+[Foundry CLI](https://github.com/foundryvtt/foundryvtt-cli).
 
 ```bash
 npm install
-npm run unpack   # LevelDB pack -> editable YAML in src/packs/
-# ...edit / add threats...
-npm run pack     # YAML sources -> LevelDB pack
+npm run unpack
 ```
 
-`npm run unpack` must run where the packs open (Foundry host, Linux, or WSL).
-Reload the module in Foundry after editing to confirm the compendium loads.
+Edit or add threats under `src/packs/`. Sources must stay **flat** in each pack
+directory — `compilePack` does not recurse into subfolders.
+
+```bash
+npm run validate
+npm run pack
+```
+
+`validate` checks YAML parse, unique 16-character ids, `_key` agreement, and the
+flat layout. Pull requests run `validate` + `pack` via
+[CI](.github/workflows/ci.yml). Reload the module in Foundry after packing to
+confirm the compendium loads.
+
+Pack and unpack run on macOS, Linux, and Windows. LevelDB files are marked
+binary in `.gitattributes` so Git does not corrupt them with line-ending
+conversion.
 
 ### Releasing
 
-Create a GitHub Release on a `vX.Y.Z` tag and the
+Bump `version` (and the `download` tag) in `module.json`, then create a GitHub
+Release on a `vX.Y.Z` tag. The
 [release workflow](.github/workflows/release.yml) builds the zip, attaches it,
 refreshes the `latest` manifest, and (if the `FVTT_RELEASE_TOKEN` secret is set)
-registers with the Foundry Package Release API.
+registers with the Foundry Package Release API. The workflow can also be run
+manually against an existing tag, with a dry-run option.
+
+## Related modules
+
+| Module | Role |
+| --- | --- |
+| [An Abundance of Apocrypha](https://github.com/flippelt/WnG-Apocrypha-FoundryVTT) | Player-facing archetypes, species, talents, wargear |
+| [Wrath & Glory](https://github.com/moo-man/WrathAndGlory-FoundryVTT) | The game system this module requires |
 
 ## Authors
 
-- [@flippelt](https://www.github.com/flippelt)
+- [@flippelt](https://github.com/flippelt)
 - [Nathan Dowdell](https://twitter.com/n01h3r3) — author of *An Abundance of Apocryphal Adversaries*
 
 ## License
@@ -196,4 +154,5 @@ The adapted game content (*An Abundance of Apocryphal Adversaries*) is the
 homebrew of **Nathan Dowdell**, converted here **with his permission**.
 Warhammer 40,000 and Wrath & Glory are the intellectual property of **Games
 Workshop** and **Cubicle 7**; this is an unofficial, non-commercial fan project,
-not affiliated with or endorsed by them.
+not affiliated with or endorsed by them. The MIT license covers only this
+module's own packaging/code, not that third-party content.
