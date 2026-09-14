@@ -10,7 +10,7 @@ Drop ready-to-play enemies onto the map: infantry, walkers, grav-tanks, psykers,
 C'tan, daemon primarchs and named warlords, each with weapons, talents, abilities
 and threat-tier options.
 
-**Ten factions, complete.** 594 actors and 580 items in two compendia. The only
+**Ten factions.** 594 actors and 580 items in two compendia. The only
 outstanding supplement is the work-in-progress Adeptus Astartes, which will be
 added once Nathan finalises it.
 
