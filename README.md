@@ -1,6 +1,6 @@
 # An Abundance of Apocryphal Adversaries for Foundry VTT
 
-[![Release](https://img.shields.io/github/v/release/flippelt/WnG-Apocryphal-Adversaries)](https://github.com/flippelt/WnG-Apocryphal-Adversaries/releases) ![Foundry](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fflippelt%2FWnG-Apocryphal-Adversaries%2Fmain%2Fmodule.json&query=%24.compatibility.verified&prefix=v&label=Foundry&color=fe6a1f) [![CI](https://img.shields.io/github/actions/workflow/status/flippelt/WnG-Apocryphal-Adversaries/ci.yml?label=CI)](https://github.com/flippelt/WnG-Apocryphal-Adversaries/actions/workflows/ci.yml) [![Last commit](https://img.shields.io/github/last-commit/flippelt/WnG-Apocryphal-Adversaries)](https://github.com/flippelt/WnG-Apocryphal-Adversaries/commits) [![License](https://img.shields.io/badge/license-MIT-blue)](https://github.com/flippelt/WnG-Apocryphal-Adversaries/blob/main/LICENSE)
+[![Release](https://img.shields.io/github/v/release/flippelt/WnG-Apocryphal-Adversaries)](https://github.com/flippelt/WnG-Apocryphal-Adversaries/releases) [![Foundry package](https://img.shields.io/badge/Foundry-package-fe6a1f)](https://foundryvtt.com/packages/wng-apocryphal-adversaries) ![Foundry](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fflippelt%2FWnG-Apocryphal-Adversaries%2Fmain%2Fmodule.json&query=%24.compatibility.verified&prefix=v&label=Foundry&color=fe6a1f) [![CI](https://img.shields.io/github/actions/workflow/status/flippelt/WnG-Apocryphal-Adversaries/ci.yml?label=CI)](https://github.com/flippelt/WnG-Apocryphal-Adversaries/actions/workflows/ci.yml) [![Last commit](https://img.shields.io/github/last-commit/flippelt/WnG-Apocryphal-Adversaries)](https://github.com/flippelt/WnG-Apocryphal-Adversaries/commits) [![License](https://img.shields.io/badge/license-MIT-blue)](https://github.com/flippelt/WnG-Apocryphal-Adversaries/blob/main/LICENSE)
 
 A bestiary module for **Wrath & Glory** (Cubicle 7) on Foundry VTT. It converts
 the threats from Nathan Dowdell's *An Abundance of Apocryphal Adversaries* — the
@@ -27,17 +27,18 @@ added once Nathan finalises it.
 
 ## Install
 
-This module is **not yet listed** in the Foundry package browser. Install it
-from the manifest:
+The module is listed in the Foundry package browser
+([foundryvtt.com/packages/wng-apocryphal-adversaries](https://foundryvtt.com/packages/wng-apocryphal-adversaries)).
 
 1. In Foundry, open **Add-on Modules** → **Install Module**.
-2. Paste this **Manifest URL**:
+2. Search for **Apocryphal Adversaries** and click **Install**. You can also
+   paste this **Manifest URL** instead:
 
 ```
 https://github.com/flippelt/WnG-Apocryphal-Adversaries/releases/latest/download/module.json
 ```
 
-3. Install, then enable **Wrath & Glory - An Abundance of Apocryphal Adversaries**
+3. Enable **Wrath & Glory - An Abundance of Apocryphal Adversaries**
    in the world.
 4. Open the **Apocryphal Adversaries** folder in the compendium directory and
    drag threats onto the canvas.
